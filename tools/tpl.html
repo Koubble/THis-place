@@ -1,0 +1,174 @@
+<title>Perchance Prompt Shelf</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans:wght@400;500;600&display=swap">
+<style>
+/* layout: sticky toolbar over a single column of prompt rows; each row = tags + selectable prompt + copy buttons */
+:root{--bg:#f3f5f8;--panel:#fff;--fg:#17202e;--muted:#5d6879;--line:#d6dce6;--accent:#1f4fd8;--accent-fg:#fff;--ok:#157347;--code:#eef1f6;
+--sans:"IBM Plex Sans",system-ui,sans-serif;--mono:"IBM Plex Mono",ui-monospace,monospace}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#10151d;--panel:#171e29;--fg:#e6ebf3;--muted:#98a3b5;--line:#2a3445;--accent:#6c93ff;--accent-fg:#0b1020;--ok:#52c58a;--code:#0f141c;color-scheme:dark}}
+:root[data-theme="dark"]{--bg:#10151d;--panel:#171e29;--fg:#e6ebf3;--muted:#98a3b5;--line:#2a3445;--accent:#6c93ff;--accent-fg:#0b1020;--ok:#52c58a;--code:#0f141c;color-scheme:dark}
+body{background:var(--bg);color:var(--fg);font-family:var(--sans);font-size:15px;line-height:1.5;padding-inline:16px;padding-block:16px 48px}
+.wrap{max-width:860px;margin:0 auto}
+h1{font-size:1.35rem;margin:0 0 4px;text-wrap:balance}
+.sub{color:var(--muted);margin:0 0 14px}
+.bar{position:sticky;top:env(safe-area-inset-top,0px);background:var(--bg);padding-block:8px;z-index:2;display:grid;gap:8px;border-bottom:1px solid var(--line)}
+.tabs{display:flex;gap:6px;flex-wrap:wrap}
+.tab,.btn{font:inherit;border:1px solid var(--line);background:var(--panel);color:var(--fg);padding:8px 12px;border-radius:6px;cursor:pointer}
+.tab[aria-selected="true"]{background:var(--accent);color:var(--accent-fg);border-color:var(--accent)}
+.tools{display:flex;gap:8px;flex-wrap:wrap}
+.tools input,.tools select{font:inherit;background:var(--panel);color:var(--fg);border:1px solid var(--line);border-radius:6px;padding:8px 10px;min-width:0}
+.tools input{flex:1 1 200px}
+.neg{display:flex;gap:10px;align-items:center;flex-wrap:wrap;background:var(--panel);border:1px solid var(--line);border-radius:6px;padding:8px 10px}
+.neg span{flex:1 1 240px;min-width:0;color:var(--muted);font-size:.85rem}
+.btn.primary{background:var(--accent);color:var(--accent-fg);border-color:var(--accent);font-weight:500}
+.btn.done{background:var(--ok);border-color:var(--ok);color:#fff}
+.btn:focus-visible,.tab:focus-visible,input:focus-visible,select:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+.count{color:var(--muted);font-size:.85rem;margin:12px 0 4px}
+.list{display:grid;gap:10px}
+.row{background:var(--panel);border:1px solid var(--line);border-radius:8px;padding:12px;display:grid;gap:8px;min-width:0}
+.meta{display:flex;gap:8px;flex-wrap:wrap;align-items:baseline;font-size:.85rem;color:var(--muted)}
+.meta b{font-family:var(--mono);font-weight:500;color:var(--fg)}
+.prompt{font-family:var(--mono);font-size:.82rem;background:var(--code);border-radius:6px;padding:10px;margin:0;white-space:pre-wrap;overflow-wrap:anywhere;user-select:all}
+.acts{display:flex;gap:8px;flex-wrap:wrap}
+.hint{color:var(--muted);font-size:.8rem}
+.row.done{opacity:.55}
+.row.done .prompt{text-decoration:none}
+.tick{display:inline-flex;align-items:center;gap:6px;margin-left:auto;cursor:pointer;color:var(--fg);font-size:.9rem;padding:2px 4px}
+.tick input{width:20px;height:20px;accent-color:var(--accent);cursor:pointer}
+.row.flash{outline:2px solid var(--accent)}
+.status{color:var(--muted);font-size:.8rem}
+.opt{display:flex;gap:6px;align-items:center;font-size:.85rem;color:var(--muted)}
+</style>
+<div class="wrap">
+<h1>Perchance Prompt Shelf</h1>
+<p class="sub">Each box holds one complete prompt, style block included. Press Copy, then paste into Perchance.</p>
+<div class="bar">
+ <div class="tabs" role="tablist" id="tabs"></div>
+ <div class="tools">
+  <input id="q" type="search" placeholder="Search: role, age, hair, build, id" aria-label="Search prompts">
+  <select id="show" aria-label="Show"><option value="todo">Not done yet</option><option value="">Done and not done</option><option value="done">Done only</option></select>
+  <select id="sex" aria-label="Sex"><option value="">Women and men</option><option value="woman">Women</option><option value="man">Men</option></select>
+ </div>
+ <div class="neg"><span>Negative prompt (same for every row; some rows add extras, shown on the row)</span><button class="btn primary" id="negbtn" type="button">Copy negative</button></div>
+ <div class="neg"><span id="prog">Progress</span><button class="btn primary" id="nextbtn" type="button">Shuffle a new 100</button><label class="opt"><input type="checkbox" id="auto" checked> Tick when I copy a prompt</label></div>
+ <div class="neg"><span>Copy every prompt currently shown in one go, with a blank line between each, ready for Notepad</span><button class="btn primary" id="allbtn" type="button">Copy all shown</button><button class="btn" id="markbtn" type="button">Mark shown as done</button></div>
+ <div class="status" id="status"></div>
+</div>
+<div class="count" id="count"></div>
+<div class="list" id="list"></div>
+</div>
+<script>
+const ROWS=__DATA__, NEG=__NEG__;
+const DATA={all:ROWS};
+for(const p of ["clothed","underwear","naked"])DATA[p]=ROWS.filter(r=>r.pool===p);
+let limit=100;
+const LABEL={all:"Everything",clothed:"Clothed",underwear:"Underwear",naked:"Naked"};
+let pool="all", shown=[], view=[], db=null, saving=null, online=false;
+const state={clothed:{},underwear:{},naked:{}};
+const isDone=r=>!!state[r.pool][r.id];
+function setRows(rows,v){const t=new Set();for(const r of rows){if(v)state[r.pool][r.id]=1;else delete state[r.pool][r.id];t.add(r.pool)}for(const p of t)persist(p);render()}
+const $=id=>document.getElementById(id);
+const LS="shelf-done-";
+function lsGet(k){try{return localStorage.getItem(k)}catch(e){return null}}
+function lsSet(k,v){try{localStorage.setItem(k,v)}catch(e){}}
+for(const p of Object.keys(state)){try{state[p]=JSON.parse(lsGet(LS+p)||"{}")||{}}catch(e){state[p]={}}}
+$("auto").checked=lsGet("shelf-auto")!=="0";
+$("auto").onchange=e=>lsSet("shelf-auto",e.target.checked?"1":"0");
+function setStatus(){$("status").textContent=online?"Your ticks are saved to this page and sync across your devices.":"Your ticks are saved in this browser only."}
+function flash(btn,txt){const o=btn.dataset.o||btn.textContent;btn.dataset.o=o;btn.textContent=txt;btn.classList.add("done");setTimeout(()=>{btn.textContent=o;btn.classList.remove("done")},1400)}
+async function copy(text,btn,sel){
+  try{await navigator.clipboard.writeText(text);flash(btn,"Copied");return true}
+  catch(e){
+    if(sel){const r=document.createRange();r.selectNodeContents(sel);const s=getSelection();s.removeAllRanges();s.addRange(r);flash(btn,"Selected: press copy")}
+    else flash(btn,"Copy blocked");
+    return false
+  }
+}
+function persist(p){
+  lsSet(LS+p,JSON.stringify(state[p]));
+  if(db){
+    clearTimeout(saving);
+    saving=setTimeout(()=>{db.doc("progress/"+p).set({done:state[p]}).catch(()=>{online=false;setStatus()})},300)
+  }
+}
+function setDone(p,ids,v){
+  for(const id of ids){if(v)state[p][id]=1;else delete state[p][id]}
+  persist(p);render()
+}
+$("negbtn").onclick=e=>copy(NEG,e.target);
+$("allbtn").onclick=e=>copy(shown.map(r=>r.prompt).join("\n\n"),e.target);
+let armed=null;
+$("markbtn").onclick=e=>{
+  const b=e.target,todo=shown.filter(r=>!isDone(r));
+  if(!todo.length){flash(b,"Nothing to mark");return}
+  if(armed){clearTimeout(armed);armed=null;b.textContent="Mark shown as done";setRows(todo,true);return}
+  b.textContent=`Tap again: mark ${todo.length} done`;
+  armed=setTimeout(()=>{armed=null;b.textContent="Mark shown as done"},3500)
+};
+function shuffle(a){for(let i=a.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[a[i],a[j]]=[a[j],a[i]]}return a}
+function reshuffle(){
+  const q=$("q").value.trim().toLowerCase(),sx=$("sex").value,sh=$("show").value;
+  view=shuffle(DATA[pool].filter(r=>(!sx||r.sex===sx)&&(!q||(r.id+" "+r.prompt+" "+r.role).toLowerCase().includes(q))&&(!sh||(sh==="done")===isDone(r))));
+  limit=100;render()
+}
+$("nextbtn").onclick=()=>{reshuffle();window.scrollTo({top:0,behavior:"smooth"})};
+function tabs(){
+  $("tabs").innerHTML="";
+  for(const p of Object.keys(DATA)){
+    const b=document.createElement("button");b.className="tab";b.type="button";b.role="tab";
+    const n=DATA[p].filter(isDone).length;
+    b.setAttribute("aria-selected",p===pool);b.textContent=`${LABEL[p]} (${n}/${DATA[p].length} done)`;
+    b.onclick=()=>{pool=p;reshuffle()};$("tabs").appendChild(b)
+  }
+}
+function render(){
+  tabs();
+  const rows=view;
+  shown=rows.slice(0,limit);
+  const nd=DATA[pool].filter(isDone).length;
+  $("prog").textContent=`${LABEL[pool]}: ${nd} of ${DATA[pool].length} done`;
+  $("count").textContent=rows.length?`${rows.length} prompts match. Showing ${shown.length} picked at random.`:"Nothing matches. Everything here may be done: try Done and not done, or another tab.";
+  const list=$("list");list.innerHTML="";
+  for(const r of rows.slice(0,limit)){
+    const d=document.createElement("div");d.className="row"+(isDone(r)?" done":"");d.id="r-"+r.id;
+    const m=document.createElement("div");m.className="meta";
+    m.innerHTML=`<b>${r.id}</b><span>${LABEL[r.pool]}</span><span>${r.sex}, ${r.age}</span><span>${r.build}</span><span>${r.role}</span>`;
+    const lab=document.createElement("label");lab.className="tick";
+    const cb=document.createElement("input");cb.type="checkbox";cb.checked=isDone(r);cb.id="cb-"+r.id;
+    cb.onchange=()=>setRows([r],cb.checked);
+    lab.append(cb,document.createTextNode("Done"));m.appendChild(lab);
+    const p=document.createElement("pre");p.className="prompt";p.textContent=r.prompt;
+    const a=document.createElement("div");a.className="acts";
+    const c=document.createElement("button");c.className="btn primary";c.type="button";c.textContent="Copy prompt";
+    c.onclick=async()=>{const ok=await copy(r.prompt,c,p);if(ok&&$("auto").checked&&!isDone(r))setRows([r],true)};
+    a.appendChild(c);
+    if(r.extra){
+      const n=document.createElement("button");n.className="btn";n.type="button";n.textContent="Copy negative with extras";
+      n.onclick=()=>copy(NEG+", "+r.extra,n);a.appendChild(n);
+      const h=document.createElement("span");h.className="hint";h.textContent="extra negatives: "+r.extra;a.appendChild(h)
+    }
+    d.append(m,p,a);list.appendChild(d)
+  }
+  if(rows.length>limit){const more=document.createElement("button");more.className="btn primary";more.type="button";more.textContent=`Show ${Math.min(100,rows.length-limit)} more`;more.onclick=()=>{limit+=100;render()};list.appendChild(more)}
+}
+$("q").oninput=reshuffle;$("sex").onchange=reshuffle;$("show").onchange=reshuffle;
+setStatus();reshuffle();
+(async()=>{
+  try{
+    const d=await claude.use("db");
+    if(!d)return;
+    db=d;online=true;setStatus();
+    const ready={};
+    for(const p of Object.keys(state)){
+      db.doc("progress/"+p).onSnapshot(s=>{
+        if(s.exists){
+          const remote=(s.data()||{}).done||{};
+          // keep ticks made here that have not synced yet
+          state[p]=Object.assign({},remote);
+          lsSet(LS+p,JSON.stringify(state[p]))
+        }else if(Object.keys(state[p]).length){db.doc("progress/"+p).set({done:state[p]}).catch(()=>{})}
+        if(!ready[p]){ready[p]=1;if(Object.keys(ready).length===3)reshuffle();else render()}else render()
+      },()=>{online=false;setStatus()})
+    }
+  }catch(e){online=false;setStatus()}
+})();
+</script>
