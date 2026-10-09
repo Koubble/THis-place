@@ -113,7 +113,7 @@ Plain adult nudity, calm poses, plain pale background, character references only
 
 ## Coverage so far
 
-- **Total:** 100; forties or older: 58 (58%)
+- **Total (all files so far):** 100; forties or older: 58 (58%)
 - **Sex:** man: 50 | woman: 50
 - **Age band:** twenties: 16 | thirties: 26 | forties: 25 | fifties: 16 | sixties: 9 | seventies: 8
 - **Skin:** pale freckled: 13 | fair: 12 | light tan: 12 | warm tan: 13 | olive: 12 | brown: 13 | deep brown: 13 | weathered ruddy: 12

@@ -113,7 +113,7 @@ Swimwear, towels, bath wraps, lingerie, plain underwear. Calm, neutral poses.
 
 ## Coverage so far
 
-- **Total:** 100; forties or older: 58 (58%)
+- **Total (all files so far):** 100; forties or older: 58 (58%)
 - **Sex:** man: 50 | woman: 50
 - **Age band:** twenties: 18 | thirties: 24 | forties: 26 | fifties: 16 | sixties: 8 | seventies: 8
 - **Skin:** pale freckled: 13 | fair: 12 | light tan: 13 | warm tan: 12 | olive: 13 | brown: 13 | deep brown: 12 | weathered ruddy: 12

@@ -113,7 +113,7 @@ Everyday people in working or street clothes. Marine uniforms are generic navy b
 
 ## Coverage so far
 
-- **Total:** 100; forties or older: 59 (59%)
+- **Total (all files so far):** 100; forties or older: 59 (59%)
 - **Sex:** woman: 50 | man: 50
 - **Age band:** twenties: 16 | thirties: 25 | forties: 25 | fifties: 17 | sixties: 9 | seventies: 8
 - **Skin:** pale freckled: 12 | fair: 12 | light tan: 12 | warm tan: 13 | olive: 13 | brown: 12 | deep brown: 13 | weathered ruddy: 13
