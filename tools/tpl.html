@@ -46,6 +46,7 @@ h1{font-size:1.35rem;margin:0 0 4px;text-wrap:balance}
  <div class="tools">
   <input id="q" type="search" placeholder="Search: role, age, hair, build, id" aria-label="Search prompts">
   <select id="show" aria-label="Show"><option value="todo">Not done yet</option><option value="">Done and not done</option><option value="done">Done only</option></select>
+  <label class="opt"><input type="checkbox" id="studio"> Show Studio set</label>
   <select id="sex" aria-label="Sex"><option value="">Women and men</option><option value="woman">Women</option><option value="man">Men</option></select>
  </div>
  <div class="neg"><span>Negative prompt (same for every row; some rows add extras, shown on the row)</span><button class="btn primary" id="negbtn" type="button">Copy negative</button></div>
@@ -58,10 +59,13 @@ h1{font-size:1.35rem;margin:0 0 4px;text-wrap:balance}
 </div>
 <script>
 const ROWS=__DATA__, NEG=__NEG__;
-const DATA={all:ROWS};
-for(const p of ["clothed","underwear","naked"])DATA[p]=ROWS.filter(r=>r.pool===p);
+let studio=false;try{studio=localStorage.getItem("shelf-studio")==="1"}catch(e){}
+const DATA={};
+function buildData(){DATA.all=studio?ROWS:ROWS.filter(r=>r.pool!=="naked");for(const p of ["clothed","underwear","naked"])DATA[p]=(p==="naked"&&!studio)?[]:ROWS.filter(r=>r.pool===p)}
+buildData();
+const dispId=r=>r.id.replace(/^naked_/,"studio_");
 let limit=100;
-const LABEL={all:"Everything",clothed:"Clothed",underwear:"Underwear",naked:"Naked"};
+const LABEL={all:"Everything",clothed:"Clothed",underwear:"Underwear",naked:"Studio"};
 let pool="all", shown=[], view=[], db=null, saving=null, online=false;
 const state={clothed:{},underwear:{},naked:{}};
 const isDone=r=>!!state[r.pool][r.id];
@@ -71,6 +75,8 @@ const LS="shelf-done-";
 function lsGet(k){try{return localStorage.getItem(k)}catch(e){return null}}
 function lsSet(k,v){try{localStorage.setItem(k,v)}catch(e){}}
 for(const p of Object.keys(state)){try{state[p]=JSON.parse(lsGet(LS+p)||"{}")||{}}catch(e){state[p]={}}}
+$("studio").checked=studio;
+$("studio").onchange=e=>{studio=e.target.checked;try{localStorage.setItem("shelf-studio",studio?"1":"0")}catch(_){}buildData();if(!studio&&pool==="naked")pool="all";reshuffle()};
 $("auto").checked=lsGet("shelf-auto")!=="0";
 $("auto").onchange=e=>lsSet("shelf-auto",e.target.checked?"1":"0");
 function setStatus(){$("status").textContent=online?"Your ticks are saved to this page and sync across your devices.":"Your ticks are saved in this browser only."}
@@ -107,13 +113,14 @@ $("markbtn").onclick=e=>{
 function shuffle(a){for(let i=a.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[a[i],a[j]]=[a[j],a[i]]}return a}
 function reshuffle(){
   const q=$("q").value.trim().toLowerCase(),sx=$("sex").value,sh=$("show").value;
-  view=shuffle(DATA[pool].filter(r=>(!sx||r.sex===sx)&&(!q||(r.id+" "+r.prompt+" "+r.role).toLowerCase().includes(q))&&(!sh||(sh==="done")===isDone(r))));
+  view=shuffle(DATA[pool].filter(r=>(!sx||r.sex===sx)&&(!q||(dispId(r)+" "+r.prompt+" "+r.role).toLowerCase().includes(q))&&(!sh||(sh==="done")===isDone(r))));
   limit=100;render()
 }
 $("nextbtn").onclick=()=>{reshuffle();window.scrollTo({top:0,behavior:"smooth"})};
 function tabs(){
   $("tabs").innerHTML="";
   for(const p of Object.keys(DATA)){
+    if(p==="naked"&&!studio)continue;
     const b=document.createElement("button");b.className="tab";b.type="button";b.role="tab";
     const n=DATA[p].filter(isDone).length;
     b.setAttribute("aria-selected",p===pool);b.textContent=`${LABEL[p]} (${n}/${DATA[p].length} done)`;
@@ -131,7 +138,7 @@ function render(){
   for(const r of rows.slice(0,limit)){
     const d=document.createElement("div");d.className="row"+(isDone(r)?" done":"");d.id="r-"+r.id;
     const m=document.createElement("div");m.className="meta";
-    m.innerHTML=`<b>${r.id}</b><span>${LABEL[r.pool]}</span><span>${r.sex}, ${r.age}</span><span>${r.build}</span><span>${r.role}</span>`;
+    m.innerHTML=`<b>${dispId(r)}</b><span>${LABEL[r.pool]}</span><span>${r.sex}, ${r.age}</span><span>${r.build}</span><span>${r.role}</span>`;
     const lab=document.createElement("label");lab.className="tick";
     const cb=document.createElement("input");cb.type="checkbox";cb.checked=isDone(r);cb.id="cb-"+r.id;
     cb.onchange=()=>setRows([r],cb.checked);
