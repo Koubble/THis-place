@@ -517,6 +517,9 @@ def build_row(pool, sx, d, rng, rd, dk, i):
         parts.append(f"{expr} expression" if not expr.endswith(("smile", "look", "smirk", "half-lidded eyes")) else expr)
     parts.append("hand-drawn manga page look, flat matte cel colours, crosshatch shadow texture, correct anatomy, "
                  "each hand with five distinct fingers")
+    if pool == "naked":
+        parts.append("natural anatomical detail, nipples and vagina visible" if woman
+                     else "natural anatomical detail, average-sized flaccid penis visible")
     base = BASE.format(frame=frame or FRAME)
     prompt = f"{STYLE}, {base}, " + ", ".join(parts)
     # negative
