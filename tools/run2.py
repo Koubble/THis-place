@@ -1,6 +1,6 @@
 import gen, collections, re
 from gen import *
-PLAN={"clothed":10,"underwear":10,"naked":10}
+PLAN={"clothed":20,"underwear":20,"naked":20}
 SEED={"clothed":11,"underwear":22,"naked":33}
 notes=gen.__dict__.get("notes")
 NOTES={"clothed":"Everyday people in working or street clothes. Marine uniforms are generic navy blue with no logos.",
@@ -13,6 +13,7 @@ for pool,nf in PLAN.items():
     ccount=collections.Counter()
     counts={"W":{}, "M":{}}  # label counts per sex, only used for clothed
     for k in range(1,nf+1):
+        gen.FACE_MODE = 'plain' if k>10 else 'std'
         if pool=="clothed":
             rows=gen_rows(pool,100,(k-1)*100+1,SEED[pool]+(k-1)*101,role_counts=ccount)
         else:

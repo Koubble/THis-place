@@ -49,7 +49,6 @@ h1{font-size:1.35rem;margin:0 0 4px;text-wrap:balance}
   <label class="opt"><input type="checkbox" id="studio"> Show Studio set</label>
   <select id="sex" aria-label="Sex"><option value="">Women and men</option><option value="woman">Women</option><option value="man">Men</option></select>
  </div>
- <div class="neg"><span>Negative prompt (same for every row; some rows add extras, shown on the row)</span><button class="btn primary" id="negbtn" type="button">Copy negative</button></div>
  <div class="neg"><span id="prog">Progress</span><button class="btn primary" id="nextbtn" type="button">Shuffle a new 100</button><label class="opt"><input type="checkbox" id="auto" checked> Tick when I copy a prompt</label></div>
  <div class="neg"><span>Copy every prompt currently shown in one go, with a blank line between each, ready for Notepad</span><button class="btn primary" id="allbtn" type="button">Copy all shown</button><button class="btn" id="markbtn" type="button">Mark shown as done</button></div>
  <div class="status" id="status"></div>
@@ -58,7 +57,7 @@ h1{font-size:1.35rem;margin:0 0 4px;text-wrap:balance}
 <div class="list" id="list"></div>
 </div>
 <script>
-const ROWS=__DATA__, NEG=__NEG__;
+const ROWS=__DATA__;
 let studio=false;try{studio=localStorage.getItem("shelf-studio")==="1"}catch(e){}
 const DATA={};
 function buildData(){DATA.all=studio?ROWS:ROWS.filter(r=>r.pool!=="naked");for(const p of ["clothed","underwear","naked"])DATA[p]=(p==="naked"&&!studio)?[]:ROWS.filter(r=>r.pool===p)}
@@ -100,7 +99,6 @@ function setDone(p,ids,v){
   for(const id of ids){if(v)state[p][id]=1;else delete state[p][id]}
   persist(p);render()
 }
-$("negbtn").onclick=e=>copy(NEG,e.target);
 $("allbtn").onclick=e=>copy(shown.map(r=>r.prompt).join("\n\n"),e.target);
 let armed=null;
 $("markbtn").onclick=e=>{
@@ -148,11 +146,6 @@ function render(){
     const c=document.createElement("button");c.className="btn primary";c.type="button";c.textContent="Copy prompt";
     c.onclick=async()=>{const ok=await copy(r.prompt,c,p);if(ok&&$("auto").checked&&!isDone(r))setRows([r],true)};
     a.appendChild(c);
-    if(r.extra){
-      const n=document.createElement("button");n.className="btn";n.type="button";n.textContent="Copy negative with extras";
-      n.onclick=()=>copy(NEG+", "+r.extra,n);a.appendChild(n);
-      const h=document.createElement("span");h.className="hint";h.textContent="extra negatives: "+r.extra;a.appendChild(h)
-    }
     d.append(m,p,a);list.appendChild(d)
   }
   if(rows.length>limit){const more=document.createElement("button");more.className="btn primary";more.type="button";more.textContent=`Show ${Math.min(100,rows.length-limit)} more`;more.onclick=()=>{limit+=100;render()};list.appendChild(more)}

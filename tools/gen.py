@@ -7,6 +7,15 @@ BASE = "1person, adult, {frame}, plain soft pale background, no weapons"
 NEG = "child, teen, teenager, young-looking, baby face, schoolgirl, loli, shota, chibi, cute, glossy skin, airbrushed, shiny highlights, 3D render, soft pastel colors, storybook illustration, watercolor, thin lines, beauty filter, extra fingers, deformed hands, extra limbs, text, watermark, realistic photo, blurry, low quality"
 NEG_PLAIN = "beautiful, glamorous, model, perfect skin, makeup"
 
+FACE_MODE = "std"
+PLAINS = ["plain mature face", "plain ordinary face", "ugly crooked-nosed face", "weathered face with deep lines",
+          "gap-toothed grin", "big lumpy nose", "small eyes", "double chin", "heavy brow and flat face",
+          "sagging jowls", "pockmarked skin", "long gaunt face", "receding chin", "crooked teeth",
+          "bushy eyebrows and wide mouth", "thick neck and heavy jaw", "sunken cheeks", "wide flat nose",
+          "sallow tired face", "lopsided face"]
+GOODS = ["round friendly face", "freckled face", "dimples", "soft jaw", "attractive mature face with high cheekbones",
+         "handsome strong features", "striking face"]
+FACES_PLAIN = PLAINS + GOODS
 AGES = ["twenties", "thirties", "forties", "fifties", "sixties", "seventies"]
 AGE_DECK = ["twenties", "twenties", "thirties", "thirties", "thirties", "forties", "forties", "forties",
             "fifties", "fifties", "sixties", "seventies"]
@@ -23,7 +32,7 @@ THIN = {"thin and wiry", "lean", "tall and lanky", "small and slight"}
 FACES = ["plain mature face"] * 3 + ["ugly crooked-nosed face"] * 2 + ["weathered face with deep lines"] * 2 + [
     "round friendly face", "sharp narrow face", "scarred face", "freckled face", "gap-toothed grin", "strong jaw",
     "soft jaw", "big nose", "small eyes", "wide set eyes", "double chin", "dimples"]
-PLAIN_FACES = {"plain mature face", "ugly crooked-nosed face", "weathered face with deep lines", "gap-toothed grin",
+PLAIN_FACES = set(PLAINS) | {"plain mature face", "ugly crooked-nosed face", "weathered face with deep lines", "gap-toothed grin",
                "big nose", "small eyes", "double chin"}
 FACIAL = ["clean-shaven", "clean-shaven", "stubble", "short beard", "full beard", "long beard", "moustache",
           "long sideburns"]
@@ -270,7 +279,7 @@ def mkdecks(rng, pool):
     d = {}
     for sx in "WM":
         d[sx] = dict(
-            age=Deck(AGE_DECK, rng), skin=Deck(SKINS, rng), build=Deck(BUILDS, rng), face=Deck(FACES, rng),
+            age=Deck(AGE_DECK, rng), skin=Deck(SKINS, rng), build=Deck(BUILDS, rng), face=Deck(FACES_PLAIN if FACE_MODE == "plain" else FACES, rng),
             hcol=Deck(HAIR_COLORS, rng), hsty=Deck(STYLES_W if sx == "W" else STYLES_M, rng),
             eyes=Deck(EYES, rng), mark=Deck(MARKS_N if pool == "naked" else MARKS_C + ["none"] * 5, rng),
             expr=Deck({"clothed": EXPR_C, "underwear": EXPR_U, "naked": EXPR_N}[pool], rng),
@@ -469,7 +478,26 @@ def build_row(pool, sx, d, rng, rd, dk, i):
     who = f"{article(build)} {build} {noun}"
     if pool == "clothed":
         who += f" {role}"
-    parts = [f"{who} in {pron} {age}", f"{skin} skin", face, f"{eyes} eyes", hair]
+    ageclause = {"twenties": "mature adult face with fully developed adult features",
+                 "thirties": "mature adult face with fully developed adult features",
+                 "forties": "mature face with visible age lines",
+                 "fifties": "aged face with wrinkles and age spots",
+                 "sixties": "aged face with deep wrinkles, age spots and thinning skin",
+                 "seventies": "very aged face with deep wrinkles, age spots and thin sagging skin"}[age]
+    plainish = face in PLAIN_FACES or (wl in ("ragged", "rough") if wl else False) or build in HEAVY
+    plainclause = ("plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes "
+                   "and uneven tone") if plainish else ""
+    if face in ("ugly crooked-nosed face", "big lumpy nose", "big nose", "pockmarked skin", "lopsided face",
+                "heavy brow and flat face", "wide flat nose", "sagging jowls", "crooked teeth"):
+        plainclause += ", unflattering rough-hewn features"
+    parts = [f"{who} in {pron} {age}", f"{skin} skin", face, ageclause]
+    if plainclause:
+        parts.append(plainclause)
+    if woman and (build in ("muscular", "athletic", "broad", "tall and broad") or face == "strong jaw"):
+        parts.append("feminine facial features")
+    if not woman and (build in HEAVY or build in ("muscular",) or face in ("strong jaw", "thick neck and heavy jaw")):
+        parts.append("rugged masculine facial features")
+    parts += [f"{eyes} eyes", hair]
     if fh:
         parts.append(fh)
     if marks_txt:
@@ -480,25 +508,20 @@ def build_row(pool, sx, d, rng, rd, dk, i):
         parts.append(f"wearing {outfit}")
     elif pool == "underwear":
         parts.append(f"wearing {outfit}")
+        parts.append("natural adult body proportions, matte skin")
     else:
         parts.append("nude, bare skin")
+        parts.append("natural adult body proportions, matte skin")
     parts.append(ptxt)
     if expr:
         parts.append(f"{expr} expression" if not expr.endswith(("smile", "look", "smirk", "half-lidded eyes")) else expr)
+    parts.append("hand-drawn manga page look, flat matte cel colours, crosshatch shadow texture, correct anatomy, "
+                 "each hand with five distinct fingers")
     base = BASE.format(frame=frame or FRAME)
     prompt = f"{STYLE}, {base}, " + ", ".join(parts)
     # negative
-    neg = NEG
+    neg = ""
     add = []
-    plainish = face in PLAIN_FACES or (wl in ("ragged", "rough") if wl else False) or build in HEAVY
-    if plainish:
-        add.append(NEG_PLAIN)
-    if woman and (build in ("muscular", "athletic", "broad", "tall and broad") or face == "strong jaw"):
-        add.append("masculine")
-    if not woman and (build in HEAVY or build in ("muscular",) or face == "strong jaw"):
-        add.append("feminine")
-    if add:
-        neg = NEG + ", " + ", ".join(add)
     return dict(pool=pool, sex="woman" if woman else "man", **{"age": age}, skin=skin, build=build, face=face,
                 hair=hair, eyes=eyes, level=level, colour=colour, bust_detail=(detail if (woman or pool != "clothed") else "n/a (clothed)"),
                 bust=bust_label if woman else None, hcol=hcol, marks=marks_txt or "none", expression=expr,
@@ -542,16 +565,16 @@ def write(pool, rows, fname, note, allrows=None, fileno=1):
     allrows = allrows or rows
     cols = ["id", "pool", "sex", "age band", "skin", "build", "face", "hair", "eyes",
             "bust (women) or body detail (men)", "marks", "expression", "pose", "role or setting", "wealth look",
-            "PROMPT", "NEGATIVE"]
+            "PROMPT"]
     L = [f"# NPC prompts — {pool} — file {fileno:02d} (ids {rows[0]['id']} to {rows[-1]['id']})", "",
          f"**Style block (start of every PROMPT):** `{STYLE}`", "",
-         f"**Fixed base:** `{BASE.format(frame=FRAME)}`", "", f"**Negative prompt (fixed):** `{NEG}`", "", note, "",
+         f"**Fixed base:** `{BASE.format(frame=FRAME)}`", "", "**Everything is in the one PROMPT box; there is no separate negative prompt.**", "", note, "",
          "| " + " | ".join(cols) + " |", "|" + "---|" * len(cols)]
     for r in rows:
         det = r["bust_detail"]
         L.append("| " + " | ".join([r["id"], r["pool"], r["sex"], r["age"], r["skin"], r["build"], r["face"],
                                     r["hair"], r["eyes"], det, r["marks"], r["expression"], r["pose"], r["role"],
-                                    r["wealth"], r["prompt"], r["neg"]]) + " |")
+                                    r["wealth"], r["prompt"]]) + " |")
     L += ["", "## Coverage so far", ""]
     rows = allrows
     old = sum(1 for r in rows if r["age"] in ("forties", "fifties", "sixties", "seventies"))
