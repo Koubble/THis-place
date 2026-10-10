@@ -519,7 +519,7 @@ def build_row(pool, sx, d, rng, rd, dk, i):
                  "each hand with five distinct fingers")
     if pool == "naked":
         parts.append("natural anatomical detail, nipples and vagina visible" if woman
-                     else "natural anatomical detail, average-sized flaccid penis visible")
+                     else "natural anatomical detail, average-sized penis visible")
     base = BASE.format(frame=frame or FRAME)
     prompt = f"{STYLE}, {base}, " + ", ".join(parts)
     # negative
