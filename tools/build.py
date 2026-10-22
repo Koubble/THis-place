@@ -2,7 +2,7 @@ import json,re
 base="/home/user/THis-place/"
 NEG=None
 data={}
-for p in ["clothed","underwear","naked"]:
+for p in ["clothed","underwear","naked","gap"]:
     rows=[]
     import glob
     for fn in sorted(glob.glob(f"{base}NPC_PROMPTS_{p}_[0-9][0-9].md")):
@@ -23,7 +23,7 @@ allrows=[r for k in ("clothed","underwear","naked") for r in data[k]]
 rnd.shuffle(allrows)
 open(f"{base}NPC_PROMPTS_naked_ALL.txt","w").write("\n\n".join(r["prompt"] for r in data["naked"])+"\n")
 open(f"{base}NPC_PROMPTS_EVERYTHING.txt","w").write("\n\n".join(r["prompt"] for r in allrows)+"\n")
-data=allrows
+data=allrows+data["gap"]
 html=open("tpl.html").read().replace("__DATA__",json.dumps(data,separators=(",",":")))
 open("copy_page.html","w").write(html)
 print(len(data))

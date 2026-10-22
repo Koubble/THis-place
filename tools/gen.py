@@ -279,7 +279,7 @@ def mkdecks(rng, pool):
     d = {}
     for sx in "WM":
         d[sx] = dict(
-            age=Deck(AGE_DECK, rng), skin=Deck(SKINS, rng), build=Deck(BUILDS, rng), face=Deck(FACES_PLAIN if FACE_MODE == "plain" else FACES, rng),
+            age=Deck(AGE_DECK_BY_SEX.get(sx, AGE_DECK), rng), skin=Deck(SKINS, rng), build=Deck(BUILD_BY_SEX.get(sx, BUILDS), rng), face=Deck(FACES_PLAIN if FACE_MODE == "plain" else FACES, rng),
             hcol=Deck(HAIR_COLORS, rng), hsty=Deck(STYLES_W if sx == "W" else STYLES_M, rng),
             eyes=Deck(EYES, rng), mark=Deck(MARKS_N if pool == "naked" else MARKS_C + ["none"] * 5, rng),
             expr=Deck({"clothed": EXPR_C, "underwear": EXPR_U, "naked": EXPR_N}[pool], rng),
@@ -329,17 +329,26 @@ SULTRY = {
 SULTRY_EXPR = ["sultry half-lidded eyes", "seductive smile", "teasing smirk", "inviting look", "sultry stare"]
 
 
+ROLE_W = {}
+PICKER_SEP = False
+AGE_DECK_BY_SEX = {}
+BUILD_BY_SEX = {}
+ACTIVE_ROLES = None
+
+
 class Picker:
     def __init__(self, items, rng, counts, idx):
         self.items, self.rng, self.counts, self.idx = items, rng, counts, idx
 
     def next(self, ok=None):
         lab = lambda r: r[self.idx]
-        m = min(self.counts.get(lab(r), 0) for r in self.items)
-        c = [r for r in self.items if self.counts.get(lab(r), 0) == m]
+        key = (lambda r: (lab(r), self.idx)) if PICKER_SEP else lab
+        met = lambda r: self.counts.get(key(r), 0) / ROLE_W.get((lab(r), self.idx), 1.0)
+        m = min(met(r) for r in self.items)
+        c = [r for r in self.items if met(r) == m]
         r = self.rng.choice(c)
-        n = self.counts.get(lab(r), 0)
-        self.counts[lab(r)] = n + 1
+        n = self.counts.get(key(r), 0)
+        self.counts[key(r)] = n + 1
         vs = [v for v in r[2].split("|") if not v.startswith(("w:", "m:")) or v[0] == "wm"[self.idx]]
         vs = [v[2:] if v[:2] in ("w:", "m:") else v for v in vs]
         v = vs[(n + sum(map(ord, lab(r)))) % len(vs)]
@@ -358,8 +367,8 @@ def gen_rows(pool, n, start, seed, role_counts=None):
     if pool == "clothed":
         role_decks = {"W": Deck([r for r in ROLES if r[0]], rng), "M": Deck([r for r in ROLES if r[1]], rng)}
         if role_counts is not None:
-            role_decks = {"W": Picker([r for r in ROLES if r[0]], rng, role_counts, 0),
-                          "M": Picker([r for r in ROLES if r[1]], rng, role_counts, 1)}
+            role_decks = {"W": Picker([r for r in (ACTIVE_ROLES or ROLES) if r[0]], rng, role_counts, 0),
+                          "M": Picker([r for r in (ACTIVE_ROLES or ROLES) if r[1]], rng, role_counts, 1)}
         for sx in "WM" if role_counts is None else "":
             role_decks[sx].q = role_decks[sx].items[:]
             rng.shuffle(role_decks[sx].q)

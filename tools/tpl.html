@@ -60,13 +60,13 @@ h1{font-size:1.35rem;margin:0 0 4px;text-wrap:balance}
 const ROWS=__DATA__;
 let studio=false;try{studio=localStorage.getItem("shelf-studio")==="1"}catch(e){}
 const DATA={};
-function buildData(){DATA.all=studio?ROWS:ROWS.filter(r=>r.pool!=="naked");for(const p of ["clothed","underwear","naked"])DATA[p]=(p==="naked"&&!studio)?[]:ROWS.filter(r=>r.pool===p)}
+function buildData(){DATA.all=ROWS.filter(r=>r.pool!=="gap"&&(studio||r.pool!=="naked"));DATA.gap=ROWS.filter(r=>r.pool==="gap");for(const p of ["clothed","underwear","naked"])DATA[p]=(p==="naked"&&!studio)?[]:ROWS.filter(r=>r.pool===p)}
 buildData();
 const dispId=r=>r.id.replace(/^naked_/,"studio_");
 let limit=100;
-const LABEL={all:"Everything",clothed:"Clothed",underwear:"Underwear",naked:"Studio"};
+const LABEL={all:"Everything",gap:"Gap list",clothed:"Clothed",underwear:"Underwear",naked:"Studio"};
 let pool="all", shown=[], view=[], db=null, saving=null, online=false;
-const state={clothed:{},underwear:{},naked:{}};
+const state={clothed:{},underwear:{},naked:{},gap:{}};
 const isDone=r=>!!state[r.pool][r.id];
 function setRows(rows,v){const t=new Set();for(const r of rows){if(v)state[r.pool][r.id]=1;else delete state[r.pool][r.id];t.add(r.pool)}for(const p of t)persist(p);render()}
 const $=id=>document.getElementById(id);
@@ -166,7 +166,7 @@ setStatus();reshuffle();
           state[p]=Object.assign({},remote);
           lsSet(LS+p,JSON.stringify(state[p]))
         }else if(Object.keys(state[p]).length){db.doc("progress/"+p).set({done:state[p]}).catch(()=>{})}
-        if(!ready[p]){ready[p]=1;if(Object.keys(ready).length===3)reshuffle();else render()}else render()
+        if(!ready[p]){ready[p]=1;if(Object.keys(ready).length===Object.keys(state).length)reshuffle();else render()}else render()
       },()=>{online=false;setStatus()})
     }
   }catch(e){online=false;setStatus()}
