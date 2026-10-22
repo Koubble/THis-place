@@ -23,6 +23,12 @@ allrows=[r for k in ("clothed","underwear","naked") for r in data[k]]
 rnd.shuffle(allrows)
 open(f"{base}NPC_PROMPTS_naked_ALL.txt","w").write("\n\n".join(r["prompt"] for r in data["naked"])+"\n")
 open(f"{base}NPC_PROMPTS_EVERYTHING.txt","w").write("\n\n".join(r["prompt"] for r in allrows)+"\n")
+import sys
+sys.path.insert(0,".")
+import roles2
+sea={x for r in roles2.SEA for x in (r[0],r[1]) if x}
+for r in data["gap"]:
+    r["group"]="Underwear gaps" if "(" in r["role"] else ("Sea faces" if r["role"] in sea else "Clothed roles")
 data=allrows+data["gap"]
 html=open("tpl.html").read().replace("__DATA__",json.dumps(data,separators=(",",":")))
 open("copy_page.html","w").write(html)

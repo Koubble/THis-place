@@ -47,6 +47,7 @@ h1{font-size:1.35rem;margin:0 0 4px;text-wrap:balance}
   <input id="q" type="search" placeholder="Search: role, age, hair, build, id" aria-label="Search prompts">
   <select id="show" aria-label="Show"><option value="todo">Not done yet</option><option value="">Done and not done</option><option value="done">Done only</option></select>
   <label class="opt"><input type="checkbox" id="studio"> Show Studio set</label>
+  <select id="group" aria-label="Group" hidden><option value="">All groups</option><option value="Sea faces">Sea faces</option><option value="Clothed roles">Clothed roles</option><option value="Underwear gaps">Underwear gaps</option></select>
   <select id="sex" aria-label="Sex"><option value="">Women and men</option><option value="woman">Women</option><option value="man">Men</option></select>
  </div>
  <div class="neg"><span id="prog">Progress</span><button class="btn primary" id="nextbtn" type="button">Shuffle a new 100</button><label class="opt"><input type="checkbox" id="auto" checked> Tick when I copy a prompt</label></div>
@@ -110,8 +111,9 @@ $("markbtn").onclick=e=>{
 };
 function shuffle(a){for(let i=a.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[a[i],a[j]]=[a[j],a[i]]}return a}
 function reshuffle(){
-  const q=$("q").value.trim().toLowerCase(),sx=$("sex").value,sh=$("show").value;
-  view=shuffle(DATA[pool].filter(r=>(!sx||r.sex===sx)&&(!q||(dispId(r)+" "+r.prompt+" "+r.role).toLowerCase().includes(q))&&(!sh||(sh==="done")===isDone(r))));
+  $("group").hidden=pool!=="gap";if(pool!=="gap")$("group").value="";
+  const q=$("q").value.trim().toLowerCase(),sx=$("sex").value,sh=$("show").value,gr=$("group").value;
+  view=shuffle(DATA[pool].filter(r=>(!gr||r.group===gr)&&(!sx||r.sex===sx)&&(!q||(dispId(r)+" "+r.prompt+" "+r.role).toLowerCase().includes(q))&&(!sh||(sh==="done")===isDone(r))));
   limit=100;render()
 }
 $("nextbtn").onclick=()=>{reshuffle();window.scrollTo({top:0,behavior:"smooth"})};
@@ -150,7 +152,7 @@ function render(){
   }
   if(rows.length>limit){const more=document.createElement("button");more.className="btn primary";more.type="button";more.textContent=`Show ${Math.min(100,rows.length-limit)} more`;more.onclick=()=>{limit+=100;render()};list.appendChild(more)}
 }
-$("q").oninput=reshuffle;$("sex").onchange=reshuffle;$("show").onchange=reshuffle;
+$("q").oninput=reshuffle;$("sex").onchange=reshuffle;$("group").onchange=reshuffle;$("show").onchange=reshuffle;
 setStatus();reshuffle();
 (async()=>{
   try{
