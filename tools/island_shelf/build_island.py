@@ -9,6 +9,7 @@ STYLE = ("One Piece anime art style, adventure manga anime style, bold clean ink
 BG = {"clothed": "plain cream background (#FFF8E7)",
       "nude": "plain pale lavender-tinted cream background (#EEE6F7)",
       "swim": "plain pale aqua-tinted cream background (#DDF3F1)"}
+FRAME = "three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view"
 ANAT = {"F": "nipples and vagina visible", "M": "average size penis"}
 
 # wording fixes so no youthful words reach a prompt, and no weapon words
@@ -124,14 +125,14 @@ for r in rows:
     cl_expr = fix(r["clothed_expression"])
     nu_expr = fix(r["nude_expression"])
     pr = {}
-    pr["clothed"] = (f"{STYLE}, one {'woman' if woman else 'man'}, {cb}, wearing {clothed_out}, {cl_pose}, full body, "
+    pr["clothed"] = (f"{STYLE}, one {'woman' if woman else 'man'}, {cb}, wearing {clothed_out}, {cl_pose}, {FRAME}, "
                      f"soft even light, {cl_expr}, {BG['clothed']}")
-    pr["nude"] = (f"{STYLE}, one {'woman' if woman else 'man'}, {cb}, fully nude, no clothing, {nu_pose}, full body, "
+    pr["nude"] = (f"{STYLE}, one {'woman' if woman else 'man'}, {cb}, fully nude, no clothing, {nu_pose}, {FRAME}, "
                   f"soft even light, {nu_expr}, {BG['nude']}, {ANAT[r['sex']]}")
     if r["third_image_swim_or_underwear"]:
         sw_expr = cl_expr
         pr["swim"] = (f"{STYLE}, one {'woman' if woman else 'man'}, {cb}, wearing {tidy_third(r['third_image_swim_or_underwear'])}, "
-                      f"{sw_pose}, full body, soft even light, {sw_expr}, {BG['swim']}")
+                      f"{sw_pose}, {FRAME}, soft even light, {sw_expr}, {BG['swim']}")
     people.append(dict(id=pid, name=r["name"], where=r["where"], role=r["role"], sex="woman" if woman else "man",
                        age=int(r["age"]), prompts=pr))
 
