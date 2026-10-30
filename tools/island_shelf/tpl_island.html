@@ -1,0 +1,163 @@
+<title>Island Roster Shelf</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans:wght@400;500;600&display=swap">
+<style>
+/* layout: sticky toolbar, then one card per person grouped by location; each card lists its full prompts with a copy button each */
+:root{--bg:#f4f3ef;--panel:#fff;--fg:#1d2420;--muted:#5f6b64;--line:#d9d9d0;--accent:#0f766e;--accent-fg:#fff;--ok:#157347;--code:#eef0ea;--head:#e6ece8;
+--sans:"IBM Plex Sans",system-ui,sans-serif;--mono:"IBM Plex Mono",ui-monospace,monospace}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#111614;--panel:#18201d;--fg:#e7ece9;--muted:#9aa8a1;--line:#2a3631;--accent:#4fd1c5;--accent-fg:#06201d;--ok:#52c58a;--code:#101614;--head:#1e2a26;color-scheme:dark}}
+:root[data-theme="dark"]{--bg:#111614;--panel:#18201d;--fg:#e7ece9;--muted:#9aa8a1;--line:#2a3631;--accent:#4fd1c5;--accent-fg:#06201d;--ok:#52c58a;--code:#101614;--head:#1e2a26;color-scheme:dark}
+body{background:var(--bg);color:var(--fg);font-family:var(--sans);font-size:15px;line-height:1.5;padding-inline:16px;padding-block:16px 48px}
+.wrap{max-width:900px;margin:0 auto}
+h1{font-size:1.35rem;margin:0 0 4px;text-wrap:balance}
+.sub{color:var(--muted);margin:0 0 12px}
+.bar{position:sticky;top:env(safe-area-inset-top,0px);background:var(--bg);padding-block:8px;z-index:2;display:grid;gap:8px;border-bottom:1px solid var(--line)}
+.row1,.row2{display:flex;gap:8px;flex-wrap:wrap;align-items:center}
+select,input[type=search]{font:inherit;background:var(--panel);color:var(--fg);border:1px solid var(--line);border-radius:6px;padding:8px 10px;min-width:0}
+input[type=search]{flex:1 1 200px}
+.btn{font:inherit;border:1px solid var(--line);background:var(--panel);color:var(--fg);padding:8px 12px;border-radius:6px;cursor:pointer}
+.btn.primary{background:var(--accent);color:var(--accent-fg);border-color:var(--accent);font-weight:500}
+.btn.done{background:var(--ok);border-color:var(--ok);color:#fff}
+.btn:focus-visible,select:focus-visible,input:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+.opt{display:inline-flex;gap:6px;align-items:center;font-size:.9rem;color:var(--fg)}
+.opt input{width:18px;height:18px;accent-color:var(--accent)}
+.prog{color:var(--muted);font-size:.85rem}
+.status{color:var(--muted);font-size:.8rem}
+.loc{margin:22px 0 8px;padding:6px 10px;background:var(--head);border-radius:6px;font-weight:600;font-size:.95rem}
+.card{background:var(--panel);border:1px solid var(--line);border-radius:8px;padding:12px;display:grid;gap:10px;min-width:0;margin-bottom:10px}
+.card.done{opacity:.55}
+.head{display:flex;gap:8px;flex-wrap:wrap;align-items:baseline}
+.head h2{font-size:1.05rem;margin:0}
+.meta{color:var(--muted);font-size:.85rem}
+.tick{display:inline-flex;align-items:center;gap:6px;margin-left:auto;cursor:pointer;font-size:.9rem}
+.tick input{width:20px;height:20px;accent-color:var(--accent);cursor:pointer}
+.sec{display:grid;gap:6px}
+.lab{display:flex;gap:8px;align-items:center;flex-wrap:wrap;font-size:.8rem;font-weight:600;letter-spacing:.04em;text-transform:uppercase;color:var(--muted)}
+.lab .btn{margin-left:auto;text-transform:none;letter-spacing:0;font-weight:500;padding:5px 10px}
+.prompt{font-family:var(--mono);font-size:.8rem;background:var(--code);border-radius:6px;padding:10px;margin:0;white-space:pre-wrap;overflow-wrap:anywhere;user-select:all}
+.empty{color:var(--muted);padding:20px 0}
+</style>
+<div class="wrap">
+<h1>Island Roster Shelf</h1>
+<p class="sub">Each person has their own card with every prompt in full. Press Copy on the one you want, then paste it into the generator.</p>
+<div class="bar">
+ <div class="row1">
+  <select id="island" aria-label="Island"></select>
+  <select id="where" aria-label="Location"><option value="">All locations</option></select>
+  <select id="sex" aria-label="Sex"><option value="">Women and men</option><option value="woman">Women</option><option value="man">Men</option></select>
+  <input id="q" type="search" placeholder="Search name, job, place" aria-label="Search">
+ </div>
+ <div class="row2">
+  <label class="opt"><input type="checkbox" id="shownude" checked> Show nude prompts</label>
+  <label class="opt"><input type="checkbox" id="showswim" checked> Show swimwear and underwear prompts</label>
+  <label class="opt"><input type="checkbox" id="todo"> Not done only</label>
+  <label class="opt"><input type="checkbox" id="auto" checked> Tick a person when all their shown prompts are copied</label>
+ </div>
+ <div class="prog" id="prog"></div>
+ <div class="status" id="status"></div>
+</div>
+<div id="list"></div>
+</div>
+<script>
+const ISLANDS=__DATA__;
+const $=id=>document.getElementById(id);
+const KIND={clothed:"Clothed",nude:"Nude",swim:"Swimwear or underwear"};
+const state={};           // island id -> {personId:1}
+const copied={};          // personId -> Set(kinds copied this visit)
+let island=Object.keys(ISLANDS)[0], db=null, online=false, saving=null;
+function lsGet(k){try{return localStorage.getItem(k)}catch(e){return null}}
+function lsSet(k,v){try{localStorage.setItem(k,v)}catch(e){}}
+for(const k of Object.keys(ISLANDS)){try{state[k]=JSON.parse(lsGet("island-done-"+k)||"{}")||{}}catch(e){state[k]={}}}
+const savedIsland=lsGet("island-pick");if(savedIsland&&ISLANDS[savedIsland])island=savedIsland;
+for(const [id,key,def] of [["shownude","island-shownude",true],["showswim","island-showswim",true],["auto","island-auto",true]]){
+  const v=lsGet(key);$(id).checked=v===null?def:v==="1";
+  $(id).addEventListener("change",e=>{lsSet(key,e.target.checked?"1":"0");render()});
+}
+$("todo").addEventListener("change",render);
+function setStatus(){$("status").textContent=online?"Your ticks are saved to this page and sync across your devices.":"Your ticks are saved in this browser only."}
+function persist(){
+  lsSet("island-done-"+island,JSON.stringify(state[island]));
+  if(db){clearTimeout(saving);const k=island;saving=setTimeout(()=>{db.doc("progress/"+k).set({done:state[k]}).catch(()=>{online=false;setStatus()})},300)}
+}
+function setDone(id,v){if(v)state[island][id]=1;else delete state[island][id];persist();render()}
+function flash(btn,txt){const o=btn.dataset.o||btn.textContent;btn.dataset.o=o;btn.textContent=txt;btn.classList.add("done");setTimeout(()=>{btn.textContent=o;btn.classList.remove("done")},1400)}
+async function copy(text,btn,sel){
+  try{await navigator.clipboard.writeText(text);flash(btn,"Copied");return true}
+  catch(e){
+    if(sel){const r=document.createRange();r.selectNodeContents(sel);const s=getSelection();s.removeAllRanges();s.addRange(r);flash(btn,"Selected: press copy")}
+    else flash(btn,"Copy blocked");
+    return false
+  }
+}
+function kindsShown(p){
+  const k=["clothed"];
+  if($("shownude").checked&&p.prompts.nude)k.push("nude");
+  if($("showswim").checked&&p.prompts.swim)k.push("swim");
+  return k
+}
+function noteCopied(p,kind){
+  (copied[p.id]=copied[p.id]||new Set()).add(kind);
+  if($("auto").checked&&!state[island][p.id]&&kindsShown(p).every(k=>copied[p.id].has(k)))setDone(p.id,true)
+}
+function fillSelectors(){
+  const sel=$("island");sel.innerHTML="";
+  for(const [k,v] of Object.entries(ISLANDS)){const o=document.createElement("option");o.value=k;o.textContent=v.name+" ("+v.people.length+" people)";sel.appendChild(o)}
+  sel.value=island;
+  const w=$("where");const cur=w.value;w.innerHTML='<option value="">All locations</option>';
+  for(const loc of [...new Set(ISLANDS[island].people.map(p=>p.where))]){const o=document.createElement("option");o.value=loc;o.textContent=loc;w.appendChild(o)}
+  w.value=[...w.options].some(o=>o.value===cur)?cur:""
+}
+$("island").addEventListener("change",e=>{island=e.target.value;lsSet("island-pick",island);$("where").value="";fillSelectors();render()});
+["where","sex"].forEach(i=>$(i).addEventListener("change",render));
+$("q").addEventListener("input",render);
+function render(){
+  const people=ISLANDS[island].people,st=state[island];
+  const q=$("q").value.trim().toLowerCase(),sx=$("sex").value,wh=$("where").value,td=$("todo").checked;
+  const rows=people.filter(p=>(!sx||p.sex===sx)&&(!wh||p.where===wh)&&(!td||!st[p.id])&&(!q||(p.name+" "+p.role+" "+p.where+" "+p.id).toLowerCase().includes(q)));
+  const done=people.filter(p=>st[p.id]).length;
+  $("prog").textContent=`${ISLANDS[island].name}: ${done} of ${people.length} people done. Showing ${rows.length}.`;
+  const list=$("list");list.innerHTML="";
+  if(!rows.length){list.innerHTML='<div class="empty">Nobody matches. Clear the filters, or untick "Not done only".</div>';return}
+  let lastLoc=null;
+  for(const p of rows){
+    if(p.where!==lastLoc){const h=document.createElement("div");h.className="loc";h.textContent=p.where;list.appendChild(h);lastLoc=p.where}
+    const c=document.createElement("div");c.className="card"+(st[p.id]?" done":"");
+    const head=document.createElement("div");head.className="head";
+    const h2=document.createElement("h2");h2.textContent=p.name;
+    const meta=document.createElement("span");meta.className="meta";meta.textContent=`${p.id} · ${p.role} · ${p.sex}, ${p.age}`;
+    const lab=document.createElement("label");lab.className="tick";
+    const cb=document.createElement("input");cb.type="checkbox";cb.checked=!!st[p.id];cb.id="cb-"+p.id;cb.addEventListener("change",()=>setDone(p.id,cb.checked));
+    lab.append(cb,document.createTextNode("Done"));
+    head.append(h2,meta,lab);c.appendChild(head);
+    const kinds=kindsShown(p);
+    for(const k of kinds){
+      const sec=document.createElement("div");sec.className="sec";
+      const l=document.createElement("div");l.className="lab";l.append(document.createTextNode(KIND[k]));
+      const pre=document.createElement("pre");pre.className="prompt";pre.textContent=p.prompts[k];
+      const b=document.createElement("button");b.className="btn primary";b.type="button";b.textContent="Copy";
+      b.addEventListener("click",async()=>{if(await copy(p.prompts[k],b,pre))noteCopied(p,k)});
+      l.appendChild(b);sec.append(l,pre);c.appendChild(sec)
+    }
+    if(kinds.length>1){
+      const all=document.createElement("button");all.className="btn";all.type="button";all.textContent="Copy all "+kinds.length+" prompts, blank line between";
+      all.addEventListener("click",async()=>{if(await copy(kinds.map(k=>p.prompts[k]).join("\n\n"),all)){kinds.forEach(k=>(copied[p.id]=copied[p.id]||new Set()).add(k));noteCopied(p,kinds[0])}});
+      c.appendChild(all)
+    }
+    list.appendChild(c)
+  }
+}
+setStatus();fillSelectors();render();
+(async()=>{
+  try{
+    const d=await claude.use("db");
+    if(!d)return;
+    db=d;online=true;setStatus();
+    for(const k of Object.keys(ISLANDS)){
+      db.doc("progress/"+k).onSnapshot(s=>{
+        if(s.exists){state[k]=Object.assign({},(s.data()||{}).done||{});lsSet("island-done-"+k,JSON.stringify(state[k]))}
+        else if(Object.keys(state[k]).length){db.doc("progress/"+k).set({done:state[k]}).catch(()=>{})}
+        render()
+      },()=>{online=false;setStatus()})
+    }
+  }catch(e){online=false;setStatus()}
+})();
+</script>
