@@ -47,7 +47,7 @@ input[type=search]{flex:1 1 200px}
   <input id="q" type="search" placeholder="Search name, job, place" aria-label="Search">
  </div>
  <div class="row2">
-  <label class="opt"><input type="checkbox" id="shownude" checked> Show nude prompts</label>
+  <label class="opt"><input type="checkbox" id="shownude" checked> Show studio prompts</label>
   <label class="opt"><input type="checkbox" id="showswim" checked> Show swimwear and underwear prompts</label>
   <label class="opt"><input type="checkbox" id="todo"> Not done only</label>
   <label class="opt"><input type="checkbox" id="auto" checked> Tick a person when all their shown prompts are copied</label>
@@ -60,7 +60,7 @@ input[type=search]{flex:1 1 200px}
 <script>
 const ISLANDS=__DATA__;
 const $=id=>document.getElementById(id);
-const KIND={clothed:"Clothed",nude:"Nude",swim:"Swimwear or underwear"};
+const KIND={clothed:"Clothed",nude:"Studio",swim:"Swimwear or underwear"};
 const state={};           // island id -> {personId:1}
 const copied={};          // personId -> Set(kinds copied this visit)
 let island=Object.keys(ISLANDS)[0], db=null, online=false, saving=null;
