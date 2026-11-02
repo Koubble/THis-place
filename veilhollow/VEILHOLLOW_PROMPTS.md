@@ -1,0 +1,533 @@
+# Veilhollow prompts (38 people, 114 prompts)
+
+## E11-1 Obadiah (the prophet, gentle-voiced and absolute, E11 Veilhollow The Sanctum)
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Obadiah, 58-year-old human man who looks his age, an older man, 5'11", tall and gaunt, pale and plain skin, a gentle, burning-eyed face, pale blue eyes, long white hair and a white beard, wearing a long white robe with a plain cord belt, bare feet, standing very still with the hands open, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, gentle, certain smile, plain cream background (#FFF8E7)
+
+**studio**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Obadiah, 58-year-old human man who looks his age, an older man, 5'11", tall and gaunt, pale and plain skin, a gentle, burning-eyed face, pale blue eyes, long white hair and a white beard, fully nude, no clothing, standing very still with the hands open at the sides, serene and unembarrassed, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, serene, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
+**swim**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Obadiah, 58-year-old human man who looks his age, an older man, 5'11", tall and gaunt, pale and plain skin, a gentle, burning-eyed face, pale blue eyes, long white hair and a white beard, wearing long white drawers, standing very still with the hands open, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, gentle, certain smile, plain pale aqua-tinted cream background (#DDF3F1)
+
+## E11-2 Abigail (the prophet's wife, mother of the flock, ruthless, E11 Veilhollow The Sanctum)
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Abigail, 52-year-old human woman who looks her age, 5'7", tall and spare, a C cup bust, pale and plain skin, a calm, hard face, grey eyes, grey hair hidden under a white veil, wearing a long white robe and a white veil, a ring of keys, standing upright with the hands clasped, calm and cold, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, calm, cold smile, plain cream background (#FFF8E7)
+
+**studio**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Abigail, 52-year-old human woman who looks her age, 5'7", tall and spare, a C cup bust, pale and plain skin, a calm, hard face, grey eyes, grey hair hidden under a white veil, fully nude, no clothing, standing upright with the hands clasped behind the back, calm and unembarrassed, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, calm, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+**swim**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Abigail, 52-year-old human woman who looks her age, 5'7", tall and spare, a C cup bust, pale and plain skin, a calm, hard face, grey eyes, grey hair hidden under a white veil, wearing a plain white shift, standing upright with the hands behind the back, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, calm, cold smile, plain pale aqua-tinted cream background (#DDF3F1)
+
+## E11-3 Ephraim (acolyte, eager, E11 Veilhollow The Sanctum)
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Ephraim, 36-year-old human man, 5'10", lean, pale and plain skin, an eager, earnest face, brown eyes, cropped brown hair, wearing a grey robe with a white sash, a candle in hand, standing lean with an eager smile, hands together, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, eager smile, plain cream background (#FFF8E7)
+
+**studio**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Ephraim, 36-year-old human man, 5'10", lean, pale and plain skin, an eager, earnest face, brown eyes, cropped brown hair, fully nude, no clothing, standing lean with the hands clasped behind the back, eager and flustered, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, eager, flustered, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
+**swim**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Ephraim, 36-year-old human man, 5'10", lean, pale and plain skin, an eager, earnest face, brown eyes, cropped brown hair, wearing plain drawers, standing lean with the hands behind the back, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, eager smile, plain pale aqua-tinted cream background (#DDF3F1)
+
+## E11-4 Jabez (head scribe, exact, E11 Veilhollow The Scriptorium)
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Jabez, 50-year-old human man who looks his age, 5'8", thin and stooped, pale and plain skin, a precise, ink-stained face behind round spectacles, grey eyes, thinning grey hair, ink on the fingers, wearing a grey robe with sleeve garters, a quill and a ledger, standing thin and stooped, precise, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, precise nod, plain cream background (#FFF8E7)
+
+**studio**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Jabez, 50-year-old human man who looks his age, 5'8", thin and stooped, pale and plain skin, a precise, ink-stained face behind round spectacles, grey eyes, thinning grey hair, ink on the fingers, fully nude, no clothing, standing thin and stooped with the hands clasped behind the back, precise and embarrassed, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, precise, embarrassed, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
+**swim**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Jabez, 50-year-old human man who looks his age, 5'8", thin and stooped, pale and plain skin, a precise, ink-stained face behind round spectacles, grey eyes, thinning grey hair, ink on the fingers, wearing plain drawers, standing thin and stooped, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, precise nod, plain pale aqua-tinted cream background (#DDF3F1)
+
+## E11-5 Dinah (copyist, quietly doubting, E11 Veilhollow The Scriptorium)
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Dinah, 27-year-old human woman, 5'5", slim, a B cup bust, pale and plain skin, a quiet, doubtful face, hazel eyes, brown hair under a grey veil, ink on the fingers, wearing a grey robe and a grey veil, ink-stained cuffs, standing slim with the shoulders drawn in, quiet and guarded, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, quiet, guarded smile, plain cream background (#FFF8E7)
+
+**studio**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Dinah, 27-year-old human woman, 5'5", slim, a B cup bust, pale and plain skin, a quiet, doubtful face, hazel eyes, brown hair under a grey veil, ink on the fingers, fully nude, no clothing, standing with the shoulders drawn in and the hands clasped behind the back, doubtful and shy, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, doubtful, shy, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+**swim**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Dinah, 27-year-old human woman, 5'5", slim, a B cup bust, pale and plain skin, a quiet, doubtful face, hazel eyes, brown hair under a grey veil, ink on the fingers, wearing a plain grey shift, standing with the hands clasped behind the back, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, quiet, guarded smile, plain pale aqua-tinted cream background (#DDF3F1)
+
+## E11-6 Zebulon (storekeeper, counts everything, E11 Veilhollow The Tithe Store)
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Zebulon, 55-year-old human man who looks his age, an older man, 5'9", stocky and neat, pale and plain skin, a counting, closed face, pale brown eyes, cropped grey hair, wearing a grey robe with a leather apron, a tally-board, standing stocky and neat, closed, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, closed nod, plain cream background (#FFF8E7)
+
+**studio**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Zebulon, 55-year-old human man who looks his age, an older man, 5'9", stocky and neat, pale and plain skin, a counting, closed face, pale brown eyes, cropped grey hair, fully nude, no clothing, standing stocky with the hands clasped behind the back, closed and embarrassed, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, closed, embarrassed, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
+**swim**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Zebulon, 55-year-old human man who looks his age, an older man, 5'9", stocky and neat, pale and plain skin, a counting, closed face, pale brown eyes, cropped grey hair, wearing plain drawers, standing stocky with the hands behind the back, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, closed nod, plain pale aqua-tinted cream background (#DDF3F1)
+
+## E11-7 Hepzibah (his assistant, watchful, E11 Veilhollow The Tithe Store)
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Hepzibah, 46-year-old human woman who looks her age, 5'6", thin and upright, a B cup bust, pale and plain skin, a watchful, thin face, grey eyes, grey-streaked hair under a grey veil, wearing a grey robe and veil, a ring of keys, standing thin and upright with the hands folded, watchful, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, watchful look, plain cream background (#FFF8E7)
+
+**studio**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Hepzibah, 46-year-old human woman who looks her age, 5'6", thin and upright, a B cup bust, pale and plain skin, a watchful, thin face, grey eyes, grey-streaked hair under a grey veil, fully nude, no clothing, standing thin and upright with the hands resting at the sides, watchful and unembarrassed, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, watchful, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+**swim**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Hepzibah, 46-year-old human woman who looks her age, 5'6", thin and upright, a B cup bust, pale and plain skin, a watchful, thin face, grey eyes, grey-streaked hair under a grey veil, wearing a plain grey shift, standing thin and upright with the hands at the sides, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, watchful look, plain pale aqua-tinted cream background (#DDF3F1)
+
+## E11-8 Leah (weaver, steady, E11 Veilhollow The Veil Loom)
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Leah, 44-year-old human woman who looks her age, 5'6", sturdy, a C cup bust, pale and plain skin, a steady, plain face, brown eyes, brown hair under a white veil, calloused fingers, wearing a grey robe with rolled sleeves, a white veil, a shuttle in hand, standing sturdy with a steady smile, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, steady smile, plain cream background (#FFF8E7)
+
+**studio**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Leah, 44-year-old human woman who looks her age, 5'6", sturdy, a C cup bust, pale and plain skin, a steady, plain face, brown eyes, brown hair under a white veil, calloused fingers, fully nude, no clothing, standing sturdy with the hands clasped behind the back, steady and shy, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, steady, shy, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+**swim**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Leah, 44-year-old human woman who looks her age, 5'6", sturdy, a C cup bust, pale and plain skin, a steady, plain face, brown eyes, brown hair under a white veil, calloused fingers, wearing a plain grey shift, standing sturdy with the hands behind the back, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, steady smile, plain pale aqua-tinted cream background (#DDF3F1)
+
+## E11-9 Keziah (weaver, dreamy, E11 Veilhollow The Veil Loom)
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Keziah, 29-year-old human woman, 5'5", slim, a B cup bust, pale and plain skin, a dreamy, plain face, pale blue eyes, fair hair under a white veil, wearing a grey robe and a white veil, a spindle at her belt, standing slim with the head tilted, dreamy, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, dreamy smile, plain cream background (#FFF8E7)
+
+**studio**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Keziah, 29-year-old human woman, 5'5", slim, a B cup bust, pale and plain skin, a dreamy, plain face, pale blue eyes, fair hair under a white veil, fully nude, no clothing, standing slim with the head tilted and the hands clasped behind the back, dreamy and shy, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, dreamy, shy, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+**swim**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Keziah, 29-year-old human woman, 5'5", slim, a B cup bust, pale and plain skin, a dreamy, plain face, pale blue eyes, fair hair under a white veil, wearing a plain grey shift, standing slim with the head tilted dreamily, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, dreamy smile, plain pale aqua-tinted cream background (#DDF3F1)
+
+## E11-10 Jethro (gardener, slow-spoken, E11 Veilhollow The Walled Garden)
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Jethro, 48-year-old human man who looks his age, 5'10", broad and weathered, skin that is pale, weathered, a slow, kind face, blue eyes, cropped sandy hair, soil on the hands, wearing a patched grey smock, rolled sleeves, a straw hat, a trowel pouch, standing broad and weathered with a slow smile, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, slow smile, plain cream background (#FFF8E7)
+
+**studio**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Jethro, 48-year-old human man who looks his age, 5'10", broad and weathered, skin that is pale, weathered, a slow, kind face, blue eyes, cropped sandy hair, soil on the hands, fully nude, no clothing, standing broad with one hand rubbing the back of the neck, slow and embarrassed, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, slow, embarrassed, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
+**swim**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Jethro, 48-year-old human man who looks his age, 5'10", broad and weathered, skin that is pale, weathered, a slow, kind face, blue eyes, cropped sandy hair, soil on the hands, wearing plain drawers, standing broad with the arms at the sides, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, slow smile, plain pale aqua-tinted cream background (#DDF3F1)
+
+## E11-11 Abner (cook, plain-spoken, E11 Veilhollow The Common Meal)
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Abner, 52-year-old human man who looks his age, 5'8", stout and solid, skin that is pale, flushed, a plain-spoken, flushed face, blue eyes, bald with a grey fringe, wearing a grey robe with a stained white apron, rolled sleeves, a ladle, standing stout and solid with the arms at the sides, plain, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, plain nod, plain cream background (#FFF8E7)
+
+**studio**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Abner, 52-year-old human man who looks his age, 5'8", stout and solid, skin that is pale, flushed, a plain-spoken, flushed face, blue eyes, bald with a grey fringe, fully nude, no clothing, standing stout with the hands clasped behind the back, plain and embarrassed, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, plain, embarrassed, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
+**swim**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Abner, 52-year-old human man who looks his age, 5'8", stout and solid, skin that is pale, flushed, a plain-spoken, flushed face, blue eyes, bald with a grey fringe, wearing plain drawers, standing stout with the hands on the hips, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, plain nod, plain pale aqua-tinted cream background (#DDF3F1)
+
+## E11-12 Patience (server, quiet, E11 Veilhollow The Common Meal)
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Patience, 38-year-old human woman, 5'5", thin, a B cup bust, pale and plain skin, a quiet, patient face, brown eyes, brown hair under a grey veil, wearing a grey robe and veil with a white apron, a stack of bowls, standing thin with the hands clasped, patient, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, patient smile, plain cream background (#FFF8E7)
+
+**studio**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Patience, 38-year-old human woman, 5'5", thin, a B cup bust, pale and plain skin, a quiet, patient face, brown eyes, brown hair under a grey veil, fully nude, no clothing, standing thin with the hands clasped behind the back, patient and shy, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, patient, shy, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+**swim**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Patience, 38-year-old human woman, 5'5", thin, a B cup bust, pale and plain skin, a quiet, patient face, brown eyes, brown hair under a grey veil, wearing a plain grey shift, standing thin with the hands behind the back, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, patient smile, plain pale aqua-tinted cream background (#DDF3F1)
+
+## E11-13 Enoch (physician, tired, E11 Veilhollow The Mercy Ward)
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Enoch, 60-year-old human man who looks his age, an older man, 5'9", thin and stooped, skin that is pale, papery, a tired, kind face, pale grey eyes, white hair, wearing a grey robe with a stained apron, spectacles on a cord, a leather bag, standing thin and stooped, slightly slumped, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, tired nod, plain cream background (#FFF8E7)
+
+**studio**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Enoch, 60-year-old human man who looks his age, an older man, 5'9", thin and stooped, skin that is pale, papery, a tired, kind face, pale grey eyes, white hair, fully nude, no clothing, standing slumped with a hand rubbing the face, tired and embarrassed, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, tired, embarrassed, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
+**swim**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Enoch, 60-year-old human man who looks his age, an older man, 5'9", thin and stooped, skin that is pale, papery, a tired, kind face, pale grey eyes, white hair, wearing long plain drawers, standing slightly slumped, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, tired nod, plain pale aqua-tinted cream background (#DDF3F1)
+
+## E11-14 Ezekiel (elder, severe, E11 Veilhollow The Elders' Seat)
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Ezekiel, 62-year-old human man who looks his age, an older man, 6'0", tall and rigid, pale and plain skin, a severe, lined face, pale blue eyes, white hair and a long white beard, wearing a black robe with a white collar band, a cord belt, standing very upright with the arms at the sides, severe, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, severe look, plain cream background (#FFF8E7)
+
+**studio**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Ezekiel, 62-year-old human man who looks his age, an older man, 6'0", tall and rigid, pale and plain skin, a severe, lined face, pale blue eyes, white hair and a long white beard, fully nude, no clothing, standing very upright with the arms at the sides and the jaw set, severe and embarrassed, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, severe, embarrassed, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
+**swim**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Ezekiel, 62-year-old human man who looks his age, an older man, 6'0", tall and rigid, pale and plain skin, a severe, lined face, pale blue eyes, white hair and a long white beard, wearing long white drawers, standing very upright with the arms at the sides, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, severe look, plain pale aqua-tinted cream background (#DDF3F1)
+
+## E11-15 Temperance (eldress, dry, E11 Veilhollow The Elders' Seat)
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Temperance, 57-year-old human woman who looks her age, an older woman, 5'6", thin and upright, a B cup bust, pale and plain skin, a dry, narrow face, grey eyes, white hair under a black veil, wearing a black robe and veil with a white collar band, standing thin and upright with the hands folded, dry, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, dry look, plain cream background (#FFF8E7)
+
+**studio**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Temperance, 57-year-old human woman who looks her age, an older woman, 5'6", thin and upright, a B cup bust, pale and plain skin, a dry, narrow face, grey eyes, white hair under a black veil, fully nude, no clothing, standing thin and upright with the hands resting at the sides, dry and unembarrassed, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, dry, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+**swim**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Temperance, 57-year-old human woman who looks her age, an older woman, 5'6", thin and upright, a B cup bust, pale and plain skin, a dry, narrow face, grey eyes, white hair under a black veil, wearing a plain white shift, standing thin and upright with the hands at the sides, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, dry look, plain pale aqua-tinted cream background (#DDF3F1)
+
+## E11-16 Caleb (novice-master, kind-voiced and controlling, E11 Veilhollow The Novice Cloister)
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Caleb, 44-year-old human man who looks his age, 6'0", lean and tall, pale and plain skin, a kind-voiced, watchful face, dark brown eyes, cropped dark hair, wearing a grey robe with a white sash, a bunch of keys, standing lean and tall with the hands clasped, kind and watchful, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, kind, watchful smile, plain cream background (#FFF8E7)
+
+**studio**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Caleb, 44-year-old human man who looks his age, 6'0", lean and tall, pale and plain skin, a kind-voiced, watchful face, dark brown eyes, cropped dark hair, fully nude, no clothing, standing lean and tall with the hands resting at the sides, kind and unembarrassed, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, kind, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
+**swim**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Caleb, 44-year-old human man who looks his age, 6'0", lean and tall, pale and plain skin, a kind-voiced, watchful face, dark brown eyes, cropped dark hair, wearing plain drawers, standing lean and tall with the hands clasped behind the back, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, kind, watchful smile, plain pale aqua-tinted cream background (#DDF3F1)
+
+## E11-17 Constance (novice-mistress, firm, E11 Veilhollow The Novice Cloister)
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Constance, 35-year-old human woman, 5'7", slim and upright, a C cup bust, pale and plain skin, a firm, composed face, grey eyes, dark hair under a grey veil, wearing a grey robe and veil with a white sash, a ring of keys, standing very upright with the hands folded, firm, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, firm smile, plain cream background (#FFF8E7)
+
+**studio**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Constance, 35-year-old human woman, 5'7", slim and upright, a C cup bust, pale and plain skin, a firm, composed face, grey eyes, dark hair under a grey veil, fully nude, no clothing, standing very upright with the hands resting at the sides, firm and unembarrassed, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, firm, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+**swim**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Constance, 35-year-old human woman, 5'7", slim and upright, a C cup bust, pale and plain skin, a firm, composed face, grey eyes, dark hair under a grey veil, wearing a plain grey shift, standing very upright with the hands at the sides, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, firm smile, plain pale aqua-tinted cream background (#DDF3F1)
+
+## E11-18 Hezekiah (guest-keeper, warm and sticky, E11 Veilhollow The Pilgrims' Refuge)
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Hezekiah, 50-year-old human man who looks his age, 5'9", stout and soft, skin that is pale, pink-cheeked, a warm, sticky-smiling face, blue eyes, thinning sandy hair, wearing a clean grey robe with a white sash, a bunch of keys, a tray of bread, standing stout and soft with the arms held out, over-warm, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, over-warm smile, plain cream background (#FFF8E7)
+
+**studio**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Hezekiah, 50-year-old human man who looks his age, 5'9", stout and soft, skin that is pale, pink-cheeked, a warm, sticky-smiling face, blue eyes, thinning sandy hair, fully nude, no clothing, standing stout with the arms held out, over-warm and flustered, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, over-warm, flustered, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
+**swim**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Hezekiah, 50-year-old human man who looks his age, 5'9", stout and soft, skin that is pale, pink-cheeked, a warm, sticky-smiling face, blue eyes, thinning sandy hair, wearing plain drawers, standing stout with the hands on the hips, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, over-warm smile, plain pale aqua-tinted cream background (#DDF3F1)
+
+## E11-19 Charity (welcomer, sticky and sweet, E11 Veilhollow The Pilgrims' Refuge)
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Charity, 41-year-old human woman who looks her age, 5'5", soft and curvy, a D cup bust, pale and plain skin, a sweet, over-bright face, hazel eyes, light brown hair under a white veil, wearing a clean grey robe with a white veil and sash, a cup of water, standing soft and curvy with one hand held out, over-bright, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, over-bright smile, plain cream background (#FFF8E7)
+
+**studio**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Charity, 41-year-old human woman who looks her age, 5'5", soft and curvy, a D cup bust, pale and plain skin, a sweet, over-bright face, hazel eyes, light brown hair under a white veil, fully nude, no clothing, standing with one hand held out and the head tilted, over-bright and flustered, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, over-bright, flustered, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+**swim**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Charity, 41-year-old human woman who looks her age, 5'5", soft and curvy, a D cup bust, pale and plain skin, a sweet, over-bright face, hazel eyes, light brown hair under a white veil, wearing a plain white shift, standing with one hand held out, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, over-bright smile, plain pale aqua-tinted cream background (#DDF3F1)
+
+## E11-20 Malachi (confessor, remembers every sin, E11 Veilhollow The Whispering Cells)
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Malachi, 47-year-old human man who looks his age, 5'10", thin and still, skin that is pale, hollow-eyed, a still, hollow face, pale grey eyes, cropped dark hair, wearing a black robe with a grey hood pushed back, a small book, standing thin and still with the hands tucked in the sleeves, listening, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, still, listening look, plain cream background (#FFF8E7)
+
+**studio**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Malachi, 47-year-old human man who looks his age, 5'10", thin and still, skin that is pale, hollow-eyed, a still, hollow face, pale grey eyes, cropped dark hair, fully nude, no clothing, standing thin and still with the hands clasped behind the back, still and unembarrassed, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, still, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
+**swim**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Malachi, 47-year-old human man who looks his age, 5'10", thin and still, skin that is pale, hollow-eyed, a still, hollow face, pale grey eyes, cropped dark hair, wearing plain drawers, standing thin and still, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, still, listening look, plain pale aqua-tinted cream background (#DDF3F1)
+
+## E11-21 Hosea (taskmaster, stern, E11 Veilhollow The Penance Yard)
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Hosea, 42-year-old human man who looks his age, 6'1", broad and strong, skin that is pale, sun-reddened, a stern, set face, grey eyes, cropped brown hair, wearing a grey work smock with rolled sleeves, heavy gloves, boots, standing square with the arms folded, stern, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, stern nod, plain cream background (#FFF8E7)
+
+**studio**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Hosea, 42-year-old human man who looks his age, 6'1", broad and strong, skin that is pale, sun-reddened, a stern, set face, grey eyes, cropped brown hair, fully nude, no clothing, standing square with the arms folded and the head lowered, stern and embarrassed, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, stern, embarrassed, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
+**swim**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Hosea, 42-year-old human man who looks his age, 6'1", broad and strong, skin that is pale, sun-reddened, a stern, set face, grey eyes, cropped brown hair, wearing plain drawers, standing square with the arms folded, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, stern nod, plain pale aqua-tinted cream background (#DDF3F1)
+
+## E11-22 Tamar (penitent, hollow, E11 Veilhollow The Penance Yard)
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Tamar, 31-year-old human woman, 5'5", thin and strained, a B cup bust, skin that is pale, sun-reddened, a hollow, strained face, brown eyes, cropped brown hair, unveiled, calloused, cracked hands, wearing a torn grey smock, bare feet, a stone-heavy sack on her shoulder, standing thin with the head bowed, hollow, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, hollow look, plain cream background (#FFF8E7)
+
+**studio**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Tamar, 31-year-old human woman, 5'5", thin and strained, a B cup bust, skin that is pale, sun-reddened, a hollow, strained face, brown eyes, cropped brown hair, unveiled, calloused, cracked hands, fully nude, no clothing, standing with the head bowed and the hands at the sides, hollow and ashamed, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, hollow, ashamed, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+**swim**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Tamar, 31-year-old human woman, 5'5", thin and strained, a B cup bust, skin that is pale, sun-reddened, a hollow, strained face, brown eyes, cropped brown hair, unveiled, calloused, cracked hands, wearing a thin grey shift, standing with the head bowed, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, hollow look, plain pale aqua-tinted cream background (#DDF3F1)
+
+## E11-23 Uriah (chosen man, glassy-eyed, E11 Veilhollow The Chosen House)
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Uriah, 38-year-old human man, 6'0", lean and fine-featured, pale and plain skin, a glassy, handsome face, dark brown eyes, soft dark hair, wearing a loose white robe open at the chest, a white sash, bare feet, standing lean with the arms open, glassy-smiling, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, glassy smile, plain cream background (#FFF8E7)
+
+**studio**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Uriah, 38-year-old human man, 6'0", lean and fine-featured, pale and plain skin, a glassy, handsome face, dark brown eyes, soft dark hair, fully nude, no clothing, standing lean with the arms open at the sides, glassy and willing, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, glassy, willing, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
+**swim**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Uriah, 38-year-old human man, 6'0", lean and fine-featured, pale and plain skin, a glassy, handsome face, dark brown eyes, soft dark hair, wearing white drawers, standing lean with the arms open, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, glassy smile, plain pale aqua-tinted cream background (#DDF3F1)
+
+## E11-24 Bathsheba (chosen woman, ornamented, E11 Veilhollow The Chosen House)
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Bathsheba, 33-year-old human woman, 5'7", full and soft, a D cup bust, pale and plain skin, a beautiful, empty face, dark brown eyes, long dark hair, unveiled in the house, wearing a sheer white robe with a gold cord, a white veil pushed back, standing full and soft with the arms open, serene, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, empty, serene smile, plain cream background (#FFF8E7)
+
+**studio**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Bathsheba, 33-year-old human woman, 5'7", full and soft, a D cup bust, pale and plain skin, a beautiful, empty face, dark brown eyes, long dark hair, unveiled in the house, fully nude, no clothing, standing with the arms open and the chin lifted, empty and serene, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, empty, serene, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+**swim**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Bathsheba, 33-year-old human woman, 5'7", full and soft, a D cup bust, pale and plain skin, a beautiful, empty face, dark brown eyes, long dark hair, unveiled in the house, wearing a sheer white slip, standing with the arms open, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, empty, serene smile, plain pale aqua-tinted cream background (#DDF3F1)
+
+## E11-25 Rebekah (attendant, brisk and cold, E11 Veilhollow The Cleansing Font)
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Rebekah, 45-year-old human woman who looks her age, 5'8", solid and strong, a D cup bust, pale and plain skin, a brisk, cold face, grey eyes, grey-brown hair under a white veil, wearing a damp white robe with rolled sleeves, a towel over her arm, standing solid and strong, brisk, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, brisk look, plain cream background (#FFF8E7)
+
+**studio**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Rebekah, 45-year-old human woman who looks her age, 5'8", solid and strong, a D cup bust, pale and plain skin, a brisk, cold face, grey eyes, grey-brown hair under a white veil, fully nude, no clothing, standing solid with the hands on the hips, brisk and unembarrassed, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, brisk, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+**swim**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Rebekah, 45-year-old human woman who looks her age, 5'8", solid and strong, a D cup bust, pale and plain skin, a brisk, cold face, grey eyes, grey-brown hair under a white veil, wearing a plain white shift, standing solid with the hands on the hips, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, brisk look, plain pale aqua-tinted cream background (#DDF3F1)
+
+## E11-26 Elkanah (vigil leader, hoarse and fervent, E11 Veilhollow The Vigil Hall)
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Elkanah, 34-year-old human man, 5'11", lean and intense, pale and plain skin, a hoarse, fervent face, blue eyes, cropped fair hair, wearing a white robe with a grey sash, bare feet, standing lean and intense with the hands raised, fervent, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, fervent stare, plain cream background (#FFF8E7)
+
+**studio**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Elkanah, 34-year-old human man, 5'11", lean and intense, pale and plain skin, a hoarse, fervent face, blue eyes, cropped fair hair, fully nude, no clothing, standing lean with the hands raised, fervent and flustered, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, fervent, flustered, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
+**swim**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Elkanah, 34-year-old human man, 5'11", lean and intense, pale and plain skin, a hoarse, fervent face, blue eyes, cropped fair hair, wearing white drawers, standing lean with the hands raised, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, fervent stare, plain pale aqua-tinted cream background (#DDF3F1)
+
+## E11-27 Jeremiah (collector, soft-spoken, E11 Veilhollow The Tithing Chamber)
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Jeremiah, 45-year-old human man who looks his age, 5'9", thin and neat, pale and plain skin, a soft-spoken, patient face, grey eyes, neat grey-brown hair, wearing a grey robe with a ledger and a locked box, spectacles, standing thin and neat with a patient smile, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, patient smile, plain cream background (#FFF8E7)
+
+**studio**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Jeremiah, 45-year-old human man who looks his age, 5'9", thin and neat, pale and plain skin, a soft-spoken, patient face, grey eyes, neat grey-brown hair, fully nude, no clothing, standing thin and neat with the hands clasped behind the back, patient and embarrassed, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, patient, embarrassed, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
+**swim**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Jeremiah, 45-year-old human man who looks his age, 5'9", thin and neat, pale and plain skin, a soft-spoken, patient face, grey eyes, neat grey-brown hair, wearing plain drawers, standing thin with the hands behind the back, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, patient smile, plain pale aqua-tinted cream background (#DDF3F1)
+
+## E11-28 Zachariah (keeper of the undercroft, hooded and old, E11 Veilhollow The Undercroft)
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Zachariah, 59-year-old human man who looks his age, an older man, 5'8", thin and bent, skin that is pale, cave-white, a hooded, shadowed face, pale grey eyes, white hair under a grey hood, wearing a black robe with a grey hood, a shuttered lamp, standing thin and bent, shadowed, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, shadowed look, plain cream background (#FFF8E7)
+
+**studio**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Zachariah, 59-year-old human man who looks his age, an older man, 5'8", thin and bent, skin that is pale, cave-white, a hooded, shadowed face, pale grey eyes, white hair under a grey hood, fully nude, no clothing, standing thin and bent with the hands clasped behind the back, shadowed and embarrassed, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, shadowed, embarrassed, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
+**swim**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Zachariah, 59-year-old human man who looks his age, an older man, 5'8", thin and bent, skin that is pale, cave-white, a hooded, shadowed face, pale grey eyes, white hair under a grey hood, wearing long plain drawers, standing thin and bent, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, shadowed look, plain pale aqua-tinted cream background (#DDF3F1)
+
+## E11-29 Mehitabel (keeper, warm and unsettling, E11 Veilhollow The Shared Rite)
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Mehitabel, 40-year-old human woman who looks her age, 5'8", full and graceful, a D cup bust, pale and plain skin, a warm, unsettling face, dark brown eyes, long dark hair loose, unveiled in the room, wearing a deep red robe with a black cord, bare feet, a lit lamp, standing full and graceful with the robe loose, warm and unsettling, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, warm, unsettling smile, plain cream background (#FFF8E7)
+
+**studio**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Mehitabel, 40-year-old human woman who looks her age, 5'8", full and graceful, a D cup bust, pale and plain skin, a warm, unsettling face, dark brown eyes, long dark hair loose, unveiled in the room, fully nude, no clothing, standing full and graceful with the arms loose and the head tilted, warm and unembarrassed, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, warm, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+**swim**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Mehitabel, 40-year-old human woman who looks her age, 5'8", full and graceful, a D cup bust, pale and plain skin, a warm, unsettling face, dark brown eyes, long dark hair loose, unveiled in the room, wearing a deep red slip, standing full and graceful with the arms loose, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, warm, unsettling smile, plain pale aqua-tinted cream background (#DDF3F1)
+
+## E11-30 Reuben (attendant, smooth, E11 Veilhollow The Shared Rite)
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Reuben, 31-year-old human man, 6'0", lean and graceful, pale and plain skin, a smooth, quiet face, brown eyes, dark hair falling over his eyes, wearing a loose red robe with a black cord, bare feet, standing lean and graceful with the robe open at the chest, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, smooth smile, plain cream background (#FFF8E7)
+
+**studio**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Reuben, 31-year-old human man, 6'0", lean and graceful, pale and plain skin, a smooth, quiet face, brown eyes, dark hair falling over his eyes, fully nude, no clothing, standing lean and graceful with the hands at the sides, smooth and unembarrassed, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, smooth, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
+**swim**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Reuben, 31-year-old human man, 6'0", lean and graceful, pale and plain skin, a smooth, quiet face, brown eyes, dark hair falling over his eyes, wearing red silk drawers, standing lean and graceful with the hands at the sides, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, smooth smile, plain pale aqua-tinted cream background (#DDF3F1)
+
+## E11-W1 Isaiah (pilgrim, earnest, E11 Veilhollow The Pilgrim Road and The Cloister Ring (pop-up))
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Isaiah, 29-year-old human man, 5'11", lean, skin that is pale, travel-worn, an earnest, tired face, hazel eyes, cropped brown hair, wearing a worn travelling cloak over a grey tunic, a pilgrim's pouch, standing lean, earnest, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, earnest smile, plain cream background (#FFF8E7)
+
+**studio**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Isaiah, 29-year-old human man, 5'11", lean, skin that is pale, travel-worn, an earnest, tired face, hazel eyes, cropped brown hair, fully nude, no clothing, standing lean with the hands clasped behind the back, earnest and bashful, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, earnest, bashful, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
+**swim**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Isaiah, 29-year-old human man, 5'11", lean, skin that is pale, travel-worn, an earnest, tired face, hazel eyes, cropped brown hair, wearing plain drawers, standing lean with the hands behind the back, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, earnest smile, plain pale aqua-tinted cream background (#DDF3F1)
+
+## E11-W2 Naomi (pilgrim, hopeful, E11 Veilhollow The Pilgrim Road and The Cloister Ring (pop-up))
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Naomi, 33-year-old human woman, 5'6", slim, a B cup bust, skin that is pale, travel-worn, a hopeful, tired face, brown eyes, brown hair under a plain scarf, wearing a worn travelling cloak over a grey dress, a scarf, standing slim with a hopeful smile, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, hopeful smile, plain cream background (#FFF8E7)
+
+**studio**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Naomi, 33-year-old human woman, 5'6", slim, a B cup bust, skin that is pale, travel-worn, a hopeful, tired face, brown eyes, brown hair under a plain scarf, fully nude, no clothing, standing slim with the hands clasped behind the back, hopeful and shy, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, hopeful, shy, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+**swim**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Naomi, 33-year-old human woman, 5'6", slim, a B cup bust, skin that is pale, travel-worn, a hopeful, tired face, brown eyes, brown hair under a plain scarf, wearing a plain cotton slip, standing slim with the hands behind the back, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, hopeful smile, plain pale aqua-tinted cream background (#DDF3F1)
+
+## E11-W3 Lydia (novice, wide-eyed, E11 Veilhollow The Pilgrim Road and The Cloister Ring (pop-up))
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Lydia, 22-year-old human woman, 5'5", slim, a B cup bust, pale and plain skin, a bright, devout face, blue eyes, fair hair under a new white veil, wearing a new grey robe and white veil, a prayer cord, standing slim with the hands clasped, bright and devout, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, bright smile, plain cream background (#FFF8E7)
+
+**studio**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Lydia, 22-year-old human woman, 5'5", slim, a B cup bust, pale and plain skin, a bright, devout face, blue eyes, fair hair under a new white veil, fully nude, no clothing, standing slim with the shoulders drawn in and the hands clasped behind the back, bright and shy, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, bright, shy, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+**swim**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Lydia, 22-year-old human woman, 5'5", slim, a B cup bust, pale and plain skin, a bright, devout face, blue eyes, fair hair under a new white veil, wearing a plain white shift, standing slim with the hands clasped behind the back, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, bright smile, plain pale aqua-tinted cream background (#DDF3F1)
+
+## E11-W4 Cyrus (restless member, slipping out, E11 Veilhollow The Veiled Gap, The Belfry Ladder and The Orchard Shade (pop-up))
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Cyrus, 27-year-old human man, 6'0", lean and restless, pale and plain skin, a restless, handsome face, dark brown eyes, messy dark hair, wearing a rumpled grey robe, sandals, a cord half undone, standing lean and restless with the robe slipping off one shoulder, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, restless grin, plain cream background (#FFF8E7)
+
+**studio**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Cyrus, 27-year-old human man, 6'0", lean and restless, pale and plain skin, a restless, handsome face, dark brown eyes, messy dark hair, fully nude, no clothing, standing lean and restless with one hand in the hair, restless and flustered, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, restless, flustered, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
+**swim**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Cyrus, 27-year-old human man, 6'0", lean and restless, pale and plain skin, a restless, handsome face, dark brown eyes, messy dark hair, wearing plain drawers, standing lean and restless, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, restless grin, plain pale aqua-tinted cream background (#DDF3F1)
+
+## E11-W5 Miriam (restless member, slipping out, E11 Veilhollow The Veiled Gap, The Belfry Ladder and The Orchard Shade (pop-up))
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Miriam, 24-year-old human woman, 5'6", slim and curvy, a C cup bust, pale and plain skin, a restless, pretty face, hazel eyes, loose brown hair, veil pulled off, wearing a rumpled grey robe, a veil in her hand, bare feet, standing slim and curvy with a restless smile, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, restless smile, plain cream background (#FFF8E7)
+
+**studio**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Miriam, 24-year-old human woman, 5'6", slim and curvy, a C cup bust, pale and plain skin, a restless, pretty face, hazel eyes, loose brown hair, veil pulled off, fully nude, no clothing, standing with one hip out and one hand in the hair, restless and flustered, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, restless, flustered, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+**swim**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Miriam, 24-year-old human woman, 5'6", slim and curvy, a C cup bust, pale and plain skin, a restless, pretty face, hazel eyes, loose brown hair, veil pulled off, wearing a thin cotton slip, standing with one hip out, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, restless smile, plain pale aqua-tinted cream background (#DDF3F1)
+
+## E11-W6 Judith (member with a secret, bold, E11 Veilhollow The Veiled Gap, The Belfry Ladder and The Orchard Shade (pop-up))
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Judith, 35-year-old human woman, 5'7", full-figured, a D cup bust, pale and plain skin, a bold, guarded face, dark grey eyes, dark hair half under a veil, wearing a grey robe belted tightly, a veil hanging loose, standing full-figured with a hand on the hip, bold, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, bold smile, plain cream background (#FFF8E7)
+
+**studio**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Judith, 35-year-old human woman, 5'7", full-figured, a D cup bust, pale and plain skin, a bold, guarded face, dark grey eyes, dark hair half under a veil, fully nude, no clothing, standing full-figured with a hand on the hip and the chin up, bold and flustered, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, bold, flustered, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+**swim**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Judith, 35-year-old human woman, 5'7", full-figured, a D cup bust, pale and plain skin, a bold, guarded face, dark grey eyes, dark hair half under a veil, wearing a plain cotton slip, standing full-figured with a hand on the hip, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, bold smile, plain pale aqua-tinted cream background (#DDF3F1)
+
+## E11-W7 Boaz (bather in the ritual spring, E11 Veilhollow The Rite Spring (pop-up))
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Boaz, 33-year-old human man, 5'11", lean, skin that is pale, goose-pimpled, a solemn, shivering face, brown eyes, wet dark hair, wearing a wet white robe clinging to him, standing lean and shivering, solemn, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, solemn nod, plain cream background (#FFF8E7)
+
+**studio**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Boaz, 33-year-old human man, 5'11", lean, skin that is pale, goose-pimpled, a solemn, shivering face, brown eyes, wet dark hair, fully nude, no clothing, standing lean with the arms at the sides and the shoulders tight, solemn and bashful, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, solemn, bashful, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
+**swim**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Boaz, 33-year-old human man, 5'11", lean, skin that is pale, goose-pimpled, a solemn, shivering face, brown eyes, wet dark hair, wearing wet white drawers, standing lean with the arms at the sides, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, solemn nod, plain pale aqua-tinted cream background (#DDF3F1)
+
+## E11-W8 Esther (bather in the ritual spring, E11 Veilhollow The Rite Spring (pop-up))
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Esther, 26-year-old human woman, 5'5", slim, a B cup bust, skin that is pale, goose-pimpled, a solemn, shivering face, hazel eyes, wet brown hair, unveiled, wearing a wet white shift clinging to her, standing slim and shivering, solemn, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, solemn look, plain cream background (#FFF8E7)
+
+**studio**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Esther, 26-year-old human woman, 5'5", slim, a B cup bust, skin that is pale, goose-pimpled, a solemn, shivering face, hazel eyes, wet brown hair, unveiled, fully nude, no clothing, standing slim with the arms at the sides and the shoulders tight, solemn and shy, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, solemn, shy, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+**swim**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Esther, 26-year-old human woman, 5'5", slim, a B cup bust, skin that is pale, goose-pimpled, a solemn, shivering face, hazel eyes, wet brown hair, unveiled, wearing a wet white shift, standing slim with the arms at the sides, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, solemn look, plain pale aqua-tinted cream background (#DDF3F1)
