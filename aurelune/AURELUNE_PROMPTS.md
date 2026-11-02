@@ -1,4 +1,4 @@
-# Aurelune prompts (38 people, 78 prompts)
+# Aurelune prompts (38 people, 80 prompts)
 
 ## N7-1 Aurelio (festival-warden, dignified, N7 Aurelune The Hall of Lights)
 
@@ -290,6 +290,10 @@ One Piece anime art style, adventure manga anime style, bold clean ink outlines,
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Noemi, 41-year-old human woman who looks her age, 5'7", full and elegant, a D cup bust, skin that is pale, lightly shimmering, a sly, glittering face behind a half-mask pushed up, grey-violet eyes, silver hair in a long loose wave, a silver beauty mark, fully nude, no clothing, standing with one hand raised to the cheek and the chin tilted, sly and teasing, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, sly, teasing, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
 
+**swim**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Noemi, 41-year-old human woman who looks her age, 5'7", full and elegant, a D cup bust, skin that is pale, lightly shimmering, a sly, glittering face behind a half-mask pushed up, grey-violet eyes, silver hair in a long loose wave, a silver beauty mark, wearing a black lace corset set with stockings, standing with the chin tilted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, sly smile, plain pale aqua-tinted cream background (#DDF3F1)
+
 ## N7-30 Virgilio (attendant, smooth, N7 Aurelune The Late Lanterns)
 
 **clothed**
@@ -299,6 +303,10 @@ One Piece anime art style, adventure manga anime style, bold clean ink outlines,
 **studio**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Virgilio, 30-year-old human man, 6'0", lean and graceful, skin that is pale, lightly shimmering, a smooth, handsome face with glitter along the cheekbones, pale blue eyes, white-blond hair in loose waves, fully nude, no clothing, standing with one hand held out and the head tilted, smooth and teasing, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, smooth, teasing, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
+**swim**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Virgilio, 30-year-old human man, 6'0", lean and graceful, skin that is pale, lightly shimmering, a smooth, handsome face with glitter along the cheekbones, pale blue eyes, white-blond hair in loose waves, wearing black silk drawers, standing smooth with one hand held out, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, smooth smile, plain pale aqua-tinted cream background (#DDF3F1)
 
 ## N7-W1 Julien (travelling merchant, newly arrived, a drifter from the mainland, N7 Aurelune The Aurora Quay (pop-up))
 

@@ -1,4 +1,4 @@
-# Steamhaven prompts (40 people, 88 prompts)
+# Steamhaven prompts (40 people, 91 prompts)
 
 ## N2-1 Augustus (hotel manager, smug, N2 Steamhaven The Grand Albion)
 
@@ -304,6 +304,10 @@ One Piece anime art style, adventure manga anime style, bold clean ink outlines,
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Araminta, 36-year-old human woman, 5'8", tall and elegant, a D cup bust, skin that is fair, powdered, a poised, knowing face, dark eyes, dark hair in a glossy chignon, a beauty spot on her cheek, fully nude, no clothing, standing with the chin lifted and one hand at the hair, poised and teasing, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, poised, teasing, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
 
+**swim**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Araminta, 36-year-old human woman, 5'8", tall and elegant, a D cup bust, skin that is fair, powdered, a poised, knowing face, dark eyes, dark hair in a glossy chignon, a beauty spot on her cheek, wearing a black corset set with stockings, standing with the chin lifted and the hands behind the back, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, poised smile, plain pale aqua-tinted cream background (#DDF3F1)
+
 ## N2-29 Ulysses (doorman, N2 Steamhaven The Brass Latch)
 
 **clothed**
@@ -324,6 +328,10 @@ One Piece anime art style, adventure manga anime style, bold clean ink outlines,
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Theodosia, 44-year-old human woman who looks her age, 5'7", full and composed, an E cup bust, skin that is fair, powdered, a composed, discreet face, brown eyes, grey-streaked brown hair in a smooth coil, fully nude, no clothing, standing with the hands clasped behind the back, composed and amused, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, composed, amused, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
 
+**swim**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Theodosia, 44-year-old human woman who looks her age, 5'7", full and composed, an E cup bust, skin that is fair, powdered, a composed, discreet face, brown eyes, grey-streaked brown hair in a smooth coil, wearing a cream silk slip, standing with one hand on the hip, discreet, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, discreet smile, plain pale aqua-tinted cream background (#DDF3F1)
+
 ## N2-31 Fitzgerald (attendant, discreet, N2 Steamhaven The Lattice)
 
 **clothed**
@@ -333,6 +341,10 @@ One Piece anime art style, adventure manga anime style, bold clean ink outlines,
 **studio**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Fitzgerald, 37-year-old human man, 6'0", lean and quiet, pale skin, a closed, discreet face, grey eyes, dark hair slicked back, fully nude, no clothing, standing with the hands behind the back, discreet and unbothered, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, discreet, unbothered, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
+**swim**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Fitzgerald, 37-year-old human man, 6'0", lean and quiet, pale skin, a closed, discreet face, grey eyes, dark hair slicked back, wearing plain drawers, standing with the hands behind the back, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, discreet nod, plain pale aqua-tinted cream background (#DDF3F1)
 
 ## N2-W1 Bertram (wealthy visiting guest from a southern trading family, N2 Steamhaven The Promenade (pop-up))
 

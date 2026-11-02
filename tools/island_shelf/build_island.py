@@ -151,8 +151,22 @@ SWIM_PLACE = re.compile(r"\bbath|\bspa\b|\bpools\b|\bbeach\b|\bcove\b|\bshore\b|
                         r"surfer|steam kettle", re.I)
 
 
+# Adult-venue workers and people who sell themselves (brothel, parlour, tent, salon and lodging-house staff, companions,
+# hustlers, alley and street folk, homeless) also get one: lingerie, drawers or ragged underwear is their normal state.
+ADULT_ROLE = re.compile(r"madam|madame|hostess|\bworker\b|companion|works the arch|works there|hustler|"
+                        r"offers (himself|herself|company)|\bselling\b|sells (his|her) nights|chosen (man|woman)|"
+                        r"rent in kind|woman of the lane|available|host of the tent|rarer appetites", re.I)
+ADULT_PLACE = re.compile(r"lattice|late lanterns|shared rite|whisper salon|decanter|silk cellar|ruby parlour|red shutter|"
+                         r"warm tent|windward bunk|brass latch|rented hour|chosen house|lodging house|floating party", re.I)
+ADULT_STAFF = re.compile(r"attendant|keeper|cellarman|\bhost\b|hostess|madam", re.I)
+ALLEY_PLACE = re.compile(r"back alley", re.I)
+
+
 def wants_third(r):
-    return bool(SWIM_PLACE.search(r["where"] + " " + r["role"]))
+    text = r["where"] + " " + r["role"]
+    if SWIM_PLACE.search(text) or ADULT_ROLE.search(r["role"]) or ALLEY_PLACE.search(r["where"]):
+        return True
+    return bool(ADULT_PLACE.search(r["where"]) and ADULT_STAFF.search(r["role"]))
 
 
 def tidy_third(t):

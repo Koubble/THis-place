@@ -1,4 +1,4 @@
-# Veilhollow prompts (38 people, 79 prompts)
+# Veilhollow prompts (38 people, 83 prompts)
 
 ## E11-1 Obadiah (the prophet, gentle-voiced and absolute, E11 Veilhollow The Sanctum)
 
@@ -230,6 +230,10 @@ One Piece anime art style, adventure manga anime style, bold clean ink outlines,
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Uriah, 38-year-old human man, 6'0", lean and fine-featured, pale and plain skin, a glassy, handsome face, dark brown eyes, soft dark hair, fully nude, no clothing, standing lean with the arms open at the sides, glassy and willing, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, glassy, willing, plain pale lavender-tinted cream background (#EEE6F7), average size penis
 
+**swim**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Uriah, 38-year-old human man, 6'0", lean and fine-featured, pale and plain skin, a glassy, handsome face, dark brown eyes, soft dark hair, wearing white drawers, standing lean with the arms open, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, glassy smile, plain pale aqua-tinted cream background (#DDF3F1)
+
 ## E11-24 Bathsheba (chosen woman, ornamented, E11 Veilhollow The Chosen House)
 
 **clothed**
@@ -239,6 +243,10 @@ One Piece anime art style, adventure manga anime style, bold clean ink outlines,
 **studio**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Bathsheba, 33-year-old human woman, 5'7", full and soft, a D cup bust, pale and plain skin, a beautiful, empty face, dark brown eyes, long dark hair, unveiled in the house, fully nude, no clothing, standing with the arms open and the chin lifted, empty and serene, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, empty, serene, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+**swim**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Bathsheba, 33-year-old human woman, 5'7", full and soft, a D cup bust, pale and plain skin, a beautiful, empty face, dark brown eyes, long dark hair, unveiled in the house, wearing a sheer white slip, standing with the arms open, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, empty, serene smile, plain pale aqua-tinted cream background (#DDF3F1)
 
 ## E11-25 Rebekah (attendant, brisk and cold, E11 Veilhollow The Cleansing Font)
 
@@ -294,6 +302,10 @@ One Piece anime art style, adventure manga anime style, bold clean ink outlines,
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Mehitabel, 40-year-old human woman who looks her age, 5'8", full and graceful, a D cup bust, pale and plain skin, a warm, unsettling face, dark brown eyes, long dark hair loose, unveiled in the room, fully nude, no clothing, standing full and graceful with the arms loose and the head tilted, warm and unembarrassed, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, warm, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
 
+**swim**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Mehitabel, 40-year-old human woman who looks her age, 5'8", full and graceful, a D cup bust, pale and plain skin, a warm, unsettling face, dark brown eyes, long dark hair loose, unveiled in the room, wearing a deep red slip, standing full and graceful with the arms loose, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, warm, unsettling smile, plain pale aqua-tinted cream background (#DDF3F1)
+
 ## E11-30 Reuben (attendant, smooth, E11 Veilhollow The Shared Rite)
 
 **clothed**
@@ -303,6 +315,10 @@ One Piece anime art style, adventure manga anime style, bold clean ink outlines,
 **studio**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Reuben, 31-year-old human man, 6'0", lean and graceful, pale and plain skin, a smooth, quiet face, brown eyes, dark hair falling over his eyes, fully nude, no clothing, standing lean and graceful with the hands at the sides, smooth and unembarrassed, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, smooth, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
+**swim**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Reuben, 31-year-old human man, 6'0", lean and graceful, pale and plain skin, a smooth, quiet face, brown eyes, dark hair falling over his eyes, wearing red silk drawers, standing lean and graceful with the hands at the sides, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, smooth smile, plain pale aqua-tinted cream background (#DDF3F1)
 
 ## E11-W1 Isaiah (pilgrim, earnest, E11 Veilhollow The Pilgrim Road and The Cloister Ring (pop-up))
 
