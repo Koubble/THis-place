@@ -40,7 +40,7 @@ def skin_phrase(s):
         return s
     if " with " in s:
         return s.replace(" with ", " skin with ", 1)
-    if "," in s or "across" in s:
+    if "," in s or "across" in s or " from " in s:
         return f"skin that is {s}"
     return f"{s} skin"
 
@@ -74,13 +74,16 @@ def core(r):
     woman = sex == "F"
     age = int(r["age"])
     pa = max(age, 22)  # prompt age: the three youngest are written as 22
-    people = r["people"].split(",")[0].strip()
-    people = re.sub(r"\s+(man|woman)$", "", people)
+    pp = [x.strip() for x in r["people"].split(",")]
+    people = re.sub(r"\s+(man|woman)$", "", pp[0])
+    extra = [x for x in pp[1:] if "grown adult" not in x]
     sw = "woman" if woman else "man"
     her = "her" if woman else "his"
     head = f"{r['name']}, {pa}-year-old {people} {sw}"
     if pa >= 40:
         head += f" who looks {her} age"
+    if extra:
+        head += ", " + ", ".join(extra)
     if pa >= 55:
         head += f", an older {sw}"
     if age < 22:
