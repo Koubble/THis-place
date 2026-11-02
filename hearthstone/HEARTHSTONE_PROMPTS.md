@@ -1,4 +1,4 @@
-# Hearthstone Isle prompts (85 people, 191 prompts)
+# Hearthstone prompts (85 people, 191 prompts)
 
 ## H1-1 Eben (harbourmaster, H1 Harbour and quay)
 

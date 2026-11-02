@@ -13,6 +13,24 @@ BG = {"clothed": "plain cream background (#FFF8E7)",
 FRAME = "three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view"
 ANAT = {"F": "nipples and vagina visible", "M": "average size penis"}
 
+
+def anat(r):
+    """Women: fixed wording. Men: 'average size penis' unless the roster note states a size."""
+    if r["sex"] == "F":
+        return ANAT["F"]
+    s = r["bust_or_scale"].lower()
+    if re.search(r"huge|enormous|massive|giant", s):
+        return "huge penis"
+    if re.search(r"very large|much larger|well above", s):
+        return "very large penis"
+    if re.search(r"larger than average|\blarge\b|\bbig\b|above average", s):
+        return "larger than average penis"
+    if re.search(r"tiny|very small", s):
+        return "very small penis"
+    if re.search(r"smaller than average|\bsmall\b|below average", s):
+        return "smaller than average penis"
+    return ANAT["M"]
+
 # wording fixes so no youthful words reach a prompt, and no weapon words
 SUB = [("boyish", "cheeky"), ("wide-eyed, trusting smile", "trusting smile"), ("wide-eyed, shy", "shy"),
        ("a wide-eyed trusting smile", "a bright trusting smile"), ("a thin cleaver scar", "a thin scar"),
@@ -132,7 +150,7 @@ for r in rows:
     pr["clothed"] = (f"{STYLE}, one {'woman' if woman else 'man'}, {cb}, wearing {clothed_out}, {cl_pose}, {FRAME}, "
                      f"soft even light, {cl_expr}, {BG['clothed']}")
     pr["nude"] = (f"{STYLE}, one {'woman' if woman else 'man'}, {cb}, fully nude, no clothing, {nu_pose}, {FRAME}, "
-                  f"soft even light, {nu_expr}, {BG['nude']}, {ANAT[r['sex']]}")
+                  f"soft even light, {nu_expr}, {BG['nude']}, {anat(r)}")
     if r["third_image_swim_or_underwear"]:
         sw_expr = cl_expr
         pr["swim"] = (f"{STYLE}, one {'woman' if woman else 'man'}, {cb}, wearing {tidy_third(r['third_image_swim_or_underwear'])}, "
