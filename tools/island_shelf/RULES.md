@@ -7,3 +7,4 @@
 - Studio (nude) prompts end, after the background, with: women "nipples and vagina visible"; men "average size penis", unless the roster note states a size ("larger than average" -> "larger than average penis", "huge" -> "huge penis").
 - UI label for nude is "Studio". Nude and swimwear prompts are shown by default, with tick boxes to hide them.
 - Build: python3 -I build_island.py ROSTER.csv OUT.json poses_<island>; then assemble.py with "key|Name|file.json" per island.
+- Relatives of player characters: the roster note names the character they resemble (e.g. "Duncan's colouring"). Prompts never contain those names. Keep the shared features themselves (colouring, brows, grin, glasses, beauty spot, cheekbones) as plain description. Corrected rows live in Relatives_Fixed_Rows.csv; merge_fixed.py swaps them into the island rosters (with names stripped) before build_island.py runs.
