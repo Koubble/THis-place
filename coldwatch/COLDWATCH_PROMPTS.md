@@ -1,4 +1,4 @@
-# Coldwatch prompts (34 people, 74 prompts)
+# Coldwatch prompts (34 people, 73 prompts)
 
 ## N6-1 Konrad (gate captain, N6 Coldwatch Wardgate)
 
@@ -312,15 +312,11 @@ One Piece anime art style, adventure manga anime style, bold clean ink outlines,
 
 **clothed**
 
-One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Frieda, 33-year-old human woman, 5'6", lean, a C cup bust, pale skin, a blunt face, dark eyes, black hair in a topknot, wearing a low-cut wool dress under a shawl, bare arms, thick stockings, standing with the hip cocked, blunt, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, blunt look, plain cream background (#FFF8E7)
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Frieda, 33-year-old human woman, 5'6", lean, a C cup bust, pale skin, a blunt face, dark eyes, black hair in a topknot, wearing black underwear with stockings, standing with the hip cocked, blunt, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, blunt look, plain cream background (#FFF8E7)
 
 **studio**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Frieda, 33-year-old human woman, 5'6", lean, a C cup bust, pale skin, a blunt face, dark eyes, black hair in a topknot, fully nude, no clothing, standing with one hip out and the hands on the hips, blunt, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, blunt, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
-
-**swim**
-
-One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Frieda, 33-year-old human woman, 5'6", lean, a C cup bust, pale skin, a blunt face, dark eyes, black hair in a topknot, wearing black underwear with stockings, standing with one hip out, blunt, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, blunt look, plain pale aqua-tinted cream background (#DDF3F1)
 
 ## N6-W5 Katrin (off-duty soldier, N6 Coldwatch The Thaw House (pop-up))
 

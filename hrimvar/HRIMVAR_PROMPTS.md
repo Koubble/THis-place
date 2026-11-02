@@ -1,4 +1,4 @@
-# Hrimvar prompts (46 people, 103 prompts)
+# Hrimvar prompts (46 people, 94 prompts)
 
 ## N1-1 Sigurd (harbour-reeve, tired, takes his cut, N1 Hrimvar Fishermen's Hall)
 
@@ -174,71 +174,51 @@ One Piece anime art style, adventure manga anime style, bold clean ink outlines,
 
 **clothed**
 
-One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Jodis, 48-year-old human woman who looks her age, 5'7", full and solid, a D cup bust, skin that is pale, powdered over the weather, a brisk, calculating face, green eyes, dyed red-gold hair in a pile, wearing a faded red dress with a fur wrap, a locket, a ring of keys, standing with a hand on the hip, brisk and appraising, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, brisk, appraising smile, plain cream background (#FFF8E7)
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Jodis, 48-year-old human woman who looks her age, 5'7", full and solid, a D cup bust, skin that is pale, powdered over the weather, a brisk, calculating face, green eyes, dyed red-gold hair in a pile, wearing a faded red slip, standing with a hand on the hip, brisk and appraising, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, brisk, appraising smile, plain cream background (#FFF8E7)
 
 **studio**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Jodis, 48-year-old human woman who looks her age, 5'7", full and solid, a D cup bust, skin that is pale, powdered over the weather, a brisk, calculating face, green eyes, dyed red-gold hair in a pile, fully nude, no clothing, standing with a hand on the hip and the chin lifted, brisk and unembarrassed, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, brisk, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
 
-**swim**
-
-One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Jodis, 48-year-old human woman who looks her age, 5'7", full and solid, a D cup bust, skin that is pale, powdered over the weather, a brisk, calculating face, green eyes, dyed red-gold hair in a pile, wearing a faded red slip, standing with a hand on the hip, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, brisk, appraising smile, plain pale aqua-tinted cream background (#DDF3F1)
-
 ## N1-19 Runa (works there, wry and worn, N1 Hrimvar The Red Shutter)
 
 **clothed**
 
-One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Runa, 24-year-old human woman, 5'6", slim, a C cup bust, skin that is pale, a little flushed, a wry, pretty face, blue eyes, long straw-blonde hair, wearing a laced dress under a fur wrap, bare ankles, a ribbon at the throat, standing with one shoulder bare and a hip cocked, wry, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, wry smile, plain cream background (#FFF8E7)
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Runa, 24-year-old human woman, 5'6", slim, a C cup bust, skin that is pale, a little flushed, a wry, pretty face, blue eyes, long straw-blonde hair, wearing a worn lace chemise, standing with one shoulder bare and a hip cocked, wry, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, wry smile, plain cream background (#FFF8E7)
 
 **studio**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Runa, 24-year-old human woman, 5'6", slim, a C cup bust, skin that is pale, a little flushed, a wry, pretty face, blue eyes, long straw-blonde hair, fully nude, no clothing, standing with a hip cocked and the head tilted, wry and tired, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, wry, tired, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
 
-**swim**
-
-One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Runa, 24-year-old human woman, 5'6", slim, a C cup bust, skin that is pale, a little flushed, a wry, pretty face, blue eyes, long straw-blonde hair, wearing a worn lace chemise, standing with a hip cocked, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, wry smile, plain pale aqua-tinted cream background (#DDF3F1)
-
 ## N1-20 Njal (works there, quiet and resigned, N1 Hrimvar The Red Shutter)
 
 **clothed**
 
-One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Njal, 26-year-old human man, 6'0", lean and fine-featured, skin that is pale, smooth, a quiet, handsome face, grey-blue eyes, soft brown hair falling over his eyes, wearing an open wool shirt under a fur-trimmed vest, snug trousers, standing with the shirt open and the eyes lowered, quiet, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, quiet half-smile, plain cream background (#FFF8E7)
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Njal, 26-year-old human man, 6'0", lean and fine-featured, skin that is pale, smooth, a quiet, handsome face, grey-blue eyes, soft brown hair falling over his eyes, wearing wool drawers, standing with the shirt open and the eyes lowered, quiet, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, quiet half-smile, plain cream background (#FFF8E7)
 
 **studio**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Njal, 26-year-old human man, 6'0", lean and fine-featured, skin that is pale, smooth, a quiet, handsome face, grey-blue eyes, soft brown hair falling over his eyes, fully nude, no clothing, standing with the eyes lowered and the hands clasped behind the back, resigned and shy, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, resigned, shy, plain pale lavender-tinted cream background (#EEE6F7), average size penis
 
-**swim**
-
-One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Njal, 26-year-old human man, 6'0", lean and fine-featured, skin that is pale, smooth, a quiet, handsome face, grey-blue eyes, soft brown hair falling over his eyes, wearing wool drawers, standing with the eyes lowered, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, quiet half-smile, plain pale aqua-tinted cream background (#DDF3F1)
-
 ## N1-21 Nanna (landlady who takes rent in kind, N1 Hrimvar The Winter Bed)
 
 **clothed**
 
-One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Nanna, 55-year-old human woman who looks her age, an older woman, 5'5", stout and strong, an E cup bust, skin that is pale, flushed, a shrewd, hard face, pale blue eyes, white-blonde hair in a tight braid, wearing a thick wool dress with a fur collar, a ring of keys and a rent-book at her belt, standing stout and strong with a shrewd smile, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, shrewd smile, plain cream background (#FFF8E7)
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Nanna, 55-year-old human woman who looks her age, an older woman, 5'5", stout and strong, an E cup bust, skin that is pale, flushed, a shrewd, hard face, pale blue eyes, white-blonde hair in a tight braid, wearing a plain wool shift, standing stout and strong with a shrewd smile, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, shrewd smile, plain cream background (#FFF8E7)
 
 **studio**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Nanna, 55-year-old human woman who looks her age, an older woman, 5'5", stout and strong, an E cup bust, skin that is pale, flushed, a shrewd, hard face, pale blue eyes, white-blonde hair in a tight braid, fully nude, no clothing, standing stout and strong with the hands on the hips, shrewd and unembarrassed, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, shrewd, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
 
-**swim**
-
-One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Nanna, 55-year-old human woman who looks her age, an older woman, 5'5", stout and strong, an E cup bust, skin that is pale, flushed, a shrewd, hard face, pale blue eyes, white-blonde hair in a tight braid, wearing a plain wool shift, standing stout with the hands on the hips, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, shrewd smile, plain pale aqua-tinted cream background (#DDF3F1)
-
 ## N1-22 Folke (lodger who sells his nights, N1 Hrimvar The Winter Bed)
 
 **clothed**
 
-One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Folke, 30-year-old human man, 5'11", gaunt and rangy, skin that is pale, hollow-cheeked, a haunted, handsome face, brown eyes, long stringy brown hair, wearing a threadbare wool coat, a patched shirt, a rope belt, standing gaunt with the arms wrapped round himself, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, hollow smile, plain cream background (#FFF8E7)
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Folke, 30-year-old human man, 5'11", gaunt and rangy, skin that is pale, hollow-cheeked, a haunted, handsome face, brown eyes, long stringy brown hair, wearing patched drawers, standing gaunt with the arms wrapped round himself, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, hollow smile, plain cream background (#FFF8E7)
 
 **studio**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Folke, 30-year-old human man, 5'11", gaunt and rangy, skin that is pale, hollow-cheeked, a haunted, handsome face, brown eyes, long stringy brown hair, fully nude, no clothing, standing gaunt with the arms hanging and the head bowed, hollow and resigned, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, hollow, resigned, plain pale lavender-tinted cream background (#EEE6F7), average size penis
-
-**swim**
-
-One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Folke, 30-year-old human man, 5'11", gaunt and rangy, skin that is pale, hollow-cheeked, a haunted, handsome face, brown eyes, long stringy brown hair, wearing patched drawers, standing gaunt with the arms hanging, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, hollow smile, plain pale aqua-tinted cream background (#DDF3F1)
 
 ## N1-23 Leidolf (moneylender, smooth and patient, N1 Hrimvar Leidolf's Book)
 
@@ -374,57 +354,41 @@ One Piece anime art style, adventure manga anime style, bold clean ink outlines,
 
 **clothed**
 
-One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Bersi, 34-year-old human man, 5'11", lean and worn, skin that is pale, unshaven, a hollow, ashamed face, grey eyes, tangled brown hair, wearing a ragged wool coat, a tied rope belt, patched trousers, standing with the arms crossed over the chest, ashamed, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, ashamed half-smile, plain cream background (#FFF8E7)
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Bersi, 34-year-old human man, 5'11", lean and worn, skin that is pale, unshaven, a hollow, ashamed face, grey eyes, tangled brown hair, wearing patched drawers, standing with the arms crossed over the chest, ashamed, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, ashamed half-smile, plain cream background (#FFF8E7)
 
 **studio**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Bersi, 34-year-old human man, 5'11", lean and worn, skin that is pale, unshaven, a hollow, ashamed face, grey eyes, tangled brown hair, fully nude, no clothing, standing with the head lowered and the hands at the sides, ashamed and resigned, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, ashamed, resigned, plain pale lavender-tinted cream background (#EEE6F7), average size penis
 
-**swim**
-
-One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Bersi, 34-year-old human man, 5'11", lean and worn, skin that is pale, unshaven, a hollow, ashamed face, grey eyes, tangled brown hair, wearing patched drawers, standing with the head lowered, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, ashamed half-smile, plain pale aqua-tinted cream background (#DDF3F1)
-
 ## N1-W2 Vala (widow with debts, selling herself, N1 Hrimvar Privy Row (pop-up))
 
 **clothed**
 
-One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Vala, 28-year-old human woman, 5'5", thin, a C cup bust, skin that is pale, sallow, a hollow, tired face, blue eyes, dull blonde hair, loose, wearing a threadbare wool dress and a thin shawl, standing with the arms wrapped round herself, tired, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, tired, forced smile, plain cream background (#FFF8E7)
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Vala, 28-year-old human woman, 5'5", thin, a C cup bust, skin that is pale, sallow, a hollow, tired face, blue eyes, dull blonde hair, loose, wearing a patched slip, standing with the arms wrapped round herself, tired, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, tired, forced smile, plain cream background (#FFF8E7)
 
 **studio**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Vala, 28-year-old human woman, 5'5", thin, a C cup bust, skin that is pale, sallow, a hollow, tired face, blue eyes, dull blonde hair, loose, fully nude, no clothing, standing with the hands at the sides and the head bowed, tired and resigned, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, tired, resigned, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
 
-**swim**
-
-One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Vala, 28-year-old human woman, 5'5", thin, a C cup bust, skin that is pale, sallow, a hollow, tired face, blue eyes, dull blonde hair, loose, wearing a patched slip, standing with the arms wrapped round herself, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, tired, forced smile, plain pale aqua-tinted cream background (#DDF3F1)
-
 ## N1-W3 Liv (desperate, selling for coin, N1 Hrimvar The Drying Racks and The Curtain Stalls (pop-up))
 
 **clothed**
 
-One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Liv, 24-year-old human woman, 5'6", slim, a B cup bust, pale, flushed skin with cold, a tense, pretty face, hazel eyes, light brown hair, loose and matted, wearing a short worn dress under a man's coat, bare calves, standing with the hands behind the back, tense, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, tense smile, plain cream background (#FFF8E7)
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Liv, 24-year-old human woman, 5'6", slim, a B cup bust, pale, flushed skin with cold, a tense, pretty face, hazel eyes, light brown hair, loose and matted, wearing a thin worn slip, standing with the hands behind the back, tense, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, tense smile, plain cream background (#FFF8E7)
 
 **studio**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Liv, 24-year-old human woman, 5'6", slim, a B cup bust, pale, flushed skin with cold, a tense, pretty face, hazel eyes, light brown hair, loose and matted, fully nude, no clothing, standing with the hands behind the back and the shoulders hunched, tense and shy, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, tense, shy, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
 
-**swim**
-
-One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Liv, 24-year-old human woman, 5'6", slim, a B cup bust, pale, flushed skin with cold, a tense, pretty face, hazel eyes, light brown hair, loose and matted, wearing a thin worn slip, standing with the hands behind the back, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, tense smile, plain pale aqua-tinted cream background (#DDF3F1)
-
 ## N1-W4 Varg (desperate, selling for coin, N1 Hrimvar The Beached Hulks and The Curtain Stalls (pop-up))
 
 **clothed**
 
-One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Varg, 31-year-old human man, 6'0", lean and sinewy, skin that is pale, wind-reddened, a tense, handsome face, brown eyes, dark hair tied back, wearing a patched jacket, rolled trousers, bare forearms, standing with the hands in the pockets, tense, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, tense half-smile, plain cream background (#FFF8E7)
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Varg, 31-year-old human man, 6'0", lean and sinewy, skin that is pale, wind-reddened, a tense, handsome face, brown eyes, dark hair tied back, wearing patched drawers, standing with the hands in the pockets, tense, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, tense half-smile, plain cream background (#FFF8E7)
 
 **studio**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Varg, 31-year-old human man, 6'0", lean and sinewy, skin that is pale, wind-reddened, a tense, handsome face, brown eyes, dark hair tied back, fully nude, no clothing, standing with the hands at the sides and the shoulders tense, resigned, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, tense, resigned, plain pale lavender-tinted cream background (#EEE6F7), average size penis
-
-**swim**
-
-One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Varg, 31-year-old human man, 6'0", lean and sinewy, skin that is pale, wind-reddened, a tense, handsome face, brown eyes, dark hair tied back, wearing patched drawers, standing with the hands at the sides, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, tense half-smile, plain pale aqua-tinted cream background (#DDF3F1)
 
 ## N1-W5 Rurik (visiting sailor, loud and flush, N1 Hrimvar The Quay (pop-up))
 

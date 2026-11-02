@@ -162,11 +162,16 @@ ADULT_STAFF = re.compile(r"attendant|keeper|cellarman|\bhost\b|hostess|madam", r
 ALLEY_PLACE = re.compile(r"back alley", re.I)
 
 
-def wants_third(r):
-    text = r["where"] + " " + r["role"]
-    if SWIM_PLACE.search(text) or ADULT_ROLE.search(r["role"]) or ALLEY_PLACE.search(r["where"]):
+def is_adult_worker(r):
+    """Adult-venue workers, people who sell themselves, alley and street folk."""
+    if ADULT_ROLE.search(r["role"]) or ALLEY_PLACE.search(r["where"]):
         return True
     return bool(ADULT_PLACE.search(r["where"]) and ADULT_STAFF.search(r["role"]))
+
+
+def wants_third(r):
+    """A separate swimwear/underwear prompt: only for swimwear/bathing places, and never for adult workers."""
+    return bool(SWIM_PLACE.search(r["where"] + " " + r["role"])) and not is_adult_worker(r)
 
 
 def tidy_third(t):
@@ -191,6 +196,9 @@ for r in rows:
     if woman:
         assert not re.search(r"\barms? (folded|crossed)(?! behind)|wrapped round", nu_pose), (pid, nu_pose)
     clothed_out = fix(r["clothed_outfit"])
+    if is_adult_worker(r) and r["third_image_swim_or_underwear"]:
+        # their normal attire IS the lingerie / drawers / ragged underwear: one prompt, not a clothed one plus a third
+        clothed_out = fix(tidy_third(r["third_image_swim_or_underwear"]))
     cl_expr = fix(r["clothed_expression"])
     nu_expr = fix(r["nude_expression"])
     pr = {}

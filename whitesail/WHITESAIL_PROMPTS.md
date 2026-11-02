@@ -1,4 +1,4 @@
-# Whitesail prompts (28 people, 66 prompts)
+# Whitesail prompts (28 people, 64 prompts)
 
 ## E1-1 Rollo (commodore, bluff and vain, E1 Whitesail The Regatta Club)
 
@@ -188,29 +188,21 @@ One Piece anime art style, adventure manga anime style, bold clean ink outlines,
 
 **clothed**
 
-One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Cosmo, 42-year-old human man who looks his age, 6'1", tall and lean, sun-tanned and polished skin, a charming, heavy-lidded face, dark brown eyes, swept-back dark hair with a touch of grey, a gold signet ring, wearing an open-collared silk shirt under a cream blazer, loose linen trousers, a tumbler in hand, standing tall and lean with a hand in the pocket and a knowing smile, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, charming, knowing smile, plain cream background (#FFF8E7)
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Cosmo, 42-year-old human man who looks his age, 6'1", tall and lean, sun-tanned and polished skin, a charming, heavy-lidded face, dark brown eyes, swept-back dark hair with a touch of grey, a gold signet ring, wearing black silk drawers, standing tall and lean with a hand in the pocket and a knowing smile, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, charming, knowing smile, plain cream background (#FFF8E7)
 
 **studio**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Cosmo, 42-year-old human man who looks his age, 6'1", tall and lean, sun-tanned and polished skin, a charming, heavy-lidded face, dark brown eyes, swept-back dark hair with a touch of grey, a gold signet ring, fully nude, no clothing, standing tall and lean with one hand on the hip and the head tilted, charming and unembarrassed, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, charming, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), average size penis
 
-**swim**
-
-One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Cosmo, 42-year-old human man who looks his age, 6'1", tall and lean, sun-tanned and polished skin, a charming, heavy-lidded face, dark brown eyes, swept-back dark hair with a touch of grey, a gold signet ring, wearing black silk drawers, standing tall with one hand on the hip, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, charming, knowing smile, plain pale aqua-tinted cream background (#DDF3F1)
-
 ## E1-20 Pandora (hostess who sets the mood of the night, E1 Whitesail The Floating Party)
 
 **clothed**
 
-One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Pandora, 31-year-old human woman, 5'8", slim and curvy, a D cup bust, sun-tanned and polished skin, a sly, beautiful face, green eyes, long dark curls, a beauty spot at the lip, wearing a plunging silk dress, gold bracelets, a champagne flute, standing with a hip cocked and one arm raised, sly, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, sly smile, plain cream background (#FFF8E7)
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Pandora, 31-year-old human woman, 5'8", slim and curvy, a D cup bust, sun-tanned and polished skin, a sly, beautiful face, green eyes, long dark curls, a beauty spot at the lip, wearing a black lace set, standing with a hip cocked and one arm raised, sly, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, sly smile, plain cream background (#FFF8E7)
 
 **studio**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Pandora, 31-year-old human woman, 5'8", slim and curvy, a D cup bust, sun-tanned and polished skin, a sly, beautiful face, green eyes, long dark curls, a beauty spot at the lip, fully nude, no clothing, standing with a hip cocked and one arm raised overhead, sly and teasing, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, sly, teasing, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
-
-**swim**
-
-One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Pandora, 31-year-old human woman, 5'8", slim and curvy, a D cup bust, sun-tanned and polished skin, a sly, beautiful face, green eyes, long dark curls, a beauty spot at the lip, wearing a black lace set, standing with a hip cocked, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, sly smile, plain pale aqua-tinted cream background (#DDF3F1)
 
 ## E1-21 Maxim (steward and crew, looks the other way, E1 Whitesail The Floating Party)
 

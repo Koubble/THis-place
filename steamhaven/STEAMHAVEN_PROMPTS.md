@@ -1,4 +1,4 @@
-# Steamhaven prompts (40 people, 91 prompts)
+# Steamhaven prompts (40 people, 87 prompts)
 
 ## N2-1 Augustus (hotel manager, smug, N2 Steamhaven The Grand Albion)
 
@@ -260,15 +260,11 @@ One Piece anime art style, adventure manga anime style, bold clean ink outlines,
 
 **clothed**
 
-One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Lysandra, 45-year-old human woman who looks her age, 5'7", full and poised, an E cup bust, skin that is fair, flushed, a knowing, poised face, green eyes, auburn hair in a smooth coil, wearing a fitted silk robe in rose with a deep neckline, a sash, soft slippers, standing with one hand on the hip, knowing, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, knowing smile, plain cream background (#FFF8E7)
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Lysandra, 45-year-old human woman who looks her age, 5'7", full and poised, an E cup bust, skin that is fair, flushed, a knowing, poised face, green eyes, auburn hair in a smooth coil, wearing a rose silk chemise, standing with one hand on the hip, knowing, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, knowing smile, plain cream background (#FFF8E7)
 
 **studio**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Lysandra, 45-year-old human woman who looks her age, 5'7", full and poised, an E cup bust, skin that is fair, flushed, a knowing, poised face, green eyes, auburn hair in a smooth coil, fully nude, no clothing, standing with one hand on the hip and the chin lifted, poised and teasing, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, poised, teasing, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
-
-**swim**
-
-One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Lysandra, 45-year-old human woman who looks her age, 5'7", full and poised, an E cup bust, skin that is fair, flushed, a knowing, poised face, green eyes, auburn hair in a smooth coil, wearing a rose silk chemise, standing with one hand on the hip, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, knowing smile, plain pale aqua-tinted cream background (#DDF3F1)
 
 ## N2-26 Marcellus (masseur, N2 Steamhaven The Kneading Room)
 
@@ -298,15 +294,11 @@ One Piece anime art style, adventure manga anime style, bold clean ink outlines,
 
 **clothed**
 
-One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Araminta, 36-year-old human woman, 5'8", tall and elegant, a D cup bust, skin that is fair, powdered, a poised, knowing face, dark eyes, dark hair in a glossy chignon, a beauty spot on her cheek, wearing a black velvet gown with a plunging neckline and long gloves, a pearl choker, standing with the chin lifted and the hands behind the back, poised, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, poised smile, plain cream background (#FFF8E7)
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Araminta, 36-year-old human woman, 5'8", tall and elegant, a D cup bust, skin that is fair, powdered, a poised, knowing face, dark eyes, dark hair in a glossy chignon, a beauty spot on her cheek, wearing a black corset set with stockings, standing with the chin lifted and the hands behind the back, poised, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, poised smile, plain cream background (#FFF8E7)
 
 **studio**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Araminta, 36-year-old human woman, 5'8", tall and elegant, a D cup bust, skin that is fair, powdered, a poised, knowing face, dark eyes, dark hair in a glossy chignon, a beauty spot on her cheek, fully nude, no clothing, standing with the chin lifted and one hand at the hair, poised and teasing, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, poised, teasing, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
-
-**swim**
-
-One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Araminta, 36-year-old human woman, 5'8", tall and elegant, a D cup bust, skin that is fair, powdered, a poised, knowing face, dark eyes, dark hair in a glossy chignon, a beauty spot on her cheek, wearing a black corset set with stockings, standing with the chin lifted and the hands behind the back, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, poised smile, plain pale aqua-tinted cream background (#DDF3F1)
 
 ## N2-29 Ulysses (doorman, N2 Steamhaven The Brass Latch)
 
@@ -322,29 +314,21 @@ One Piece anime art style, adventure manga anime style, bold clean ink outlines,
 
 **clothed**
 
-One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Theodosia, 44-year-old human woman who looks her age, 5'7", full and composed, an E cup bust, skin that is fair, powdered, a composed, discreet face, brown eyes, grey-streaked brown hair in a smooth coil, wearing a dark grey silk gown with a high collar and a veil pinned back, a small book of bookings, standing with the hands clasped in front, discreet, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, discreet smile, plain cream background (#FFF8E7)
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Theodosia, 44-year-old human woman who looks her age, 5'7", full and composed, an E cup bust, skin that is fair, powdered, a composed, discreet face, brown eyes, grey-streaked brown hair in a smooth coil, wearing a cream silk slip, standing with the hands clasped in front, discreet, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, discreet smile, plain cream background (#FFF8E7)
 
 **studio**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Theodosia, 44-year-old human woman who looks her age, 5'7", full and composed, an E cup bust, skin that is fair, powdered, a composed, discreet face, brown eyes, grey-streaked brown hair in a smooth coil, fully nude, no clothing, standing with the hands clasped behind the back, composed and amused, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, composed, amused, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
 
-**swim**
-
-One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Theodosia, 44-year-old human woman who looks her age, 5'7", full and composed, an E cup bust, skin that is fair, powdered, a composed, discreet face, brown eyes, grey-streaked brown hair in a smooth coil, wearing a cream silk slip, standing with one hand on the hip, discreet, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, discreet smile, plain pale aqua-tinted cream background (#DDF3F1)
-
 ## N2-31 Fitzgerald (attendant, discreet, N2 Steamhaven The Lattice)
 
 **clothed**
 
-One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Fitzgerald, 37-year-old human man, 6'0", lean and quiet, pale skin, a closed, discreet face, grey eyes, dark hair slicked back, wearing a black coat with a high collar, white gloves, a small brass key, standing with the hands behind the back, discreet, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, discreet nod, plain cream background (#FFF8E7)
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Fitzgerald, 37-year-old human man, 6'0", lean and quiet, pale skin, a closed, discreet face, grey eyes, dark hair slicked back, wearing plain drawers, standing with the hands behind the back, discreet, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, discreet nod, plain cream background (#FFF8E7)
 
 **studio**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Fitzgerald, 37-year-old human man, 6'0", lean and quiet, pale skin, a closed, discreet face, grey eyes, dark hair slicked back, fully nude, no clothing, standing with the hands behind the back, discreet and unbothered, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, discreet, unbothered, plain pale lavender-tinted cream background (#EEE6F7), average size penis
-
-**swim**
-
-One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Fitzgerald, 37-year-old human man, 6'0", lean and quiet, pale skin, a closed, discreet face, grey eyes, dark hair slicked back, wearing plain drawers, standing with the hands behind the back, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, discreet nod, plain pale aqua-tinted cream background (#DDF3F1)
 
 ## N2-W1 Bertram (wealthy visiting guest from a southern trading family, N2 Steamhaven The Promenade (pop-up))
 
