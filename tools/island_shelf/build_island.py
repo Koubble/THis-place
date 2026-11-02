@@ -1,8 +1,9 @@
 import csv, json, re, sys, collections
 sys.path.insert(0, ".")
-import poses_hearthstone as PH
+import importlib
 
 CSV_PATH, OUT_JSON = sys.argv[1], sys.argv[2]
+PH = importlib.import_module(sys.argv[3] if len(sys.argv) > 3 else 'poses_hearthstone')
 
 STYLE = ("One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel "
          "shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition")
