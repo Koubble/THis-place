@@ -173,7 +173,7 @@ def core(r):
 # A third (swimwear/underwear) prompt is only made for people who are in, or could turn up in, a place where
 # swimwear or bathwear is worn: beaches, baths, spas, pools, springs, caves, changing huts, wash and scrub houses,
 # massage rooms, and swimmers, lifeguards and bathers.
-SWIM_PLACE = re.compile(r"\bbath|\bspa\b|\bpools\b|\bbeach\b|\bcove\b|\bshore\b|\bshingle\b|\bstrand\b|\bspring|\bseep\b|"
+SWIM_PLACE = re.compile(r"\bbath|\bspa\b|\bpools\b|\bbeach\b|\bcove\b|\bshore\b(?! leave)|\bshingle\b|\bstrand\b|\bspring|\bseep\b|"
                         r"\bbasins?\b|\bplunge\b|\bsauna|sweat hall|thaw house|scrub house|\bwash|\blido\b|tide cave|"
                         r"sunbath|pontoon|\bmere\b|cleansing|changing hut|massage|masseu|kneading|swimm|lifeguard|"
                         r"surfer|steam kettle", re.I)
@@ -183,10 +183,10 @@ SWIM_PLACE = re.compile(r"\bbath|\bspa\b|\bpools\b|\bbeach\b|\bcove\b|\bshore\b|
 # hustlers, alley and street folk, homeless) also get one: lingerie, drawers or ragged underwear is their normal state.
 ADULT_ROLE = re.compile(r"madam|madame|hostess|\bworker\b|companion|works the arch|works there|hustler|"
                         r"offers (himself|herself|company)|\bselling\b|sells (his|her) nights|chosen (man|woman)|"
-                        r"rent in kind|woman of the lane|available|host of the tent|rarer appetites", re.I)
+                        r"rent in kind|woman of the (back )?lane|available|host of the tent|rarer appetites|girl (from|who)|house's one man", re.I)
 ADULT_PLACE = re.compile(r"lattice|late lanterns|shared rite|whisper salon|decanter|silk cellar|ruby parlour|red shutter|"
-                         r"warm tent|windward bunk|brass latch|rented hour|chosen house|lodging house|floating party", re.I)
-ADULT_STAFF = re.compile(r"attendant|keeper|cellarman|\bhost\b|hostess|madam", re.I)
+                         r"warm tent|windward bunk|brass latch|rented hour|chosen house|lodging house|floating party|pink pennant|mizzen lounge", re.I)
+ADULT_STAFF = re.compile(r"attendant|keeper|cellarman|\bhost\b|hostess|madam|\bgirl\b|house's one man", re.I)
 ALLEY_PLACE = re.compile(r"back alley", re.I)
 
 

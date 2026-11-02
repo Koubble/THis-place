@@ -58,4 +58,15 @@ UGLY = {
  "E1-1": dict(face_add="a florid veined nose and puffy jowls"),
  # Veilhollow
  "E11-18": dict(face_add="a sweaty, damp, shiny face with wet lips and a wart"),
+ # Brinewatch
+ "E02-W5": dict(face_add="a sweaty flushed face, bloodshot eyes, rotten gapped teeth, a crooked broken nose and patchy stubble", skin="blotchy, sweaty and sun-ruined"),
+ "E02-29": dict(face_add="a veined red nose, heavy sweating jowls, a wart by the mouth and yellowed teeth"),
+ "E02-21": dict(face_add="oily sweating skin, wet loose lips, a wart beside the nose and a greasy waxed moustache"),
+ "E02-20": dict(face_add="a pinched fussy face with a wart on the chin and yellow crooked teeth"),
+ "E02-3": dict(face_add="a swollen veined red nose, thick bristling eyebrows and puffy jowls"),
+ "E02-W3": dict(face_add="a lumpy broken nose, pitted weather-beaten skin and missing teeth"),
+ "E02-16": dict(face_add="a double chin, a hairy mole on the chin and a lumpy bulbous nose"),
+ "E02-25": dict(face_add="deep wrinkles, a hairy wart by the mouth and sagging jowls"),
+ "E02-W6": dict(face_add="smeared cheap paint over sallow pitted skin, gapped yellow teeth and a sore at the corner of the lip"),
+ "E02-30": dict(face_add="a gap-toothed laughing mouth, a flushed blotchy complexion and a double chin"),
 }
