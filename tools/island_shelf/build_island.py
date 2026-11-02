@@ -52,7 +52,7 @@ def anat(r):
     return SPECIES.get(base, ("", None))[1] or ANAT["M"]
 
 # wording fixes so no youthful words reach a prompt, and no weapon words
-SUB = [("petite", "small-framed"), ("boyish", "cheeky"), ("wide-eyed, trusting smile", "trusting smile"), ("wide-eyed, shy", "shy"),
+SUB = [("blood-stained", "dark-stained"), ("petite", "small-framed"), ("boyish", "cheeky"), ("wide-eyed, trusting smile", "trusting smile"), ("wide-eyed, shy", "shy"),
        ("a wide-eyed trusting smile", "a bright trusting smile"), ("a thin cleaver scar", "a thin scar"),
        ("cleaver scar", "scar")]
 SKIN_OVERRIDE = {}
