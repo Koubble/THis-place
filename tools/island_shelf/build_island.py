@@ -162,6 +162,23 @@ ADULT_STAFF = re.compile(r"attendant|keeper|cellarman|\bhost\b|hostess|madam", r
 ALLEY_PLACE = re.compile(r"back alley", re.I)
 
 
+RAGGED = re.compile(r"selling|desperate|homeless|alley|street|sells (his|her) nights|lane|hustler|thief|drunk|pickpocket", re.I)
+ADULT_DEFAULTS = {
+    ("F", False): ["a black lace lingerie set with stockings", "a red silk slip with stockings", "a cream lace chemise with stockings",
+                   "a plum corset set with stockings"],
+    ("M", False): ["black silk drawers", "snug white drawers", "red silk drawers"],
+    ("F", True): ["a thin worn slip", "a ragged torn chemise", "a patched worn shift"],
+    ("M", True): ["patched drawers", "ragged torn shorts", "worn wool drawers"],
+}
+
+
+def adult_default(r):
+    """Fallback when a roster gives an adult worker no underwear item."""
+    ragged = bool(RAGGED.search(r["role"] + " " + r["where"]))
+    opts = ADULT_DEFAULTS[(r["sex"], ragged)]
+    return opts[sum(map(ord, r["name"])) % len(opts)]
+
+
 def is_adult_worker(r):
     """Adult-venue workers, people who sell themselves, alley and street folk."""
     if ADULT_ROLE.search(r["role"]) or ALLEY_PLACE.search(r["where"]):
@@ -196,9 +213,11 @@ for r in rows:
     if woman:
         assert not re.search(r"\barms? (folded|crossed)(?! behind)|wrapped round", nu_pose), (pid, nu_pose)
     clothed_out = fix(r["clothed_outfit"])
-    if is_adult_worker(r) and r["third_image_swim_or_underwear"]:
-        # their normal attire IS the lingerie / drawers / ragged underwear: one prompt, not a clothed one plus a third
-        clothed_out = fix(tidy_third(r["third_image_swim_or_underwear"]))
+    if is_adult_worker(r):
+        # STANDING RULE: adult workers are never seen in normal clothes. Their one non-nude prompt is their normal attire
+        # (lingerie, drawers, a slutty dress, ragged torn underwear), whatever the roster's clothed/third columns say.
+        clothed_out = fix(tidy_third(r["third_image_swim_or_underwear"])) if r["third_image_swim_or_underwear"] \
+            else adult_default(r)
     cl_expr = fix(r["clothed_expression"])
     nu_expr = fix(r["nude_expression"])
     pr = {}

@@ -114,7 +114,7 @@ One Piece anime art style, adventure manga anime style, bold clean ink outlines,
 
 **clothed**
 
-One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Hjalmar, 48-year-old human man who looks his age, 6'0", spare and hard, skin that is fair, weathered, a stern, humourless face, pale blue eyes, iron-grey hair and a clipped beard, wearing a dark waistcoat over a collarless shirt, a ring of keys at his belt, standing with the hands behind the back, stern, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, stern look, plain cream background (#FFF8E7)
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Hjalmar, 48-year-old human man who looks his age, 6'0", spare and hard, skin that is fair, weathered, a stern, humourless face, pale blue eyes, iron-grey hair and a clipped beard, wearing snug white drawers, standing with the hands behind the back, stern, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, stern look, plain cream background (#FFF8E7)
 
 **studio**
 
