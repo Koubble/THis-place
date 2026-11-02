@@ -1,4 +1,4 @@
-# Steamhaven prompts (40 people, 105 prompts)
+# Steamhaven prompts (40 people, 88 prompts)
 
 ## N2-1 Augustus (hotel manager, smug, N2 Steamhaven The Grand Albion)
 
@@ -20,10 +20,6 @@ One Piece anime art style, adventure manga anime style, bold clean ink outlines,
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Ferdinand, 29-year-old human man, 6'0", slim and elegant, skin that is fair, flushed pink from the steam, a charming, flirty face, hazel eyes, wavy brown hair, neatly parted, fully nude, no clothing, standing with one hand on the hip and the head tilted, charming and teasing, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, charming, teasing, plain pale lavender-tinted cream background (#EEE6F7), average size penis
 
-**swim**
-
-One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Ferdinand, 29-year-old human man, 6'0", slim and elegant, skin that is fair, flushed pink from the steam, a charming, flirty face, hazel eyes, wavy brown hair, neatly parted, wearing plain white drawers, standing with one hand on the hip and a teasing smile, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, flirty smile, plain pale aqua-tinted cream background (#DDF3F1)
-
 ## N2-3 Millicent (chambermaid, nervous, N2 Steamhaven The Grand Albion)
 
 **clothed**
@@ -33,10 +29,6 @@ One Piece anime art style, adventure manga anime style, bold clean ink outlines,
 **studio**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Millicent, 24-year-old human woman, 5'4", slim, a B cup bust, skin that is fair, flushed pink from the steam, a nervous, pretty face, brown eyes, brown hair in a tidy bun, fully nude, no clothing, standing with the shoulders drawn in and the hands clasped behind the back, nervous and shy, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, nervous, shy, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
-
-**swim**
-
-One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Millicent, 24-year-old human woman, 5'4", slim, a B cup bust, skin that is fair, flushed pink from the steam, a nervous, pretty face, brown eyes, brown hair in a tidy bun, wearing a plain white slip, standing with the hands clasped behind the back, nervous, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, nervous smile, plain pale aqua-tinted cream background (#DDF3F1)
 
 ## N2-4 Octavius (doorman, N2 Steamhaven The Grand Albion)
 
@@ -120,10 +112,6 @@ One Piece anime art style, adventure manga anime style, bold clean ink outlines,
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Florence, 22-year-old human woman, 5'5", slim, a B cup bust, skin that is fair, flushed pink from the steam, an eager, rosy face, hazel eyes, light brown ringlets, fully nude, no clothing, standing with the hands clasped behind the back and the shoulders drawn in, eager and shy, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, eager, shy, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
 
-**swim**
-
-One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Florence, 22-year-old human woman, 5'5", slim, a B cup bust, skin that is fair, flushed pink from the steam, an eager, rosy face, hazel eyes, light brown ringlets, wearing a lace-trimmed chemise, standing with the hands clasped behind the back, eager, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, eager smile, plain pale aqua-tinted cream background (#DDF3F1)
-
 ## N2-11 Algernon (confectioner, plump, N2 Steamhaven The Sweet Tooth)
 
 **clothed**
@@ -143,10 +131,6 @@ One Piece anime art style, adventure manga anime style, bold clean ink outlines,
 **studio**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Isadora, 38-year-old human woman, 5'7", curvy and languid, a D cup bust, skin that is fair, lightly powdered, a languid, seductive face, violet-grey eyes, dark hair in a loose twist, fully nude, no clothing, standing languidly with one hand at the collarbone and the head tilted back, teasing, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, languid, teasing, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
-
-**swim**
-
-One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Isadora, 38-year-old human woman, 5'7", curvy and languid, a D cup bust, skin that is fair, lightly powdered, a languid, seductive face, violet-grey eyes, dark hair in a loose twist, wearing a black silk chemise, standing languidly with one hand at the hair, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, languid smile, plain pale aqua-tinted cream background (#DDF3F1)
 
 ## N2-13 Ignatius (watchmaker and jeweller, N2 Steamhaven Tick and Tock)
 
@@ -202,10 +186,6 @@ One Piece anime art style, adventure manga anime style, bold clean ink outlines,
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Ophelia, 27-year-old human woman, 5'6", slim and graceful, a B cup bust, skin that is fair, flushed pink from the steam, a dreamy, delicate face, dark brown eyes, dark hair in a low bun with a ribbon, fully nude, no clothing, standing with the head tilted and the hands clasped behind the back, dreamy and shy, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, dreamy, shy, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
 
-**swim**
-
-One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Ophelia, 27-year-old human woman, 5'6", slim and graceful, a B cup bust, skin that is fair, flushed pink from the steam, a dreamy, delicate face, dark brown eyes, dark hair in a low bun with a ribbon, wearing a cream chemise, standing with the head tilted dreamily and the hands at the sides, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, dreamy smile, plain pale aqua-tinted cream background (#DDF3F1)
-
 ## N2-18 Dorothea (proprietress and gossip, N2 Steamhaven The Silver Samovar)
 
 **clothed**
@@ -225,10 +205,6 @@ One Piece anime art style, adventure manga anime style, bold clean ink outlines,
 **studio**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Cecily, 23-year-old human woman, 5'4", slim, a B cup bust, skin that is fair, flushed pink from the steam, a bright, sweet face, blue eyes, blonde ringlets under a cap, fully nude, no clothing, standing with the shoulders drawn in, hands clasped behind the back and the cheeks flushed, sweet and flustered, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, sweet, flustered, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
-
-**swim**
-
-One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Cecily, 23-year-old human woman, 5'4", slim, a B cup bust, skin that is fair, flushed pink from the steam, a bright, sweet face, blue eyes, blonde ringlets under a cap, wearing a white chemise, standing with the hands clasped behind the back, flustered, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, bright smile, plain pale aqua-tinted cream background (#DDF3F1)
 
 ## N2-20 Bellows (foreman, rough, N2 Steamhaven The Boilerworks)
 
@@ -250,10 +226,6 @@ One Piece anime art style, adventure manga anime style, bold clean ink outlines,
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Coke, 26-year-old human man, 5'11", lean and muscular, soot-smudged tan skin, a face with a cheeky, sooty grin, dark eyes, cropped black hair, fully nude, no clothing, standing with one hand rubbing the back of the neck, cheeky and easy, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, cheeky, easy, plain pale lavender-tinted cream background (#EEE6F7), average size penis
 
-**swim**
-
-One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Coke, 26-year-old human man, 5'11", lean and muscular, soot-smudged tan skin, a face with a cheeky, sooty grin, dark eyes, cropped black hair, wearing plain drawers, standing with the weight on one leg and a cheeky grin, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, cheeky grin, plain pale aqua-tinted cream background (#DDF3F1)
-
 ## N2-22 Biddy (tavern keeper, hard, N2 Steamhaven The Leaking Tap)
 
 **clothed**
@@ -273,10 +245,6 @@ One Piece anime art style, adventure manga anime style, bold clean ink outlines,
 **studio**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Pipkin, 25-year-old human woman, 5'3", small and curvy, a D cup bust, skin that is fair, flushed pink from the steam, a cheeky, freckled face, green eyes, ginger hair in a messy bun, fully nude, no clothing, standing leaning forward with one hand reaching out, cheeky and bold, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, cheeky, bold, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
-
-**swim**
-
-One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Pipkin, 25-year-old human woman, 5'3", small and curvy, a D cup bust, skin that is fair, flushed pink from the steam, a cheeky, freckled face, green eyes, ginger hair in a messy bun, wearing black lace underwear with stockings, standing leaning forward with one hand reaching out, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, cheeky wink, plain pale aqua-tinted cream background (#DDF3F1)
 
 ## N2-24 Gravy (bouncer, the moral line, N2 Steamhaven The Leaking Tap)
 
@@ -336,10 +304,6 @@ One Piece anime art style, adventure manga anime style, bold clean ink outlines,
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Araminta, 36-year-old human woman, 5'8", tall and elegant, a D cup bust, skin that is fair, powdered, a poised, knowing face, dark eyes, dark hair in a glossy chignon, a beauty spot on her cheek, fully nude, no clothing, standing with the chin lifted and one hand at the hair, poised and teasing, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, poised, teasing, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
 
-**swim**
-
-One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Araminta, 36-year-old human woman, 5'8", tall and elegant, a D cup bust, skin that is fair, powdered, a poised, knowing face, dark eyes, dark hair in a glossy chignon, a beauty spot on her cheek, wearing a black corset set with stockings, standing with the chin lifted and the hands behind the back, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, poised smile, plain pale aqua-tinted cream background (#DDF3F1)
-
 ## N2-29 Ulysses (doorman, N2 Steamhaven The Brass Latch)
 
 **clothed**
@@ -360,10 +324,6 @@ One Piece anime art style, adventure manga anime style, bold clean ink outlines,
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Theodosia, 44-year-old human woman who looks her age, 5'7", full and composed, an E cup bust, skin that is fair, powdered, a composed, discreet face, brown eyes, grey-streaked brown hair in a smooth coil, fully nude, no clothing, standing with the hands clasped behind the back, composed and amused, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, composed, amused, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
 
-**swim**
-
-One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Theodosia, 44-year-old human woman who looks her age, 5'7", full and composed, an E cup bust, skin that is fair, powdered, a composed, discreet face, brown eyes, grey-streaked brown hair in a smooth coil, wearing a cream silk slip, standing with one hand on the hip, discreet, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, discreet smile, plain pale aqua-tinted cream background (#DDF3F1)
-
 ## N2-31 Fitzgerald (attendant, discreet, N2 Steamhaven The Lattice)
 
 **clothed**
@@ -373,10 +333,6 @@ One Piece anime art style, adventure manga anime style, bold clean ink outlines,
 **studio**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Fitzgerald, 37-year-old human man, 6'0", lean and quiet, pale skin, a closed, discreet face, grey eyes, dark hair slicked back, fully nude, no clothing, standing with the hands behind the back, discreet and unbothered, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, discreet, unbothered, plain pale lavender-tinted cream background (#EEE6F7), average size penis
-
-**swim**
-
-One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Fitzgerald, 37-year-old human man, 6'0", lean and quiet, pale skin, a closed, discreet face, grey eyes, dark hair slicked back, wearing plain drawers, standing with the hands behind the back, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, discreet nod, plain pale aqua-tinted cream background (#DDF3F1)
 
 ## N2-W1 Bertram (wealthy visiting guest from a southern trading family, N2 Steamhaven The Promenade (pop-up))
 
@@ -388,10 +344,6 @@ One Piece anime art style, adventure manga anime style, bold clean ink outlines,
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Bertram, 58-year-old human man who looks his age, an older man, 5'9", portly and genial, skin that is olive, flushed, a genial, shrewd face, dark brown eyes, grey-black hair and a trimmed beard, rings on his fingers, fully nude, no clothing, standing genial with one hand on the belly and the other on the hip, shameless, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, genial, shameless, plain pale lavender-tinted cream background (#EEE6F7), average size penis
 
-**swim**
-
-One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Bertram, 58-year-old human man who looks his age, an older man, 5'9", portly and genial, skin that is olive, flushed, a genial, shrewd face, dark brown eyes, grey-black hair and a trimmed beard, rings on his fingers, wearing plain drawers, standing genial with the hands on the hips, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, genial smile, plain pale aqua-tinted cream background (#DDF3F1)
-
 ## N2-W2 Winifred (bold rich widow, N2 Steamhaven The Promenade (pop-up))
 
 **clothed**
@@ -401,10 +353,6 @@ One Piece anime art style, adventure manga anime style, bold clean ink outlines,
 **studio**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Winifred, 52-year-old human woman who looks her age, 5'6", full and confident, an E cup bust, skin that is fair, powdered, a bold, painted face, green eyes, dyed auburn hair under a feathered hat, fully nude, no clothing, standing with the chin high and one hand at the hair, bold and amused, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, bold, amused, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
-
-**swim**
-
-One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Winifred, 52-year-old human woman who looks her age, 5'6", full and confident, an E cup bust, skin that is fair, powdered, a bold, painted face, green eyes, dyed auburn hair under a feathered hat, wearing a violet silk chemise, standing with the chin high and one hand on the hip, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, bold smile, plain pale aqua-tinted cream background (#DDF3F1)
 
 ## N2-W3 Ink (gossip columnist, N2 Steamhaven The Promenade (pop-up))
 
@@ -426,10 +374,6 @@ One Piece anime art style, adventure manga anime style, bold clean ink outlines,
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Tuppence, 22-year-old human woman, 5'4", slim, a B cup bust, skin that is fair, flushed pink from the steam, a sly, pretty face, brown eyes, brown hair half out of its cap, fully nude, no clothing, standing with one hip out and the head tilted, sly and teasing, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, sly, teasing, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
 
-**swim**
-
-One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Tuppence, 22-year-old human woman, 5'4", slim, a B cup bust, skin that is fair, flushed pink from the steam, a sly, pretty face, brown eyes, brown hair half out of its cap, wearing a plain slip, standing with one hip out, sly, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, sly grin, plain pale aqua-tinted cream background (#DDF3F1)
-
 ## N2-W5 Sprat (pickpocket lad (clearly adult), N2 Steamhaven The Back Stairs (pop-up))
 
 **clothed**
@@ -439,10 +383,6 @@ One Piece anime art style, adventure manga anime style, bold clean ink outlines,
 **studio**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Sprat, 22-year-old human man, an adult man with defined cheekbones and mature features, 5'8", wiry and quick, pale skin, a cheeky, quick face, dark eyes, messy dark hair, fully nude, no clothing, standing with the arms spread wide, cheeky and shameless, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, cheeky, shameless, plain pale lavender-tinted cream background (#EEE6F7), average size penis
-
-**swim**
-
-One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Sprat, 22-year-old human man, an adult man with defined cheekbones and mature features, 5'8", wiry and quick, pale skin, a cheeky, quick face, dark eyes, messy dark hair, wearing patched drawers, standing with the arms spread wide, cheeky, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, cheeky grin, plain pale aqua-tinted cream background (#DDF3F1)
 
 ## N2-W6 Bernadette (bather, N2 Steamhaven The Terrace Pools (pop-up))
 
@@ -482,10 +422,6 @@ One Piece anime art style, adventure manga anime style, bold clean ink outlines,
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Lucian, 40-year-old human man who looks his age, 6'0", lean and elegant, skin that is pale, flushed, a handsome face with a black domino mask over the upper half, dark eyes behind the mask, slicked dark hair, fully nude, no clothing, standing with the hands behind the back and the chin lifted, masked and confident, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, masked, confident, plain pale lavender-tinted cream background (#EEE6F7), average size penis
 
-**swim**
-
-One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Lucian, 40-year-old human man who looks his age, 6'0", lean and elegant, skin that is pale, flushed, a handsome face with a black domino mask over the upper half, dark eyes behind the mask, slicked dark hair, wearing plain drawers, standing with the hands behind the back, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, masked smile, plain pale aqua-tinted cream background (#DDF3F1)
-
 ## N2-W9 Genevieve (masked patron, N2 Steamhaven The Lattice (pop-up))
 
 **clothed**
@@ -495,7 +431,3 @@ One Piece anime art style, adventure manga anime style, bold clean ink outlines,
 **studio**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Genevieve, 36-year-old human woman, 5'7", full and elegant, a D cup bust, skin that is fair, powdered, a poised face with a lace domino mask over the upper half, dark eyes behind the mask, dark curls pinned up, fully nude, no clothing, standing with the chin lifted and one hand at the hair, masked and teasing, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, masked, teasing, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
-
-**swim**
-
-One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Genevieve, 36-year-old human woman, 5'7", full and elegant, a D cup bust, skin that is fair, powdered, a poised face with a lace domino mask over the upper half, dark eyes behind the mask, dark curls pinned up, wearing a black lace corset set with stockings, standing with the chin lifted and one hand on the hip, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, masked smile, plain pale aqua-tinted cream background (#DDF3F1)

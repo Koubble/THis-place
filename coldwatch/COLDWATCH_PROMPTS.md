@@ -1,4 +1,4 @@
-# Coldwatch prompts (34 people, 75 prompts)
+# Coldwatch prompts (34 people, 73 prompts)
 
 ## N6-1 Konrad (gate captain, N6 Coldwatch Wardgate)
 
@@ -298,10 +298,6 @@ One Piece anime art style, adventure manga anime style, bold clean ink outlines,
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Lume, 22-year-old frost folk woman, a cold-adapted human with faint frost patterns on the cheeks, temples and wrists, 5'5", slim, a B cup bust, pale blue-white skin with faint frost patterns, a curious, bright face, pale ice-blue eyes, silver hair in a long loose plait, faint frost lines under her eyes, fully nude, no clothing, standing with the head turned curiously and the hands clasped behind the back, shy, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, curious, shy, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
 
-**swim**
-
-One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Lume, 22-year-old frost folk woman, a cold-adapted human with faint frost patterns on the cheeks, temples and wrists, 5'5", slim, a B cup bust, pale blue-white skin with faint frost patterns, a curious, bright face, pale ice-blue eyes, silver hair in a long loose plait, faint frost lines under her eyes, wearing a plain white shift, standing with the head tilted curiously and the hands clasped behind the back, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, curious smile, plain pale aqua-tinted cream background (#DDF3F1)
-
 ## N6-W3 Wendel (off-duty soldier who tries his luck, N6 Coldwatch Bootlane (pop-up))
 
 **clothed**
@@ -321,10 +317,6 @@ One Piece anime art style, adventure manga anime style, bold clean ink outlines,
 **studio**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Frieda, 33-year-old human woman, 5'6", lean, a C cup bust, pale skin, a blunt face, dark eyes, black hair in a topknot, fully nude, no clothing, standing with one hip out and the hands on the hips, blunt, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, blunt, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
-
-**swim**
-
-One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Frieda, 33-year-old human woman, 5'6", lean, a C cup bust, pale skin, a blunt face, dark eyes, black hair in a topknot, wearing black underwear with stockings, standing with one hip out, blunt, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, blunt look, plain pale aqua-tinted cream background (#DDF3F1)
 
 ## N6-W5 Katrin (off-duty soldier, N6 Coldwatch The Thaw House (pop-up))
 

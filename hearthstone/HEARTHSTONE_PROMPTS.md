@@ -1,4 +1,4 @@
-# Hearthstone prompts (85 people, 191 prompts)
+# Hearthstone prompts (85 people, 183 prompts)
 
 ## H1-1 Eben (harbourmaster, H1 Harbour and quay)
 
@@ -832,10 +832,6 @@ One Piece anime art style, adventure manga anime style, bold clean ink outlines,
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Grisel, 50-year-old human woman who looks her age, 5'4", thin and hard, a B cup bust, weathered grey-pale skin, a hard suspicious face, hard grey eyes, matted grey hair, fully nude, no clothing, standing with the shoulders back and the fists at the sides, hard and defiant, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, hard, defiant, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
 
-**swim**
-
-One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Grisel, 50-year-old human woman who looks her age, 5'4", thin and hard, a B cup bust, weathered grey-pale skin, a hard suspicious face, hard grey eyes, matted grey hair, wearing a patched ragged shift, standing with the arms wrapped round herself, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, hard suspicious look, plain pale aqua-tinted cream background (#DDF3F1)
-
 ## A-2 Nettle (street thief, Back alley pool)
 
 **clothed**
@@ -845,10 +841,6 @@ One Piece anime art style, adventure manga anime style, bold clean ink outlines,
 **studio**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Nettle, 24-year-old human woman, 5'5", thin and sharp, an A cup bust, pale skin, a sharp feral face, dark eyes, dark hair shaved on one side, small scars on her chin, fully nude, no clothing, hunched low in a ready, wary stance with the shoulders forward and the hands loose, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, sharp, defiant, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
-
-**swim**
-
-One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Nettle, 24-year-old human woman, 5'5", thin and sharp, an A cup bust, pale skin, a sharp feral face, dark eyes, dark hair shaved on one side, small scars on her chin, wearing ragged underwear, hunched low in a ready stance with the shoulders forward, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, sharp feral smirk, plain pale aqua-tinted cream background (#DDF3F1)
 
 ## A-3 Jinx (hustler, Back alley pool)
 
@@ -860,10 +852,6 @@ One Piece anime art style, adventure manga anime style, bold clean ink outlines,
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Jinx, 27-year-old human woman, 5'7", lean with curves, a C cup bust, tanned skin, a face with a knowing grin, dark with heavy eyeliner, short bleached hair with dark roots, tattoos on one arm and the neck, fully nude, no clothing, standing with one hand in the hair, a hip jutted and the back arched, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, knowing, bold, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
 
-**swim**
-
-One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Jinx, 27-year-old human woman, 5'7", lean with curves, a C cup bust, tanned skin, a face with a knowing grin, dark with heavy eyeliner, short bleached hair with dark roots, tattoos on one arm and the neck, wearing lacy underwear, standing with one hand in the hair and a hip jutted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, knowing grin, plain pale aqua-tinted cream background (#DDF3F1)
-
 ## A-4 Hedda (tough ex-sailor, Back alley pool)
 
 **clothed**
@@ -873,10 +861,6 @@ One Piece anime art style, adventure manga anime style, bold clean ink outlines,
 **studio**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Hedda, 35-year-old human woman, 5'9", broad and muscular, a C to D cup bust, tan skin, a tough scarred face, hazel eyes, cropped red-brown hair, a scar across the eyebrow, fully nude, no clothing, standing with the fists up in a boxer's stance, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, tough, defiant, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
-
-**swim**
-
-One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Hedda, 35-year-old human woman, 5'9", broad and muscular, a C to D cup bust, tan skin, a tough scarred face, hazel eyes, cropped red-brown hair, a scar across the eyebrow, wearing plain underwear, standing with the fists up in a boxer's stance, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, tough, daring look, plain pale aqua-tinted cream background (#DDF3F1)
 
 ## A-5 Rook (thug, Back alley pool)
 
@@ -888,10 +872,6 @@ One Piece anime art style, adventure manga anime style, bold clean ink outlines,
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Rook, 38-year-old human man, 6'3", big and scarred, pale skin with scars, a menacing face, cold grey eyes, shaved head with a scar through it, scars across the chest and arms, fully nude, no clothing, standing with the shoulders squared and the chest out, flat stare, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, menacing, flat, plain pale lavender-tinted cream background (#EEE6F7), average size penis
 
-**swim**
-
-One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Rook, 38-year-old human man, 6'3", big and scarred, pale skin with scars, a menacing face, cold grey eyes, shaved head with a scar through it, scars across the chest and arms, wearing ragged shorts, standing with the shoulders squared, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, menacing stare, plain pale aqua-tinted cream background (#DDF3F1)
-
 ## A-6 Squint (homeless drunk, Back alley pool)
 
 **clothed**
@@ -901,10 +881,6 @@ One Piece anime art style, adventure manga anime style, bold clean ink outlines,
 **studio**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Squint, 45-year-old human man who looks his age, 5'7", thin and shaky, weathered grey skin, a face with a squinting leer, bloodshot brown eyes, scraggly grey hair and a patchy beard, fully nude, no clothing, standing swaying with one hand on the back of the head, sheepish, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, bleary, sheepish, plain pale lavender-tinted cream background (#EEE6F7), average size penis
-
-**swim**
-
-One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Squint, 45-year-old human man who looks his age, 5'7", thin and shaky, weathered grey skin, a face with a squinting leer, bloodshot brown eyes, scraggly grey hair and a patchy beard, wearing ragged underwear, standing swaying with one hand on the back of the head, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, bleary leer, plain pale aqua-tinted cream background (#DDF3F1)
 
 ## A-7 Vic (pickpocket, Back alley pool)
 
@@ -916,10 +892,6 @@ One Piece anime art style, adventure manga anime style, bold clean ink outlines,
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Vic, 30-year-old human man, 5'8", slim and quick, tan skin, a face with a quick sly grin, dark eyes, slicked black hair, fully nude, no clothing, standing with the hands behind the back and a sly lean to one side, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, quick, sly, plain pale lavender-tinted cream background (#EEE6F7), average size penis
 
-**swim**
-
-One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Vic, 30-year-old human man, 5'8", slim and quick, tan skin, a face with a quick sly grin, dark eyes, slicked black hair, wearing striped shorts, standing with the hands behind the back and a sly lean, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, quick sly grin, plain pale aqua-tinted cream background (#DDF3F1)
-
 ## A-8 Gideon (one-eyed ex-sailor, Back alley pool)
 
 **clothed**
@@ -929,7 +901,3 @@ One Piece anime art style, adventure manga anime style, bold clean ink outlines,
 **studio**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Gideon, 55-year-old human man who looks his age, an older man, 5'10", lean and sinewy, weathered tan skin, a grim crooked face, one pale blue eye and an eye-patch, long grey hair tied back, an eye-patch scar, fully nude, no clothing, standing with one hand raised to the eye-patch, grim and amused, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, grim, amused, plain pale lavender-tinted cream background (#EEE6F7), average size penis
-
-**swim**
-
-One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Gideon, 55-year-old human man who looks his age, an older man, 5'10", lean and sinewy, weathered tan skin, a grim crooked face, one pale blue eye and an eye-patch, long grey hair tied back, an eye-patch scar, wearing ragged shorts, standing with one hand raised to the eye-patch, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, grim crooked smile, plain pale aqua-tinted cream background (#DDF3F1)

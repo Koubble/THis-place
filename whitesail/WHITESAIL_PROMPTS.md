@@ -1,4 +1,4 @@
-# Whitesail prompts (28 people, 84 prompts)
+# Whitesail prompts (28 people, 64 prompts)
 
 ## E1-1 Rollo (commodore, bluff and vain, E1 Whitesail The Regatta Club)
 
@@ -10,10 +10,6 @@ One Piece anime art style, adventure manga anime style, bold clean ink outlines,
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Rollo, 60-year-old human man who looks his age, an older man, 5'11", broad and well-fed, sun-tanned and polished skin, a bluff, florid face, blue eyes, swept-back silver hair and a clipped white moustache, fully nude, no clothing, standing with the chest out and the hands on the hips, bluff and flustered, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, bluff, flustered, plain pale lavender-tinted cream background (#EEE6F7), average size penis
 
-**swim**
-
-One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Rollo, 60-year-old human man who looks his age, an older man, 5'11", broad and well-fed, sun-tanned and polished skin, a bluff, florid face, blue eyes, swept-back silver hair and a clipped white moustache, wearing striped boxer shorts, standing with the chest out, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, bluff smile, plain pale aqua-tinted cream background (#DDF3F1)
-
 ## E1-2 Gwendolen (club secretary, sharp, E1 Whitesail The Regatta Club)
 
 **clothed**
@@ -23,10 +19,6 @@ One Piece anime art style, adventure manga anime style, bold clean ink outlines,
 **studio**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Gwendolen, 45-year-old human woman who looks her age, 5'8", slim and upright, a C cup bust, sun-tanned and polished skin, a sharp, composed face, grey-green eyes, honey-blonde hair in a smooth chignon, fully nude, no clothing, standing very upright with the hands clasped behind the back, sharp and amused, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, sharp, amused, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
-
-**swim**
-
-One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Gwendolen, 45-year-old human woman who looks her age, 5'8", slim and upright, a C cup bust, sun-tanned and polished skin, a sharp, composed face, grey-green eyes, honey-blonde hair in a smooth chignon, wearing a white silk slip, standing very upright with the hands behind the back, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, sharp smile, plain pale aqua-tinted cream background (#DDF3F1)
 
 ## E1-3 Digby (bar steward, discreet, E1 Whitesail The Regatta Club)
 
@@ -38,10 +30,6 @@ One Piece anime art style, adventure manga anime style, bold clean ink outlines,
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Digby, 30-year-old human man, 6'0", lean and neat, sun-tanned and polished skin, a discreet, pleasant face, hazel eyes, neat sandy hair, fully nude, no clothing, standing lean with the hands clasped behind the back, discreet and flustered, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, discreet, flustered, plain pale lavender-tinted cream background (#EEE6F7), average size penis
 
-**swim**
-
-One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Digby, 30-year-old human man, 6'0", lean and neat, sun-tanned and polished skin, a discreet, pleasant face, hazel eyes, neat sandy hair, wearing white drawers, standing lean with the hands behind the back, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, discreet smile, plain pale aqua-tinted cream background (#DDF3F1)
-
 ## E1-4 Quentin (harbour master, brisk, E1 Whitesail The Harbour Tower)
 
 **clothed**
@@ -51,10 +39,6 @@ One Piece anime art style, adventure manga anime style, bold clean ink outlines,
 **studio**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Quentin, 52-year-old human man who looks his age, 5'10", trim and weathered, tanned and weathered skin, a brisk, weathered face, pale blue eyes, grey hair under a peaked cap and a trimmed beard, fully nude, no clothing, standing with the arms at the sides and a brisk, embarrassed look, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, brisk, embarrassed, plain pale lavender-tinted cream background (#EEE6F7), average size penis
-
-**swim**
-
-One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Quentin, 52-year-old human man who looks his age, 5'10", trim and weathered, tanned and weathered skin, a brisk, weathered face, pale blue eyes, grey hair under a peaked cap and a trimmed beard, wearing white drawers, standing with the arms at the sides, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, brisk nod, plain pale aqua-tinted cream background (#DDF3F1)
 
 ## E1-5 Rex (marina manager, hearty, E1 Whitesail The Berths)
 
@@ -66,10 +50,6 @@ One Piece anime art style, adventure manga anime style, bold clean ink outlines,
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Rex, 38-year-old human man, 6'1", big and athletic, sun-tanned and polished skin, a hearty, handsome face, blue eyes, sun-bleached blond hair, fully nude, no clothing, standing with the hands on the hips and the shoulders back, hearty and bashful, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, hearty, bashful, plain pale lavender-tinted cream background (#EEE6F7), average size penis
 
-**swim**
-
-One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Rex, 38-year-old human man, 6'1", big and athletic, sun-tanned and polished skin, a hearty, handsome face, blue eyes, sun-bleached blond hair, wearing navy swim shorts, standing with the hands on the hips, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, hearty grin, plain pale aqua-tinted cream background (#DDF3F1)
-
 ## E1-6 Giles (sailmaker, absorbed, E1 Whitesail Leeward Sails)
 
 **clothed**
@@ -79,10 +59,6 @@ One Piece anime art style, adventure manga anime style, bold clean ink outlines,
 **studio**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Giles, 47-year-old human man who looks his age, 5'9", wiry and tanned, tanned and leathery skin, an absorbed, squinting face, brown eyes, thinning grey-brown hair, needle calluses on the fingers, fully nude, no clothing, standing wiry with one hand rubbing the back of the neck, absent and embarrassed, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, absent, embarrassed, plain pale lavender-tinted cream background (#EEE6F7), average size penis
-
-**swim**
-
-One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Giles, 47-year-old human man who looks his age, 5'9", wiry and tanned, tanned and leathery skin, an absorbed, squinting face, brown eyes, thinning grey-brown hair, needle calluses on the fingers, wearing white drawers, standing wiry with an absent smile, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, absent smile, plain pale aqua-tinted cream background (#DDF3F1)
 
 ## E1-7 Jemima (chandler, brisk, E1 Whitesail Fenders and Fittings)
 
@@ -94,10 +70,6 @@ One Piece anime art style, adventure manga anime style, bold clean ink outlines,
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Jemima, 41-year-old human woman who looks her age, 5'6", fit and wiry, a B cup bust, sun-tanned and polished skin, a brisk, freckled face, green eyes, short windswept auburn hair, fully nude, no clothing, standing fit with the hands on the hips, brisk and amused, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, brisk, amused, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
 
-**swim**
-
-One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Jemima, 41-year-old human woman who looks her age, 5'6", fit and wiry, a B cup bust, sun-tanned and polished skin, a brisk, freckled face, green eyes, short windswept auburn hair, wearing a white cotton slip, standing fit with the hands on the hips, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, brisk grin, plain pale aqua-tinted cream background (#DDF3F1)
-
 ## E1-8 Jolyon (yard boss, gruff, E1 Whitesail The Yacht Yard)
 
 **clothed**
@@ -107,10 +79,6 @@ One Piece anime art style, adventure manga anime style, bold clean ink outlines,
 **studio**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Jolyon, 44-year-old human man who looks his age, 6'0", broad and strong, tanned and weathered skin, a gruff, honest face, grey eyes, cropped brown hair, fully nude, no clothing, standing broad with the arms folded and the head ducked, gruff and embarrassed, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, gruff, embarrassed, plain pale lavender-tinted cream background (#EEE6F7), average size penis
-
-**swim**
-
-One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Jolyon, 44-year-old human man who looks his age, 6'0", broad and strong, tanned and weathered skin, a gruff, honest face, grey eyes, cropped brown hair, wearing plain drawers, standing broad with the arms folded, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, gruff nod, plain pale aqua-tinted cream background (#DDF3F1)
 
 ## E1-9 Dido (rigger, strong and cheerful, E1 Whitesail The Yacht Yard)
 
@@ -122,10 +90,6 @@ One Piece anime art style, adventure manga anime style, bold clean ink outlines,
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Dido, 24-year-old human woman, 5'8", athletic and strong, a C cup bust, tanned and freckled skin, a cheerful, freckled face, hazel eyes, a thick sun-streaked brown braid, fully nude, no clothing, standing athletic with the arms stretched overhead, cheerful and bold, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, cheerful, bold, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
 
-**swim**
-
-One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Dido, 24-year-old human woman, 5'8", athletic and strong, a C cup bust, tanned and freckled skin, a cheerful, freckled face, hazel eyes, a thick sun-streaked brown braid, wearing a sporty swimsuit, standing athletic with the arms stretched overhead, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, cheerful grin, plain pale aqua-tinted cream background (#DDF3F1)
-
 ## E1-10 Orlando (bartender, flirty, E1 Whitesail The Sundowner)
 
 **clothed**
@@ -135,10 +99,6 @@ One Piece anime art style, adventure manga anime style, bold clean ink outlines,
 **studio**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Orlando, 33-year-old human man, 6'0", lean and tanned, sun-tanned and polished skin, a flirty, handsome face, brown eyes, tousled dark hair, fully nude, no clothing, standing with one arm raised and one hand rubbing the back of the neck, flirty and flustered, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, flirty, flustered, plain pale lavender-tinted cream background (#EEE6F7), average size penis
-
-**swim**
-
-One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Orlando, 33-year-old human man, 6'0", lean and tanned, sun-tanned and polished skin, a flirty, handsome face, brown eyes, tousled dark hair, wearing white swim shorts, standing with one arm raised, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, flirty wink, plain pale aqua-tinted cream background (#DDF3F1)
 
 ## E1-11 Bunty (barmaid, bubbly, E1 Whitesail The Sundowner)
 
@@ -150,10 +110,6 @@ One Piece anime art style, adventure manga anime style, bold clean ink outlines,
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Bunty, 27-year-old human woman, 5'6", slim and curvy, a C cup bust, sun-tanned and polished skin, a bubbly, laughing face, amber eyes, long honey-brown hair, fully nude, no clothing, standing with one hand raised and a hip cocked, bubbly and bold, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, bubbly, bold, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
 
-**swim**
-
-One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Bunty, 27-year-old human woman, 5'6", slim and curvy, a C cup bust, sun-tanned and polished skin, a bubbly, laughing face, amber eyes, long honey-brown hair, wearing a white bikini, standing with a hip cocked, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, bubbly grin, plain pale aqua-tinted cream background (#DDF3F1)
-
 ## E1-12 Dominic (maître d', polished, E1 Whitesail The Quarterdeck Grill)
 
 **clothed**
@@ -163,10 +119,6 @@ One Piece anime art style, adventure manga anime style, bold clean ink outlines,
 **studio**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Dominic, 50-year-old human man who looks his age, 5'11", trim and upright, sun-tanned and polished skin, a polished, knowing face, grey eyes, slicked silver hair and a thin moustache, fully nude, no clothing, standing very upright with the hands clasped behind the back, polished and flustered, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, polished, flustered, plain pale lavender-tinted cream background (#EEE6F7), average size penis
-
-**swim**
-
-One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Dominic, 50-year-old human man who looks his age, 5'11", trim and upright, sun-tanned and polished skin, a polished, knowing face, grey eyes, slicked silver hair and a thin moustache, wearing white drawers, standing very upright, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, polished smile, plain pale aqua-tinted cream background (#DDF3F1)
 
 ## E1-13 Delphine (chef, intense, E1 Whitesail The Quarterdeck Grill)
 
@@ -178,10 +130,6 @@ One Piece anime art style, adventure manga anime style, bold clean ink outlines,
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Delphine, 36-year-old human woman, 5'7", strong and trim, a C cup bust, sun-tanned and polished skin, an intense, handsome face, dark brown eyes, dark hair in a tight bun, small burn scars on the hands, fully nude, no clothing, standing strong with one arm raised and the chin tilted, intense and amused, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, intense, amused, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
 
-**swim**
-
-One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Delphine, 36-year-old human woman, 5'7", strong and trim, a C cup bust, sun-tanned and polished skin, an intense, handsome face, dark brown eyes, dark hair in a tight bun, small burn scars on the hands, wearing a plain white slip, standing strong with one arm raised, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, intense look, plain pale aqua-tinted cream background (#DDF3F1)
-
 ## E1-14 Marguerite (boutique owner, elegant, E1 Whitesail Breeze and Linen)
 
 **clothed**
@@ -191,10 +139,6 @@ One Piece anime art style, adventure manga anime style, bold clean ink outlines,
 **studio**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Marguerite, 39-year-old human woman, 5'8", slender and elegant, a B cup bust, sun-tanned and polished skin, an elegant, amused face, blue-grey eyes, sleek honey-blonde bob, fully nude, no clothing, standing slender with a hand on the hip and the head tilted, elegant and amused, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, elegant, amused, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
-
-**swim**
-
-One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Marguerite, 39-year-old human woman, 5'8", slender and elegant, a B cup bust, sun-tanned and polished skin, an elegant, amused face, blue-grey eyes, sleek honey-blonde bob, wearing a cream silk slip, standing slender with a hand on the hip, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, elegant smile, plain pale aqua-tinted cream background (#DDF3F1)
 
 ## E1-15 Noel (hotel manager, smooth, E1 Whitesail The Mainsheet Hotel)
 
@@ -206,10 +150,6 @@ One Piece anime art style, adventure manga anime style, bold clean ink outlines,
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Noel, 55-year-old human man who looks his age, an older man, 5'10", trim and elegant, sun-tanned and polished skin, a smooth, courteous face, grey eyes, silver hair combed back, fully nude, no clothing, standing very upright with the hands clasped behind the back, courteous and flustered, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, courteous, flustered, plain pale lavender-tinted cream background (#EEE6F7), average size penis
 
-**swim**
-
-One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Noel, 55-year-old human man who looks his age, an older man, 5'10", trim and elegant, sun-tanned and polished skin, a smooth, courteous face, grey eyes, silver hair combed back, wearing silk drawers, standing very upright, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, courteous smile, plain pale aqua-tinted cream background (#DDF3F1)
-
 ## E1-16 Daphne (receptionist, bright, E1 Whitesail The Mainsheet Hotel)
 
 **clothed**
@@ -219,10 +159,6 @@ One Piece anime art style, adventure manga anime style, bold clean ink outlines,
 **studio**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Daphne, 28-year-old human woman, 5'6", slim, a B cup bust, sun-tanned and polished skin, a bright, welcoming face, blue eyes, light brown hair in a high ponytail, fully nude, no clothing, standing slim with the hands clasped behind the back and the head ducked, bright and shy, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, bright, shy, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
-
-**swim**
-
-One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Daphne, 28-year-old human woman, 5'6", slim, a B cup bust, sun-tanned and polished skin, a bright, welcoming face, blue eyes, light brown hair in a high ponytail, wearing a white cotton slip, standing slim with the hands clasped behind the back, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, welcoming smile, plain pale aqua-tinted cream background (#DDF3F1)
 
 ## E1-17 Venetia (spa owner, serene, E1 Whitesail The Slipway Spa)
 
@@ -248,10 +184,6 @@ One Piece anime art style, adventure manga anime style, bold clean ink outlines,
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Theo, 49-year-old human man who looks his age, 5'8", stocky and strong, tanned and weathered skin, a cheerful, weathered face, blue eyes, grey-flecked brown hair under a cap, fully nude, no clothing, standing stocky with the hands on the belly, cheerful and embarrassed, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, cheerful, embarrassed, plain pale lavender-tinted cream background (#EEE6F7), average size penis
 
-**swim**
-
-One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Theo, 49-year-old human man who looks his age, 5'8", stocky and strong, tanned and weathered skin, a cheerful, weathered face, blue eyes, grey-flecked brown hair under a cap, wearing striped drawers, standing stocky with the hands on the hips, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, cheerful grin, plain pale aqua-tinted cream background (#DDF3F1)
-
 ## E1-19 Cosmo (host, genial and charming, with a darker side, E1 Whitesail The Floating Party)
 
 **clothed**
@@ -261,10 +193,6 @@ One Piece anime art style, adventure manga anime style, bold clean ink outlines,
 **studio**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Cosmo, 42-year-old human man who looks his age, 6'1", tall and lean, sun-tanned and polished skin, a charming, heavy-lidded face, dark brown eyes, swept-back dark hair with a touch of grey, a gold signet ring, fully nude, no clothing, standing tall and lean with one hand on the hip and the head tilted, charming and unembarrassed, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, charming, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), average size penis
-
-**swim**
-
-One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Cosmo, 42-year-old human man who looks his age, 6'1", tall and lean, sun-tanned and polished skin, a charming, heavy-lidded face, dark brown eyes, swept-back dark hair with a touch of grey, a gold signet ring, wearing black silk drawers, standing tall with one hand on the hip, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, charming, knowing smile, plain pale aqua-tinted cream background (#DDF3F1)
 
 ## E1-20 Pandora (hostess who sets the mood of the night, E1 Whitesail The Floating Party)
 
@@ -276,10 +204,6 @@ One Piece anime art style, adventure manga anime style, bold clean ink outlines,
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Pandora, 31-year-old human woman, 5'8", slim and curvy, a D cup bust, sun-tanned and polished skin, a sly, beautiful face, green eyes, long dark curls, a beauty spot at the lip, fully nude, no clothing, standing with a hip cocked and one arm raised overhead, sly and teasing, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, sly, teasing, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
 
-**swim**
-
-One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Pandora, 31-year-old human woman, 5'8", slim and curvy, a D cup bust, sun-tanned and polished skin, a sly, beautiful face, green eyes, long dark curls, a beauty spot at the lip, wearing a black lace set, standing with a hip cocked, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, sly smile, plain pale aqua-tinted cream background (#DDF3F1)
-
 ## E1-21 Maxim (steward and crew, looks the other way, E1 Whitesail The Floating Party)
 
 **clothed**
@@ -289,10 +213,6 @@ One Piece anime art style, adventure manga anime style, bold clean ink outlines,
 **studio**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Maxim, 29-year-old human man, 6'0", lean and tanned, sun-tanned and polished skin, a blank, handsome face, grey eyes, short sun-bleached hair, fully nude, no clothing, standing lean with the hands clasped behind the back, blank and flustered, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, blank, flustered, plain pale lavender-tinted cream background (#EEE6F7), average size penis
-
-**swim**
-
-One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Maxim, 29-year-old human man, 6'0", lean and tanned, sun-tanned and polished skin, a blank, handsome face, grey eyes, short sun-bleached hair, wearing white drawers, standing lean with the hands behind the back, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, blank polite smile, plain pale aqua-tinted cream background (#DDF3F1)
 
 ## E1-W1 Barclay (yachtsman, loud and affable, E1 Whitesail The Pontoons (pop-up))
 

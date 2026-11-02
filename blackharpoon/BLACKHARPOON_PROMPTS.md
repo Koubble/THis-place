@@ -1,4 +1,4 @@
-# Blackharpoon prompts (38 people, 114 prompts)
+# Blackharpoon prompts (38 people, 80 prompts)
 
 ## N5-1 Pieter (flensing boss, huge and scarred, N5 Blackharpoon The Flensing Deck)
 
@@ -10,10 +10,6 @@ One Piece anime art style, adventure manga anime style, bold clean ink outlines,
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Pieter, 50-year-old human man who looks his age, 6'2", huge and barrel-chested, ruddy and wind-scoured skin, a scarred, hard face, pale blue eyes, cropped grey-brown hair and a thick grizzled beard, a long scar down one forearm, fully nude, no clothing, standing square with the arms folded and the chin lowered, gruff and embarrassed, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, gruff, embarrassed, plain pale lavender-tinted cream background (#EEE6F7), average size penis
 
-**swim**
-
-One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Pieter, 50-year-old human man who looks his age, 6'2", huge and barrel-chested, ruddy and wind-scoured skin, a scarred, hard face, pale blue eyes, cropped grey-brown hair and a thick grizzled beard, a long scar down one forearm, wearing wool drawers, standing square with the arms folded, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, gruff nod, plain pale aqua-tinted cream background (#DDF3F1)
-
 ## N5-2 Dougal (flenser, wry, N5 Blackharpoon The Flensing Deck)
 
 **clothed**
@@ -23,10 +19,6 @@ One Piece anime art style, adventure manga anime style, bold clean ink outlines,
 **studio**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Dougal, 38-year-old human man, 5'11", broad and strong, ruddy and wind-scoured skin, a wry, freckled face, green eyes, red-brown hair and a thick red beard, a scar through one eyebrow, fully nude, no clothing, standing with one hand rubbing the back of the neck, wry and flustered, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, wry, flustered, plain pale lavender-tinted cream background (#EEE6F7), average size penis
-
-**swim**
-
-One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Dougal, 38-year-old human man, 5'11", broad and strong, ruddy and wind-scoured skin, a wry, freckled face, green eyes, red-brown hair and a thick red beard, a scar through one eyebrow, wearing plain drawers, standing with a wry grin, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, wry grin, plain pale aqua-tinted cream background (#DDF3F1)
 
 ## N5-3 Griet (woman flenser, strong and blunt, N5 Blackharpoon The Flensing Deck)
 
@@ -38,10 +30,6 @@ One Piece anime art style, adventure manga anime style, bold clean ink outlines,
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Griet, 34-year-old human woman, 5'9", broad-shouldered and strong, a C cup bust, skin that is ruddy, grease-shined, a blunt, strong face, grey eyes, thick brown hair in a heavy braid, grease-stained forearms, fully nude, no clothing, standing with the hands on the hips and the chin up, blunt and unbothered, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, blunt, unbothered, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
 
-**swim**
-
-One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Griet, 34-year-old human woman, 5'9", broad-shouldered and strong, a C cup bust, skin that is ruddy, grease-shined, a blunt, strong face, grey eyes, thick brown hair in a heavy braid, grease-stained forearms, wearing a plain wool shift, standing with the hands on the hips, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, blunt look, plain pale aqua-tinted cream background (#DDF3F1)
-
 ## N5-4 Hendrik (oil-master, steady, N5 Blackharpoon The Rendering Vats)
 
 **clothed**
@@ -51,10 +39,6 @@ One Piece anime art style, adventure manga anime style, bold clean ink outlines,
 **studio**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Hendrik, 46-year-old human man who looks his age, 5'10", thick and sturdy, skin that is ruddy, soot-streaked, a steady, sooty face, blue eyes, greying blond hair and a thick beard, burn scars on the hands, fully nude, no clothing, standing steady with the hands clasped behind the back, embarrassed, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, steady, embarrassed, plain pale lavender-tinted cream background (#EEE6F7), average size penis
-
-**swim**
-
-One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Hendrik, 46-year-old human man who looks his age, 5'10", thick and sturdy, skin that is ruddy, soot-streaked, a steady, sooty face, blue eyes, greying blond hair and a thick beard, burn scars on the hands, wearing wool drawers, standing steady with the hands at the sides, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, steady nod, plain pale aqua-tinted cream background (#DDF3F1)
 
 ## N5-5 Morag (boiler, sooty and sharp, N5 Blackharpoon The Rendering Vats)
 
@@ -66,10 +50,6 @@ One Piece anime art style, adventure manga anime style, bold clean ink outlines,
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Morag, 40-year-old human woman who looks her age, 5'7", sturdy and lean, a C cup bust, skin that is ruddy, soot-streaked, a sharp, sooty face, dark grey eyes, black hair under a kerchief, a burn scar on one wrist, fully nude, no clothing, standing with a hand on the hip and the head tilted, sharp and unbothered, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, sharp, unbothered, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
 
-**swim**
-
-One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Morag, 40-year-old human woman who looks her age, 5'7", sturdy and lean, a C cup bust, skin that is ruddy, soot-streaked, a sharp, sooty face, dark grey eyes, black hair under a kerchief, a burn scar on one wrist, wearing a plain wool shift, standing with a hand on the hip, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, sharp look, plain pale aqua-tinted cream background (#DDF3F1)
-
 ## N5-6 Andries (cooper, careful, N5 Blackharpoon The Cooperage)
 
 **clothed**
@@ -79,10 +59,6 @@ One Piece anime art style, adventure manga anime style, bold clean ink outlines,
 **studio**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Andries, 55-year-old human man who looks his age, an older man, 5'8", stocky and thick-armed, ruddy and wind-scoured skin, a careful, kind face, pale blue eyes, white hair and a short white beard, fully nude, no clothing, standing stocky with the hands clasped behind the back, kind and embarrassed, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, kind, embarrassed, plain pale lavender-tinted cream background (#EEE6F7), average size penis
-
-**swim**
-
-One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Andries, 55-year-old human man who looks his age, an older man, 5'8", stocky and thick-armed, ruddy and wind-scoured skin, a careful, kind face, pale blue eyes, white hair and a short white beard, wearing wool drawers, standing stocky with the hands at the sides, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, kind nod, plain pale aqua-tinted cream background (#DDF3F1)
 
 ## N5-7 Lorna (apprentice cooper, cheerful, N5 Blackharpoon The Cooperage)
 
@@ -94,10 +70,6 @@ One Piece anime art style, adventure manga anime style, bold clean ink outlines,
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Lorna, 28-year-old human woman, 5'6", strong and slim, a B cup bust, ruddy and wind-scoured skin, a cheerful, freckled face, green eyes, sandy hair in a braid, wood splinters in her palms, fully nude, no clothing, standing with the shoulders drawn in and the hands clasped behind the back, cheerful and shy, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, cheerful, shy, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
 
-**swim**
-
-One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Lorna, 28-year-old human woman, 5'6", strong and slim, a B cup bust, ruddy and wind-scoured skin, a cheerful, freckled face, green eyes, sandy hair in a braid, wood splinters in her palms, wearing a plain wool slip, standing with the hands clasped behind the back, cheerful, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, cheerful grin, plain pale aqua-tinted cream background (#DDF3F1)
-
 ## N5-8 Femke (rope-maker, patient, N5 Blackharpoon The Ropewalk)
 
 **clothed**
@@ -107,10 +79,6 @@ One Piece anime art style, adventure manga anime style, bold clean ink outlines,
 **studio**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Femke, 35-year-old human woman, 5'8", lean and strong, a B cup bust, ruddy and wind-scoured skin, a patient, calm face, hazel eyes, light brown hair in a bun, rope burns on the palms, fully nude, no clothing, standing calmly with one hand pushing the hair back, unbothered, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, calm, unbothered, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
-
-**swim**
-
-One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Femke, 35-year-old human woman, 5'8", lean and strong, a B cup bust, ruddy and wind-scoured skin, a patient, calm face, hazel eyes, light brown hair in a bun, rope burns on the palms, wearing a plain wool slip, standing calmly with the hands on the hips, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, calm smile, plain pale aqua-tinted cream background (#DDF3F1)
 
 ## N5-9 Murdo (harpoon smith, taciturn, N5 Blackharpoon Barbs and Hooks)
 
@@ -122,10 +90,6 @@ One Piece anime art style, adventure manga anime style, bold clean ink outlines,
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Murdo, 52-year-old human man who looks his age, 5'10", heavy-shouldered and thick-armed, skin that is ruddy, soot-streaked, a taciturn, scarred face, dark brown eyes, grizzled black hair and a thick beard, burn scars on both forearms, fully nude, no clothing, standing square with the arms at the sides and the head lowered, taciturn and embarrassed, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, taciturn, embarrassed, plain pale lavender-tinted cream background (#EEE6F7), average size penis
 
-**swim**
-
-One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Murdo, 52-year-old human man who looks his age, 5'10", heavy-shouldered and thick-armed, skin that is ruddy, soot-streaked, a taciturn, scarred face, dark brown eyes, grizzled black hair and a thick beard, burn scars on both forearms, wearing wool drawers, standing square with the arms at the sides, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, taciturn nod, plain pale aqua-tinted cream background (#DDF3F1)
-
 ## N5-10 Lachlan (apprentice smith, eager, N5 Blackharpoon Barbs and Hooks)
 
 **clothed**
@@ -135,10 +99,6 @@ One Piece anime art style, adventure manga anime style, bold clean ink outlines,
 **studio**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Lachlan, 22-year-old human man, an adult man with defined cheekbones and mature features, 5'11", lean and wiry, ruddy and wind-scoured skin, an eager, freckled face, green eyes, untidy red hair and the start of a beard, a fresh burn on one hand, fully nude, no clothing, standing with the chest out and the hands clasped behind the back, eager and flustered, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, eager, flustered, plain pale lavender-tinted cream background (#EEE6F7), average size penis
-
-**swim**
-
-One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Lachlan, 22-year-old human man, an adult man with defined cheekbones and mature features, 5'11", lean and wiry, ruddy and wind-scoured skin, an eager, freckled face, green eyes, untidy red hair and the start of a beard, a fresh burn on one hand, wearing plain drawers, standing with the chest out, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, eager grin, plain pale aqua-tinted cream background (#DDF3F1)
 
 ## N5-11 Struan (boatwright, patient, N5 Blackharpoon The Whaleboat Slip)
 
@@ -150,10 +110,6 @@ One Piece anime art style, adventure manga anime style, bold clean ink outlines,
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Struan, 44-year-old human man who looks his age, 6'0", broad and calloused, ruddy and wind-scoured skin, a patient, weathered face, grey eyes, sandy hair and a heavy beard, fully nude, no clothing, standing broad with the arms at the sides, patient and embarrassed, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, patient, embarrassed, plain pale lavender-tinted cream background (#EEE6F7), average size penis
 
-**swim**
-
-One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Struan, 44-year-old human man who looks his age, 6'0", broad and calloused, ruddy and wind-scoured skin, a patient, weathered face, grey eyes, sandy hair and a heavy beard, wearing wool drawers, standing broad with the arms at the sides, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, patient nod, plain pale aqua-tinted cream background (#DDF3F1)
-
 ## N5-12 Manu (harpooner from the southern isles, tall and tattooed (drifter), N5 Blackharpoon The Whaleboat Slip)
 
 **clothed**
@@ -163,10 +119,6 @@ One Piece anime art style, adventure manga anime style, bold clean ink outlines,
 **studio**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Manu, 35-year-old human man, 6'3", tall and powerfully built, skin that is warm brown, tattooed, wind-weathered, a calm, strong face, dark brown eyes, black hair tied back, bold swirling tattoos across the chest and arms, fully nude, no clothing, standing tall with the arms loose and the tattoos showing, calm and unbothered, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, calm, unbothered, plain pale lavender-tinted cream background (#EEE6F7), average size penis
-
-**swim**
-
-One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Manu, 35-year-old human man, 6'3", tall and powerfully built, skin that is warm brown, tattooed, wind-weathered, a calm, strong face, dark brown eyes, black hair tied back, bold swirling tattoos across the chest and arms, wearing plain drawers, standing tall with the arms loose, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, calm smile, plain pale aqua-tinted cream background (#DDF3F1)
 
 ## N5-13 Hamish (outfitter, talkative, N5 Blackharpoon The Slop Chest)
 
@@ -178,10 +130,6 @@ One Piece anime art style, adventure manga anime style, bold clean ink outlines,
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Hamish, 48-year-old human man who looks his age, 5'8", round and cheerful, ruddy and wind-scoured skin, a talkative, ruddy face, blue eyes, thinning red hair and a bushy beard, fully nude, no clothing, standing round with the hands on the belly, talkative and flustered, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, talkative, flustered, plain pale lavender-tinted cream background (#EEE6F7), average size penis
 
-**swim**
-
-One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Hamish, 48-year-old human man who looks his age, 5'8", round and cheerful, ruddy and wind-scoured skin, a talkative, ruddy face, blue eyes, thinning red hair and a bushy beard, wearing striped drawers, standing round with the hands on the hips, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, talkative grin, plain pale aqua-tinted cream background (#DDF3F1)
-
 ## N5-14 Mhairi (shopkeeper, brisk, N5 Blackharpoon The Stockfish Store)
 
 **clothed**
@@ -191,10 +139,6 @@ One Piece anime art style, adventure manga anime style, bold clean ink outlines,
 **studio**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Mhairi, 45-year-old human woman who looks her age, 5'6", solid and motherly, a D cup bust, ruddy and wind-scoured skin, a brisk, motherly face, brown eyes, grey-streaked brown hair in a bun, fully nude, no clothing, standing solid with the hands on the hips, brisk and flustered, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, brisk, flustered, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
-
-**swim**
-
-One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Mhairi, 45-year-old human woman who looks her age, 5'6", solid and motherly, a D cup bust, ruddy and wind-scoured skin, a brisk, motherly face, brown eyes, grey-streaked brown hair in a bun, wearing a plain cotton slip, standing solid with the hands on the hips, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, brisk smile, plain pale aqua-tinted cream background (#DDF3F1)
 
 ## N5-15 Diederik (her father, cranky and sharp, N5 Blackharpoon The Stockfish Store)
 
@@ -206,10 +150,6 @@ One Piece anime art style, adventure manga anime style, bold clean ink outlines,
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Diederik, 60-year-old human man who looks his age, an older man, 5'6", small and stooped, ruddy and mottled skin, a cranky, sharp face, pale blue eyes, wild white hair and a long white beard, fully nude, no clothing, standing stooped with the arms folded and a cranky glare, embarrassed, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, cranky, embarrassed, plain pale lavender-tinted cream background (#EEE6F7), average size penis
 
-**swim**
-
-One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Diederik, 60-year-old human man who looks his age, an older man, 5'6", small and stooped, ruddy and mottled skin, a cranky, sharp face, pale blue eyes, wild white hair and a long white beard, wearing long wool drawers, standing stooped with the arms folded, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, cranky glare, plain pale aqua-tinted cream background (#DDF3F1)
-
 ## N5-16 Willem (bone carver, precise, N5 Blackharpoon Scrimshaw and Sons)
 
 **clothed**
@@ -219,10 +159,6 @@ One Piece anime art style, adventure manga anime style, bold clean ink outlines,
 **studio**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Willem, 62-year-old human man who looks his age, an older man, 5'7", thin and stooped, skin that is pale, ink-stained, a precise, thoughtful face behind small spectacles, grey eyes, white hair and a trim white beard, stained fingertips, fully nude, no clothing, standing thin and stooped with one hand raised, thoughtful and flustered, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, thoughtful, flustered, plain pale lavender-tinted cream background (#EEE6F7), average size penis
-
-**swim**
-
-One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Willem, 62-year-old human man who looks his age, an older man, 5'7", thin and stooped, skin that is pale, ink-stained, a precise, thoughtful face behind small spectacles, grey eyes, white hair and a trim white beard, stained fingertips, wearing wool drawers, standing stooped, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, thoughtful nod, plain pale aqua-tinted cream background (#DDF3F1)
 
 ## N5-17 Lysbeth (bone carver, quiet, N5 Blackharpoon Scrimshaw and Sons)
 
@@ -234,10 +170,6 @@ One Piece anime art style, adventure manga anime style, bold clean ink outlines,
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Lysbeth, 29-year-old human woman, 5'5", slim, a B cup bust, skin that is pale, a little ink-stained, a quiet, concentrated face, hazel eyes, dark hair in a neat plait, fully nude, no clothing, standing with the hands clasped behind the back and the head tilted, quiet and shy, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, quiet, shy, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
 
-**swim**
-
-One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Lysbeth, 29-year-old human woman, 5'5", slim, a B cup bust, skin that is pale, a little ink-stained, a quiet, concentrated face, hazel eyes, dark hair in a neat plait, wearing a plain cotton slip, standing with the hands clasped behind the back, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, quiet smile, plain pale aqua-tinted cream background (#DDF3F1)
-
 ## N5-18 Gregor (the owners' agent, stern, N5 Blackharpoon The Agents' House)
 
 **clothed**
@@ -247,10 +179,6 @@ One Piece anime art style, adventure manga anime style, bold clean ink outlines,
 **studio**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Gregor, 55-year-old human man who looks his age, an older man, 5'10", lean and upright, pale and wind-chapped skin, a stern, closed face, grey eyes, combed grey hair and a trimmed beard, fully nude, no clothing, standing very upright with the hands behind the back, stern and embarrassed, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, stern, embarrassed, plain pale lavender-tinted cream background (#EEE6F7), average size penis
-
-**swim**
-
-One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Gregor, 55-year-old human man who looks his age, an older man, 5'10", lean and upright, pale and wind-chapped skin, a stern, closed face, grey eyes, combed grey hair and a trimmed beard, wearing white drawers, standing very upright, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, stern look, plain pale aqua-tinted cream background (#DDF3F1)
 
 ## N5-19 Ishbel (clerk, nervous, N5 Blackharpoon The Agents' House)
 
@@ -262,10 +190,6 @@ One Piece anime art style, adventure manga anime style, bold clean ink outlines,
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Ishbel, 31-year-old human woman, 5'5", thin and tidy, a B cup bust, skin that is pale, anxious, a nervous, careful face, grey eyes, brown hair in a severe bun, ink on her fingers, fully nude, no clothing, standing with the shoulders hunched and the hands clasped behind the back, nervous and shy, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, nervous, shy, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
 
-**swim**
-
-One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Ishbel, 31-year-old human woman, 5'5", thin and tidy, a B cup bust, skin that is pale, anxious, a nervous, careful face, grey eyes, brown hair in a severe bun, ink on her fingers, wearing a plain cotton slip, standing with the hands clasped behind the back, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, nervous smile, plain pale aqua-tinted cream background (#DDF3F1)
-
 ## N5-20 Alasdair (surgeon, drinks, N5 Blackharpoon The Sawbones)
 
 **clothed**
@@ -275,10 +199,6 @@ One Piece anime art style, adventure manga anime style, bold clean ink outlines,
 **studio**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Alasdair, 50-year-old human man who looks his age, 5'11", gaunt and rumpled, skin that is sallow, red-nosed, a weary, rumpled face, bloodshot blue eyes, thinning grey hair and a straggly beard, fully nude, no clothing, standing slightly slumped with a hand rubbing the face, weary and embarrassed, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, weary, embarrassed, plain pale lavender-tinted cream background (#EEE6F7), average size penis
-
-**swim**
-
-One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Alasdair, 50-year-old human man who looks his age, 5'11", gaunt and rumpled, skin that is sallow, red-nosed, a weary, rumpled face, bloodshot blue eyes, thinning grey hair and a straggly beard, wearing wool drawers, standing slightly slumped, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, weary nod, plain pale aqua-tinted cream background (#DDF3F1)
 
 ## N5-21 Elspeth (chaplain, kind and firm, N5 Blackharpoon The Seamen's Bethel)
 
@@ -290,10 +210,6 @@ One Piece anime art style, adventure manga anime style, bold clean ink outlines,
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Elspeth, 58-year-old human woman who looks her age, an older woman, 5'5", small and sturdy, a D cup bust, skin that is pale, weathered, a kind, firm, lined face, grey eyes, grey hair under a black cap, fully nude, no clothing, standing small and sturdy with the hands clasped behind the back, kind and flustered, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, kind, flustered, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
 
-**swim**
-
-One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Elspeth, 58-year-old human woman who looks her age, an older woman, 5'5", small and sturdy, a D cup bust, skin that is pale, weathered, a kind, firm, lined face, grey eyes, grey hair under a black cap, wearing a plain grey shift, standing small with the hands behind the back, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, kind smile, plain pale aqua-tinted cream background (#DDF3F1)
-
 ## N5-22 Isla (cook, big-voiced, N5 Blackharpoon The Galley)
 
 **clothed**
@@ -303,10 +219,6 @@ One Piece anime art style, adventure manga anime style, bold clean ink outlines,
 **studio**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Isla, 44-year-old human woman who looks her age, 5'8", big and solid, an E cup bust, ruddy and wind-scoured skin, a big-voiced, laughing face, green eyes, red hair in a thick braid under a cap, fully nude, no clothing, standing with one arm raised and the head back, laughing and bold, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, laughing, bold, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
-
-**swim**
-
-One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Isla, 44-year-old human woman who looks her age, 5'8", big and solid, an E cup bust, ruddy and wind-scoured skin, a big-voiced, laughing face, green eyes, red hair in a thick braid under a cap, wearing a plain cotton slip, standing with one arm raised, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, laughing grin, plain pale aqua-tinted cream background (#DDF3F1)
 
 ## N5-23 Klaas (cook's mate, cheerful, N5 Blackharpoon The Galley)
 
@@ -318,10 +230,6 @@ One Piece anime art style, adventure manga anime style, bold clean ink outlines,
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Klaas, 30-year-old human man, 5'10", stocky and round, ruddy and wind-scoured skin, a cheerful, round face, blue eyes, sandy hair and a short beard, fully nude, no clothing, standing stocky with the hands on the belly, cheerful and flustered, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, cheerful, flustered, plain pale lavender-tinted cream background (#EEE6F7), average size penis
 
-**swim**
-
-One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Klaas, 30-year-old human man, 5'10", stocky and round, ruddy and wind-scoured skin, a cheerful, round face, blue eyes, sandy hair and a short beard, wearing striped drawers, standing stocky with the hands on the hips, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, cheerful grin, plain pale aqua-tinted cream background (#DDF3F1)
-
 ## N5-24 Angus (keeper, gruff and shrewd, N5 Blackharpoon The Tapped Keg)
 
 **clothed**
@@ -331,10 +239,6 @@ One Piece anime art style, adventure manga anime style, bold clean ink outlines,
 **studio**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Angus, 49-year-old human man who looks his age, 5'11", stout and strong, skin that is ruddy, broken-veined, a gruff, shrewd face, blue eyes, grizzled red hair and a thick beard, a broken nose, fully nude, no clothing, standing with the arms folded and the head ducked, gruff and embarrassed, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, gruff, embarrassed, plain pale lavender-tinted cream background (#EEE6F7), average size penis
-
-**swim**
-
-One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Angus, 49-year-old human man who looks his age, 5'11", stout and strong, skin that is ruddy, broken-veined, a gruff, shrewd face, blue eyes, grizzled red hair and a thick beard, a broken nose, wearing wool drawers, standing with the arms folded, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, gruff look, plain pale aqua-tinted cream background (#DDF3F1)
 
 ## N5-25 Sorcha (barmaid, blunt, N5 Blackharpoon The Tapped Keg)
 
@@ -346,10 +250,6 @@ One Piece anime art style, adventure manga anime style, bold clean ink outlines,
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Sorcha, 30-year-old human woman, 5'7", strong and curvy, a D cup bust, ruddy and wind-scoured skin, a blunt, laughing face, green eyes, dark red hair in a messy bun, fully nude, no clothing, standing with a hip cocked and one arm raised overhead, blunt and bold, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, blunt, bold, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
 
-**swim**
-
-One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Sorcha, 30-year-old human woman, 5'7", strong and curvy, a D cup bust, ruddy and wind-scoured skin, a blunt, laughing face, green eyes, dark red hair in a messy bun, wearing a thin cotton chemise, standing with a hip cocked, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, blunt grin, plain pale aqua-tinted cream background (#DDF3F1)
-
 ## N5-26 Torquil (bouncer, the one who draws the line, N5 Blackharpoon The Tapped Keg)
 
 **clothed**
@@ -359,10 +259,6 @@ One Piece anime art style, adventure manga anime style, bold clean ink outlines,
 **studio**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Torquil, 41-year-old human man who looks his age, 6'3", huge and solid, ruddy skin, a stern, steady face, grey eyes, cropped dark hair and a short beard, a scar across the brow, fully nude, no clothing, standing square with the arms at the sides and the jaw set, stern and embarrassed, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, stern, embarrassed, plain pale lavender-tinted cream background (#EEE6F7), average size penis
-
-**swim**
-
-One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Torquil, 41-year-old human man who looks his age, 6'3", huge and solid, ruddy skin, a stern, steady face, grey eyes, cropped dark hair and a short beard, a scar across the brow, wearing wool drawers, standing square with the arms at the sides, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, stern nod, plain pale aqua-tinted cream background (#DDF3F1)
 
 ## N5-27 Mungo (recruiter who signs men into debt, N5 Blackharpoon The Crimp's Berth)
 
@@ -374,10 +270,6 @@ One Piece anime art style, adventure manga anime style, bold clean ink outlines,
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Mungo, 43-year-old human man who looks his age, 5'9", wiry and neat, skin that is pale, sallow, a sly, smooth face, pale brown eyes, slicked black hair and a thin moustache, a gold tooth, fully nude, no clothing, standing with the hands clasped behind the back and the head tilted, sly and flustered, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, sly, flustered, plain pale lavender-tinted cream background (#EEE6F7), average size penis
 
-**swim**
-
-One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Mungo, 43-year-old human man who looks his age, 5'9", wiry and neat, skin that is pale, sallow, a sly, smooth face, pale brown eyes, slicked black hair and a thin moustache, a gold tooth, wearing silk-trimmed drawers, standing with the hands behind the back, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, smooth, sly smile, plain pale aqua-tinted cream background (#DDF3F1)
-
 ## N5-28 Peigi (madam, brisk and tired, N5 Blackharpoon The Lodging House)
 
 **clothed**
@@ -387,10 +279,6 @@ One Piece anime art style, adventure manga anime style, bold clean ink outlines,
 **studio**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Peigi, 47-year-old human woman who looks her age, 5'6", full-figured and solid, a D cup bust, ruddy and wind-scoured skin, a brisk, tired face, green eyes, dyed red hair in a pile, fully nude, no clothing, standing with a hand on the hip and the chin lifted, brisk and unembarrassed, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, brisk, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
-
-**swim**
-
-One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Peigi, 47-year-old human woman who looks her age, 5'6", full-figured and solid, a D cup bust, ruddy and wind-scoured skin, a brisk, tired face, green eyes, dyed red hair in a pile, wearing a faded lace slip, standing with a hand on the hip, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, brisk, appraising smile, plain pale aqua-tinted cream background (#DDF3F1)
 
 ## N5-29 Bram (male companion, weary and charming, N5 Blackharpoon The Lodging House)
 
@@ -402,10 +290,6 @@ One Piece anime art style, adventure manga anime style, bold clean ink outlines,
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Bram, 27-year-old human man, 6'0", lean and fine-featured, skin that is pale, a little weathered, a weary, charming face, grey-blue eyes, dark hair falling over his eyes, fully nude, no clothing, standing with the eyes lowered and one shoulder dropped, weary and teasing, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, weary, teasing, plain pale lavender-tinted cream background (#EEE6F7), average size penis
 
-**swim**
-
-One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Bram, 27-year-old human man, 6'0", lean and fine-featured, skin that is pale, a little weathered, a weary, charming face, grey-blue eyes, dark hair falling over his eyes, wearing wool drawers, standing with the eyes lowered, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, weary half-smile, plain pale aqua-tinted cream background (#DDF3F1)
-
 ## N5-30 Evert (distiller and gambler, shifty, N5 Blackharpoon The Grog Hole)
 
 **clothed**
@@ -415,10 +299,6 @@ One Piece anime art style, adventure manga anime style, bold clean ink outlines,
 **studio**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Evert, 38-year-old human man, 5'8", wiry, skin that is pale, blotchy, a shifty, grinning face, bloodshot grey eyes, greasy brown hair, stained fingers, fully nude, no clothing, standing hunched with the hands clasped to the chest, shifty and embarrassed, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, shifty, embarrassed, plain pale lavender-tinted cream background (#EEE6F7), average size penis
-
-**swim**
-
-One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Evert, 38-year-old human man, 5'8", wiry, skin that is pale, blotchy, a shifty, grinning face, bloodshot grey eyes, greasy brown hair, stained fingers, wearing wool drawers, standing hunched, shifty, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, shifty grin, plain pale aqua-tinted cream background (#DDF3F1)
 
 ## N5-W1 Maarten (deckhand, loud and cheerful, N5 Blackharpoon The Blubber Beach (pop-up))
 
@@ -458,10 +338,6 @@ One Piece anime art style, adventure manga anime style, bold clean ink outlines,
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Rhona, 52-year-old human woman who looks her age, 5'5", sturdy, a D cup bust, skin that is pale, weathered, a still, watchful face, grey eyes, grey hair under a black shawl, fully nude, no clothing, standing still with the hands clasped behind the back and the head turned away, shy, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, still, shy, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
 
-**swim**
-
-One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Rhona, 52-year-old human woman who looks her age, 5'5", sturdy, a D cup bust, skin that is pale, weathered, a still, watchful face, grey eyes, grey hair under a black shawl, wearing a plain grey shift, standing still with the head turned away, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, still look, plain pale aqua-tinted cream background (#DDF3F1)
-
 ## N5-W4 Geertje (desperate, selling for coin, N5 Blackharpoon The Rendering Alley and The Blowhole (pop-up))
 
 **clothed**
@@ -471,10 +347,6 @@ One Piece anime art style, adventure manga anime style, bold clean ink outlines,
 **studio**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Geertje, 29-year-old human woman, 5'6", thin and tired, a B cup bust, skin that is pale, hollow-eyed, a worn, tense face, grey eyes, dull brown hair, loose, fully nude, no clothing, standing with the hands at the sides and the shoulders tight, tense and resigned, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, tense, resigned, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
-
-**swim**
-
-One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Geertje, 29-year-old human woman, 5'6", thin and tired, a B cup bust, skin that is pale, hollow-eyed, a worn, tense face, grey eyes, dull brown hair, loose, wearing a thin worn slip, standing with the arms wrapped round herself, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, tense smile, plain pale aqua-tinted cream background (#DDF3F1)
 
 ## N5-W5 Teun (desperate, selling for coin, N5 Blackharpoon The Rendering Alley and The Blowhole (pop-up))
 
@@ -486,10 +358,6 @@ One Piece anime art style, adventure manga anime style, bold clean ink outlines,
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Teun, 25-year-old human man, 5'11", thin and wiry, skin that is pale, unshaven, a hollow, tense face, blue eyes, tangled fair hair, fully nude, no clothing, standing with the arms at the sides and the shoulders tight, tense and resigned, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, tense, resigned, plain pale lavender-tinted cream background (#EEE6F7), average size penis
 
-**swim**
-
-One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Teun, 25-year-old human man, 5'11", thin and wiry, skin that is pale, unshaven, a hollow, tense face, blue eyes, tangled fair hair, wearing patched drawers, standing with the arms at the sides, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, tense half-smile, plain pale aqua-tinted cream background (#DDF3F1)
-
 ## N5-W6 Truus (desperate, selling for coin, N5 Blackharpoon The Rendering Alley and The Blowhole (pop-up))
 
 **clothed**
@@ -499,10 +367,6 @@ One Piece anime art style, adventure manga anime style, bold clean ink outlines,
 **studio**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Truus, 31-year-old human woman, 5'7", tired and curvy, a C cup bust, skin that is pale, flushed, a worn, tough face, brown eyes, dark hair in a loose braid, fully nude, no clothing, standing with a hand on the hip and the head tilted, tough and weary, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, tough, weary, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
-
-**swim**
-
-One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Truus, 31-year-old human woman, 5'7", tired and curvy, a C cup bust, skin that is pale, flushed, a worn, tough face, brown eyes, dark hair in a loose braid, wearing a faded slip, standing with a hand on the hip, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, tough smile, plain pale aqua-tinted cream background (#DDF3F1)
 
 ## N5-W7 Ailsa (bather scrubbing off the oil, N5 Blackharpoon The Oil Wash (pop-up))
 

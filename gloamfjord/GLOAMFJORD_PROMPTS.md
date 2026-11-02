@@ -1,4 +1,4 @@
-# Gloamfjord prompts (40 people, 98 prompts)
+# Gloamfjord prompts (40 people, 86 prompts)
 
 ## N12-1 Ottavio (toll-man, hands wander, N12 Gloamfjord The Hundred Steps)
 
@@ -40,10 +40,6 @@ One Piece anime art style, adventure manga anime style, bold clean ink outlines,
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Zeina, 29-year-old human woman, 5'6", curvy, a D cup bust, light olive skin, a flirty, quick face, hazel eyes, dark curls tied up with a scarf, fully nude, no clothing, standing with one hand on the hip and the head tilted, flirty and bold, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, flirty, bold, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
 
-**swim**
-
-One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Zeina, 29-year-old human woman, 5'6", curvy, a D cup bust, light olive skin, a flirty, quick face, hazel eyes, dark curls tied up with a scarf, wearing a sheer chemise, standing with one hand on the hip and a flirty tilt of the head, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, flirty smile, plain pale aqua-tinted cream background (#DDF3F1)
-
 ## N12-5 Lucrezia (house dealer, glamorous cheat, N12 Gloamfjord The Loaded Ace)
 
 **clothed**
@@ -53,10 +49,6 @@ One Piece anime art style, adventure manga anime style, bold clean ink outlines,
 **studio**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Lucrezia, 35-year-old human woman, 5'8", tall and elegant, a D cup bust, warm olive-brown skin, a glamorous, knowing face, dark brown eyes, glossy black hair pinned up with a comb, a beauty spot at the corner of her mouth, fully nude, no clothing, standing with the chin lifted, one hand at the hair and a confident, teasing look, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, confident, teasing, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
-
-**swim**
-
-One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Lucrezia, 35-year-old human woman, 5'8", tall and elegant, a D cup bust, warm olive-brown skin, a glamorous, knowing face, dark brown eyes, glossy black hair pinned up with a comb, a beauty spot at the corner of her mouth, wearing a black corset set with stockings, standing with one hand on the hip and the chin lifted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, knowing smile, plain pale aqua-tinted cream background (#DDF3F1)
 
 ## N12-6 Ulrik (debt collector, patient and menacing, N12 Gloamfjord The Loaded Ace)
 
@@ -88,10 +80,6 @@ One Piece anime art style, adventure manga anime style, bold clean ink outlines,
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Fiora, 26-year-old human woman, 5'4", curvy, a D cup bust, light olive skin, a cheeky, flushed face, dark brown eyes, dark curls half pinned up, fully nude, no clothing, standing with a hip cocked and one hand in the curls, cheeky and bold, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, cheeky, bold, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
 
-**swim**
-
-One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Fiora, 26-year-old human woman, 5'4", curvy, a D cup bust, light olive skin, a cheeky, flushed face, dark brown eyes, dark curls half pinned up, wearing black underwear with stockings, standing with a hip cocked and a cheeky wink, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, cheeky wink, plain pale aqua-tinted cream background (#DDF3F1)
-
 ## N12-9 Thrain (tavern keeper, sleazy, N12 Gloamfjord The Drowned Saint)
 
 **clothed**
@@ -112,10 +100,6 @@ One Piece anime art style, adventure manga anime style, bold clean ink outlines,
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Bergljot, 31-year-old human woman, 5'8", tall and rangy, a C cup bust, skin that is fair, weathered, a hard, unamused face, grey eyes, dark blonde hair in a rough braid, a small scar on her lip, fully nude, no clothing, standing with the hands on the hips and the head level, hard and unamused, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, hard, unamused, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
 
-**swim**
-
-One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Bergljot, 31-year-old human woman, 5'8", tall and rangy, a C cup bust, skin that is fair, weathered, a hard, unamused face, grey eyes, dark blonde hair in a rough braid, a small scar on her lip, wearing a plain slip, standing with the arms at the sides, hard-faced, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, hard stare, plain pale aqua-tinted cream background (#DDF3F1)
-
 ## N12-11 Ines (barmaid, grabby and bold, N12 Gloamfjord The Drowned Saint)
 
 **clothed**
@@ -125,10 +109,6 @@ One Piece anime art style, adventure manga anime style, bold clean ink outlines,
 **studio**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Ines, 24-year-old human woman, 5'5", curvy, a DD cup bust, warm olive-brown skin, a bold, laughing face, dark brown eyes, long black hair, loose and tousled, fully nude, no clothing, standing leaning forward with one hand reaching out, bold and laughing, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, bold, laughing, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
-
-**swim**
-
-One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Ines, 24-year-old human woman, 5'5", curvy, a DD cup bust, warm olive-brown skin, a bold, laughing face, dark brown eyes, long black hair, loose and tousled, wearing black lace underwear with stockings, standing leaning forward with one hand reaching out, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, bold laugh, plain pale aqua-tinted cream background (#DDF3F1)
 
 ## N12-12 Hjalmar (keeper, stern, N12 Gloamfjord The Rented Hour)
 
@@ -150,10 +130,6 @@ One Piece anime art style, adventure manga anime style, bold clean ink outlines,
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Rania, 27-year-old human woman, 5'6", slim and soft, a C cup bust, warm olive-brown skin, a tired, warm face, dark brown eyes, long black hair, half up, fully nude, no clothing, standing with one shoulder dropped and one hand pushing the hair back, warm and weary, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, warm, weary, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
 
-**swim**
-
-One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Rania, 27-year-old human woman, 5'6", slim and soft, a C cup bust, warm olive-brown skin, a tired, warm face, dark brown eyes, long black hair, half up, wearing a plain slip, standing with one shoulder dropped and a tired, warm smile, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, tired warm smile, plain pale aqua-tinted cream background (#DDF3F1)
-
 ## N12-14 Elias (company worker, N12 Gloamfjord The Rented Hour)
 
 **clothed**
@@ -163,10 +139,6 @@ One Piece anime art style, adventure manga anime style, bold clean ink outlines,
 **studio**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Elias, 30-year-old human man, 5'11", lean and graceful, light olive skin, a gentle, handsome face, dark brown eyes, dark curls, fully nude, no clothing, standing with one hand on the hip and a gentle, easy smile, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, gentle, easy, plain pale lavender-tinted cream background (#EEE6F7), average size penis
-
-**swim**
-
-One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Elias, 30-year-old human man, 5'11", lean and graceful, light olive skin, a gentle, handsome face, dark brown eyes, dark curls, wearing plain drawers, standing with one hand on the hip, gentle, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, gentle smile, plain pale aqua-tinted cream background (#DDF3F1)
 
 ## N12-15 Valentina (madame, elegant, N12 Gloamfjord The Silk Cellar)
 
@@ -178,10 +150,6 @@ One Piece anime art style, adventure manga anime style, bold clean ink outlines,
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Valentina, 48-year-old human woman who looks her age, 5'8", full and elegant, an E cup bust, warm olive-brown skin, an elegant, shrewd face, dark brown eyes, black hair streaked with silver, in an elaborate pile, fully nude, no clothing, standing straight with the chin up and a hand on the hip, confident, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, confident, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
 
-**swim**
-
-One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Valentina, 48-year-old human woman who looks her age, 5'8", full and elegant, an E cup bust, warm olive-brown skin, an elegant, shrewd face, dark brown eyes, black hair streaked with silver, in an elaborate pile, wearing a plum silk corset set with stockings, standing straight with one hand on the hip, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, shrewd smile, plain pale aqua-tinted cream background (#DDF3F1)
-
 ## N12-16 Dunya (hostess, N12 Gloamfjord The Silk Cellar)
 
 **clothed**
@@ -192,10 +160,6 @@ One Piece anime art style, adventure manga anime style, bold clean ink outlines,
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Dunya, 25-year-old human woman, 5'6", slim and graceful, a C cup bust, light olive skin, a poised, warm face, hazel eyes, long dark hair in a loose braid, fully nude, no clothing, standing with the hands behind the head and the chest lifted, poised and playful, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, poised, playful, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
 
-**swim**
-
-One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Dunya, 25-year-old human woman, 5'6", slim and graceful, a C cup bust, light olive skin, a poised, warm face, hazel eyes, long dark hair in a loose braid, wearing a cream silk slip, standing with the hands behind the head, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, poised smile, plain pale aqua-tinted cream background (#DDF3F1)
-
 ## N12-17 Paolo (male companion, N12 Gloamfjord The Silk Cellar)
 
 **clothed**
@@ -205,10 +169,6 @@ One Piece anime art style, adventure manga anime style, bold clean ink outlines,
 **studio**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Paolo, 31-year-old human man, 6'0", lean and muscular, warm olive-brown skin, a handsome, lazy-smiling face, dark brown eyes, black hair swept back, fully nude, no clothing, standing easy with one hand on the hip and the weight on one leg, confident, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, easy, confident, plain pale lavender-tinted cream background (#EEE6F7), average size penis
-
-**swim**
-
-One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Paolo, 31-year-old human man, 6'0", lean and muscular, warm olive-brown skin, a handsome, lazy-smiling face, dark brown eyes, black hair swept back, wearing black drawers, standing with one hand on the hip and a lazy smile, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, lazy smile, plain pale aqua-tinted cream background (#DDF3F1)
 
 ## N12-18 Eilif (fight-master, N12 Gloamfjord The Sump)
 
@@ -388,10 +348,6 @@ One Piece anime art style, adventure manga anime style, bold clean ink outlines,
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Freydis, 32-year-old human woman, 5'7", lean, a C cup bust, fair skin, a sly, hungry face, green eyes, red hair in a messy knot, fully nude, no clothing, standing with one hip out and the head tilted, sly, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, sly, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
 
-**swim**
-
-One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Freydis, 32-year-old human woman, 5'7", lean, a C cup bust, fair skin, a sly, hungry face, green eyes, red hair in a messy knot, wearing black underwear with stockings, standing with one hip out, sly, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, sly smile, plain pale aqua-tinted cream background (#DDF3F1)
-
 ## N12-W3 Massimo (drunk who grabs, N12 Gloamfjord Backwash Lane (pop-up))
 
 **clothed**
@@ -411,10 +367,6 @@ One Piece anime art style, adventure manga anime style, bold clean ink outlines,
 **studio**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Ylva, 26-year-old human woman, 5'7", lean and strong, a C cup bust, fair skin, a blunt, handsome face, dark eyes, black hair in a topknot, fully nude, no clothing, standing with one hip out and the hands on the hips, blunt, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, blunt, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
-
-**swim**
-
-One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Ylva, 26-year-old human woman, 5'7", lean and strong, a C cup bust, fair skin, a blunt, handsome face, dark eyes, black hair in a topknot, wearing black underwear with stockings, standing with one hip out, blunt, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, blunt look, plain pale aqua-tinted cream background (#DDF3F1)
 
 ## N12-W5 Teodora (bold beach-goer, N12 Gloamfjord The Black Strand (pop-up))
 

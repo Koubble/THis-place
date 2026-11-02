@@ -142,6 +142,19 @@ def core(r):
     return ", ".join(parts)
 
 
+# A third (swimwear/underwear) prompt is only made for people who are in, or could turn up in, a place where
+# swimwear or bathwear is worn: beaches, baths, spas, pools, springs, caves, changing huts, wash and scrub houses,
+# massage rooms, and swimmers, lifeguards and bathers.
+SWIM_PLACE = re.compile(r"\bbath|\bspa\b|\bpools\b|\bbeach\b|\bcove\b|\bshore\b|\bshingle\b|\bstrand\b|\bspring|\bseep\b|"
+                        r"\bbasins?\b|\bplunge\b|\bsauna|sweat hall|thaw house|scrub house|\bwash|\blido\b|tide cave|"
+                        r"sunbath|pontoon|\bmere\b|cleansing|changing hut|massage|masseu|kneading|swimm|lifeguard|"
+                        r"surfer|steam kettle", re.I)
+
+
+def wants_third(r):
+    return bool(SWIM_PLACE.search(r["where"] + " " + r["role"]))
+
+
 def tidy_third(t):
     t = t.strip()
     m = {"a one-piece": "a plain one-piece swimsuit", "trunks": "plain swim trunks", "red trunks": "red swim trunks",
@@ -171,7 +184,7 @@ for r in rows:
                      f"soft even light, {cl_expr}, {BG['clothed']}")
     pr["nude"] = (f"{STYLE}, one {'woman' if woman else 'man'}, {cb}, fully nude, no clothing, {nu_pose}, {FRAME}, "
                   f"soft even light, {nu_expr}, {BG['nude']}, {anat(r)}")
-    if r["third_image_swim_or_underwear"]:
+    if r["third_image_swim_or_underwear"] and wants_third(r):
         sw_expr = cl_expr
         pr["swim"] = (f"{STYLE}, one {'woman' if woman else 'man'}, {cb}, wearing {tidy_third(r['third_image_swim_or_underwear'])}, "
                       f"{sw_pose}, {FRAME}, soft even light, {sw_expr}, {BG['swim']}")
