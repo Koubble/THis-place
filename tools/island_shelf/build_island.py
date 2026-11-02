@@ -1,6 +1,7 @@
 import csv, json, re, sys, collections
 sys.path.insert(0, ".")
 import importlib
+from species import SPECIES
 
 CSV_PATH, OUT_JSON = sys.argv[1], sys.argv[2]
 PH = importlib.import_module(sys.argv[3] if len(sys.argv) > 3 else 'poses_hearthstone')
@@ -14,8 +15,20 @@ FRAME = "three-quarter length shot framed from the head down to the knees, knees
 ANAT = {"F": "nipples and vagina visible", "M": "average size penis"}
 
 
+def parse_people(raw):
+    """-> (species base, species description, extra descriptors). The roster may carry its own description after a colon."""
+    raw = raw.strip()
+    if ":" in raw:
+        base, desc = raw.split(":", 1)
+        return base.strip(), desc.strip(), []
+    pp = [x.strip() for x in raw.split(",")]
+    base = re.sub(r"\s+(man|woman)$", "", pp[0])
+    extra = [x for x in pp[1:] if "grown adult" not in x]
+    return base, SPECIES.get(base, ("", None))[0], extra
+
+
 def anat(r):
-    """Women: fixed wording. Men: 'average size penis' unless the roster note states a size."""
+    """Women: fixed wording. Men: a roster size/shape note wins, then the species default, then 'average size penis'."""
     if r["sex"] == "F":
         return ANAT["F"]
     s = r["bust_or_scale"].lower()
@@ -29,7 +42,14 @@ def anat(r):
         return "very small penis"
     if re.search(r"smaller than average|\bsmall\b|below average", s):
         return "smaller than average penis"
-    return ANAT["M"]
+    if "knotted" in s:
+        return "knotted penis"
+    if "barbed" in s:
+        return "barbed penis"
+    if "ridged" in s:
+        return "ridged paired penis"
+    base = parse_people(r["people"])[0]
+    return SPECIES.get(base, ("", None))[1] or ANAT["M"]
 
 # wording fixes so no youthful words reach a prompt, and no weapon words
 SUB = [("petite", "small-framed"), ("boyish", "cheeky"), ("wide-eyed, trusting smile", "trusting smile"), ("wide-eyed, shy", "shy"),
@@ -92,14 +112,14 @@ def core(r):
     woman = sex == "F"
     age = int(r["age"])
     pa = max(age, 22)  # prompt age: the three youngest are written as 22
-    pp = [x.strip() for x in r["people"].split(",")]
-    people = re.sub(r"\s+(man|woman)$", "", pp[0])
-    extra = [x for x in pp[1:] if "grown adult" not in x]
+    people, desc, extra = parse_people(r["people"])
     sw = "woman" if woman else "man"
     her = "her" if woman else "his"
     head = f"{r['name']}, {pa}-year-old {people} {sw}"
     if pa >= 40:
         head += f" who looks {her} age"
+    if desc:
+        head += ", " + desc
     if extra:
         head += ", " + ", ".join(extra)
     if pa >= 55:
