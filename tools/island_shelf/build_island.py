@@ -2,6 +2,7 @@ import csv, json, re, sys, collections
 sys.path.insert(0, ".")
 import importlib
 from species import SPECIES
+from ugly_overrides import UGLY
 
 CSV_PATH, OUT_JSON = sys.argv[1], sys.argv[2]
 PH = importlib.import_module(sys.argv[3] if len(sys.argv) > 3 else 'poses_hearthstone')
@@ -107,6 +108,25 @@ def face_phrase(f):
     return "a face with " + f
 
 
+UNGLAM = re.compile(r"ugly|wart|pockmark|lumpy|crooked|broken nose|dented nose|flattened nose|big nose|bulbous|jowl|sagging|gap-toothed|"
+                    r"missing (tooth|ear|fingertip|front)|cleft|blotch|leer|sleazy|oily|greasy|sweating|puffy|red nose|gold tooth|"
+                    r"squint|hollow|gaunt|coarse|rough-hewn|lopsided|weathered|lined|wrinkled|papery|sallow|haggard|shifty|"
+                    r"hard face|heavy brow|flat face|tired face|worn face|plain", re.I)
+PRETTYRE = re.compile(r"beautiful|pretty|handsome|glamorous|elegant|striking|gorgeous|stunning", re.I)
+
+
+def apply_ugly(r):
+    o = UGLY.get(r["id"])
+    if o:
+        if o.get("face_add"):
+            r["face"] = r["face"].rstrip(" .") + ", " + o["face_add"]
+        if o.get("skin"):
+            r["skin"] = o["skin"]
+        if o.get("build"):
+            r["build"] = o["build"]
+    return r
+
+
 def core(r):
     sex = r["sex"]
     woman = sex == "F"
@@ -132,6 +152,14 @@ def core(r):
         parts.append(f"{article(cup)} {cup} bust")
     parts.append(skin_phrase(fix(r["skin"])))
     parts.append(face_phrase(r["face"]))
+    ftext = r["face"] + " " + r["marks"] + " " + r["skin"]
+    if r["id"] in UGLY or (UNGLAM.search(ftext) and not PRETTYRE.search(r["face"])):
+        if re.search(r"powder|painted|rouge", ftext, re.I):
+            parts.append("plain unglamorous looks, blemished uneven skin")
+        else:
+            parts.append("plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone")
+        if r["id"] in UGLY:
+            parts.append("unflattering rough-hewn features")
     parts.append(eyes_phrase(r["eyes"]))
     hair = fix(r["hair"].strip())
     if r["id"] == "T8-1":
@@ -204,6 +232,7 @@ people = []
 bad_obj = re.compile(r"\b(holding|hold|towel|tray|fan|spoon|rope|crate|book|ledger|stool|chair|wall|table|counter|bed|door|bottle|basket|pin cushion|tape|strap)\b", re.I)
 for r in rows:
     r = {k: (v or "").strip() for k, v in r.items()}
+    r = apply_ugly(r)
     cb = core(r)
     woman = r["sex"] == "F"
     pid = r["id"]
