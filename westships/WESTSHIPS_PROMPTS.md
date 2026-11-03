@@ -480,12 +480,20 @@ _ghost warder or convict of a drowned prison hulk, desperate_
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Hobb, 50-year-old ghost folk man who looks his age, an eerie sea-person, pale, translucent and silvery, with trailing wet hair, hollow pale eyes and a faint glow, 6'1", broad and strong, skin that is pale, translucent and silvery, a hard, sunken, pale face, hollow pale eyes, pale hair in a wet braid, a faint pale glow, wearing a tattered grey warder's coat, standing square with the hands on the hips, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, stern stare, plain cream background (#FFF8E7)
 
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Hobb, 50-year-old ghost folk man who looks his age, an eerie sea-person, pale, translucent and silvery, with trailing wet hair, hollow pale eyes and a faint glow, 6'1", broad and strong, skin that is pale, translucent and silvery, a hard, sunken, pale face, hollow pale eyes, pale hair in a wet braid, a faint pale glow, fully nude, no clothing, standing square with the hands on the hips, the shoulders back, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, stern, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
 ## WS-45 Nan (woman, 34) – WS West Ships The Convict Hulk
 _ghost warder or convict of a drowned prison hulk, desperate_
 
 **clothed**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Nan, 34-year-old ghost folk woman, an eerie sea-person, pale, translucent and silvery, with trailing wet hair, hollow pale eyes and a faint glow, 5'3", slim and curvy, a D cup bust, skin that is pale, translucent and silvery, a gaunt, pleading, pale face, hollow pale eyes, wet fair hair, trailing, a faint pale glow, wearing a ragged grey convict dress, rusted iron cuffs at the wrists, standing with a relaxed hip tilt, the arms loose at the sides, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, pleading look, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Nan, 34-year-old ghost folk woman, an eerie sea-person, pale, translucent and silvery, with trailing wet hair, hollow pale eyes and a faint glow, 5'3", slim and curvy, a D cup bust, skin that is pale, translucent and silvery, a gaunt, pleading, pale face, hollow pale eyes, wet fair hair, trailing, a faint pale glow, fully nude, no clothing, standing with the weight on one hip and the arms loose, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, pleading, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
 
 ## WS-46 Tobias (man, 29) – WS West Ships The Convict Hulk
 _ghost warder or convict of a drowned prison hulk, desperate_
@@ -494,12 +502,20 @@ _ghost warder or convict of a drowned prison hulk, desperate_
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Tobias, 29-year-old ghost folk man, an eerie sea-person, pale, translucent and silvery, with trailing wet hair, hollow pale eyes and a faint glow, 5'8", broad and strong, skin that is pale, translucent and silvery, a thin, desperate, pale face, hollow pale eyes, wet sandy hair, trailing, a faint pale glow, wearing a tattered grey warder's coat, standing with the arms crossed over the chest, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, desperate look, plain cream background (#FFF8E7)
 
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Tobias, 29-year-old ghost folk man, an eerie sea-person, pale, translucent and silvery, with trailing wet hair, hollow pale eyes and a faint glow, 5'8", broad and strong, skin that is pale, translucent and silvery, a thin, desperate, pale face, hollow pale eyes, wet sandy hair, trailing, a faint pale glow, fully nude, no clothing, standing with the arms folded across the chest and the weight on one leg, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, desperate, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
 ## WS-47 Wenna (woman, 41) – WS West Ships The Convict Hulk
 _ghost warder or convict of a drowned prison hulk, desperate_
 
 **clothed**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Wenna, 41-year-old ghost folk woman who looks her age, an eerie sea-person, pale, translucent and silvery, with trailing wet hair, hollow pale eyes and a faint glow, 5'6", athletic, a D cup bust, skin that is pale, translucent and silvery, a worn, pleading, pale face, hollow pale eyes, wet dark hair, trailing, a faint pale glow, wearing a ragged grey convict dress, rusted iron cuffs at the wrists, standing with the hands behind the back, leaning slightly forward, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, pleading look, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Wenna, 41-year-old ghost folk woman who looks her age, an eerie sea-person, pale, translucent and silvery, with trailing wet hair, hollow pale eyes and a faint glow, 5'6", athletic, a D cup bust, skin that is pale, translucent and silvery, a worn, pleading, pale face, hollow pale eyes, wet dark hair, trailing, a faint pale glow, fully nude, no clothing, standing with the hands clasped behind the back and the chest lifted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, pleading, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
 
 ## WS-48 Garth (man, 38) – WS West Ships The Convict Hulk
 _ghost warder or convict of a drowned prison hulk, desperate_
@@ -508,12 +524,20 @@ _ghost warder or convict of a drowned prison hulk, desperate_
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Garth, 38-year-old ghost folk man, an eerie sea-person, pale, translucent and silvery, with trailing wet hair, hollow pale eyes and a faint glow, 5'11", stocky, skin that is pale, translucent and silvery, a hollow, desperate face, hollow pale eyes, wet dark hair, trailing, a faint pale glow, wearing a tattered grey warder's coat, standing with the weight on one leg and the arms loose, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, desperate look, plain cream background (#FFF8E7)
 
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Garth, 38-year-old ghost folk man, an eerie sea-person, pale, translucent and silvery, with trailing wet hair, hollow pale eyes and a faint glow, 5'11", stocky, skin that is pale, translucent and silvery, a hollow, desperate face, hollow pale eyes, wet dark hair, trailing, a faint pale glow, fully nude, no clothing, standing with the weight on one leg, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, desperate, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
 ## WS-49 Elspet (woman, 25) – WS West Ships The Convict Hulk
 _ghost warder or convict of a drowned prison hulk, desperate_
 
 **clothed**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Elspet, 25-year-old ghost folk woman, an eerie sea-person, pale, translucent and silvery, with trailing wet hair, hollow pale eyes and a faint glow, 5'8", slim, a C cup bust, skin that is pale, translucent and silvery, a smooth, frightened, pale face, hollow pale eyes, pale hair in a wet braid, a faint pale glow, wearing a ragged grey convict dress, rusted iron cuffs at the wrists, standing with the hand on the hip and the chin lifted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, pleading look, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Elspet, 25-year-old ghost folk woman, an eerie sea-person, pale, translucent and silvery, with trailing wet hair, hollow pale eyes and a faint glow, 5'8", slim, a C cup bust, skin that is pale, translucent and silvery, a smooth, frightened, pale face, hollow pale eyes, pale hair in a wet braid, a faint pale glow, fully nude, no clothing, standing with a hand on the hip and the shoulders back, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, pleading, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
 
 ## WS-50 Silvanus (man, 60) – WS West Ships The Fen Ferry
 _ghost ferryman or fen-wife who keeps the tally, polite and relentless_
@@ -522,6 +546,10 @@ _ghost ferryman or fen-wife who keeps the tally, polite and relentless_
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Silvanus, 60-year-old ghost folk man who looks his age, an eerie sea-person, pale, translucent and silvery, with trailing wet hair, hollow pale eyes and a faint glow, an older man, 6'2", solid and thick, skin that is pale, translucent and silvery, a long, pale, courteous face, hollow pale eyes, wet sandy hair, trailing, a faint pale glow, wearing a sodden oilskin coat and a floppy hat, standing square with the hands on the hips, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, polite look, plain cream background (#FFF8E7)
 
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Silvanus, 60-year-old ghost folk man who looks his age, an eerie sea-person, pale, translucent and silvery, with trailing wet hair, hollow pale eyes and a faint glow, an older man, 6'2", solid and thick, skin that is pale, translucent and silvery, a long, pale, courteous face, hollow pale eyes, wet sandy hair, trailing, a faint pale glow, fully nude, no clothing, standing square with the hands on the hips, the shoulders back, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, polite, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
 ## WS-51 Corin (man, 45) – WS West Ships The Fen Ferry
 _ghost ferryman or fen-wife who keeps the tally, polite and relentless_
 
@@ -529,9 +557,17 @@ _ghost ferryman or fen-wife who keeps the tally, polite and relentless_
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Corin, 45-year-old ghost folk man who looks his age, an eerie sea-person, pale, translucent and silvery, with trailing wet hair, hollow pale eyes and a faint glow, 6'0", stocky, skin that is pale, translucent and silvery, a grey, patient face, hollow pale eyes, pale hair in a wet braid, a faint pale glow, wearing a sodden oilskin coat and a floppy hat, standing with a relaxed hip tilt, the arms loose, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, polite look, plain cream background (#FFF8E7)
 
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Corin, 45-year-old ghost folk man who looks his age, an eerie sea-person, pale, translucent and silvery, with trailing wet hair, hollow pale eyes and a faint glow, 6'0", stocky, skin that is pale, translucent and silvery, a grey, patient face, hollow pale eyes, pale hair in a wet braid, a faint pale glow, fully nude, no clothing, standing with the weight on one leg and the arms loose, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, polite, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
 ## WS-52 Tallow (woman, 52) – WS West Ships The Fen Ferry
 _ghost ferryman or fen-wife who keeps the tally, polite and relentless_
 
 **clothed**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Tallow, 52-year-old ghost folk woman who looks her age, an eerie sea-person, pale, translucent and silvery, with trailing wet hair, hollow pale eyes and a faint glow, 5'7", sturdy, a C cup bust, skin that is pale, translucent and silvery, a stern, pale face, hollow pale eyes, wet grey hair, trailing, a faint pale glow, wearing a sodden shawl over a dark dress, standing with one hand on the hip and the weight on one leg, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, relentless look, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Tallow, 52-year-old ghost folk woman who looks her age, an eerie sea-person, pale, translucent and silvery, with trailing wet hair, hollow pale eyes and a faint glow, 5'7", sturdy, a C cup bust, skin that is pale, translucent and silvery, a stern, pale face, hollow pale eyes, wet grey hair, trailing, a faint pale glow, fully nude, no clothing, standing with the hand on the hip and the chin lifted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, relentless, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible

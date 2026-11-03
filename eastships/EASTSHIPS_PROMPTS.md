@@ -491,12 +491,20 @@ _ghost captor or captive of an old pit-games ship_
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Barnabas, 54-year-old ghost folk man who looks his age, an eerie sea-person, pale, translucent and silvery, with trailing wet hair, hollow pale eyes and a faint glow, 5'9", spare and tall, skin that is pale, translucent and silvery, a cruel, pale, handsome face, hollow pale eyes, wet grey hair, trailing, a faint pale glow, wearing a tattered captain's coat with tarnished buttons, standing with one hand on the hip, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, cruel stare, plain cream background (#FFF8E7)
 
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Barnabas, 54-year-old ghost folk man who looks his age, an eerie sea-person, pale, translucent and silvery, with trailing wet hair, hollow pale eyes and a faint glow, 5'9", spare and tall, skin that is pale, translucent and silvery, a cruel, pale, handsome face, hollow pale eyes, wet grey hair, trailing, a faint pale glow, fully nude, no clothing, standing with one hand on the hip, the other arm loose, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, cruel, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
 ## ES-46 Ezra (man, 43) – ES East Ships The Old Slave Ship
 _ghost captor or captive of an old pit-games ship_
 
 **clothed**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Ezra, 43-year-old ghost folk man who looks his age, an eerie sea-person, pale, translucent and silvery, with trailing wet hair, hollow pale eyes and a faint glow, 5'10", lean and wiry, skin that is pale, translucent and silvery, a hard, pale face, hollow pale eyes, pale hair in a wet braid, a faint pale glow, wearing a tattered mate's coat, standing with the arms relaxed at the sides and the chin lifted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, hard stare, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Ezra, 43-year-old ghost folk man who looks his age, an eerie sea-person, pale, translucent and silvery, with trailing wet hair, hollow pale eyes and a faint glow, 5'10", lean and wiry, skin that is pale, translucent and silvery, a hard, pale face, hollow pale eyes, pale hair in a wet braid, a faint pale glow, fully nude, no clothing, standing tall with the arms loose at the sides, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, hard, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), average size penis
 
 ## ES-47 Morwenna (woman, 40) – ES East Ships The Old Slave Ship
 _ghost captor or captive of an old pit-games ship_
@@ -505,12 +513,20 @@ _ghost captor or captive of an old pit-games ship_
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Morwenna, 40-year-old ghost folk woman who looks her age, an eerie sea-person, pale, translucent and silvery, with trailing wet hair, hollow pale eyes and a faint glow, 5'5", slim and curvy, an F cup bust, skin that is pale, translucent and silvery, a cold, stern, pale face, hollow pale eyes, wet dark hair, trailing, a faint pale glow, wearing a tattered overseer's coat over a long skirt, standing with the hair over one shoulder, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, cold stare, plain cream background (#FFF8E7)
 
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Morwenna, 40-year-old ghost folk woman who looks her age, an eerie sea-person, pale, translucent and silvery, with trailing wet hair, hollow pale eyes and a faint glow, 5'5", slim and curvy, an F cup bust, skin that is pale, translucent and silvery, a cold, stern, pale face, hollow pale eyes, wet dark hair, trailing, a faint pale glow, fully nude, no clothing, standing with one hand lifted to the hair, the other arm loose, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, cold, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
 ## ES-48 Nyah (woman, 28) – ES East Ships The Old Slave Ship
 _ghost captor or captive of an old pit-games ship_
 
 **clothed**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Nyah, 28-year-old ghost folk woman, an eerie sea-person, pale, translucent and silvery, with trailing wet hair, hollow pale eyes and a faint glow, 5'3", sturdy, a C cup bust, skin that is pale, translucent and silvery, a proud, weary, pale face, hollow pale eyes, wet fair hair, trailing, a faint pale glow, wearing a ragged fighting wrap, rusted iron cuffs at the wrists, standing with one hand at the collarbone and the weight on one leg, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, proud look, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Nyah, 28-year-old ghost folk woman, an eerie sea-person, pale, translucent and silvery, with trailing wet hair, hollow pale eyes and a faint glow, 5'3", sturdy, a C cup bust, skin that is pale, translucent and silvery, a proud, weary, pale face, hollow pale eyes, wet fair hair, trailing, a faint pale glow, fully nude, no clothing, standing with one hand lifted to the collarbone and the other arm loose, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, proud, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
 
 ## ES-49 Tamar (man, 31) – ES East Ships The Old Slave Ship
 _ghost captor or captive of an old pit-games ship_
@@ -519,12 +535,20 @@ _ghost captor or captive of an old pit-games ship_
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Tamar, 31-year-old ghost folk man, an eerie sea-person, pale, translucent and silvery, with trailing wet hair, hollow pale eyes and a faint glow, 6'2", compact and tough, skin that is pale, translucent and silvery, a stoic, scarred, pale face, hollow pale eyes, wet sandy hair, trailing, a faint pale glow, wearing a ragged tunic, rusted iron cuffs at the wrists, standing tall with the arms loose at the sides, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, stoic look, plain cream background (#FFF8E7)
 
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Tamar, 31-year-old ghost folk man, an eerie sea-person, pale, translucent and silvery, with trailing wet hair, hollow pale eyes and a faint glow, 6'2", compact and tough, skin that is pale, translucent and silvery, a stoic, scarred, pale face, hollow pale eyes, wet sandy hair, trailing, a faint pale glow, fully nude, no clothing, standing with the arms at the sides, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, stoic, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
 ## ES-50 Ishmael (man, 50) – ES East Ships The Old Slave Ship
 _ghost captor or captive of an old pit-games ship_
 
 **clothed**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Ishmael, 50-year-old ghost folk man who looks his age, an eerie sea-person, pale, translucent and silvery, with trailing wet hair, hollow pale eyes and a faint glow, 5'10", broad and strong, skin that is pale, translucent and silvery, a weary, grey, pale face, hollow pale eyes, pale hair in a wet braid, a faint pale glow, wearing a ragged tunic, rusted iron cuffs at the wrists, standing with both hands behind the head, relaxed, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, pleading look, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Ishmael, 50-year-old ghost folk man who looks his age, an eerie sea-person, pale, translucent and silvery, with trailing wet hair, hollow pale eyes and a faint glow, 5'10", broad and strong, skin that is pale, translucent and silvery, a weary, grey, pale face, hollow pale eyes, pale hair in a wet braid, a faint pale glow, fully nude, no clothing, standing with one hand behind the head and the weight on one leg, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, pleading, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), average size penis
 
 ## ES-51 Seraphine (woman, 45) – ES East Ships The Ghost Dice-Boat
 _ghost gambler, still playing_
@@ -533,6 +557,10 @@ _ghost gambler, still playing_
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Seraphine, 45-year-old ghost folk woman who looks her age, an eerie sea-person, pale, translucent and silvery, with trailing wet hair, hollow pale eyes and a faint glow, 5'3", slim and curvy, an E cup bust, skin that is pale, translucent and silvery, a smiling, sunken pale face, hollow pale eyes, wet fair hair, trailing, a faint pale glow, wearing a tattered satin gown, a sodden shawl, standing with one hand at the collarbone, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, inviting smile, plain cream background (#FFF8E7)
 
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Seraphine, 45-year-old ghost folk woman who looks her age, an eerie sea-person, pale, translucent and silvery, with trailing wet hair, hollow pale eyes and a faint glow, 5'3", slim and curvy, an E cup bust, skin that is pale, translucent and silvery, a smiling, sunken pale face, hollow pale eyes, wet fair hair, trailing, a faint pale glow, fully nude, no clothing, standing with one hand at the collarbone and the weight on one leg, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, inviting, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
 ## ES-52 Bartholomew (man, 38) – ES East Ships The Ghost Dice-Boat
 _ghost gambler, still playing_
 
@@ -540,9 +568,17 @@ _ghost gambler, still playing_
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Bartholomew, 38-year-old ghost folk man, an eerie sea-person, pale, translucent and silvery, with trailing wet hair, hollow pale eyes and a faint glow, 5'8", lean and wiry, skin that is pale, translucent and silvery, a sly, pale face, hollow pale eyes, wet grey hair, trailing, a faint pale glow, wearing a tattered velvet waistcoat and sodden shirt, standing with the arms relaxed at the sides and the chin lifted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, sly smile, plain cream background (#FFF8E7)
 
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Bartholomew, 38-year-old ghost folk man, an eerie sea-person, pale, translucent and silvery, with trailing wet hair, hollow pale eyes and a faint glow, 5'8", lean and wiry, skin that is pale, translucent and silvery, a sly, pale face, hollow pale eyes, wet grey hair, trailing, a faint pale glow, fully nude, no clothing, standing tall with the arms loose at the sides, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, sly, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
 ## ES-53 Rufus (man, 29) – ES East Ships The Ghost Dice-Boat
 _ghost gambler, still playing_
 
 **clothed**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Rufus, 29-year-old ghost folk man, an eerie sea-person, pale, translucent and silvery, with trailing wet hair, hollow pale eyes and a faint glow, 5'9", stocky, skin that is pale, translucent and silvery, a keen, pale face, hollow pale eyes, wet dark hair, trailing, a faint pale glow, wearing a tattered velvet waistcoat and sodden shirt, standing relaxed with one hand behind the head, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, keen look, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Rufus, 29-year-old ghost folk man, an eerie sea-person, pale, translucent and silvery, with trailing wet hair, hollow pale eyes and a faint glow, 5'9", stocky, skin that is pale, translucent and silvery, a keen, pale face, hollow pale eyes, wet dark hair, trailing, a faint pale glow, fully nude, no clothing, standing relaxed with one hand behind the head, the other arm loose, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, keen, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), average size penis

@@ -480,12 +480,20 @@ _ghost captain of a downed military ship, stuck on his last order_
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Wilhelm, 51-year-old ghost folk man who looks his age, an eerie sea-person, pale, translucent and silvery, with trailing wet hair, hollow pale eyes and a faint glow, 6'1", upright, skin that is pale, translucent and silvery, a stern, forceful, hollow-cheeked face, hollow pale eyes, grey hair trailing wet, a faint pale glow, wearing a tattered naval captain's coat with tarnished epaulettes, a sodden cap, standing with the hands on the hips and the chest out, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, forceful, demanding look, plain cream background (#FFF8E7)
 
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Wilhelm, 51-year-old ghost folk man who looks his age, an eerie sea-person, pale, translucent and silvery, with trailing wet hair, hollow pale eyes and a faint glow, 6'1", upright, skin that is pale, translucent and silvery, a stern, forceful, hollow-cheeked face, hollow pale eyes, grey hair trailing wet, a faint pale glow, fully nude, no clothing, standing square with the hands on the hips, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, stern, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
 ## NS-45 Ingrid (woman, 34) – NS North Ships The Downed Military Ship
 _ghost lieutenant, stuck on her last order_
 
 **clothed**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Ingrid, 34-year-old ghost folk woman, an eerie sea-person, pale, translucent and silvery, with trailing wet hair, hollow pale eyes and a faint glow, 5'9", athletic, a C cup bust, skin that is pale, translucent and silvery, a hard, pushy, hollow face, hollow pale eyes, dark hair trailing wet, a faint pale glow, wearing a tattered naval lieutenant's coat and trousers, a sodden cap, standing with one hand at the collarbone and the weight on one leg, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, pushy, level stare, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Ingrid, 34-year-old ghost folk woman, an eerie sea-person, pale, translucent and silvery, with trailing wet hair, hollow pale eyes and a faint glow, 5'9", athletic, a C cup bust, skin that is pale, translucent and silvery, a hard, pushy, hollow face, hollow pale eyes, dark hair trailing wet, a faint pale glow, fully nude, no clothing, standing with one hand lifted to the collarbone and the other arm loose, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, hard, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
 
 ## NS-46 Brandt (man, 44) – NS North Ships The Downed Military Ship
 _ghost sergeant, stuck on his last order_
@@ -494,12 +502,20 @@ _ghost sergeant, stuck on his last order_
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Brandt, 44-year-old ghost folk man who looks his age, an eerie sea-person, pale, translucent and silvery, with trailing wet hair, hollow pale eyes and a faint glow, 5'11", broad, skin that is pale, translucent and silvery, a hard, blunt, hollow face, hollow pale eyes, cropped grey hair, dripping, a faint pale glow, wearing a tattered military greatcoat with sergeant's stripes, standing with the weight on one leg and the arms loose, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, barking, forceful look, plain cream background (#FFF8E7)
 
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Brandt, 44-year-old ghost folk man who looks his age, an eerie sea-person, pale, translucent and silvery, with trailing wet hair, hollow pale eyes and a faint glow, 5'11", broad, skin that is pale, translucent and silvery, a hard, blunt, hollow face, hollow pale eyes, cropped grey hair, dripping, a faint pale glow, fully nude, no clothing, standing with the weight on one leg, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, blunt, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
 ## NS-47 Helga (woman, 39) – NS North Ships The Downed Military Ship
 _ghost surgeon, stuck on her last order_
 
 **clothed**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Helga, 39-year-old ghost folk woman, an eerie sea-person, pale, translucent and silvery, with trailing wet hair, hollow pale eyes and a faint glow, 5'6", spare, a B cup bust, skin that is pale, translucent and silvery, a drawn, tired, hollow face, hollow pale eyes, pale hair in a wet braid, a faint pale glow, wearing a tattered white surgeon's apron over a naval coat, standing with the hands clasped in front and the head tilted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, tired, firm look, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Helga, 39-year-old ghost folk woman, an eerie sea-person, pale, translucent and silvery, with trailing wet hair, hollow pale eyes and a faint glow, 5'6", spare, a B cup bust, skin that is pale, translucent and silvery, a drawn, tired, hollow face, hollow pale eyes, pale hair in a wet braid, a faint pale glow, fully nude, no clothing, standing with the hands behind the back, leaning slightly forward, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, tired, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
 
 ## NS-48 Jens (man, 25) – NS North Ships The Downed Military Ship
 _ghost sailor, stuck on his last order_
@@ -508,12 +524,20 @@ _ghost sailor, stuck on his last order_
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Jens, 25-year-old ghost folk man, an eerie sea-person, pale, translucent and silvery, with trailing wet hair, hollow pale eyes and a faint glow, 5'10", lean, skin that is pale, translucent and silvery, a smooth, pale, solemn face, hollow pale eyes, wet blond hair, trailing, a faint pale glow, wearing a tattered sailor's jumper and wide trousers, standing with the arms crossed over the chest, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, blank, dutiful look, plain cream background (#FFF8E7)
 
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Jens, 25-year-old ghost folk man, an eerie sea-person, pale, translucent and silvery, with trailing wet hair, hollow pale eyes and a faint glow, 5'10", lean, skin that is pale, translucent and silvery, a smooth, pale, solemn face, hollow pale eyes, wet blond hair, trailing, a faint pale glow, fully nude, no clothing, standing with the arms folded across the chest and the weight on one leg, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, dutiful, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
 ## NS-49 Nils (man, 28) – NS North Ships The Downed Military Ship
 _ghost sailor, stuck on his last order_
 
 **clothed**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Nils, 28-year-old ghost folk man, an eerie sea-person, pale, translucent and silvery, with trailing wet hair, hollow pale eyes and a faint glow, 6'0", wiry, skin that is pale, translucent and silvery, a hollow, tense face, hollow pale eyes, wet dark hair, trailing, a faint pale glow, wearing a tattered sailor's jumper and wide trousers, standing with both hands behind the head, relaxed, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, tense, dutiful look, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Nils, 28-year-old ghost folk man, an eerie sea-person, pale, translucent and silvery, with trailing wet hair, hollow pale eyes and a faint glow, 6'0", wiry, skin that is pale, translucent and silvery, a hollow, tense face, hollow pale eyes, wet dark hair, trailing, a faint pale glow, fully nude, no clothing, standing with one hand behind the head and the weight on one leg, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, tense, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), average size penis
 
 ## NS-50 Orvar (man, 40) – NS North Ships The Lost Sealers
 _ghost sealer, polite and confused_
@@ -522,6 +546,10 @@ _ghost sealer, polite and confused_
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Orvar, 40-year-old ghost folk man who looks his age, an eerie sea-person, pale, translucent and silvery, with trailing wet hair, hollow pale eyes and a faint glow, 5'10", stocky, skin that is pale, translucent and silvery, a polite, confused, hollow face, hollow pale eyes, wet black hair and a frosted beard, a faint pale glow, wearing a sodden sealskin coat and wool trousers, standing with the hands on the hips and the chest out, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, polite, puzzled look, plain cream background (#FFF8E7)
 
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Orvar, 40-year-old ghost folk man who looks his age, an eerie sea-person, pale, translucent and silvery, with trailing wet hair, hollow pale eyes and a faint glow, 5'10", stocky, skin that is pale, translucent and silvery, a polite, confused, hollow face, hollow pale eyes, wet black hair and a frosted beard, a faint pale glow, fully nude, no clothing, standing square with the hands on the hips, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, puzzled, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
 ## NS-51 Eyvind (man, 33) – NS North Ships The Lost Sealers
 _ghost sealer, polite and confused_
 
@@ -529,9 +557,17 @@ _ghost sealer, polite and confused_
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Eyvind, 33-year-old ghost folk man, an eerie sea-person, pale, translucent and silvery, with trailing wet hair, hollow pale eyes and a faint glow, 6'0", lean, skin that is pale, translucent and silvery, a gentle, confused, hollow face, hollow pale eyes, wet sandy hair, trailing, a faint pale glow, wearing a sodden sealskin jerkin and wool trousers, standing with one hand on the hip, the other arm loose, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, gentle, puzzled look, plain cream background (#FFF8E7)
 
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Eyvind, 33-year-old ghost folk man, an eerie sea-person, pale, translucent and silvery, with trailing wet hair, hollow pale eyes and a faint glow, 6'0", lean, skin that is pale, translucent and silvery, a gentle, confused, hollow face, hollow pale eyes, wet sandy hair, trailing, a faint pale glow, fully nude, no clothing, standing with a hand on the hip and the head tilted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, puzzled, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
 ## NS-52 Soren (man, 27) – NS North Ships The Lost Sealers
 _ghost sealer, polite and confused_
 
 **clothed**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Soren, 27-year-old ghost folk man, an eerie sea-person, pale, translucent and silvery, with trailing wet hair, hollow pale eyes and a faint glow, 5'11", slim, skin that is pale, translucent and silvery, a polite, lost, hollow face, hollow pale eyes, wet fair hair, trailing, a faint pale glow, wearing a sodden wool coat and a seal-fur cap, standing with the weight on one leg and the arms loose, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, lost, polite look, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Soren, 27-year-old ghost folk man, an eerie sea-person, pale, translucent and silvery, with trailing wet hair, hollow pale eyes and a faint glow, 5'11", slim, skin that is pale, translucent and silvery, a polite, lost, hollow face, hollow pale eyes, wet fair hair, trailing, a faint pale glow, fully nude, no clothing, standing with the weight on one leg, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, lost, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), average size penis

@@ -274,7 +274,7 @@ for r in rows:
     pr = {}
     pr["clothed"] = (f"{STYLE}, one {'woman' if woman else 'man'}, {cb}, wearing {clothed_out}, {cl_pose}, {FRAME}, "
                      f"soft even light, {cl_expr}, {BG['clothed']}")
-    if not ghost:
+    if True:  # ghosts get a studio prompt too (user, Nov 2026)
       pr["nude"] = (f"{STYLE}, one {'woman' if woman else 'man'}, {cb}, fully nude, no clothing, {nu_pose}, {FRAME}, "
                   f"soft even light, {nu_expr}, {BG['nude']}, {anat(r)}")
     if r["third_image_swim_or_underwear"] and wants_third(r):
