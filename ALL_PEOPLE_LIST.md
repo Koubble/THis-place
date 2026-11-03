@@ -13,7 +13,7 @@ Columns: id, name, sex, age, species, location, role. Names marked ⚠ are also 
 | H2-2 | Dorrie | w | 35 | human | H2 Fish market | fish barker |
 | H2-3 | Anders ⚠ (also: North Ships NS-14) | m | 33 | human | H2 Fish market | hauler |
 | H3-1 | Hobb ⚠ (also: West Ships WS-44) | m | 70 | human | H3 Tackle and net shop | shop keeper (Dale's father) |
-| H4-1 | Ambrose ⚠ (also: Brinewatch E02-20) | m | 56 | human | H4 Lighthouse | lighthouse keeper |
+| H4-1 | Ambrose | m | 56 | human | H4 Lighthouse | lighthouse keeper |
 | H6-1 | Veda | w | 52 | human | H6 Union Stores | storekeeper |
 | H7-1 | Bettin | w | 66 | human | H7 Waterfront washhouse | laundress (Ferash's mother) |
 | T1-1 | Thaddeus ⚠ (also: South Ships SS-41) | m | 58 | human | T1 Market stalls | cheese and sausage seller |
@@ -410,7 +410,7 @@ Columns: id, name, sex, age, species, location, role. Names marked ⚠ are also 
 | N11-18 | Rosalind | w | 41 | human | The Whisper Salon | hostess, soft-voiced and in control |
 | N11-19 | Aubrey ⚠ (also: West Ships WS-28) | m | 26 | human | The Whisper Salon | salon companion, languid and attentive |
 | N11-W1 | Nathaniel ⚠ (also: East Ships ES-34) | m | 22 | human | The Servants' Passage (pop-up) | footman off duty, cheeky and available |
-| N11-W2 | Thomasina ⚠ (also: Brinewatch E02-26) | w | 25 | human | The Servants' Passage (pop-up) | lady's maid on a break, sly |
+| N11-W2 | Tryphena | w | 25 | human | The Servants' Passage (pop-up) | lady's maid on a break, sly |
 | N11-W3 | Clementine ⚠ (also: South Ships SS-44) | w | 34 | human | The Plunge (pop-up) | visiting lady guest, bathing |
 | N11-W4 | Percival ⚠ (also: South Ships SS-3) | m | 38 | human | The Mere shore (pop-up) | visiting gentleman guest, swimming |
 | N11-W5 | Arabella | w | 29 | human | The Grounds (wander) | visiting lady guest, bold and bored |
@@ -700,13 +700,13 @@ Columns: id, name, sex, age, species, location, role. Names marked ⚠ are also 
 | E02-17 | Prokhor | m | 60 | human | Parallel and Rule | instrument-maker, absent-minded genius |
 | E02-18 | Varvara | w | 47 | human | Braid and Button | uniform tailor, measuring eye |
 | E02-19 | Viktor | m | 31 | human | Braid and Button | fitter, tall and polite |
-| E02-20 | Ambrose ⚠ (also: Hearthstone Isle H4-1) | m | 52 | human | Quartermaster Stores | quartermaster, counts everything twice |
+| E02-20 | Trofim | m | 52 | human | Quartermaster Stores | quartermaster, counts everything twice |
 | E02-21 | Wystan | m | 49 | human | The Prize Auction House | auctioneer, charming, deals quietly at the back counter |
 | E02-22 | Dmitri | m | 46 | human | Brinewatch Infirmary | naval surgeon, tired and kind |
 | E02-23 | Aurora | w | 34 | human | Brinewatch Infirmary | nurse, soft and capable |
 | E02-24 | Lavrenti | m | 60 | human | The Mariners Remembrance | chaplain, reads the names of the drowned |
 | E02-25 | Nadezhda | w | 63 | human | Aldous House | housekeeper who helped raise Natasha |
-| E02-26 | Thomasina ⚠ (also: Hartfell N11-W2) | w | 45 | human | Tern Tearoom | proprietress, gentle gossip |
+| E02-26 | Thomasina | w | 45 | human | Tern Tearoom | proprietress, gentle gossip |
 | E02-27 | Vsevolod | m | 55 | human | The Epaulette Society | club steward, discreet to the grave |
 | E02-28 | Raisa | w | 36 | human | The Epaulette Society | card dealer, quick hands and a poker face |
 | E02-29 | Merrick | m | 51 | human | The Capstan | landlord, big and shrewd |
