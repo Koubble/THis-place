@@ -1,0 +1,543 @@
+# Coralmere prompts
+
+## S02-1 Eloi (man, 52) – S02 Coralmere The Coral Palace
+_head concierge, knows every secret_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Eloi, 52-year-old human man who looks his age, 5'7", stocky, warm olive skin, a proud, polished face, brown eyes, dark hair, slicked back, a tan line at the wrist, wearing a navy tailcoat with gold keys on the lapel, white gloves, standing with one hand behind the head and the weight on one leg, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, raised eyebrow, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Eloi, 52-year-old human man who looks his age, 5'7", stocky, warm olive skin, a proud, polished face, brown eyes, dark hair, slicked back, a tan line at the wrist, fully nude, no clothing, standing relaxed with one hand behind the head, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, haughty, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
+## S02-2 Gwenaelle (woman, 31) – S02 Coralmere The Coral Palace
+_front desk clerk, polished and fast_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Gwenaelle, 31-year-old human woman, 5'4", slim and curvy, a C cup bust, honey-tanned skin, a quiet, thoughtful face, amber eyes, dark hair in a sleek knot, a tan line at the wrist, wearing a crisp white blouse and a navy skirt, a name badge, standing with one hand lifted to the hair, the other arm loose, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, calm nod, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Gwenaelle, 31-year-old human woman, 5'4", slim and curvy, a C cup bust, honey-tanned skin, a quiet, thoughtful face, amber eyes, dark hair in a sleek knot, a tan line at the wrist, fully nude, no clothing, standing with the head tilted and the hair falling over one shoulder, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, calm, steady, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+## S02-3 Jerome (man, 22) – S02 Coralmere The Coral Palace
+_bellhop, eager and tipped_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Jerome, 22-year-old human man, 5'11", heavy-set, sun-kissed skin, a nervous face, amber eyes, silver-streaked dark hair, combed back, wearing a maroon bellhop jacket with brass buttons and a pillbox cap, standing with the hands on the hips and the chest out, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, flustered smile, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Jerome, 22-year-old human man, 5'11", heavy-set, sun-kissed skin, a nervous face, amber eyes, silver-streaked dark hair, combed back, fully nude, no clothing, standing square with the hands on the hips, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, shy, flushed, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
+## S02-4 Alienor (woman, 45) – S02 Coralmere The Nautilus Solarium
+_spa director, serene and shrewd_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Alienor, 45-year-old human woman who looks her age, 5'3", slender, an E cup bust, honey-tanned skin, a calm, even face, brown eyes, hair streaked with grey, a tan line at the wrist, wearing a pale linen tunic and trousers, a jade pendant, standing with one hand on the hip and the weight on one leg, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, quiet, steady look, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Alienor, 45-year-old human woman who looks her age, 5'3", slender, an E cup bust, honey-tanned skin, a calm, even face, brown eyes, hair streaked with grey, a tan line at the wrist, fully nude, no clothing, standing with the hand on the hip and the chin lifted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, calm, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+**swim**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Alienor, 45-year-old human woman who looks her age, 5'3", slender, an E cup bust, honey-tanned skin, a calm, even face, brown eyes, hair streaked with grey, a tan line at the wrist, wearing a plain one-piece swimsuit, standing with the weight on one hip and the arms loose, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, quiet, steady look, plain pale aqua-tinted cream background (#DDF3F1)
+
+## S02-5 Prisca (woman, 28) – S02 Coralmere The Nautilus Solarium
+_masseuse at the Seashell Spa_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Prisca, 28-year-old human woman, 5'5", slender, an F cup bust, honey-tanned skin, a friendly, round face, green eyes, chestnut hair, loose and glossy, wearing a short white spa dress with a front tie, bare feet, standing with a hand on the hip and the shoulders back, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, kind, easy smile, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Prisca, 28-year-old human woman, 5'5", slender, an F cup bust, honey-tanned skin, a friendly, round face, green eyes, chestnut hair, loose and glossy, fully nude, no clothing, standing with one hand resting on the hip, the head tilted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, amused, easy, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+**swim**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Prisca, 28-year-old human woman, 5'5", slender, an F cup bust, honey-tanned skin, a friendly, round face, green eyes, chestnut hair, loose and glossy, wearing a plain one-piece swimsuit, standing with the weight on one leg and the head tilted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, kind, easy smile, plain pale aqua-tinted cream background (#DDF3F1)
+
+## S02-6 Jocelyn (man, 30) – S02 Coralmere The Nautilus Solarium
+_masseur at the Seashell Spa_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Jocelyn, 30-year-old human man, 5'9", broad and strong, olive skin, a cheeky, freckled face, grey-blue eyes, black hair swept back, wearing a white fitted linen shirt open at the neck and loose trousers, standing with the arms at the sides, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, playful wink, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Jocelyn, 30-year-old human man, 5'9", broad and strong, olive skin, a cheeky, freckled face, grey-blue eyes, black hair swept back, fully nude, no clothing, standing upright with the arms at the sides, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, playful, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
+**swim**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Jocelyn, 30-year-old human man, 5'9", broad and strong, olive skin, a cheeky, freckled face, grey-blue eyes, black hair swept back, wearing plain linen drawers, standing with one hand behind the head and the weight on one leg, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, playful wink, plain pale aqua-tinted cream background (#DDF3F1)
+
+## S02-7 Sylvain (man, 49) – S02 Coralmere The Sunlit Veranda
+_chef of the Terrace, proud and vain_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Sylvain, 49-year-old human man who looks his age, 5'6", spare and tall, golden tan skin, a haughty, fine-boned face, a vain pinched face, a bulbous red nose and thin cruel lips, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, unflattering rough-hewn features, amber eyes, greying black hair, swept back, freckles, wearing a spotless white jacket and a tall hat, standing with a hand on the hip and the head tilted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, cool, appraising look, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Sylvain, 49-year-old human man who looks his age, 5'6", spare and tall, golden tan skin, a haughty, fine-boned face, a vain pinched face, a bulbous red nose and thin cruel lips, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, unflattering rough-hewn features, amber eyes, greying black hair, swept back, freckles, fully nude, no clothing, standing with one hand on the hip and the weight on one leg, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, haughty, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
+## S02-8 Antoine (man, 36) – S02 Coralmere The Parasol Strandline
+_beach club host, tanned and smooth_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Antoine, 36-year-old human man, 5'7", spare and tall, olive skin, a confident, laughing face, amber eyes, black hair swept back, wearing a white shirt unbuttoned to the chest, linen shorts, a gold chain, standing with the weight on one leg and the arms loose, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, confident, knowing smile, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Antoine, 36-year-old human man, 5'7", spare and tall, olive skin, a confident, laughing face, amber eyes, black hair swept back, fully nude, no clothing, standing with the weight on one leg, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, confident, amused, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
+## S02-9 Celestine (woman, 24) – S02 Coralmere The Parasol Strandline
+_cabana waitress, quick on her feet_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Celestine, 24-year-old human woman, 5'5", soft and curvy, an E cup bust, bronzed skin, a cheeky, freckled face, blue eyes, dark hair in a sleek knot, a beauty spot, wearing a short white skirt and a knotted halter, standing with the hands clasped in front and the head tilted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, laughing smile, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Celestine, 24-year-old human woman, 5'5", soft and curvy, an E cup bust, bronzed skin, a cheeky, freckled face, blue eyes, dark hair in a sleek knot, a beauty spot, fully nude, no clothing, standing with the hands behind the back, leaning slightly forward, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, giggling, flushed, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+## S02-10 Blaise (man, 58) – S02 Coralmere The Marina
+_harbourmaster, bluff and honest_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Blaise, 58-year-old human man who looks his age, an older man, 5'7", thin and stooped, olive skin, a gruff, battered face, a bulbous veined nose, bloodshot eyes and sagging jowls, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, unflattering rough-hewn features, green eyes, iron-grey hair, a beauty spot, wearing a white captain's cap and uniform shirt, shorts and deck shoes, standing with the weight on one leg, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, grim smirk, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Blaise, 58-year-old human man who looks his age, an older man, 5'7", thin and stooped, olive skin, a gruff, battered face, a bulbous veined nose, bloodshot eyes and sagging jowls, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, unflattering rough-hewn features, green eyes, iron-grey hair, a beauty spot, fully nude, no clothing, standing easy with the weight on one leg, the head tilted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, gruff, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
+## S02-11 Giulietta (woman, 46) – S02 Coralmere Maison Margaux
+_couturiere of Maison Margaux, elegant and exacting_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Giulietta, 46-year-old human woman who looks her age, 5'6", slender, an A cup bust, olive skin, a proud, polished face, brown eyes, greying auburn hair, a tan line at the wrist, wearing a fitted black dress with a silk scarf, pins at the wrist, standing with the hands lightly clasped in front and the shoulders back, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, cool, appraising look, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Giulietta, 46-year-old human woman who looks her age, 5'6", slender, an A cup bust, olive skin, a proud, polished face, brown eyes, greying auburn hair, a tan line at the wrist, fully nude, no clothing, standing with the hands clasped behind the back and the chest lifted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, cool, composed, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+## S02-12 Cybele (woman, 38) – S02 Coralmere The Swim Boutique
+_owner of the Swimwear Salon, frank about bodies_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Cybele, 38-year-old human woman, 5'7", slender, a D cup bust, tanned skin, a bold, striking face, brown eyes, auburn hair, pinned up, a beauty spot, wearing a wrap dress, standing with the hair over one shoulder, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, bright, daring smile, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Cybele, 38-year-old human woman, 5'7", slender, a D cup bust, tanned skin, a bold, striking face, brown eyes, auburn hair, pinned up, a beauty spot, fully nude, no clothing, standing with one hand lifted to the hair, the other arm loose, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, bold, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+## S02-13 Irenee (man, 55) – S02 Coralmere The Scent Workshop
+_perfumer, tasting the air_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Irenee, 55-year-old human man who looks his age, an older man, 6'3", average, fit, golden tan skin, a quiet, thoughtful face, blue eyes, greying sandy hair, freckles, wearing a cream linen suit, standing with a hand on the hip and the head tilted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, patient half-smile, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Irenee, 55-year-old human man who looks his age, an older man, 6'3", average, fit, golden tan skin, a quiet, thoughtful face, blue eyes, greying sandy hair, freckles, fully nude, no clothing, standing with one hand on the hip and the weight on one leg, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, calm, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
+## S02-14 Serafina (woman, 33) – S02 Coralmere Casino Perle
+_croupier at Casino Perle, never smiles_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Serafina, 33-year-old human woman, 5'5", sturdy, an F cup bust, warm olive skin, a severe, composed face, grey-blue eyes, honey-blonde waves, a tan line at the wrist, wearing a black waistcoat and bow tie over a white shirt, hair slicked back, standing with the arms behind the back and the head tilted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, cold, measuring stare, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Serafina, 33-year-old human woman, 5'5", sturdy, an F cup bust, warm olive skin, a severe, composed face, grey-blue eyes, honey-blonde waves, a tan line at the wrist, fully nude, no clothing, standing with the hands behind the back, leaning slightly forward, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, stern, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+## S02-15 Dieudonne (man, 60) – S02 Coralmere Casino Perle
+_owner of Casino Perle, genial and ruthless_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Dieudonne, 60-year-old human man who looks his age, an older man, 5'6", thin and stooped, tanned skin, a sharp, smirking face, a smiling sallow face, wet loose lips, liver spots and a hairy wart on the nose, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, unflattering rough-hewn features, blue eyes, thin silver hair, a trimmed beard, wearing a white dinner jacket with a red carnation, standing with one hand behind the head and the weight on one leg, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, narrowed, watchful look, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Dieudonne, 60-year-old human man who looks his age, an older man, 5'6", thin and stooped, tanned skin, a sharp, smirking face, a smiling sallow face, wet loose lips, liver spots and a hairy wart on the nose, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, unflattering rough-hewn features, blue eyes, thin silver hair, a trimmed beard, fully nude, no clothing, standing relaxed with one hand behind the head, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, sly, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
+## S02-16 Edmond (man, 34) – S02 Coralmere The Champagne Pergola
+_bartender at the Pearl Bar, mixes and listens_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Edmond, 34-year-old human man, 6'0", compact and tough, tanned skin, a sly, clever face, brown eyes, black hair swept back, wearing a white waistcoat, rolled sleeves and a bow tie, standing easy with the weight on one leg, the head tilted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, sly smile, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Edmond, 34-year-old human man, 6'0", compact and tough, tanned skin, a sly, clever face, brown eyes, black hair swept back, fully nude, no clothing, standing with a relaxed hip tilt, the arms loose, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, sly, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
+## S02-17 Clemence (woman, 29) – S02 Coralmere The Champagne Pergola
+_hostess at the Pearl Bar_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Clemence, 29-year-old human woman, 5'7", slim and curvy, a D cup bust, sun-kissed skin, a bold, striking face, grey-blue eyes, sun-streaked brown hair, a beauty spot, wearing a thin cotton slip, standing with the hands clasped behind the back and the chest lifted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, bold grin, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Clemence, 29-year-old human woman, 5'7", slim and curvy, a D cup bust, sun-kissed skin, a bold, striking face, grey-blue eyes, sun-streaked brown hair, a beauty spot, fully nude, no clothing, standing with the arms behind the back, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, bold, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+## S02-18 Alberto (man, 62) – S02 Coralmere The Mallet Greensward
+_secretary of the Croquet Lawn, old guard_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Alberto, 62-year-old human man who looks his age, an older man, 5'8", lean and weathered, sun-kissed skin, a stern, lined face, a pinched sour face, a long drooping nose and liver spots, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, unflattering rough-hewn features, hazel eyes, white hair, wearing a striped blazer and a straw boater, standing with a relaxed hip tilt, the arms loose, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, cold, measuring stare, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Alberto, 62-year-old human man who looks his age, an older man, 5'8", lean and weathered, sun-kissed skin, a stern, lined face, a pinched sour face, a long drooping nose and liver spots, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, unflattering rough-hewn features, hazel eyes, white hair, fully nude, no clothing, standing with the weight on one leg and the arms loose, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, stern, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
+## S02-19 Annunziata (woman, 26) – S02 Coralmere The Gelateria
+_gelato seller, sing-song patter_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Annunziata, 26-year-old human woman, 5'6", compact and curvy, an E cup bust, tanned skin, a mischievous, bright face, amber eyes, chestnut hair, loose and glossy, wearing a striped apron over a sundress, standing with the hands lightly clasped in front and the shoulders back, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, laughing smile, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Annunziata, 26-year-old human woman, 5'6", compact and curvy, an E cup bust, tanned skin, a mischievous, bright face, amber eyes, chestnut hair, loose and glossy, fully nude, no clothing, standing with the arms behind the back and the head tilted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, playful, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+## S02-20 Tiphaine (woman, 41) – S02 Coralmere The Keyholders
+_fixer at the Concierge Desk, arranges anything for a price_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Tiphaine, 41-year-old human woman who looks her age, 5'7", soft and curvy, a C cup bust, honey-tanned skin, a sly, clever face, a sharp pointed nose, thin lips and a hairy mole on the cheek, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, unflattering rough-hewn features, hazel eyes, sun-streaked brown hair, wearing a tailored linen suit and sunglasses, standing with the hands clasped behind the back and the chest lifted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, narrowed, watchful look, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Tiphaine, 41-year-old human woman who looks her age, 5'7", soft and curvy, a C cup bust, honey-tanned skin, a sly, clever face, a sharp pointed nose, thin lips and a hairy mole on the cheek, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, unflattering rough-hewn features, hazel eyes, sun-streaked brown hair, fully nude, no clothing, standing with the arms behind the back, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, sly, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+## S02-21 Faustine (woman, 52) – S02 Coralmere The Rear Garret
+_chambermaid (Pascal's mother), proud of her son_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Faustine, 52-year-old human woman who looks her age, 5'3", soft and round, comfortable, an E cup bust, skin that is warm light brown, sun-kissed, a round, pleasant, dimpled face with a sleepy smile, hazel-gold, half-lidded eyes, dark chestnut curls streaked with grey, pinned up under a cap, small red hands from the laundry, wearing a grey maid's dress with a white apron, a cap over her curls, standing with the weight on one leg and the head tilted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, warm smile, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Faustine, 52-year-old human woman who looks her age, 5'3", soft and round, comfortable, an E cup bust, skin that is warm light brown, sun-kissed, a round, pleasant, dimpled face with a sleepy smile, hazel-gold, half-lidded eyes, dark chestnut curls streaked with grey, pinned up under a cap, small red hands from the laundry, fully nude, no clothing, standing with a relaxed hip tilt, the arms loose at the sides, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, warm, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+## S02-22 Emmeline (woman, 27) – S02 Coralmere The Rear Garret
+_laundress and former back-room girl, quiet_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Emmeline, 27-year-old human woman, 5'5", slim, quiet, a B cup bust, light olive skin, a pale, careful face, calm, brown eyes, dark brown hair in a plain braid, a faint scar through one eyebrow, wearing a plain pale dress and a cardigan, sleeves pulled down, standing with the fingertips resting at the collarbone, the head tilted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, nervous smile, eyes lowered, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Emmeline, 27-year-old human woman, 5'5", slim, quiet, a B cup bust, light olive skin, a pale, careful face, calm, brown eyes, dark brown hair in a plain braid, a faint scar through one eyebrow, fully nude, no clothing, standing with one hand at the collarbone, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, shy, flushed, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+## S02-23 Orazio (man, 54) – S02 Coralmere The Manager's Office
+_resort manager, tells staff to say nothing_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Orazio, 54-year-old human man who looks his age, 5'7", spare and tall, golden tan skin, a proud, polished face, an oily smug face, a double chin and a mole with hairs, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, unflattering rough-hewn features, green eyes, greying black hair, swept back, wearing a pale suit with a pocket square, a signet ring, standing with the arms folded across the chest and the weight on one leg, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, raised eyebrow, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Orazio, 54-year-old human man who looks his age, 5'7", spare and tall, golden tan skin, a proud, polished face, an oily smug face, a double chin and a mole with hairs, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, unflattering rough-hewn features, green eyes, greying black hair, swept back, fully nude, no clothing, standing with the arms crossed and the chin lifted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, haughty, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
+## S02-24 Clelia (woman, 35) – S02 Coralmere The Manager's Office
+_manager's secretary, discreet_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Clelia, 35-year-old human woman, 5'9", slender, a B cup bust, sun-kissed skin, a patient, composed face, brown eyes, dark hair in a sleek knot, wearing a neat cream blouse and a pencil skirt, glasses on a chain, standing with a relaxed hip tilt, the arms loose at the sides, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, quiet, steady look, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Clelia, 35-year-old human woman, 5'9", slender, a B cup bust, sun-kissed skin, a patient, composed face, brown eyes, dark hair in a sleek knot, fully nude, no clothing, standing with the weight on one hip and the arms loose, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, calm, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+## S02-25 Lucille (woman, 48) – S02 Coralmere The Companions' Agency
+_proprietress of the Companions' Agency, silken and shrewd_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Lucille, 48-year-old human woman who looks her age, 5'5", slim, a D cup bust, honey-tanned skin, a quick, watchful face, heavy powder caked into lines and a hairy mole on the chin, plain unglamorous looks, blemished uneven skin, unflattering rough-hewn features, grey-blue eyes, hair streaked with grey, a tan line at the wrist, wearing a thin linen shift and stockings, standing with one hand at the collarbone, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, narrowed, watchful look, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Lucille, 48-year-old human woman who looks her age, 5'5", slim, a D cup bust, honey-tanned skin, a quick, watchful face, heavy powder caked into lines and a hairy mole on the chin, plain unglamorous looks, blemished uneven skin, unflattering rough-hewn features, grey-blue eyes, hair streaked with grey, a tan line at the wrist, fully nude, no clothing, standing with one hand at the collarbone and the weight on one leg, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, knowing, amused, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+## S02-26 Hippolyte (man, 27) – S02 Coralmere The Companions' Agency
+_male companion on the agency's books_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Hippolyte, 27-year-old human man, 6'2", heavy-set, tanned skin, a mischievous, bright face, blue eyes, dark hair, slicked back, wearing snug white drawers, standing with the arms crossed and the chin lifted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, playful wink, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Hippolyte, 27-year-old human man, 6'2", heavy-set, tanned skin, a mischievous, bright face, blue eyes, dark hair, slicked back, fully nude, no clothing, standing with the arms folded over the chest, the shoulders back, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, playful, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
+## S02-27 Capucine (woman, 25) – S02 Coralmere The Companions' Agency
+_female companion on the agency's books_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Capucine, 25-year-old human woman, 5'9", athletic, an E cup bust, tanned skin, a bold, striking face, brown eyes, chestnut hair, loose and glossy, freckles, wearing a thin linen shift and stockings, standing with the hair over one shoulder, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, bold grin, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Capucine, 25-year-old human woman, 5'9", athletic, an E cup bust, tanned skin, a bold, striking face, brown eyes, chestnut hair, loose and glossy, freckles, fully nude, no clothing, standing with one hand lifted to the hair, the other arm loose, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, bold, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+## S02-28 Germain (man, 44) – S02 Coralmere The Hushed Apartments
+_steward of the Hushed Apartments, never speaks of what he sees_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Germain, 44-year-old human man who looks his age, 6'0", tall and lean, sun-kissed skin, a quiet, thoughtful face, hazel eyes, sandy hair, sun-streaked, wearing linen drawers, standing easy with the weight on one leg, the head tilted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, calm nod, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Germain, 44-year-old human man who looks his age, 6'0", tall and lean, sun-kissed skin, a quiet, thoughtful face, hazel eyes, sandy hair, sun-streaked, fully nude, no clothing, standing with a relaxed hip tilt, the arms loose, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, calm, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
+## S02-29 Eulalie (woman, 32) – S02 Coralmere The Hushed Apartments
+_attendant of the private suites_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Eulalie, 32-year-old human woman, 5'6", compact and curvy, a D cup bust, olive skin, a sly, clever face, green eyes, dark hair in a sleek knot, freckles, wearing a thin linen shift and stockings, standing with one hand resting on the hip, the head tilted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, sly smile, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Eulalie, 32-year-old human woman, 5'6", compact and curvy, a D cup bust, olive skin, a sly, clever face, green eyes, dark hair in a sleek knot, freckles, fully nude, no clothing, standing with one hand on the hip and the weight on one leg, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, sly, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+## S02-30 Colombe (woman, 40) – S02 Coralmere The Frosted Cubicles
+_booth attendant, keeps the doors_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Colombe, 40-year-old human woman who looks her age, 5'2", slim and curvy, a C cup bust, honey-tanned skin, a quiet, thoughtful face, green eyes, chestnut hair, loose and glossy, wearing a red silk slip with stockings, standing with one hand lifted to the collarbone and the other arm loose, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, quiet, steady look, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Colombe, 40-year-old human woman who looks her age, 5'2", slim and curvy, a C cup bust, honey-tanned skin, a quiet, thoughtful face, green eyes, chestnut hair, loose and glossy, fully nude, no clothing, standing with the fingertips resting at the collarbone, the head tilted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, calm, steady, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+## S02-31 Barthelemy (man, 63) – S02 Coralmere The Anointed Quorum
+_the patron, silver-haired and untouchable_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Barthelemy, 63-year-old human man who looks his age, an older man, 5'11", thin and stooped, honey-tanned skin, a cool, aristocratic face, amber eyes, thin silver hair, a trimmed beard, a tan line at the wrist, wearing a cream linen suit, a cravat and a heavy signet ring, standing with the arms crossed over the chest, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, haughty half-smile, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Barthelemy, 63-year-old human man who looks his age, an older man, 5'11", thin and stooped, honey-tanned skin, a cool, aristocratic face, amber eyes, thin silver hair, a trimmed beard, a tan line at the wrist, fully nude, no clothing, standing with the arms folded across the chest and the weight on one leg, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, haughty, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
+## S02-32 Emmanuelle (woman, 30) – S02 Coralmere The Anointed Quorum
+_the patron's companion, bored and beautiful_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Emmanuelle, 30-year-old human woman, 5'5", full-figured, an F cup bust, honey-tanned skin, a bright, daring face, amber eyes, sun-streaked brown hair, a tan line at the wrist, wearing a thin linen shift and stockings, standing with a hand on the hip and the shoulders back, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, confident, knowing smile, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Emmanuelle, 30-year-old human woman, 5'5", full-figured, an F cup bust, honey-tanned skin, a bright, daring face, amber eyes, sun-streaked brown hair, a tan line at the wrist, fully nude, no clothing, standing with one hand resting on the hip, the head tilted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, confident, amused, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+## S02-33 Gautier (man, 45) – S02 Coralmere The Starlit Cottages
+_keeper of the Starlit Cottages, discreet_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Gautier, 45-year-old human man who looks his age, 5'8", spare and tall, olive skin, a quick, watchful face, blue eyes, greying black hair, swept back, a beauty spot, wearing linen drawers, standing with one hand on the hip, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, knowing smirk, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Gautier, 45-year-old human man who looks his age, 5'8", spare and tall, olive skin, a quick, watchful face, blue eyes, greying black hair, swept back, a beauty spot, fully nude, no clothing, standing with one hand on the hip, the other arm loose, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, knowing, amused, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
+## S02-34 Ondine (woman, 26) – S02 Coralmere The Starlit Cottages
+_cabana hostess, plays hostess to couples and groups_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Ondine, 26-year-old human woman, 5'6", full-figured, a C cup bust, golden tan skin, a playful, dimpled face, blue eyes, auburn hair, pinned up, wearing a cotton slip, standing with one hand sweeping the hair over one shoulder, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, playful wink, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Ondine, 26-year-old human woman, 5'6", full-figured, a C cup bust, golden tan skin, a playful, dimpled face, blue eyes, auburn hair, pinned up, fully nude, no clothing, standing with the hair over one shoulder, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, giggling, flushed, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+## S02-35 Rachelle (woman, 50) – S02 Coralmere The Nacreous Trunk
+_owner of the Nacreous Trunk, wry and discreet_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Rachelle, 50-year-old human woman who looks her age, 5'4", slim and curvy, an F cup bust, bronzed skin, a sharp, smirking face, a hairy wart by the nose and a sagging jaw, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, unflattering rough-hewn features, blue eyes, chestnut hair, loose and glossy, wearing a pearl-grey silk dress with a long necklace, a ring of tiny keys, standing with one hand lifted to the hair, the other arm loose, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, sly smile, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Rachelle, 50-year-old human woman who looks her age, 5'4", slim and curvy, an F cup bust, bronzed skin, a sharp, smirking face, a hairy wart by the nose and a sagging jaw, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, unflattering rough-hewn features, blue eyes, chestnut hair, loose and glossy, fully nude, no clothing, standing with the head tilted and the hair falling over one shoulder, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, knowing, amused, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+## S02-36 Pellegrino (man, 25) – S02 Coralmere The Nacreous Trunk
+_assistant, quick and tactful_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Pellegrino, 25-year-old human man, 5'11", compact and tough, golden tan skin, a shy, soft face, brown eyes, dark hair, slicked back, wearing a fitted waistcoat and white shirt, standing with the weight on one leg and the arms loose, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, shy smile, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Pellegrino, 25-year-old human man, 5'11", compact and tough, golden tan skin, a shy, soft face, brown eyes, dark hair, slicked back, fully nude, no clothing, standing with the weight on one leg, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, shy, eyes lowered, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
+## S02-37 Sidonie (woman, 34) – S02 Coralmere The Humid Cavern
+_attendant of the Steam Grotto_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Sidonie, 34-year-old human woman, 5'4", tall and slim, an A cup bust, tanned skin, a friendly, round face, amber eyes, chestnut hair, loose and glossy, wearing a white spa uniform dress, hair pinned up, standing with the hands clasped in front and the head tilted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, friendly grin, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Sidonie, 34-year-old human woman, 5'4", tall and slim, an A cup bust, tanned skin, a friendly, round face, amber eyes, chestnut hair, loose and glossy, fully nude, no clothing, standing with the hands behind the back, leaning slightly forward, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, warm, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+**swim**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Sidonie, 34-year-old human woman, 5'4", tall and slim, an A cup bust, tanned skin, a friendly, round face, amber eyes, chestnut hair, loose and glossy, wearing a thin linen shift and stockings, standing with the weight on one leg, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, friendly grin, plain pale aqua-tinted cream background (#DDF3F1)
+
+## S02-38 Eugene (man, 27) – S02 Coralmere The Humid Cavern
+_attendant of the Steam Grotto_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Eugene, 27-year-old human man, 6'1", spare and tall, olive skin, a playful, dimpled face, grey-blue eyes, black hair swept back, a tan line at the wrist, wearing a white spa uniform shirt and trousers, standing with one hand on the hip, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, cheeky grin, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Eugene, 27-year-old human man, 6'1", spare and tall, olive skin, a playful, dimpled face, grey-blue eyes, black hair swept back, a tan line at the wrist, fully nude, no clothing, standing with one hand on the hip, the other arm loose, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, giggling, flushed, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
+**swim**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Eugene, 27-year-old human man, 6'1", spare and tall, olive skin, a playful, dimpled face, grey-blue eyes, black hair swept back, a tan line at the wrist, wearing a short wrap-cloth, standing with one hand behind the head and the weight on one leg, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, cheeky grin, plain pale aqua-tinted cream background (#DDF3F1)
+
+## S02-W1 Fernand (man, 45) – S02 Coralmere The Hibiscus Walks and The Umbrella Esplanade (pop-up)
+_guest strolling the terrace gardens_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Fernand, 45-year-old human man who looks his age, 6'3", slim, olive skin, a cool, aristocratic face, grey-blue eyes, dark hair, slicked back, wearing a pale linen suit and a panama hat, standing with the weight on one leg and the arms loose, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, cool, appraising look, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Fernand, 45-year-old human man who looks his age, 6'3", slim, olive skin, a cool, aristocratic face, grey-blue eyes, dark hair, slicked back, fully nude, no clothing, standing with the weight on one leg, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, cool, composed, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
+## S02-W2 Cinzia (woman, 32) – S02 Coralmere The Hibiscus Walks and The Umbrella Esplanade (pop-up)
+_socialite out for cocktails_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Cinzia, 32-year-old human woman, 5'7", sturdy, an E cup bust, sun-kissed skin, a bold, striking face, green eyes, sun-streaked brown hair, a tan line at the wrist, wearing a silk sundress and large sunglasses, standing with one hand at the collarbone and the weight on one leg, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, confident, knowing smile, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Cinzia, 32-year-old human woman, 5'7", sturdy, an E cup bust, sun-kissed skin, a bold, striking face, green eyes, sun-streaked brown hair, a tan line at the wrist, fully nude, no clothing, standing with one hand lifted to the collarbone and the other arm loose, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, bold, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+## S02-W3 Cyprien (man, 26) – S02 Coralmere The Tradesmens Ramp and The Dinghy Store (pop-up)
+_waiter on a break in the service corridor_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Cyprien, 26-year-old human man, 5'9", compact and tough, honey-tanned skin, a mischievous, bright face, hazel eyes, dark curls, neatly cut, wearing a rumpled white waiter's shirt, tie loose, standing tall with the arms loose at the sides, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, laughing smile, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Cyprien, 26-year-old human man, 5'9", compact and tough, honey-tanned skin, a mischievous, bright face, hazel eyes, dark curls, neatly cut, fully nude, no clothing, standing with the arms at the sides, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, giggling, flushed, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
+## S02-W4 Therese (woman, 24) – S02 Coralmere The Tradesmens Ramp and The Dinghy Store (pop-up)
+_maid slipping out for a smoke_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Therese, 24-year-old human woman, 5'7", curvy, a B cup bust, golden tan skin, a cheeky, freckled face, brown eyes, black hair in a chignon, a beauty spot, wearing an unbuttoned grey maid's dress over a slip, standing with one hand on the hip and the weight on one leg, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, playful wink, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Therese, 24-year-old human woman, 5'7", curvy, a B cup bust, golden tan skin, a cheeky, freckled face, brown eyes, black hair in a chignon, a beauty spot, fully nude, no clothing, standing with the hand on the hip and the chin lifted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, playful, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+## S02-W5 Ubaldo (man, 41) – S02 Coralmere The Marble Dips (pop-up)
+_guest in the plunge pools_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Ubaldo, 41-year-old human man who looks his age, 6'4", slim, warm olive skin, a proud, polished face, blue eyes, silver-streaked dark hair, combed back, wearing a white robe, loosely tied, standing with both hands behind the head, relaxed, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, cool, appraising look, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Ubaldo, 41-year-old human man who looks his age, 6'4", slim, warm olive skin, a proud, polished face, blue eyes, silver-streaked dark hair, combed back, fully nude, no clothing, standing with one hand behind the head and the weight on one leg, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, cool, composed, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
+**swim**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Ubaldo, 41-year-old human man who looks his age, 6'4", slim, warm olive skin, a proud, polished face, blue eyes, silver-streaked dark hair, combed back, wearing plain cotton drawers, standing relaxed with one hand behind the head, the other arm loose, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, cool, appraising look, plain pale aqua-tinted cream background (#DDF3F1)
+
+## S02-W6 Anastasie (woman, 34) – S02 Coralmere The Marble Dips (pop-up)
+_woman soaking in the plunge pool_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Anastasie, 34-year-old human woman, 5'4", full-figured, a C cup bust, honey-tanned skin, a bright, daring face, brown eyes, honey-blonde waves, freckles, wearing a pale robe over a summer dress, standing with the hair over one shoulder, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, bold grin, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Anastasie, 34-year-old human woman, 5'4", full-figured, a C cup bust, honey-tanned skin, a bright, daring face, brown eyes, honey-blonde waves, freckles, fully nude, no clothing, standing with one hand lifted to the hair, the other arm loose, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, bold, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+**swim**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Anastasie, 34-year-old human woman, 5'4", full-figured, a C cup bust, honey-tanned skin, a bright, daring face, brown eyes, honey-blonde waves, freckles, wearing a cotton slip, standing with one hand sweeping the hair over one shoulder, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, bold grin, plain pale aqua-tinted cream background (#DDF3F1)
+
+## S02-W7 Elio (man, 28) – S02 Coralmere The Sheltered Creek (pop-up)
+_swimmer in the private cove_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Elio, 28-year-old human man, 5'8", solid and thick, golden tan skin, a bold, striking face, blue eyes, sandy hair, sun-streaked, wearing a loose shirt and shorts, standing with both hands behind the head, relaxed, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, bold grin, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Elio, 28-year-old human man, 5'8", solid and thick, golden tan skin, a bold, striking face, blue eyes, sandy hair, sun-streaked, fully nude, no clothing, standing with one hand behind the head and the weight on one leg, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, bold, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
+**swim**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Elio, 28-year-old human man, 5'8", solid and thick, golden tan skin, a bold, striking face, blue eyes, sandy hair, sun-streaked, wearing plain cotton drawers, standing relaxed with one hand behind the head, the other arm loose, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, bold grin, plain pale aqua-tinted cream background (#DDF3F1)
+
+## S02-W8 Zoe (woman, 27) – S02 Coralmere The Sheltered Creek (pop-up)
+_woman bathing in the cove_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Zoe, 27-year-old human woman, 5'2", full-figured, an E cup bust, honey-tanned skin, a mischievous, bright face, brown eyes, sun-streaked brown hair, wearing a sheer cover-up dress, standing with one hand resting on the hip, the head tilted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, cheeky grin, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Zoe, 27-year-old human woman, 5'2", full-figured, an E cup bust, honey-tanned skin, a mischievous, bright face, brown eyes, sun-streaked brown hair, fully nude, no clothing, standing with one hand on the hip and the weight on one leg, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, giggling, flushed, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+**swim**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Zoe, 27-year-old human woman, 5'2", full-figured, an E cup bust, honey-tanned skin, a mischievous, bright face, brown eyes, sun-streaked brown hair, wearing a plain one-piece swimsuit, standing with a relaxed hip tilt, the arms loose at the sides, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, cheeky grin, plain pale aqua-tinted cream background (#DDF3F1)

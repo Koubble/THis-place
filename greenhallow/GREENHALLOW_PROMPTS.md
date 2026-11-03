@@ -1,0 +1,345 @@
+# Greenhallow prompts
+
+## S04-1 Aslaug (woman, 62) – S04 Greenhallow The Poultice Cupola
+_senior healer (Tula's northern-trained teacher), strict and gentle_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Aslaug, 62-year-old human woman who looks her age, an older woman, 5'8", spare and upright, a C cup bust, skin that is pale, fine-lined, a stern but gentle, composed face, deep lines, a long thin nose and a hairy mole by the mouth, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, unflattering rough-hewn features, pale blue eyes, white-blonde hair in a tight coil, herb-stained fingers, wearing a pale grey healer's robe with a green sash, standing with one hand at the collarbone and the weight on one leg, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, quiet, steady look, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Aslaug, 62-year-old human woman who looks her age, an older woman, 5'8", spare and upright, a C cup bust, skin that is pale, fine-lined, a stern but gentle, composed face, deep lines, a long thin nose and a hairy mole by the mouth, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, unflattering rough-hewn features, pale blue eyes, white-blonde hair in a tight coil, herb-stained fingers, fully nude, no clothing, standing with one hand lifted to the collarbone and the other arm loose, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, calm, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+## S04-2 Vishnu (man, 49) – S04 Greenhallow The Poultice Cupola
+_healer of the Hall, patient and warm_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Vishnu, 49-year-old human man who looks his age, 5'8", stocky, golden brown skin, a warm, open face, amber eyes, black hair, neatly oiled, wearing a white healer's tunic and trousers, a green sash, standing with one hand behind the head and the weight on one leg, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, warm smile, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Vishnu, 49-year-old human man who looks his age, 5'8", stocky, golden brown skin, a warm, open face, amber eyes, black hair, neatly oiled, fully nude, no clothing, standing relaxed with one hand behind the head, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, warm, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
+## S04-3 Yashoda (woman, 31) – S04 Greenhallow The Poultice Cupola
+_nurse of the Hall_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Yashoda, 31-year-old human woman, 5'8", full-figured, an F cup bust, light brown skin, a warm, open face, brown eyes, black hair with a flower tucked in, wearing a plain white dress with rolled sleeves and a green apron, hair in a plait, standing with the hands lightly clasped in front and the shoulders back, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, warm smile, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Yashoda, 31-year-old human woman, 5'8", full-figured, an F cup bust, light brown skin, a warm, open face, brown eyes, black hair with a flower tucked in, fully nude, no clothing, standing with the hands behind the back, leaning slightly forward, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, amused, easy, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+## S04-4 Kailash (man, 26) – S04 Greenhallow The Pupils Glade
+_apprentice (Tula's one past encounter), earnest and a bit awkward_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Kailash, 26-year-old human man, 5'9", slim and earnest, brown skin, a gentle, flushed face, amber eyes, black hair, short, wearing a short green tunic and loose trousers, standing with a hand on the hip and the head tilted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, nervous smile, eyes lowered, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Kailash, 26-year-old human man, 5'9", slim and earnest, brown skin, a gentle, flushed face, amber eyes, black hair, short, fully nude, no clothing, standing with one hand on the hip and the weight on one leg, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, shy, flushed, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
+## S04-5 Steinar (man, 55) – S04 Greenhallow The Pupils Glade
+_herb-lore instructor, northern-trained_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Steinar, 55-year-old human man who looks his age, an older man, 6'1", lean and stooped, pale and freckled skin, a mild, thoughtful face, light blue eyes, thin grey-blond hair, combed back, ink-stained fingers, wearing a long grey robe and a thin scarf, glasses, standing with the arms crossed over the chest, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, patient half-smile, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Steinar, 55-year-old human man who looks his age, an older man, 6'1", lean and stooped, pale and freckled skin, a mild, thoughtful face, light blue eyes, thin grey-blond hair, combed back, ink-stained fingers, fully nude, no clothing, standing with the arms folded across the chest and the weight on one leg, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, calm, steady, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
+## S04-6 Anjali (woman, 54) – S04 Greenhallow The Tulsi Plots
+_head gardener, firm with weeds_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Anjali, 54-year-old human woman who looks her age, 5'7", soft and curvy, a C cup bust, honey-brown skin, a heavy, blunt face, a heavy brow, a lumpy nose and a hairy wart on the chin, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, unflattering rough-hewn features, dark brown eyes, greying long dark wavy hair, wearing a wide straw hat, a long pale tunic and an apron, soil on her knees, standing with one hand lifted to the collarbone and the other arm loose, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, gruff nod, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Anjali, 54-year-old human woman who looks her age, 5'7", soft and curvy, a C cup bust, honey-brown skin, a heavy, blunt face, a heavy brow, a lumpy nose and a hairy wart on the chin, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, unflattering rough-hewn features, dark brown eyes, greying long dark wavy hair, fully nude, no clothing, standing with the fingertips resting at the collarbone, the head tilted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, blunt, plain, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+## S04-7 Vedant (man, 33) – S04 Greenhallow The Tulsi Plots
+_herb picker, hums the whole day_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Vedant, 33-year-old human man, 5'6", solid and thick, brown skin, a kind, creased face, brown eyes, black hair, neatly oiled, a faint henna stain, wearing a loose linen shirt and rolled trousers, standing with one hand on the hip, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, friendly grin, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Vedant, 33-year-old human man, 5'6", solid and thick, brown skin, a kind, creased face, brown eyes, black hair, neatly oiled, a faint henna stain, fully nude, no clothing, standing with one hand on the hip, the other arm loose, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, warm, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
+## S04-8 Siddharth (man, 58) – S04 Greenhallow The Hanging Bundles
+_herb drier of the sheds, patient_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Siddharth, 58-year-old human man who looks his age, an older man, 5'10", lean and weathered, deep brown skin, a drawn, weary face, sunken cheeks, few remaining teeth and a hairy wart on the cheek, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, unflattering rough-hewn features, dark brown eyes, white hair, thinning, a trimmed beard, a beauty spot, wearing a faded tunic and a cloth tied round his head, standing with the arms folded across the chest and the weight on one leg, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, weary nod, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Siddharth, 58-year-old human man who looks his age, an older man, 5'10", lean and weathered, deep brown skin, a drawn, weary face, sunken cheeks, few remaining teeth and a hairy wart on the cheek, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, unflattering rough-hewn features, dark brown eyes, white hair, thinning, a trimmed beard, a beauty spot, fully nude, no clothing, standing with the arms crossed and the chin lifted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, resigned, plain, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
+## S04-9 Pratima (woman, 44) – S04 Greenhallow The Pestle
+_apothecary, precise and kind_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Pratima, 44-year-old human woman who looks her age, 5'5", slim, an A cup bust, deep brown skin, a patient, composed face, brown eyes, black hair with a flower tucked in, wearing a long white apron over a green dress, standing with the weight on one hip and the arms loose, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, calm nod, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Pratima, 44-year-old human woman who looks her age, 5'5", slim, an A cup bust, deep brown skin, a patient, composed face, brown eyes, black hair with a flower tucked in, fully nude, no clothing, standing with the weight on one leg, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, calm, steady, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+## S04-10 Ritesh (man, 27) – S04 Greenhallow The Pestle
+_apothecary's clerk_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Ritesh, 27-year-old human man, 5'9", slim, warm brown skin, a shy, soft face, black eyes, dark wavy hair, tied back, wearing a tidy grey tunic, standing relaxed with one hand behind the head, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, flustered smile, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Ritesh, 27-year-old human man, 5'9", slim, warm brown skin, a shy, soft face, black eyes, dark wavy hair, tied back, fully nude, no clothing, standing relaxed with one hand behind the head, the other arm loose, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, shy, flushed, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
+## S04-11 Savitri (woman, 48) – S04 Greenhallow The Ablution Sanctuary
+_priestess of the Ablution Sanctuary, serene_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Savitri, 48-year-old human woman who looks her age, 5'3", athletic, an A cup bust, deep brown skin, a patient, composed face, hazel eyes, greying long dark wavy hair, herb-stained fingers, wearing a white wrap robe with a gold border, a flower in her hair, standing with a hand on the hip and the shoulders back, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, calm nod, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Savitri, 48-year-old human woman who looks her age, 5'3", athletic, an A cup bust, deep brown skin, a patient, composed face, hazel eyes, greying long dark wavy hair, herb-stained fingers, fully nude, no clothing, standing with one hand resting on the hip, the head tilted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, calm, steady, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+**swim**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Savitri, 48-year-old human woman who looks her age, 5'3", athletic, an A cup bust, deep brown skin, a patient, composed face, hazel eyes, greying long dark wavy hair, herb-stained fingers, wearing a cotton slip, standing with the weight on one leg and the head tilted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, calm nod, plain pale aqua-tinted cream background (#DDF3F1)
+
+## S04-12 Vasanti (woman, 29) – S04 Greenhallow The Ablution Sanctuary
+_masseuse of the Ablution Sanctuary_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Vasanti, 29-year-old human woman, 5'0", slim, a D cup bust, brown skin, a kind, creased face, brown eyes, black hair with a flower tucked in, wearing a thin linen wrap dress, bare feet, hair tied up, standing with one hand on the hip and the weight on one leg, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, friendly grin, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Vasanti, 29-year-old human woman, 5'0", slim, a D cup bust, brown skin, a kind, creased face, brown eyes, black hair with a flower tucked in, fully nude, no clothing, standing with the hand on the hip and the chin lifted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, warm, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+**swim**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Vasanti, 29-year-old human woman, 5'0", slim, a D cup bust, brown skin, a kind, creased face, brown eyes, black hair with a flower tucked in, wearing a lace chemise and stockings, standing with the weight on one hip and the arms loose, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, friendly grin, plain pale aqua-tinted cream background (#DDF3F1)
+
+## S04-13 Naveen (man, 31) – S04 Greenhallow The Ablution Sanctuary
+_masseur of the Ablution Sanctuary_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Naveen, 31-year-old human man, 6'3", spare and tall, honey-brown skin, a patient, composed face, dark brown eyes, black hair, neatly oiled, wearing a loose cotton wrap and drawstring trousers, bare chest, standing with both hands behind the head, relaxed, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, patient half-smile, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Naveen, 31-year-old human man, 6'3", spare and tall, honey-brown skin, a patient, composed face, dark brown eyes, black hair, neatly oiled, fully nude, no clothing, standing with one hand behind the head and the weight on one leg, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, calm, steady, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
+**swim**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Naveen, 31-year-old human man, 6'3", spare and tall, honey-brown skin, a patient, composed face, dark brown eyes, black hair, neatly oiled, wearing a towel low on the hips, standing relaxed with one hand behind the head, the other arm loose, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, patient half-smile, plain pale aqua-tinted cream background (#DDF3F1)
+
+## S04-14 Gayatri (woman, 36) – S04 Greenhallow The Steaming Bowls
+_attendant of the hot spring pools_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Gayatri, 36-year-old human woman, 5'7", compact and curvy, a C cup bust, brown skin, a kind, creased face, black eyes, black hair in a low bun, a faint henna stain, wearing a short cotton wrap dress, standing with one hand lifted to the hair, the other arm loose, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, kind, easy smile, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Gayatri, 36-year-old human woman, 5'7", compact and curvy, a C cup bust, brown skin, a kind, creased face, black eyes, black hair in a low bun, a faint henna stain, fully nude, no clothing, standing with the head tilted and the hair falling over one shoulder, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, amused, easy, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+**swim**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Gayatri, 36-year-old human woman, 5'7", compact and curvy, a C cup bust, brown skin, a kind, creased face, black eyes, black hair in a low bun, a faint henna stain, wearing a plain one-piece swimsuit, standing with the hair over one shoulder, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, kind, easy smile, plain pale aqua-tinted cream background (#DDF3F1)
+
+## S04-15 Jayant (man, 27) – S04 Greenhallow The Steaming Bowls
+_attendant of the hot spring pools_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Jayant, 27-year-old human man, 5'6", average, fit, warm brown skin, a cheeky, freckled face, hazel eyes, black hair with a short top-knot, wearing a cotton shirt and loose trousers, standing tall with the arms loose at the sides, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, cheeky grin, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Jayant, 27-year-old human man, 5'6", average, fit, warm brown skin, a cheeky, freckled face, hazel eyes, black hair with a short top-knot, fully nude, no clothing, standing with the arms at the sides, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, playful, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
+**swim**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Jayant, 27-year-old human man, 5'6", average, fit, warm brown skin, a cheeky, freckled face, hazel eyes, black hair with a short top-knot, wearing linen drawers, standing with both hands behind the head, relaxed, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, cheeky grin, plain pale aqua-tinted cream background (#DDF3F1)
+
+## S04-16 Indira (woman, 51) – S04 Greenhallow The Masala Gazebo
+_tea mistress of the Pavilion_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Indira, 51-year-old human woman who looks her age, 5'1", slender, a B cup bust, golden brown skin, a warm, open face, brown eyes, hair streaked with grey, a faint henna stain, wearing a pale sari with a green border, standing with the hand on the hip and the chin lifted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, kind, easy smile, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Indira, 51-year-old human woman who looks her age, 5'1", slender, a B cup bust, golden brown skin, a warm, open face, brown eyes, hair streaked with grey, a faint henna stain, fully nude, no clothing, standing with a hand on the hip and the shoulders back, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, warm, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+## S04-17 Bharat (man, 56) – S04 Greenhallow The Wayfarers Hammocks
+_keeper of the Pilgrims Rest, hospitable_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Bharat, 56-year-old human man who looks his age, an older man, 5'9", slim, tan skin, a friendly, round face, amber eyes, black hair, neatly oiled, a small bindi, wearing a loose white shirt and wrap trousers, standing with the weight on one leg and the arms loose, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, friendly grin, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Bharat, 56-year-old human man who looks his age, an older man, 5'9", slim, tan skin, a friendly, round face, amber eyes, black hair, neatly oiled, a small bindi, fully nude, no clothing, standing with the weight on one leg, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, amused, easy, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
+## S04-18 Balram (man, 61) – S04 Greenhallow The Seedbank Repository
+_librarian of the Seed Library, absent-minded_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Balram, 61-year-old human man who looks his age, an older man, 5'9", spare and upright, honey-brown skin, a calm, even face, a bulbous nose, liver spots and puffy eyelids, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, unflattering rough-hewn features, black eyes, iron-grey hair, a trimmed beard, herb-stained fingers, wearing a long robe, spectacles on a string, standing with the arms relaxed at the sides and the chin lifted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, calm nod, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Balram, 61-year-old human man who looks his age, an older man, 5'9", spare and upright, honey-brown skin, a calm, even face, a bulbous nose, liver spots and puffy eyelids, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, unflattering rough-hewn features, black eyes, iron-grey hair, a trimmed beard, herb-stained fingers, fully nude, no clothing, standing tall with the arms loose at the sides, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, calm, steady, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
+## S04-19 Akshara (woman, 45) – S04 Greenhallow The Elixir Retort
+_distiller of the Tincture Still_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Akshara, 45-year-old human woman who looks her age, 5'0", slender, an E cup bust, warm brown skin, a patient, composed face, a lumpy nose, sallow skin and cracked lips, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, unflattering rough-hewn features, amber eyes, long black hair in a plait, wearing a leather apron over a pale tunic, a stained cloth, standing with the weight on one leg, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, quiet, steady look, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Akshara, 45-year-old human woman who looks her age, 5'0", slender, an E cup bust, warm brown skin, a patient, composed face, a lumpy nose, sallow skin and cracked lips, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, unflattering rough-hewn features, amber eyes, long black hair in a plait, fully nude, no clothing, standing with the weight on one leg and the head tilted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, calm, steady, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+## S04-20 Smita (woman, 39) – S04 Greenhallow The Padma Mandapa
+_priestess of the Lotus Shrine_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Smita, 39-year-old human woman, 5'7", compact and curvy, a B cup bust, honey-brown skin, a quiet, thoughtful face, black eyes, long dark wavy hair, loose, herb-stained fingers, wearing a plain white sari, a garland of lotus, standing with the hands clasped in front, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, quiet, steady look, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Smita, 39-year-old human woman, 5'7", compact and curvy, a B cup bust, honey-brown skin, a quiet, thoughtful face, black eyes, long dark wavy hair, loose, herb-stained fingers, fully nude, no clothing, standing with the arms behind the back, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, calm, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+## S04-21 Anirudh (man, 52) – S04 Greenhallow The Stillness Skete
+_warden of the Quiet Cloister, barely speaks_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Anirudh, 52-year-old human man who looks his age, 6'4", heavy-set, light brown skin, a patient, composed face, dark brown eyes, grey-streaked black hair, wearing a grey robe and bare feet, a prayer cord, standing relaxed with one hand behind the head, the other arm loose, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, calm nod, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Anirudh, 52-year-old human man who looks his age, 6'4", heavy-set, light brown skin, a patient, composed face, dark brown eyes, grey-streaked black hair, fully nude, no clothing, standing with both hands behind the head, relaxed, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, calm, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
+## S04-22 Falguni (woman, 37) – S04 Greenhallow The Frangipani Unguents
+_keeper of the Sweet Oil Room, gentle and amused_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Falguni, 37-year-old human woman, 5'8", slim, a C cup bust, brown skin, a warm, open face, black eyes, black hair in a low bun, a small bindi, wearing a rose-coloured sari and glass bangles, standing with one hand resting on the hip, the head tilted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, kind, easy smile, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Falguni, 37-year-old human woman, 5'8", slim, a C cup bust, brown skin, a warm, open face, black eyes, black hair in a low bun, a small bindi, fully nude, no clothing, standing with one hand on the hip and the weight on one leg, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, warm, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+## S04-W1 Uday (man, 35) – S04 Greenhallow The Neem Avenue and The Reedy Marsh and The Mango Grove (pop-up)
+_pilgrim on the terraces_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Uday, 35-year-old human man, 6'1", solid and thick, golden brown skin, a patient, composed face, dark brown eyes, black hair with a short top-knot, wearing a plain travelling tunic and a hat, standing with the hands on the hips and the chest out, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, quiet, steady look, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Uday, 35-year-old human man, 6'1", solid and thick, golden brown skin, a patient, composed face, dark brown eyes, black hair with a short top-knot, fully nude, no clothing, standing square with the hands on the hips, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, calm, steady, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
+## S04-W2 Dhara (woman, 24) – S04 Greenhallow The Neem Avenue and The Reedy Marsh and The Mango Grove (pop-up)
+_young healer picking flowers_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Dhara, 24-year-old human woman, 5'9", compact and curvy, a D cup bust, brown skin, a gentle, flushed face, black eyes, black hair with a flower tucked in, a beauty spot, wearing a light green tunic dress, standing with the hands clasped in front and the head tilted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, nervous smile, eyes lowered, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Dhara, 24-year-old human woman, 5'9", compact and curvy, a D cup bust, brown skin, a gentle, flushed face, black eyes, black hair with a flower tucked in, a beauty spot, fully nude, no clothing, standing with the hands behind the back, leaning slightly forward, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, shy, eyes lowered, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+## S04-W3 Hrithik (man, 42) – S04 Greenhallow The Chilled Runnels (pop-up)
+_man resting in the spring pools_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Hrithik, 42-year-old human man who looks his age, 5'6", stocky, brown skin, a calm, even face, amber eyes, black hair, short, herb-stained fingers, wearing a plain cotton tunic and trousers, standing with the hands on the hips and the chest out, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, calm nod, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Hrithik, 42-year-old human man who looks his age, 5'6", stocky, brown skin, a calm, even face, amber eyes, black hair, short, herb-stained fingers, fully nude, no clothing, standing square with the hands on the hips, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, calm, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
+**swim**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Hrithik, 42-year-old human man who looks his age, 5'6", stocky, brown skin, a calm, even face, amber eyes, black hair, short, herb-stained fingers, wearing linen drawers, standing with both hands behind the head, relaxed, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, calm nod, plain pale aqua-tinted cream background (#DDF3F1)
+
+## S04-W4 Sujata (woman, 33) – S04 Greenhallow The Chilled Runnels (pop-up)
+_woman soaking in the spring pools_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Sujata, 33-year-old human woman, 5'9", curvy, a D cup bust, honey-brown skin, a kind, creased face, hazel eyes, black hair in a low bun, a faint henna stain, wearing a thin linen wrap over a slip, hair up, standing with one hand on the hip and the weight on one leg, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, friendly grin, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Sujata, 33-year-old human woman, 5'9", curvy, a D cup bust, honey-brown skin, a kind, creased face, hazel eyes, black hair in a low bun, a faint henna stain, fully nude, no clothing, standing with the hand on the hip and the chin lifted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, amused, easy, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+**swim**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Sujata, 33-year-old human woman, 5'9", curvy, a D cup bust, honey-brown skin, a kind, creased face, hazel eyes, black hair in a low bun, a faint henna stain, wearing a thin cotton slip, standing with the weight on one hip and the arms loose, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, friendly grin, plain pale aqua-tinted cream background (#DDF3F1)
+
+## S04-W5 Umesh (man, 27) – S04 Greenhallow The Mirror Kund (pop-up)
+_swimmer in the bathing pool_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Umesh, 27-year-old human man, 6'3", stocky, light brown skin, a playful, dimpled face, hazel eyes, black hair, neatly oiled, wearing a cotton shirt over loose shorts, standing with the arms relaxed at the sides and the chin lifted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, cheeky grin, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Umesh, 27-year-old human man, 6'3", stocky, light brown skin, a playful, dimpled face, hazel eyes, black hair, neatly oiled, fully nude, no clothing, standing tall with the arms loose at the sides, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, playful, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
+**swim**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Umesh, 27-year-old human man, 6'3", stocky, light brown skin, a playful, dimpled face, hazel eyes, black hair, neatly oiled, wearing plain cotton drawers, standing relaxed with one hand behind the head, the other arm loose, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, cheeky grin, plain pale aqua-tinted cream background (#DDF3F1)
+
+## S04-W6 Esha (woman, 25) – S04 Greenhallow The Mirror Kund (pop-up)
+_girl bathing in the pool_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Esha, 25-year-old human woman, 5'8", slim and curvy, an E cup bust, warm brown skin, a shy, soft face, black eyes, black hair in a low bun, wearing a linen shift, standing with one hand on the hip and the weight on one leg, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, shy smile, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Esha, 25-year-old human woman, 5'8", slim and curvy, an E cup bust, warm brown skin, a shy, soft face, black eyes, black hair in a low bun, fully nude, no clothing, standing with the hand on the hip and the chin lifted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, shy, flushed, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+**swim**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Esha, 25-year-old human woman, 5'8", slim and curvy, an E cup bust, warm brown skin, a shy, soft face, black eyes, black hair in a low bun, wearing a lace chemise and stockings, standing with the weight on one hip and the arms loose, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, shy smile, plain pale aqua-tinted cream background (#DDF3F1)

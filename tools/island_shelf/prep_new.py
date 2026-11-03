@@ -13,7 +13,7 @@ PROP = re.compile(r"\b(ledger|tray|notebook|slate|stack of papers|clipboard|armf
                   r"tally cord|sack|bucket|bunch of keys|bottle|tin cup|cheap pies|stamp and an ink pad|lantern|bar rag|barrel tap|"
                   r"crate of oddments|snuffbox|stocks|ring of rusty keys|huge ring of keys|a rope|rope around|lute|pen box|pen case|vial|a seal)\b", re.I)
 KEEP = re.compile(r"behind (the|his|her) ear", re.I)
-HELD = re.compile(r"\b(in hand|in one hand|under (his|her|one) arm|over (one|his|her) shoulder|in (his|her) pocket)\b", re.I)
+HELD = re.compile(r"\b(in hand|in one hand|under (his|her|one) arm|over (one|his|her) shoulder|in (his|her) pocket|in (his|her) hand)\b", re.I)
 CLEAN = {}
 exec(open(f"clean_{isl}.py").read()) if __import__("os").path.exists(f"clean_{isl}.py") else None
 changed = []

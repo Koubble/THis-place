@@ -19,3 +19,4 @@ b brinewatch_clean.csv brinewatch
 for i in goldspire lyrenne duskmarket dicehold roarhold; do python3 -I prep_new.py $i >/dev/null; b ${i}_clean.csv $i; done
 for i in saltglare wethering gutterholm; do python3 -I prep_new.py $i >/dev/null; b ${i}_clean.csv $i; done
 for i in rosewater; do python3 -I prep_new.py $i >/dev/null; b ${i}_clean.csv $i; done
+for i in tarnsand coralmere bargewater greenhallow; do python3 -I prep_new.py $i >/dev/null; b ${i}_clean.csv $i; done
