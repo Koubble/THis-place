@@ -1,0 +1,633 @@
+# Molasse prompts
+
+## S05-1 Lancelot (man, 64) – S05 Molasse The Bougainvillea Mansion
+_planter patriarch of the Bougainvillea Mansion_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Lancelot, 64-year-old human man who looks his age, an older man, 6'4", stout and slow, skin that is pale, sun-pinked, a cool, aristocratic face, sagging jowls, liver spots and a long drooping nose, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, unflattering rough-hewn features, dark brown eyes, iron-grey hair, calloused hands, wearing a white linen suit with a cravat, a panama hat and a gold watch chain, standing with both hands behind the head, relaxed, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, cool, appraising look, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Lancelot, 64-year-old human man who looks his age, an older man, 6'4", stout and slow, skin that is pale, sun-pinked, a cool, aristocratic face, sagging jowls, liver spots and a long drooping nose, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, unflattering rough-hewn features, dark brown eyes, iron-grey hair, calloused hands, fully nude, no clothing, standing with one hand behind the head and the weight on one leg, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, haughty, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
+## S05-2 Blanche (woman, 58) – S05 Molasse The Bougainvillea Mansion
+_matriarch of the Bougainvillea Mansion, rules the house_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Blanche, 58-year-old human woman who looks her age, an older woman, 5'2", soft and heavy, an F cup bust, skin that is pale, sun-pinked, a severe, composed face, a double chin, a hairy mole on the cheek and thin pursed lips, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, unflattering rough-hewn features, hazel eyes, iron-grey hair, wearing a high-collared cream dress with a cameo brooch, standing with the weight on one leg, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, cold, measuring stare, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Blanche, 58-year-old human woman who looks her age, an older woman, 5'2", soft and heavy, an F cup bust, skin that is pale, sun-pinked, a severe, composed face, a double chin, a hairy mole on the cheek and thin pursed lips, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, unflattering rough-hewn features, hazel eyes, iron-grey hair, fully nude, no clothing, standing with the weight on one leg and the head tilted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, stern, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+## S05-3 Seymour (man, 50) – S05 Molasse The Bougainvillea Mansion
+_steward of the mansion, never raises his voice_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Seymour, 50-year-old human man who looks his age, 5'7", spare and tall, ebony skin, a patient, composed face, brown eyes, hair streaked with grey, a faint scar, wearing a dark waistcoat and white shirtsleeves, standing with the arms crossed and the chin lifted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, quiet, steady look, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Seymour, 50-year-old human man who looks his age, 5'7", spare and tall, ebony skin, a patient, composed face, brown eyes, hair streaked with grey, a faint scar, fully nude, no clothing, standing with the arms folded over the chest, the shoulders back, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, calm, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
+## S05-4 Olive (woman, 27) – S05 Molasse The Bougainvillea Mansion
+_housemaid of the mansion, quick and watchful_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Olive, 27-year-old human woman, 5'4", sturdy, a D cup bust, dark brown skin, a calm, even face, brown eyes, black twists pinned up, a faint scar, wearing a grey uniform dress with a white apron, hair in a headscarf, standing with one hand lifted to the hair, the other arm loose, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, calm nod, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Olive, 27-year-old human woman, 5'4", sturdy, a D cup bust, dark brown skin, a calm, even face, brown eyes, black twists pinned up, a faint scar, fully nude, no clothing, standing with the head tilted and the hair falling over one shoulder, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, calm, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+## S05-5 Yinka (man, 55) – S05 Molasse The Barons Belvedere
+_club steward, pours the rum and keeps the secrets_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Yinka, 55-year-old human man who looks his age, an older man, 5'7", broad and strong, golden brown skin, a patient, composed face, black eyes, hair streaked with grey, a beauty spot, wearing a white jacket and black bow tie, standing with the weight on one leg and the arms loose, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, calm nod, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Yinka, 55-year-old human man who looks his age, an older man, 5'7", broad and strong, golden brown skin, a patient, composed face, black eyes, hair streaked with grey, a beauty spot, fully nude, no clothing, standing with the weight on one leg, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, calm, steady, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
+## S05-6 Francois (man, 48) – S05 Molasse The Barons Belvedere
+_planter, loud and heavy-handed_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Francois, 48-year-old human man who looks his age, 6'3", spare and tall, skin that is fair, flushed and sweat-sheened, a bright, daring face, a sweating red face, a bulbous veined nose and wet loose lips, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, unflattering rough-hewn features, brown eyes, black hair under a cloth cap, wearing a rumpled linen suit with the collar loose, standing with the arms folded across the chest and the weight on one leg, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, bold grin, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Francois, 48-year-old human man who looks his age, 6'3", spare and tall, skin that is fair, flushed and sweat-sheened, a bright, daring face, a sweating red face, a bulbous veined nose and wet loose lips, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, unflattering rough-hewn features, brown eyes, black hair under a cloth cap, fully nude, no clothing, standing with the arms crossed and the chin lifted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, confident, amused, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
+## S05-7 Abeo (man, 52) – S05 Molasse The Alembic Coppers
+_master distiller of the Alembic Coppers_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Abeo, 52-year-old human man who looks his age, 5'11", compact and tough, deep brown skin, a calm, even face, amber eyes, greying black hair, short and tightly curled, a cane-cut scar on the forearm, wearing a leather apron over a shirt, rolled sleeves, standing with the weight on one leg and the arms loose, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, patient half-smile, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Abeo, 52-year-old human man who looks his age, 5'11", compact and tough, deep brown skin, a calm, even face, amber eyes, greying black hair, short and tightly curled, a cane-cut scar on the forearm, fully nude, no clothing, standing with the weight on one leg, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, calm, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
+## S05-8 Kwesi (man, 34) – S05 Molasse The Alembic Coppers
+_still hand, sweaty and cheerful_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Kwesi, 34-year-old human man, 5'9", solid and thick, brown skin, a kind, creased face, dark brown eyes, a shaved head, calloused hands, wearing a sleeveless vest soaked at the chest, rolled trousers, standing with the arms relaxed at the sides and the chin lifted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, kind, easy smile, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Kwesi, 34-year-old human man, 5'9", solid and thick, brown skin, a kind, creased face, dark brown eyes, a shaved head, calloused hands, fully nude, no clothing, standing tall with the arms loose at the sides, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, warm, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
+## S05-9 Junior (man, 46) – S05 Molasse The Cane Grinder
+_miller at the Cane Grinder, big and calloused_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Junior, 46-year-old human man who looks his age, 6'7", broad, thick and powerful, warm dark brown skin, a craggy, honest face, brown eyes, hair streaked with grey, calloused hands, wearing a bare-chested apron of canvas, a sweat rag round the neck, standing with the arms at the sides, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, grim smirk, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Junior, 46-year-old human man who looks his age, 6'7", broad, thick and powerful, warm dark brown skin, a craggy, honest face, brown eyes, hair streaked with grey, calloused hands, fully nude, no clothing, standing upright with the arms at the sides, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, blunt, plain, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
+## S05-10 Linton (man, 57) – S05 Molasse The Hogshead Coopers
+_cooper, taps the staves and hums_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Linton, 57-year-old human man who looks his age, an older man, 6'3", compact and tough, dark mahogany skin, a heavy, blunt face, brown eyes, short grey-flecked curls, a cane-cut scar on the forearm, wearing a leather apron over a bare chest, a cap, rolled sleeves, standing with one hand on the hip, the other arm loose, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, grim smirk, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Linton, 57-year-old human man who looks his age, an older man, 6'3", compact and tough, dark mahogany skin, a heavy, blunt face, brown eyes, short grey-flecked curls, a cane-cut scar on the forearm, fully nude, no clothing, standing with a hand on the hip and the head tilted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, gruff, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
+## S05-11 Kwaku (man, 43) – S05 Molasse The Tolling Gong
+_gang boss at the field gate, firm but fair_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Kwaku, 43-year-old human man who looks his age, 5'10", solid and thick, brown skin, a hard, handsome face, dark brown eyes, black twists, tied back, wearing a straw hat, a sleeveless shirt and rolled trousers, standing with the arms folded over the chest, the shoulders back, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, cold, measuring stare, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Kwaku, 43-year-old human man who looks his age, 5'10", solid and thick, brown skin, a hard, handsome face, dark brown eyes, black twists, tied back, fully nude, no clothing, standing with the arms crossed over the chest, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, stern, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
+## S05-12 Lavern (woman, 36) – S05 Molasse The Tolling Gong
+_field worker, strong and weary_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Lavern, 36-year-old human woman, 5'4", slim and curvy, a C cup bust, warm dark brown skin, a drawn, weary face, brown eyes, cropped black curls, wearing a faded wrap skirt and a sleeveless top, a headscarf, cane-cut forearms, standing with the weight on one leg and the head tilted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, resigned look, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Lavern, 36-year-old human woman, 5'4", slim and curvy, a C cup bust, warm dark brown skin, a drawn, weary face, brown eyes, cropped black curls, fully nude, no clothing, standing with a relaxed hip tilt, the arms loose at the sides, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, resigned, plain, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+## S05-13 Ibrahima (man, 29) – S05 Molasse The Tolling Gong
+_cane cutter, quick with the day's quota_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Ibrahima, 29-year-old human man, 5'10", stocky, golden brown skin, a craggy, honest face, black eyes, black twists, tied back, a beauty spot, wearing a torn shirt open at the front, rolled trousers, bare feet, standing with the hands on the hips and the chest out, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, gruff nod, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Ibrahima, 29-year-old human man, 5'10", stocky, golden brown skin, a craggy, honest face, black eyes, black twists, tied back, a beauty spot, fully nude, no clothing, standing square with the hands on the hips, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, gruff, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
+## S05-14 Kendrick (man, 51) – S05 Molasse The Taskmasters Bungalow
+_taskmaster of the bungalow, hard and bored_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Kendrick, 51-year-old human man who looks his age, 6'3", compact and tough, skin that is fair, freckled, a stern, lined face, a pitted sunburnt face, thin cruel lips and a hairy wart by the nose, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, unflattering rough-hewn features, brown eyes, greying black hair, cropped close, a beauty spot, wearing a khaki shirt with the sleeves rolled, a wide hat, riding boots, standing relaxed with one hand behind the head, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, tight, disapproving look, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Kendrick, 51-year-old human man who looks his age, 6'3", compact and tough, skin that is fair, freckled, a stern, lined face, a pitted sunburnt face, thin cruel lips and a hairy wart by the nose, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, unflattering rough-hewn features, brown eyes, greying black hair, cropped close, a beauty spot, fully nude, no clothing, standing relaxed with one hand behind the head, the other arm loose, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, composed, cold, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
+## S05-15 Neville (man, 35) – S05 Molasse The Taskmasters Bungalow
+_taskmaster's assistant_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Neville, 35-year-old human man, 6'0", compact and tough, skin that is fair, freckled, a sly, clever face, an oily smirk, small shifty eyes and uneven yellow teeth, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, unflattering rough-hewn features, dark brown eyes, a shaved head, calloused hands, wearing a sweat-stained shirt and a hat pulled low, standing with a hand on the hip and the head tilted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, knowing smirk, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Neville, 35-year-old human man, 6'0", compact and tough, skin that is fair, freckled, a sly, clever face, an oily smirk, small shifty eyes and uneven yellow teeth, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, unflattering rough-hewn features, dark brown eyes, a shaved head, calloused hands, fully nude, no clothing, standing with one hand on the hip and the weight on one leg, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, knowing, amused, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
+## S05-16 Cherry (woman, 48) – S05 Molasse The Tamarind Lanes
+_washerwoman of the lanes, hums gospel_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Cherry, 48-year-old human woman who looks her age, 5'6", compact and curvy, a D cup bust, dark brown skin, a warm, open face, hazel eyes, hair streaked with grey, a cane-cut scar on the forearm, wearing a faded floral dress and apron, sleeves pushed up, a headscarf, standing with the weight on one leg, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, friendly grin, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Cherry, 48-year-old human woman who looks her age, 5'6", compact and curvy, a D cup bust, dark brown skin, a warm, open face, hazel eyes, hair streaked with grey, a cane-cut scar on the forearm, fully nude, no clothing, standing with the weight on one leg and the head tilted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, warm, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+## S05-17 Akosua (woman, 33) – S05 Molasse The Tamarind Lanes
+_young mother, tired and kind_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Akosua, 33-year-old human woman, 5'5", slim, a C cup bust, brown skin, a kind, creased face, hazel eyes, black hair in tight curls, wearing a patched cotton dress and a shawl, hair wrapped, standing with the hands behind the back, leaning slightly forward, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, warm smile, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Akosua, 33-year-old human woman, 5'5", slim, a C cup bust, brown skin, a kind, creased face, hazel eyes, black hair in tight curls, fully nude, no clothing, standing with the hands clasped behind the back and the chest lifted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, warm, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+## S05-18 Cheikh (man, 66) – S05 Molasse The Tamarind Lanes
+_lane elder, tells the old stories_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Cheikh, 66-year-old human man who looks his age, an older man, 6'1", stout and slow, warm dark brown skin, a drawn, weary face, brown eyes, white hair, wearing a threadbare waistcoat and a straw hat, standing with the weight on one leg and the arms loose, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, tired smile, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Cheikh, 66-year-old human man who looks his age, an older man, 6'1", stout and slow, warm dark brown skin, a drawn, weary face, brown eyes, white hair, fully nude, no clothing, standing with the weight on one leg, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, resigned, plain, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
+## S05-19 Adebayo (man, 45) – S05 Molasse The Token Store
+_storekeeper of the Token Store, counts every coin_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Adebayo, 45-year-old human man who looks his age, 6'3", compact and tough, brown skin, a severe, composed face, brown eyes, greying short grey-flecked curls, wearing a pressed white shirt with sleeve garters, a green eyeshade, standing with the arms folded across the chest and the weight on one leg, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, tight, disapproving look, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Adebayo, 45-year-old human man who looks his age, 6'3", compact and tough, brown skin, a severe, composed face, brown eyes, greying short grey-flecked curls, fully nude, no clothing, standing with the arms crossed and the chin lifted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, stern, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
+## S05-20 Kerene (woman, 28) – S05 Molasse The Token Store
+_store clerk, quick with the scales_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Kerene, 28-year-old human woman, 5'5", soft and curvy, an E cup bust, deep brown skin, a calm, even face, hazel eyes, cropped black curls, wearing a neat apron over a cotton dress, a pencil behind the ear, standing with the hands lightly clasped in front and the shoulders back, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, patient half-smile, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Kerene, 28-year-old human woman, 5'5", soft and curvy, an E cup bust, deep brown skin, a calm, even face, hazel eyes, cropped black curls, fully nude, no clothing, standing with the hands clasped behind the back and the chest lifted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, calm, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+## S05-21 Althea (woman, 52) – S05 Molasse The Callaloo Pots
+_cook of the Callaloo Pots, shouts for plates_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Althea, 52-year-old human woman who looks her age, 5'6", curvy, a C cup bust, ebony skin, a kind, creased face, brown eyes, black hair in tight curls, wearing a big apron over a printed dress, a head wrap, standing with one hand on the hip and the weight on one leg, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, kind, easy smile, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Althea, 52-year-old human woman who looks her age, 5'6", curvy, a C cup bust, ebony skin, a kind, creased face, brown eyes, black hair in tight curls, fully nude, no clothing, standing with the hand on the hip and the chin lifted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, amused, easy, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+## S05-22 Yaw (man, 58) – S05 Molasse The Whitewash Tabernacle
+_preacher of the chapel, rich voice_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Yaw, 58-year-old human man who looks his age, an older man, 6'2", thin and stooped, dark brown skin, a friendly, round face, hazel eyes, thin silver hair, a trimmed beard, a beauty spot, wearing a black coat and white collar, standing with the arms relaxed at the sides and the chin lifted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, warm smile, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Yaw, 58-year-old human man who looks his age, an older man, 6'2", thin and stooped, dark brown skin, a friendly, round face, hazel eyes, thin silver hair, a trimmed beard, a beauty spot, fully nude, no clothing, standing tall with the arms loose at the sides, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, warm, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
+## S05-23 Pearline (woman, 41) – S05 Molasse The Whitewash Tabernacle
+_choir leader of the chapel, strong alto_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Pearline, 41-year-old human woman who looks her age, 5'8", athletic, a C cup bust, ebony skin, a kind, creased face, dark brown eyes, black twists pinned up, a beauty spot, wearing a Sunday white dress and a wide hat, standing with the hands lightly clasped in front and the shoulders back, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, warm smile, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Pearline, 41-year-old human woman who looks her age, 5'8", athletic, a C cup bust, ebony skin, a kind, creased face, dark brown eyes, black twists pinned up, a beauty spot, fully nude, no clothing, standing with the arms behind the back and the head tilted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, warm, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+## S05-24 Hubert (man, 38) – S05 Molasse The Drum Clearing
+_drummer of the Drum Clearing_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Hubert, 38-year-old human man, 6'2", tall and lean, golden brown skin, a confident, laughing face, hazel eyes, short grey-flecked curls, a faint scar, wearing a loose open shirt and white trousers, bare feet, hands wrapped in cloth, standing with the weight on one leg and the arms loose, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, bold grin, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Hubert, 38-year-old human man, 6'2", tall and lean, golden brown skin, a confident, laughing face, hazel eyes, short grey-flecked curls, a faint scar, fully nude, no clothing, standing with the weight on one leg, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, confident, amused, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
+## S05-25 Phyllis (woman, 26) – S05 Molasse The Drum Clearing
+_dancer of the Drum Clearing_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Phyllis, 26-year-old human woman, 5'6", sturdy, an A cup bust, brown skin, a bright, daring face, hazel eyes, long braids tied back, wearing a bright wrap skirt and a short top, bangles, bare feet, standing with the hand on the hip and the chin lifted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, confident, knowing smile, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Phyllis, 26-year-old human woman, 5'6", sturdy, an A cup bust, brown skin, a bright, daring face, hazel eyes, long braids tied back, fully nude, no clothing, standing with a hand on the hip and the shoulders back, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, bold, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+## S05-26 Trevor (man, 49) – S05 Molasse The Muscovado Embankment
+_dock boss at the Muscovado Embankment_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Trevor, 49-year-old human man who looks his age, 5'7", stocky, dark mahogany skin, a heavy, blunt face, hazel eyes, greying black hair under a cloth cap, a faint scar, wearing a salt-stained shirt and a cap, standing with the arms folded over the chest, the shoulders back, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, gruff nod, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Trevor, 49-year-old human man who looks his age, 5'7", stocky, dark mahogany skin, a heavy, blunt face, hazel eyes, greying black hair under a cloth cap, a faint scar, fully nude, no clothing, standing with the arms crossed over the chest, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, gruff, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
+## S05-27 Modou (man, 31) – S05 Molasse The Muscovado Embankment
+_stevedore, broad and patient_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Modou, 31-year-old human man, 5'10", lean and wiry, golden brown skin, a quiet, thoughtful face, brown eyes, black hair, short and tightly curled, wearing a sleeveless vest and rolled trousers, standing relaxed with one hand behind the head, the other arm loose, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, quiet, steady look, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Modou, 31-year-old human man, 5'10", lean and wiry, golden brown skin, a quiet, thoughtful face, brown eyes, black hair, short and tightly curled, fully nude, no clothing, standing with both hands behind the head, relaxed, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, calm, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
+## S05-28 Kathleen (woman, 46) – S05 Molasse The Mahogany Guesthouse
+_innkeeper of the Mahogany Guesthouse, brisk_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Kathleen, 46-year-old human woman who looks her age, 5'5", slim and curvy, a D cup bust, skin that is pale, sun-pinked, a stern, lined face, a pinched sour face, a long nose and a hairy wart on the chin, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, unflattering rough-hewn features, amber eyes, greying black twists pinned up, wearing a long pale dress with an apron, standing with the weight on one leg, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, tight, disapproving look, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Kathleen, 46-year-old human woman who looks her age, 5'5", slim and curvy, a D cup bust, skin that is pale, sun-pinked, a stern, lined face, a pinched sour face, a long nose and a hairy wart on the chin, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, unflattering rough-hewn features, amber eyes, greying black twists pinned up, fully nude, no clothing, standing with the weight on one leg and the head tilted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, stern, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+## S05-29 Dayo (man, 47) – S05 Molasse The Moonshine Thicket
+_still-keeper of the Moonshine Thicket, grins too much_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Dayo, 47-year-old human man who looks his age, 5'7", solid and thick, brown skin, a sly, clever face, a gap-toothed leer, bloodshot eyes and a lumpy nose, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, unflattering rough-hewn features, dark brown eyes, a shaved head, a cane-cut scar on the forearm, wearing a battered hat and a stained vest, standing with the hands on the hips and the chin lifted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, knowing smirk, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Dayo, 47-year-old human man who looks his age, 5'7", solid and thick, brown skin, a sly, clever face, a gap-toothed leer, bloodshot eyes and a lumpy nose, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, unflattering rough-hewn features, dark brown eyes, a shaved head, a cane-cut scar on the forearm, fully nude, no clothing, standing with the hands on the hips and the chest out, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, knowing, amused, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
+## S05-30 Eniola (woman, 27) – S05 Molasse The Moonshine Thicket
+_runner for the thicket, light on her feet_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Eniola, 27-year-old human woman, 5'4", slim, a D cup bust, ebony skin, a sly, clever face, dark brown eyes, long black hair in a thick plait, wearing a dark wrap skirt and a sleeveless top, standing with one hand sweeping the hair over one shoulder, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, narrowed, watchful look, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Eniola, 27-year-old human woman, 5'4", slim, a D cup bust, ebony skin, a sly, clever face, dark brown eyes, long black hair in a thick plait, fully nude, no clothing, standing with the hair over one shoulder, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, knowing, amused, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+## S05-31 Novlet (woman, 39) – S05 Molasse The Yam and Plantain Barrows
+_fruit seller at the stalls, sings her prices_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Novlet, 39-year-old human woman, 5'6", slim, a B cup bust, ebony skin, a kind, creased face, amber eyes, black twists pinned up, a cane-cut scar on the forearm, wearing a flowered dress with a head wrap, standing with the arms behind the back and the head tilted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, friendly grin, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Novlet, 39-year-old human woman, 5'6", slim, a B cup bust, ebony skin, a kind, creased face, amber eyes, black twists pinned up, a cane-cut scar on the forearm, fully nude, no clothing, standing with the hands behind the back, leaning slightly forward, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, amused, easy, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+## S05-32 Ebo (man, 44) – S05 Molasse The Yam and Plantain Barrows
+_fish seller, calls to every passer-by_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Ebo, 44-year-old human man who looks his age, 5'7", heavy-set, ebony skin, a heavy, blunt face, a heavy flattened nose, thick split lips and pitted skin, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, unflattering rough-hewn features, hazel eyes, short grey-flecked curls, a faint scar, wearing a stained apron over bare chest and shorts, standing with one hand on the hip and the weight on one leg, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, grim smirk, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Ebo, 44-year-old human man who looks his age, 5'7", heavy-set, ebony skin, a heavy, blunt face, a heavy flattened nose, thick split lips and pitted skin, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, unflattering rough-hewn features, hazel eyes, short grey-flecked curls, a faint scar, fully nude, no clothing, standing with one hand on the hip, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, gruff, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
+## S05-33 Sade (woman, 43) – S05 Molasse The Madras Bolts
+_cloth merchant, fingers every fabric_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Sade, 43-year-old human woman who looks her age, 5'6", full-figured, a B cup bust, dark mahogany skin, a confident, laughing face, amber eyes, black hair in tight curls, wearing a brightly printed dress, a tape round her neck, standing with the hands clasped in front, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, bold grin, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Sade, 43-year-old human woman who looks her age, 5'6", full-figured, a B cup bust, dark mahogany skin, a confident, laughing face, amber eyes, black hair in tight curls, fully nude, no clothing, standing with the hands behind the back, leaning slightly forward, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, bold, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+## S05-34 Vivian (man, 53) – S05 Molasse The Bush Herbalist
+_doctor of the clinic, kind and overworked_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Vivian, 53-year-old human man who looks his age, 5'7", tall and lean, skin that is pale, sun-pinked, a tired, worn face, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, dark brown eyes, black hair, short and tightly curled, wearing a rumpled white coat over a waistcoat, a stethoscope, standing with the arms relaxed at the sides and the chin lifted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, tired smile, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Vivian, 53-year-old human man who looks his age, 5'7", tall and lean, skin that is pale, sun-pinked, a tired, worn face, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, dark brown eyes, black hair, short and tightly curled, fully nude, no clothing, standing tall with the arms loose at the sides, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, resigned, plain, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
+## S05-35 Efua (woman, 50) – S05 Molasse The Bush Herbalist
+_midwife of the clinic, calm_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Efua, 50-year-old human woman who looks her age, 5'9", slim, an E cup bust, ebony skin, a calm, even face, hazel eyes, hair streaked with grey, a cane-cut scar on the forearm, wearing a clean apron over a long dress, a head scarf, standing with the weight on one leg, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, calm nod, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Efua, 50-year-old human woman who looks her age, 5'9", slim, an E cup bust, ebony skin, a calm, even face, hazel eyes, hair streaked with grey, a cane-cut scar on the forearm, fully nude, no clothing, standing with the weight on one leg and the head tilted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, calm, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+## S05-36 Funmi (woman, 34) – S05 Molasse The Primer Schoolroom
+_teacher of the Primer Schoolroom, patient_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Funmi, 34-year-old human woman, 5'6", slender, a D cup bust, brown skin, a quiet, thoughtful face, hazel eyes, black twists pinned up, wearing a plain blue dress with a white collar, standing with the hands behind the back, leaning slightly forward, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, calm nod, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Funmi, 34-year-old human woman, 5'6", slender, a D cup bust, brown skin, a quiet, thoughtful face, hazel eyes, black twists pinned up, fully nude, no clothing, standing with the hands clasped behind the back and the chest lifted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, calm, steady, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+## S05-37 Glenroy (man, 36) – S05 Molasse The Sampling Crypts
+_cellar guide at the Sampling Crypts, charming_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Glenroy, 36-year-old human man, 6'2", lean and wiry, golden brown skin, a cheeky, freckled face, dark brown eyes, black hair, cropped close, wearing a waistcoat and rolled sleeves, standing with the weight on one leg, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, cheeky grin, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Glenroy, 36-year-old human man, 6'2", lean and wiry, golden brown skin, a cheeky, freckled face, dark brown eyes, black hair, cropped close, fully nude, no clothing, standing easy with the weight on one leg, the head tilted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, giggling, flushed, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
+## S05-38 Olu (man, 41) – S05 Molasse The Dutty Jug
+_barman of the Dutty Jug_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Olu, 41-year-old human man who looks his age, 6'1", average, fit, dark brown skin, a heavy, blunt face, dark brown eyes, a shaved head, a faint scar, wearing a sweat-stained vest and rolled trousers, standing relaxed with one hand behind the head, the other arm loose, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, blunt scowl, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Olu, 41-year-old human man who looks his age, 6'1", average, fit, dark brown skin, a heavy, blunt face, dark brown eyes, a shaved head, a faint scar, fully nude, no clothing, standing with both hands behind the head, relaxed, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, gruff, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
+## S05-39 Lola (woman, 28) – S05 Molasse The Dutty Jug
+_barmaid of the Dutty Jug, sharp-tongued_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Lola, 28-year-old human woman, 5'9", sturdy, a B cup bust, ebony skin, a bright, daring face, black eyes, long black hair in a thick plait, wearing a tight vest top, a wrap skirt, bare shoulders, standing with the weight on one hip and the arms loose, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, confident, knowing smile, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Lola, 28-year-old human woman, 5'9", sturdy, a B cup bust, ebony skin, a bright, daring face, black eyes, long black hair in a thick plait, fully nude, no clothing, standing with the weight on one leg, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, confident, amused, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+## S05-40 Josephine (woman, 44) – S05 Molasse The Fan and Teacup
+_planter's wife of the Fan and Teacup, bored and lonely_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Josephine, 44-year-old human woman who looks her age, 5'0", full-figured, an E cup bust, skin that is pale, sun-pinked, a bold, striking face, black eyes, long braids tied back, a beauty spot, wearing a pale yellow tea dress with a low collar, standing with the weight on one leg, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, bright, daring smile, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Josephine, 44-year-old human woman who looks her age, 5'0", full-figured, an E cup bust, skin that is pale, sun-pinked, a bold, striking face, black eyes, long braids tied back, a beauty spot, fully nude, no clothing, standing with the weight on one leg and the head tilted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, bold, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+## S05-41 Susannah (woman, 52) – S05 Molasse The Fan and Teacup
+_planter's widow, rich and amused_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Susannah, 52-year-old human woman who looks her age, 5'4", full-figured, an F cup bust, skin that is pale, sun-pinked, a haughty, fine-boned face, brown eyes, greying long braids tied back, a cane-cut scar on the forearm, wearing a lilac silk dress with lace, gloves, a hat with a veil, standing with the head tilted and the hair falling over one shoulder, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, raised eyebrow, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Susannah, 52-year-old human woman who looks her age, 5'4", full-figured, an F cup bust, skin that is pale, sun-pinked, a haughty, fine-boned face, brown eyes, greying long braids tied back, a cane-cut scar on the forearm, fully nude, no clothing, standing with one hand sweeping the hair over one shoulder, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, cool, composed, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+## S05-42 Beaumont (man, 49) – S05 Molasse The Scrip Reckoners
+_debt clerk of the Scrip Reckoners_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Beaumont, 49-year-old human man who looks his age, 5'6", average, fit, skin that is fair, freckled, a stern, lined face, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, brown eyes, greying black twists, tied back, a faint scar, wearing a grey suit and sleeve garters, standing with the weight on one leg, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, tight, disapproving look, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Beaumont, 49-year-old human man who looks his age, 5'6", average, fit, skin that is fair, freckled, a stern, lined face, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, brown eyes, greying black twists, tied back, a faint scar, fully nude, no clothing, standing easy with the weight on one leg, the head tilted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, stern, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
+## S05-43 Efe (woman, 38) – S05 Molasse The Scrip Reckoners
+_debt collector, persistent_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Efe, 38-year-old human woman, 5'6", slim and curvy, an A cup bust, warm dark brown skin, a hard, handsome face, brown eyes, long braids tied back, calloused hands, wearing a plain dark dress, standing with the hands behind the back, leaning slightly forward, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, tight, disapproving look, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Efe, 38-year-old human woman, 5'6", slim and curvy, an A cup bust, warm dark brown skin, a hard, handsome face, brown eyes, long braids tied back, calloused hands, fully nude, no clothing, standing with the hands clasped behind the back and the chest lifted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, composed, cold, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+## S05-44 Ndeye (woman, 50) – S05 Molasse The Oleander Bower
+_madam of the Oleander Bower, soft-voiced_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Ndeye, 50-year-old human woman who looks her age, 5'4", soft and curvy, a B cup bust, deep brown skin, a sharp, smirking face, heavy powder caked into lines, sagging jowls and a hairy mole, plain unglamorous looks, blemished uneven skin, unflattering rough-hewn features, brown eyes, hair wrapped in a bright cloth, a cane-cut scar on the forearm, wearing a lace chemise and stockings, standing with the hands clasped in front and the head tilted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, narrowed, watchful look, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Ndeye, 50-year-old human woman who looks her age, 5'4", soft and curvy, a B cup bust, deep brown skin, a sharp, smirking face, heavy powder caked into lines, sagging jowls and a hairy mole, plain unglamorous looks, blemished uneven skin, unflattering rough-hewn features, brown eyes, hair wrapped in a bright cloth, a cane-cut scar on the forearm, fully nude, no clothing, standing with the hands behind the back, leaning slightly forward, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, knowing, amused, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+## S05-45 Gloria (woman, 27) – S05 Molasse The Oleander Bower
+_hostess of the Oleander Bower_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Gloria, 27-year-old human woman, 5'6", compact and curvy, a D cup bust, deep brown skin, a confident, laughing face, hazel eyes, black hair in tight curls, calloused hands, wearing a cotton slip, standing with the hands clasped behind the back and the chest lifted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, confident, knowing smile, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Gloria, 27-year-old human woman, 5'6", compact and curvy, a D cup bust, deep brown skin, a confident, laughing face, hazel eyes, black hair in tight curls, calloused hands, fully nude, no clothing, standing with the arms behind the back, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, confident, amused, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+## S05-46 Tidiane (man, 29) – S05 Molasse The Oleander Bower
+_host of the Oleander Bower, polished_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Tidiane, 29-year-old human man, 6'2", average, fit, ebony skin, a cheeky, freckled face, black eyes, a shaved head, calloused hands, wearing linen drawers, standing relaxed with one hand behind the head, the other arm loose, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, playful wink, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Tidiane, 29-year-old human man, 6'2", average, fit, ebony skin, a cheeky, freckled face, black eyes, a shaved head, calloused hands, fully nude, no clothing, standing with both hands behind the head, relaxed, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, playful, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
+## S05-47 Damilola (woman, 40) – S05 Molasse The Planters Curios
+_keeper of the Planters Curios, whispers prices_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Damilola, 40-year-old human woman who looks her age, 5'8", sturdy, a D cup bust, brown skin, a sharp, smirking face, a sharp pointed nose, thin lips and a large mole with hairs, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, unflattering rough-hewn features, dark brown eyes, long black hair in a thick plait, calloused hands, wearing a patterned wrap dress with beads, standing with one hand sweeping the hair over one shoulder, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, narrowed, watchful look, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Damilola, 40-year-old human woman who looks her age, 5'8", sturdy, a D cup bust, brown skin, a sharp, smirking face, a sharp pointed nose, thin lips and a large mole with hairs, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, unflattering rough-hewn features, dark brown eyes, long black hair in a thick plait, calloused hands, fully nude, no clothing, standing with the hair over one shoulder, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, knowing, amused, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+## S05-48 Lamine (man, 56) – S05 Molasse The Breadfruit Chalets
+_warden of the Breadfruit Chalets, deaf to complaints_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Lamine, 56-year-old human man who looks his age, an older man, 5'8", slim, brown skin, a drawn, weary face, hazel eyes, greying black hair, short and tightly curled, a cane-cut scar on the forearm, wearing a faded shirt and a wide straw hat, standing with both hands behind the head, relaxed, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, weary nod, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Lamine, 56-year-old human man who looks his age, an older man, 5'8", slim, brown skin, a drawn, weary face, hazel eyes, greying black hair, short and tightly curled, a cane-cut scar on the forearm, fully nude, no clothing, standing with one hand behind the head and the weight on one leg, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, tired, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
+## S05-W1 Kofi (man, 32) – S05 Molasse The Stalk Rows and The Cartwheel Furrow (pop-up)
+_field hand heading home_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Kofi, 32-year-old human man, 5'6", slim, golden brown skin, a quiet, thoughtful face, hazel eyes, a shaved head, wearing a torn shirt, rolled trousers and a straw hat, standing with the hands on the hips and the chin lifted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, quiet, steady look, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Kofi, 32-year-old human man, 5'6", slim, golden brown skin, a quiet, thoughtful face, hazel eyes, a shaved head, fully nude, no clothing, standing with the hands on the hips and the chest out, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, calm, steady, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
+## S05-W2 Rokhaya (woman, 36) – S05 Molasse The Stalk Rows and The Cartwheel Furrow (pop-up)
+_market woman with a basket on her head_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Rokhaya, 36-year-old human woman, 5'7", slender, a B cup bust, brown skin, a kind, creased face, hazel eyes, black hair in tight curls, a faint scar, wearing a bright wrap dress and a head wrap, standing with the hands lightly clasped in front and the shoulders back, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, warm smile, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Rokhaya, 36-year-old human woman, 5'7", slender, a B cup bust, brown skin, a kind, creased face, hazel eyes, black hair in tight curls, a faint scar, fully nude, no clothing, standing with the arms behind the back and the head tilted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, amused, easy, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+## S05-W3 Ousmane (man, 28) – S05 Molasse The Stillyard Umbra and The Bagasse Lee (pop-up)
+_worker slipping out behind the still_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Ousmane, 28-year-old human man, 5'7", tall and lean, dark mahogany skin, a craggy, honest face, hazel eyes, a shaved head, a faint scar, wearing a loosened shirt and bare feet, standing with the hands on the hips and the chin lifted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, grim smirk, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Ousmane, 28-year-old human man, 5'7", tall and lean, dark mahogany skin, a craggy, honest face, hazel eyes, a shaved head, a faint scar, fully nude, no clothing, standing with the hands on the hips and the chest out, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, blunt, plain, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
+## S05-W4 Bisi (woman, 25) – S05 Molasse The Stillyard Umbra and The Bagasse Lee (pop-up)
+_girl meeting someone in the mill's shadow_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Bisi, 25-year-old human woman, 5'1", soft and curvy, a D cup bust, ebony skin, a playful, dimpled face, brown eyes, cropped black curls, wearing a thin cotton slip, standing with the arms behind the back and the head tilted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, laughing smile, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Bisi, 25-year-old human woman, 5'1", soft and curvy, a D cup bust, ebony skin, a playful, dimpled face, brown eyes, cropped black curls, fully nude, no clothing, standing with the hands behind the back, leaning slightly forward, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, playful, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+## S05-W5 Ivan (man, 30) – S05 Molasse The Scrubbing Rocks (pop-up)
+_man scrubbing at the washing stones_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Ivan, 30-year-old human man, 6'3", average, fit, deep brown skin, a quiet, thoughtful face, black eyes, black hair, cropped close, wearing a plain shirt and trousers, standing with one hand behind the head and the weight on one leg, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, quiet, steady look, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Ivan, 30-year-old human man, 6'3", average, fit, deep brown skin, a quiet, thoughtful face, black eyes, black hair, cropped close, fully nude, no clothing, standing relaxed with one hand behind the head, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, calm, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
+**swim**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Ivan, 30-year-old human man, 6'3", average, fit, deep brown skin, a quiet, thoughtful face, black eyes, black hair, cropped close, wearing a towel low on the hips, standing with both hands behind the head, relaxed, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, quiet, steady look, plain pale aqua-tinted cream background (#DDF3F1)
+
+## S05-W6 Adaeze (woman, 34) – S05 Molasse The Scrubbing Rocks (pop-up)
+_woman bathing at the washing stones_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Adaeze, 34-year-old human woman, 5'4", sturdy, a B cup bust, dark mahogany skin, a kind, creased face, hazel eyes, long braids tied back, wearing a cotton wrap dress, standing with the arms behind the back and the head tilted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, friendly grin, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Adaeze, 34-year-old human woman, 5'4", sturdy, a B cup bust, dark mahogany skin, a kind, creased face, hazel eyes, long braids tied back, fully nude, no clothing, standing with the hands behind the back, leaning slightly forward, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, amused, easy, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+**swim**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Adaeze, 34-year-old human woman, 5'4", sturdy, a B cup bust, dark mahogany skin, a kind, creased face, hazel eyes, long braids tied back, wearing a plain one-piece swimsuit, standing with the weight on one leg, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, friendly grin, plain pale aqua-tinted cream background (#DDF3F1)
+
+## S05-W7 Desmond (man, 27) – S05 Molasse The Brook Eddy and The Sugarcane Basin (pop-up)
+_swimmer in the brook eddy_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Desmond, 27-year-old human man, 5'6", broad and strong, golden brown skin, a mischievous, bright face, brown eyes, short grey-flecked curls, wearing shorts and a bare chest, standing tall with the arms loose at the sides, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, cheeky grin, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Desmond, 27-year-old human man, 5'6", broad and strong, golden brown skin, a mischievous, bright face, brown eyes, short grey-flecked curls, fully nude, no clothing, standing with the arms at the sides, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, playful, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
+**swim**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Desmond, 27-year-old human man, 5'6", broad and strong, golden brown skin, a mischievous, bright face, brown eyes, short grey-flecked curls, wearing plain cotton drawers, standing with both hands behind the head, relaxed, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, cheeky grin, plain pale aqua-tinted cream background (#DDF3F1)
+
+## S05-W8 Nneka (woman, 24) – S05 Molasse The Brook Eddy and The Sugarcane Basin (pop-up)
+_girl bathing in the cane lagoon_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Nneka, 24-year-old human woman, 5'9", full-figured, a D cup bust, warm dark brown skin, a bright, daring face, amber eyes, long braids tied back, wearing a light cotton dress, hair wrapped, standing with a relaxed hip tilt, the arms loose at the sides, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, bright, daring smile, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Nneka, 24-year-old human woman, 5'9", full-figured, a D cup bust, warm dark brown skin, a bright, daring face, amber eyes, long braids tied back, fully nude, no clothing, standing with the weight on one hip and the arms loose, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, bold, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+**swim**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Nneka, 24-year-old human woman, 5'9", full-figured, a D cup bust, warm dark brown skin, a bright, daring face, amber eyes, long braids tied back, wearing a thin cotton slip, standing with the weight on one leg and the head tilted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, bright, daring smile, plain pale aqua-tinted cream background (#DDF3F1)

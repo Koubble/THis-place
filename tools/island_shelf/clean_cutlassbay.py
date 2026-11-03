@@ -1,0 +1,15 @@
+CLEAN = {
+"S07-5": dict(clothed_outfit="a patched shawl and layered skirts"),
+"S07-6": dict(clothed_outfit="a tidy grey dress with a violet sash"),
+"S07-9": dict(clothed_outfit="a dark-stained apron over a rumpled shirt"),
+"S07-12": dict(clothed_outfit="a torn bodice and wrap skirt, a bandana"),
+"S07-22": dict(clothed_outfit="a stained red coat and a powdered wig askew"),
+"S07-25": dict(clothed_outfit="a loud striped waistcoat, bare forearms"),
+"S07-30": dict(clothed_outfit="a canvas apron"),
+"S07-37": dict(clothed_outfit="a plain apron over a dress"),
+"S07-38": dict(clothed_outfit="a plain shirt and trousers"),
+"S07-39": dict(clothed_outfit="a wrap dress with bare shoulders"),
+"S07-W5": dict(clothed_outfit="a plain shirt and trousers"),
+"S07-W6": dict(clothed_outfit="a loosened shirt and a skirt"),
+"S07-3": dict(clothed_outfit="a knotted shirt and short breeches"),
+}

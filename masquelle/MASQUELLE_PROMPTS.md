@@ -1,0 +1,523 @@
+# Masquelle prompts
+
+## S06-1 Momolo (man, 45) – S06 Masquelle The Carnival Wicket
+_ticket master of the Carnival Wicket, grandly bored_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Momolo, 45-year-old human man who looks his age, 5'6", slim, pale olive skin, a haughty, fine-boned face, a long drooping nose, sallow skin and thin cracked lips, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, unflattering rough-hewn features, hazel eyes, hair streaked with grey, freckles, wearing a black cape and a half-mask of white porcelain, standing with the weight on one leg and the arms loose, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, cool, appraising look, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Momolo, 45-year-old human man who looks his age, 5'6", slim, pale olive skin, a haughty, fine-boned face, a long drooping nose, sallow skin and thin cracked lips, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, unflattering rough-hewn features, hazel eyes, hair streaked with grey, freckles, fully nude, no clothing, standing with the weight on one leg, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, cool, composed, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
+## S06-2 Franceschina (woman, 23) – S06 Masquelle The Carnival Wicket
+_mask girl at the gate, hands out masks with a wink_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Franceschina, 23-year-old human woman, 5'9", athletic, an A cup bust, brown skin, a playful, dimpled face, brown eyes, black hair in long curls, wearing a short red cloak over a lace corset, a feathered half-mask, standing with the hands lightly clasped in front and the shoulders back, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, laughing smile, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Franceschina, 23-year-old human woman, 5'9", athletic, an A cup bust, brown skin, a playful, dimpled face, brown eyes, black hair in long curls, fully nude, no clothing, standing with the hands behind the back, leaning slightly forward, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, playful, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+## S06-3 Mirandolina (woman, 54) – S06 Masquelle The Faceplate Forgers
+_master mask maker, hands stained with paint_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Mirandolina, 54-year-old human woman who looks her age, 5'7", compact and curvy, a C cup bust, fair skin, a calm, even face, deep lines, a hooked nose and a hairy wart on the chin, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, unflattering rough-hewn features, grey eyes, hair streaked with grey, wearing a patterned apron over a plain dress, a magnifying eyepiece pushed up, standing with one hand resting on the hip, the head tilted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, quiet, steady look, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Mirandolina, 54-year-old human woman who looks her age, 5'7", compact and curvy, a C cup bust, fair skin, a calm, even face, deep lines, a hooked nose and a hairy wart on the chin, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, unflattering rough-hewn features, grey eyes, hair streaked with grey, fully nude, no clothing, standing with one hand on the hip and the weight on one leg, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, calm, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+## S06-4 Isepo (man, 25) – S06 Masquelle The Faceplate Forgers
+_apprentice mask maker_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Isepo, 25-year-old human man, 5'6", lean and wiry, dark olive skin, a gentle, flushed face, green eyes, black hair, slicked back, a gold ear stud, wearing a paint-spattered smock, a paintbrush behind the ear, standing with one hand on the hip, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, shy smile, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Isepo, 25-year-old human man, 5'6", lean and wiry, dark olive skin, a gentle, flushed face, green eyes, black hair, slicked back, a gold ear stud, fully nude, no clothing, standing with one hand on the hip, the other arm loose, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, shy, flushed, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
+## S06-5 Donata (woman, 41) – S06 Masquelle The Motley Trunkroom
+_costumier of the Motley Trunkroom, knows every costume_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Donata, 41-year-old human woman who looks her age, 5'6", slender, a D cup bust, light brown skin, a bold, striking face, grey eyes, long dark hair, loose, wearing a harlequin-diamond waistcoat over a black dress, pins at the cuff, standing with a relaxed hip tilt, the arms loose at the sides, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, bold grin, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Donata, 41-year-old human woman who looks her age, 5'6", slender, a D cup bust, light brown skin, a bold, striking face, grey eyes, long dark hair, loose, fully nude, no clothing, standing with the weight on one hip and the arms loose, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, bold, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+## S06-6 Pierrot (man, 32) – S06 Masquelle The Motley Trunkroom
+_dresser, laces everyone up_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Pierrot, 32-year-old human man, 6'3", average, fit, pale olive skin, a mischievous, bright face, grey eyes, silver-streaked dark hair, a gold ear stud, wearing a striped waistcoat and shirtsleeves, a tape round the neck, standing relaxed with one hand behind the head, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, laughing smile, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Pierrot, 32-year-old human man, 6'3", average, fit, pale olive skin, a mischievous, bright face, grey eyes, silver-streaked dark hair, a gold ear stud, fully nude, no clothing, standing relaxed with one hand behind the head, the other arm loose, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, giggling, flushed, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
+## S06-7 Tartaglia (man, 50) – S06 Masquelle The Chandelier Cotillion
+_master of ceremonies, voice like a bell_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Tartaglia, 50-year-old human man who looks his age, 6'4", stocky, tanned skin, a proud, polished face, grey eyes, greying black hair, slicked back, wearing a gold-braided long coat and a plumed hat, a half-mask of gilt, standing with a relaxed hip tilt, the arms loose, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, haughty half-smile, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Tartaglia, 50-year-old human man who looks his age, 6'4", stocky, tanned skin, a proud, polished face, grey eyes, greying black hair, slicked back, fully nude, no clothing, standing with the weight on one leg and the arms loose, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, haughty, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
+## S06-8 Smeraldina (woman, 28) – S06 Masquelle The Chandelier Cotillion
+_ballroom dancer in a swirling gown_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Smeraldina, 28-year-old human woman, 5'5", athletic, an E cup bust, warm olive skin, a bold, striking face, green eyes, long dark hair, loose, a gold ear stud, wearing a crimson ball gown with a low back and a feathered full mask, standing with one hand sweeping the hair over one shoulder, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, confident, knowing smile, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Smeraldina, 28-year-old human woman, 5'5", athletic, an E cup bust, warm olive skin, a bold, striking face, green eyes, long dark hair, loose, a gold ear stud, fully nude, no clothing, standing with the hair over one shoulder, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, bold, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+## S06-9 Bortolo (man, 44) – S06 Masquelle The Chandelier Cotillion
+_orchestra leader of the ballroom_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Bortolo, 44-year-old human man who looks his age, 6'1", lean and wiry, light brown skin, a proud, polished face, amber eyes, silver-streaked dark hair, wearing a black tailcoat and a lace jabot, a silver half-mask, standing upright with the arms at the sides, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, raised eyebrow, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Bortolo, 44-year-old human man who looks his age, 6'1", lean and wiry, light brown skin, a proud, polished face, amber eyes, silver-streaked dark hair, fully nude, no clothing, standing with the arms relaxed at the sides and the chin lifted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, haughty, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
+## S06-10 Orsatto (man, 33) – S06 Masquelle The Gondoliers Mooring
+_gondolier, sings as he rows_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Orsatto, 33-year-old human man, 6'0", tall and lean, dark olive skin, a playful, dimpled face, brown eyes, chestnut hair, wavy, a beauty spot, wearing a striped shirt, black trousers and a red sash, a straw hat, standing with the weight on one leg and the arms loose, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, cheeky grin, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Orsatto, 33-year-old human man, 6'0", tall and lean, dark olive skin, a playful, dimpled face, brown eyes, chestnut hair, wavy, a beauty spot, fully nude, no clothing, standing with the weight on one leg, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, giggling, flushed, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
+## S06-11 Caterinetta (woman, 29) – S06 Masquelle The Gondoliers Mooring
+_gondolier who knows every canal secret_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Caterinetta, 29-year-old human woman, 5'0", soft and curvy, an E cup bust, golden tan skin, a sly, clever face, green eyes, dark hair in an elaborate pinned coil, a gold ear stud, wearing a striped boat shirt, tight black breeches and a red sash, standing with one hand lifted to the hair, the other arm loose, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, narrowed, watchful look, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Caterinetta, 29-year-old human woman, 5'0", soft and curvy, an E cup bust, golden tan skin, a sly, clever face, green eyes, dark hair in an elaborate pinned coil, a gold ear stud, fully nude, no clothing, standing with the head tilted and the hair falling over one shoulder, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, knowing, amused, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+## S06-12 Agostin (man, 52) – S06 Masquelle The Harlequin Proscenium
+_troupe leader of the Harlequin Proscenium_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Agostin, 52-year-old human man who looks his age, 6'0", lean and wiry, tanned skin, a bold, striking face, green eyes, hair streaked with grey, wearing a diamond-patterned motley costume and a black half-mask, standing with the hands on the hips and the chest out, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, bright, daring smile, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Agostin, 52-year-old human man who looks his age, 6'0", lean and wiry, tanned skin, a bold, striking face, green eyes, hair streaked with grey, fully nude, no clothing, standing square with the hands on the hips, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, bold, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
+## S06-13 Ginevra (woman, 31) – S06 Masquelle The Harlequin Proscenium
+_actress of the stage, plays every role_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Ginevra, 31-year-old human woman, 5'5", sturdy, a D cup bust, pale olive skin, a confident, laughing face, hazel eyes, long dark hair, loose, wearing a ruffled low-cut costume with a painted half-mask, standing with the hand on the hip and the chin lifted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, bold grin, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Ginevra, 31-year-old human woman, 5'5", sturdy, a D cup bust, pale olive skin, a confident, laughing face, hazel eyes, long dark hair, loose, fully nude, no clothing, standing with a hand on the hip and the shoulders back, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, confident, amused, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+## S06-14 Bianchina (woman, 48) – S06 Masquelle The Sugared Almond
+_owner of the Sugared Almond, gossip_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Bianchina, 48-year-old human woman who looks her age, 5'2", athletic, a C cup bust, warm olive skin, a kind, creased face, a double chin, a hairy mole and ruddy broken veins, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, unflattering rough-hewn features, green eyes, hair streaked with grey, freckles, wearing a pastel dress with a ruffled apron, standing with the head tilted and the hair falling over one shoulder, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, warm smile, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Bianchina, 48-year-old human woman who looks her age, 5'2", athletic, a C cup bust, warm olive skin, a kind, creased face, a double chin, a hairy mole and ruddy broken veins, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, unflattering rough-hewn features, green eyes, hair streaked with grey, freckles, fully nude, no clothing, standing with one hand sweeping the hair over one shoulder, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, amused, easy, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+## S06-15 Pulcinella (man, 46) – S06 Masquelle The Marzipan Confections
+_confectioner of the Marzipan Confections, plump and proud_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Pulcinella, 46-year-old human man who looks his age, 5'11", broad and strong, warm olive skin, a warm, open face, dark brown eyes, chestnut hair, wavy, wearing a white apron over a striped shirt, standing relaxed with one hand behind the head, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, kind, easy smile, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Pulcinella, 46-year-old human man who looks his age, 5'11", broad and strong, warm olive skin, a warm, open face, dark brown eyes, chestnut hair, wavy, fully nude, no clothing, standing relaxed with one hand behind the head, the other arm loose, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, amused, easy, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
+## S06-16 Domenego (man, 42) – S06 Masquelle The Masked Wagers
+_dealer at the Masked Wagers, never smiles_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Domenego, 42-year-old human man who looks his age, 6'2", average, fit, light brown skin, a stern, lined face, sallow hollow cheeks, a twitching eyelid and yellow teeth, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, unflattering rough-hewn features, hazel eyes, chestnut hair, wavy, wearing a black waistcoat and a leather half-mask, standing with a hand on the hip and the head tilted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, stern, level look, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Domenego, 42-year-old human man who looks his age, 6'2", average, fit, light brown skin, a stern, lined face, sallow hollow cheeks, a twitching eyelid and yellow teeth, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, unflattering rough-hewn features, hazel eyes, chestnut hair, wavy, fully nude, no clothing, standing with one hand on the hip and the weight on one leg, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, composed, cold, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
+## S06-17 Colombina (woman, 45) – S06 Masquelle The Masked Wagers
+_high-roller at the Masked Wagers, reckless_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Colombina, 45-year-old human woman who looks her age, 5'2", curvy, an F cup bust, golden tan skin, a confident, laughing face, green eyes, auburn hair in ringlets, freckles, wearing a gold brocade gown and a jewelled domino mask, standing with the arms behind the back, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, bright, daring smile, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Colombina, 45-year-old human woman who looks her age, 5'2", curvy, an F cup bust, golden tan skin, a confident, laughing face, green eyes, auburn hair in ringlets, freckles, fully nude, no clothing, standing with the arms behind the back and the head tilted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, bold, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+## S06-18 Truffaldino (man, 49) – S06 Masquelle The Rocket Foundry
+_pyrotechnist at the Rocket Foundry, singed eyebrows_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Truffaldino, 49-year-old human man who looks his age, 5'9", slim, light brown skin, a gruff, battered face, singed patchy eyebrows, a scarred pitted face and missing teeth, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, unflattering rough-hewn features, grey eyes, greying chestnut hair, wavy, a beauty spot, wearing a scorched leather apron and goggles pushed up, standing upright with the arms at the sides, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, grim smirk, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Truffaldino, 49-year-old human man who looks his age, 5'9", slim, light brown skin, a gruff, battered face, singed patchy eyebrows, a scarred pitted face and missing teeth, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, unflattering rough-hewn features, grey eyes, greying chestnut hair, wavy, a beauty spot, fully nude, no clothing, standing with the arms relaxed at the sides and the chin lifted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, blunt, plain, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
+## S06-19 Maddalena (woman, 57) – S06 Masquelle The Tarot Alcoves
+_seer of the Tarot Alcoves, sees too much_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Maddalena, 57-year-old human woman who looks her age, an older woman, 5'0", slim and curvy, a B cup bust, dark olive skin, a calm, even face, a long crooked nose, a large hairy wart and sunken cheeks, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, unflattering rough-hewn features, dark brown eyes, honey-blonde hair, braided up, glitter on the cheekbone, wearing a layered violet shawl and a veiled half-mask, rings, standing with one hand resting on the hip, the head tilted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, quiet, steady look, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Maddalena, 57-year-old human woman who looks her age, an older woman, 5'0", slim and curvy, a B cup bust, dark olive skin, a calm, even face, a long crooked nose, a large hairy wart and sunken cheeks, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, unflattering rough-hewn features, dark brown eyes, honey-blonde hair, braided up, glitter on the cheekbone, fully nude, no clothing, standing with one hand on the hip and the weight on one leg, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, calm, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+## S06-20 Pantalone (man, 26) – S06 Masquelle The Tarot Alcoves
+_seer's apprentice_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Pantalone, 26-year-old human man, 5'8", tall and lean, pale olive skin, a shy, soft face, grey eyes, black hair, slicked back, glitter on the cheekbone, wearing a dark velvet jacket and a plain half-mask, standing relaxed with one hand behind the head, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, shy smile, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Pantalone, 26-year-old human man, 5'8", tall and lean, pale olive skin, a shy, soft face, grey eyes, black hair, slicked back, glitter on the cheekbone, fully nude, no clothing, standing relaxed with one hand behind the head, the other arm loose, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, shy, flushed, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
+## S06-21 Isotta (woman, 51) – S06 Masquelle The Festoon Lodgings
+_hotelier of the Festoon Lodgings, flustered and warm_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Isotta, 51-year-old human woman who looks her age, 5'7", slim, a C cup bust, golden tan skin, a warm, open face, a flushed sweating face, puffy cheeks and a hairy mole, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, unflattering rough-hewn features, amber eyes, hair streaked with grey, glitter on the cheekbone, wearing a bright floral dress and a satin half-mask, standing with the hands clasped in front and the head tilted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, friendly grin, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Isotta, 51-year-old human woman who looks her age, 5'7", slim, a C cup bust, golden tan skin, a warm, open face, a flushed sweating face, puffy cheeks and a hairy mole, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, unflattering rough-hewn features, amber eyes, hair streaked with grey, glitter on the cheekbone, fully nude, no clothing, standing with the hands clasped behind the back and the chest lifted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, warm, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+## S06-22 Fantin (man, 55) – S06 Masquelle The Bareface Constables
+_captain of the unmasked watch, only face you can see_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Fantin, 55-year-old human man who looks his age, an older man, 6'2", tall and lean, dark olive skin, a hard, handsome face, hazel eyes, silver-streaked dark hair, freckles, wearing a blue coat with silver buttons, a bare face and a stern look, standing relaxed with one hand behind the head, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, cold, measuring stare, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Fantin, 55-year-old human man who looks his age, an older man, 6'2", tall and lean, dark olive skin, a hard, handsome face, hazel eyes, silver-streaked dark hair, freckles, fully nude, no clothing, standing relaxed with one hand behind the head, the other arm loose, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, composed, cold, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
+## S06-23 Pierina (woman, 34) – S06 Masquelle The Bareface Constables
+_constable of the watch_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Pierina, 34-year-old human woman, 5'7", full-figured, a C cup bust, pale olive skin, a calm, even face, amber eyes, auburn hair in ringlets, a gold ear stud, wearing a blue short coat over a skirt, a bare face, a whistle, standing with a relaxed hip tilt, the arms loose at the sides, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, calm nod, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Pierina, 34-year-old human woman, 5'7", full-figured, a C cup bust, pale olive skin, a calm, even face, amber eyes, auburn hair in ringlets, a gold ear stud, fully nude, no clothing, standing with the weight on one hip and the arms loose, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, calm, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+## S06-24 Zuane (man, 47) – S06 Masquelle The Prosecco Cellars
+_cellarman of the Prosecco Cellars, red-nosed_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Zuane, 47-year-old human man who looks his age, 6'4", tall and lean, brown skin, a friendly, round face, a purple drinker's nose, bloodshot eyes and a double chin, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, unflattering rough-hewn features, green eyes, hair streaked with grey, glitter on the cheekbone, wearing a leather apron over a rough shirt, standing relaxed with one hand behind the head, the other arm loose, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, kind, easy smile, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Zuane, 47-year-old human man who looks his age, 6'4", tall and lean, brown skin, a friendly, round face, a purple drinker's nose, bloodshot eyes and a double chin, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, unflattering rough-hewn features, green eyes, hair streaked with grey, glitter on the cheekbone, fully nude, no clothing, standing with both hands behind the head, relaxed, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, warm, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
+## S06-25 Domitilla (woman, 30) – S06 Masquelle The Prosecco Cellars
+_tasting hostess of the cellars, pours generously_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Domitilla, 30-year-old human woman, 5'7", compact and curvy, an E cup bust, golden tan skin, a bright, daring face, amber eyes, honey-blonde hair, braided up, wearing a low-cut peasant blouse and laced bodice, a feathered half-mask, standing with the weight on one hip and the arms loose, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, bold grin, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Domitilla, 30-year-old human woman, 5'7", compact and curvy, an E cup bust, golden tan skin, a bright, daring face, amber eyes, honey-blonde hair, braided up, fully nude, no clothing, standing with the weight on one leg, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, confident, amused, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+## S06-26 Girolamo (man, 53) – S06 Masquelle The Murano Furnace
+_glassblower of the Murano Furnace_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Girolamo, 53-year-old human man who looks his age, 5'6", broad and strong, tanned skin, a gruff, battered face, a battered lumpy face, reddened skin and a squashed nose, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, unflattering rough-hewn features, dark brown eyes, black hair, tied in a queue, a gold ear stud, wearing a sweat-shirt and a heavy leather apron, goggles, standing easy with the weight on one leg, the head tilted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, blunt scowl, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Girolamo, 53-year-old human man who looks his age, 5'6", broad and strong, tanned skin, a gruff, battered face, a battered lumpy face, reddened skin and a squashed nose, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, unflattering rough-hewn features, dark brown eyes, black hair, tied in a queue, a gold ear stud, fully nude, no clothing, standing with a relaxed hip tilt, the arms loose, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, gruff, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
+## S06-27 Fulgenzio (man, 27) – S06 Masquelle The Buffoons Sward
+_mummer of the Buffoons Sward, tumbles for coins_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Fulgenzio, 27-year-old human man, 5'10", solid and thick, tanned skin, a playful, dimpled face, dark brown eyes, silver-streaked dark hair, glitter on the cheekbone, wearing a patchwork costume and a painted half-mask, standing with the hands on the hips and the chest out, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, laughing smile, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Fulgenzio, 27-year-old human man, 5'10", solid and thick, tanned skin, a playful, dimpled face, dark brown eyes, silver-streaked dark hair, glitter on the cheekbone, fully nude, no clothing, standing square with the hands on the hips, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, playful, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
+## S06-28 Agnesina (woman, 25) – S06 Masquelle The Buffoons Sward
+_jester girl of the green, quick with a joke_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Agnesina, 25-year-old human woman, 5'6", sturdy, a C cup bust, fair skin, a playful, dimpled face, brown eyes, honey-blonde hair, braided up, wearing a belled cap and a short diamond-patterned dress, standing with the head tilted and the hair falling over one shoulder, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, playful wink, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Agnesina, 25-year-old human woman, 5'6", sturdy, a C cup bust, fair skin, a playful, dimpled face, brown eyes, honey-blonde hair, braided up, fully nude, no clothing, standing with one hand sweeping the hair over one shoulder, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, giggling, flushed, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+## S06-29 Gelsomina (woman, 38) – S06 Masquelle The Doffing Vestry
+_attendant of the Doffing Vestry, discreet_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Gelsomina, 38-year-old human woman, 5'6", curvy, a C cup bust, tanned skin, a sly, clever face, brown eyes, dark hair in an elaborate pinned coil, a gold ear stud, wearing a thin linen shift and stockings, standing with the hair over one shoulder, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, narrowed, watchful look, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Gelsomina, 38-year-old human woman, 5'6", curvy, a C cup bust, tanned skin, a sly, clever face, brown eyes, dark hair in an elaborate pinned coil, a gold ear stud, fully nude, no clothing, standing with one hand lifted to the hair, the other arm loose, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, sly, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+## S06-30 Bepi (man, 30) – S06 Masquelle The Doffing Vestry
+_attendant of the Doffing Vestry_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Bepi, 30-year-old human man, 6'2", stocky, golden tan skin, a quiet, thoughtful face, brown eyes, black hair, slicked back, a gold ear stud, wearing linen drawers, standing square with the hands on the hips, the shoulders back, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, patient half-smile, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Bepi, 30-year-old human man, 6'2", stocky, golden tan skin, a quiet, thoughtful face, brown eyes, black hair, slicked back, a gold ear stud, fully nude, no clothing, standing with the hands on the hips and the chin lifted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, calm, steady, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
+## S06-31 Marcantonio (man, 43) – S06 Masquelle The Quadrille
+_host of the Quadrille, smooth and sure_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Marcantonio, 43-year-old human man who looks his age, 6'1", compact and tough, golden tan skin, a quick, watchful face, grey eyes, dark curls, freckles, wearing snug white drawers, standing with the arms folded over the chest, the shoulders back, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, narrowed, watchful look, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Marcantonio, 43-year-old human man who looks his age, 6'1", compact and tough, golden tan skin, a quick, watchful face, grey eyes, dark curls, freckles, fully nude, no clothing, standing with the arms crossed over the chest, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, knowing, amused, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
+## S06-32 Aloisia (woman, 34) – S06 Masquelle The Quadrille
+_hostess of the Quadrille_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Aloisia, 34-year-old human woman, 5'7", slender, a D cup bust, golden tan skin, a bold, striking face, brown eyes, honey-blonde hair, braided up, a gold ear stud, wearing a thin linen shift and stockings, standing with one hand lifted to the hair, the other arm loose, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, bright, daring smile, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Aloisia, 34-year-old human woman, 5'7", slender, a D cup bust, golden tan skin, a bold, striking face, brown eyes, honey-blonde hair, braided up, a gold ear stud, fully nude, no clothing, standing with the head tilted and the hair falling over one shoulder, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, confident, amused, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+## S06-33 Anzolo (man, 37) – S06 Masquelle The Felze
+_boatman of the Felze, rows without looking_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Anzolo, 37-year-old human man, 5'6", stocky, brown skin, a sly, clever face, hazel eyes, brown hair, short, wearing plain linen drawers, standing with the arms folded over the chest, the shoulders back, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, narrowed, watchful look, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Anzolo, 37-year-old human man, 5'6", stocky, brown skin, a sly, clever face, hazel eyes, brown hair, short, fully nude, no clothing, standing with the arms crossed over the chest, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, knowing, amused, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
+## S06-34 Imperia (woman, 26) – S06 Masquelle The Felze
+_hostess of the Felze cabins_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Imperia, 26-year-old human woman, 5'3", curvy, a D cup bust, light brown skin, a mischievous, bright face, grey eyes, long dark hair, loose, glitter on the cheekbone, wearing a cotton slip, standing with the hair over one shoulder, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, cheeky grin, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Imperia, 26-year-old human woman, 5'3", curvy, a D cup bust, light brown skin, a mischievous, bright face, grey eyes, long dark hair, loose, glitter on the cheekbone, fully nude, no clothing, standing with one hand lifted to the hair, the other arm loose, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, playful, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+## S06-35 Lucietta (woman, 49) – S06 Masquelle The Grille Confessionals
+_keeper of the Grille Confessionals, never speaks_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Lucietta, 49-year-old human woman who looks her age, 5'3", tall and slim, a D cup bust, golden tan skin, a calm, even face, a gaunt sallow face, a hooked nose and thin colourless lips, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, unflattering rough-hewn features, hazel eyes, greying black hair in long curls, wearing a plum corset set with stockings, standing with a hand on the hip and the shoulders back, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, patient half-smile, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Lucietta, 49-year-old human woman who looks her age, 5'3", tall and slim, a D cup bust, golden tan skin, a calm, even face, a gaunt sallow face, a hooked nose and thin colourless lips, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, unflattering rough-hewn features, hazel eyes, greying black hair in long curls, fully nude, no clothing, standing with one hand resting on the hip, the head tilted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, calm, steady, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+## S06-36 Renier (man, 35) – S06 Masquelle The Dare Peristyle
+_master of dares at the Dare Peristyle_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Renier, 35-year-old human man, 6'0", compact and tough, pale olive skin, a confident, laughing face, hazel eyes, dark curls, freckles, wearing snug white drawers, standing relaxed with one hand behind the head, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, bright, daring smile, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Renier, 35-year-old human man, 6'0", compact and tough, pale olive skin, a confident, laughing face, hazel eyes, dark curls, freckles, fully nude, no clothing, standing relaxed with one hand behind the head, the other arm loose, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, bold, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
+## S06-37 Vienna (woman, 24) – S06 Masquelle The Dare Peristyle
+_daring girl of the Dare Peristyle_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Vienna, 24-year-old human woman, 5'6", tall and slim, a D cup bust, fair skin, a mischievous, bright face, green eyes, auburn hair in ringlets, freckles, wearing a cotton slip, standing with the hands lightly clasped in front and the shoulders back, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, laughing smile, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Vienna, 24-year-old human woman, 5'6", tall and slim, a D cup bust, fair skin, a mischievous, bright face, green eyes, auburn hair in ringlets, freckles, fully nude, no clothing, standing with the hands clasped behind the back and the chest lifted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, playful, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+## S06-38 Giacomina (woman, 42) – S06 Masquelle The Pseudonym Trinkets
+_shopkeeper of the Pseudonym Trinkets, teasing_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Giacomina, 42-year-old human woman who looks her age, 5'4", sturdy, a C cup bust, brown skin, a quick, watchful face, amber eyes, auburn hair in ringlets, freckles, wearing a deep purple corset dress and a lace half-mask, standing with one hand resting on the hip, the head tilted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, narrowed, watchful look, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Giacomina, 42-year-old human woman who looks her age, 5'4", sturdy, a C cup bust, brown skin, a quick, watchful face, amber eyes, auburn hair in ringlets, freckles, fully nude, no clothing, standing with one hand on the hip and the weight on one leg, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, knowing, amused, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+## S06-W1 Brighella (man, 36) – S06 Masquelle The Confetti Cascade and The Lampion Footbridge (pop-up)
+_reveller in a long cloak_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Brighella, 36-year-old human man, 6'1", tall and lean, brown skin, a playful, dimpled face, amber eyes, brown hair, short, wearing a hooded cloak over a fine coat, a white half-mask, standing with the arms at the sides, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, laughing smile, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Brighella, 36-year-old human man, 6'1", tall and lean, brown skin, a playful, dimpled face, amber eyes, brown hair, short, fully nude, no clothing, standing upright with the arms at the sides, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, playful, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
+## S06-W2 Fiammetta (woman, 32) – S06 Masquelle The Confetti Cascade and The Lampion Footbridge (pop-up)
+_masked lady strolling_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Fiammetta, 32-year-old human woman, 5'4", tall and slim, a C cup bust, fair skin, a bright, daring face, brown eyes, honey-blonde hair, braided up, wearing a silk gown with a feathered full mask, standing with one hand lifted to the collarbone and the other arm loose, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, bold grin, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Fiammetta, 32-year-old human woman, 5'4", tall and slim, a C cup bust, fair skin, a bright, daring face, brown eyes, honey-blonde hair, braided up, fully nude, no clothing, standing with the fingertips resting at the collarbone, the head tilted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, confident, amused, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+## S06-W3 Toni (man, 31) – S06 Masquelle The Squeezed Calle and The Wings Behind (pop-up)
+_masked man slipping down a side calle_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Toni, 31-year-old human man, 5'6", spare and tall, warm olive skin, a playful, dimpled face, brown eyes, chestnut hair, wavy, wearing a half-open shirt and a black domino mask, standing with the arms crossed over the chest, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, cheeky grin, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Toni, 31-year-old human man, 5'6", spare and tall, warm olive skin, a playful, dimpled face, brown eyes, chestnut hair, wavy, fully nude, no clothing, standing with the arms folded across the chest and the weight on one leg, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, giggling, flushed, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
+## S06-W4 Fosca (woman, 27) – S06 Masquelle The Squeezed Calle and The Wings Behind (pop-up)
+_masked woman behind the stage_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Fosca, 27-year-old human woman, 5'0", sturdy, a C cup bust, warm olive skin, a confident, laughing face, amber eyes, long dark hair, loose, wearing a loosened corset dress and a lace half-mask, standing with the weight on one hip and the arms loose, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, bold grin, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Fosca, 27-year-old human woman, 5'0", sturdy, a C cup bust, warm olive skin, a confident, laughing face, amber eyes, long dark hair, loose, fully nude, no clothing, standing with the weight on one leg, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, bold, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+## S06-W5 Aldobrando (man, 38) – S06 Masquelle The Soaking Felucca (pop-up)
+_man bathing on the lido barge_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Aldobrando, 38-year-old human man, 5'8", average, fit, dark olive skin, a patient, composed face, dark brown eyes, brown hair, short, wearing a half-open shirt and trousers, a half-mask pushed up, standing square with the hands on the hips, the shoulders back, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, calm nod, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Aldobrando, 38-year-old human man, 5'8", average, fit, dark olive skin, a patient, composed face, dark brown eyes, brown hair, short, fully nude, no clothing, standing with the hands on the hips and the chin lifted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, calm, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
+**swim**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Aldobrando, 38-year-old human man, 5'8", average, fit, dark olive skin, a patient, composed face, dark brown eyes, brown hair, short, wearing a short wrap-cloth, standing relaxed with one hand behind the head, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, calm nod, plain pale aqua-tinted cream background (#DDF3F1)
+
+## S06-W6 Sabbadina (woman, 30) – S06 Masquelle The Soaking Felucca (pop-up)
+_woman bathing on the lido barge_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Sabbadina, 30-year-old human woman, 5'2", tall and slim, a B cup bust, golden tan skin, a bold, striking face, dark brown eyes, black hair in long curls, wearing a simple dress and a loosened half-mask, standing with the hands clasped in front, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, confident, knowing smile, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Sabbadina, 30-year-old human woman, 5'2", tall and slim, a B cup bust, golden tan skin, a bold, striking face, dark brown eyes, black hair in long curls, fully nude, no clothing, standing with the arms behind the back, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, bold, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+**swim**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Sabbadina, 30-year-old human woman, 5'2", tall and slim, a B cup bust, golden tan skin, a bold, striking face, dark brown eyes, black hair in long curls, wearing a thin cotton slip, standing with a relaxed hip tilt, the arms loose at the sides, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, confident, knowing smile, plain pale aqua-tinted cream background (#DDF3F1)
+
+## S06-W7 Ettor (man, 26) – S06 Masquelle The Sluice Dropoff (pop-up)
+_masked swimmer at the water gate_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Ettor, 26-year-old human man, 6'2", slim, warm olive skin, a playful, dimpled face, brown eyes, silver-streaked dark hair, wearing shorts and a bare chest, a half-mask, standing upright with the arms at the sides, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, cheeky grin, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Ettor, 26-year-old human man, 6'2", slim, warm olive skin, a playful, dimpled face, brown eyes, silver-streaked dark hair, fully nude, no clothing, standing with the arms relaxed at the sides and the chin lifted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, giggling, flushed, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
+**swim**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Ettor, 26-year-old human man, 6'2", slim, warm olive skin, a playful, dimpled face, brown eyes, silver-streaked dark hair, wearing a towel low on the hips, standing relaxed with one hand behind the head, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, cheeky grin, plain pale aqua-tinted cream background (#DDF3F1)
+
+## S06-W8 Zanetta (woman, 25) – S06 Masquelle The Sluice Dropoff (pop-up)
+_girl swimming off the water stairs_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Zanetta, 25-year-old human woman, 5'5", soft and curvy, a B cup bust, fair skin, a cheeky, freckled face, grey eyes, long dark hair, loose, a beauty spot, wearing a thin shift and a sheer cloak, a small mask, standing with the hair over one shoulder, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, laughing smile, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Zanetta, 25-year-old human woman, 5'5", soft and curvy, a B cup bust, fair skin, a cheeky, freckled face, grey eyes, long dark hair, loose, a beauty spot, fully nude, no clothing, standing with one hand lifted to the hair, the other arm loose, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, giggling, flushed, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+**swim**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Zanetta, 25-year-old human woman, 5'5", soft and curvy, a B cup bust, fair skin, a cheeky, freckled face, grey eyes, long dark hair, loose, a beauty spot, wearing a lace chemise and stockings, standing with one hand sweeping the hair over one shoulder, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, laughing smile, plain pale aqua-tinted cream background (#DDF3F1)
