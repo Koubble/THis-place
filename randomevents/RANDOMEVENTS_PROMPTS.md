@@ -1,4 +1,4 @@
-# Random People prompts
+# Randomevents prompts
 
 ## EV-1 Mudge (man, 40) – EV Random People Menacing
 _the ship ogre, a feral stowaway (ships first, but anywhere)_

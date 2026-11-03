@@ -77,7 +77,7 @@ def scalekin(r,sex):
 def ghost(r,sex,age):
     hair=r.choice(["wet grey hair, trailing","wet dark hair, trailing","wet fair hair, trailing","pale hair in a wet braid","wet sandy hair, trailing"])
     h,b,bs=human_phys(r,sex,age)
-    return "ghost folk",h,b,bs,"pale, translucent and silvery",hair,"hollow pale","","a faint pale glow"
+    return "human ghost",h,b,bs,"pale and faintly translucent",hair,"hollow pale","","a faint pale glow"
 SPEC={"cat":cat,"stone":stone,"ogre":ogre,"amazon":amazon,"ember":ember,"scale":scalekin}
 def build(prefix,label,ships,out,idprefix):
     rows=[];i=0
@@ -105,7 +105,9 @@ def build(prefix,label,ships,out,idprefix):
             tone=ce.split(",")[0].split()[0]
             ne=f"{tone}, unembarrassed"
             pose=(M if sex=="M" else W)[(i+k)%6]
-            rows.append([f"{idprefix}-{i}",pname,f"{idprefix} {label} {name}",sh["role"] if isinstance(sh["role"],str) else sh["role"][k],sex,age,ppl,h,b,bs,skin,hair,eyes,face,mk,outfit,ce,pose,ne,"","2: clothed, nude"])
+            third=""
+            if sh.get("third"): third=sh["third"][0 if sex=="M" else 1]
+            rows.append([f"{idprefix}-{i}",pname,f"{idprefix} {label} {name}",sh["role"] if isinstance(sh["role"],str) else sh["role"][k],sex,age,ppl,h,b,bs,skin,hair,eyes,face,mk,outfit,ce,pose,ne,third,"2: clothed, nude"])
     with open(out,"w",newline="",encoding="utf-8") as f:
         w=csv.writer(f);w.writerow(HDR);w.writerows(rows)
     return rows

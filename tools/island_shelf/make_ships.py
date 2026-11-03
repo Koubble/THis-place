@@ -2,7 +2,7 @@ import csv, sys
 # name, sex, age, ship, role, people, height, build, bust/scale, skin, hair, eyes, face, marks, outfit, clothed_expr, nude_expr
 H="human"
 FR="frost folk"
-GH="ghost folk"
+GH="human ghost"
 S=[
 # Ice Tug
 ("Haldor","M",50,"The Ice Tug","tug skipper hauling harbour ice, bickers with his wife",H,"5'11\"","stocky and thick","Scale 3","wind-reddened","grey hair and a frost-rimed beard","grey-blue","a creased, scolding face","a red nose and frosted whiskers","a thick oilskin coat over a wool jersey, a wool cap and heavy boots","gruff, scolding","gruff, unembarrassed"),

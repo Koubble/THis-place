@@ -4,6 +4,7 @@ import importlib
 from species import SPECIES
 from ugly_overrides import UGLY
 from beauty_overrides import BEAUTY
+from renames import RENAMES
 
 CSV_PATH, OUT_JSON = sys.argv[1], sys.argv[2]
 PH = importlib.import_module(sys.argv[3] if len(sys.argv) > 3 else 'poses_hearthstone')
@@ -29,6 +30,7 @@ def parse_people(raw):
     return base, SPECIES.get(base, ("", None))[0], extra
 
 
+FORCE_THIRD = re.compile(r"The Pearl-Diver Dinghy|The Drowned Pearl-Divers|The Regatta Skiff")  # ships where swimwear fits
 ANAT_OVERRIDE = {"EV-2": "huge penis"}  # Gorrow: biggest size in the game, the top of the scale, known for it
 
 
@@ -165,7 +167,7 @@ def core(r):
     ftext = r["face"] + " " + r["marks"] + " " + r["skin"]
     if r["id"] in BEAUTY:
         parts.append("exceptionally beautiful, strikingly attractive, flawless radiant skin, perfectly balanced symmetrical features, luminous eyes, full lips" if woman else "exceptionally handsome, strikingly attractive, flawless skin, sculpted jaw and cheekbones, magnetic eyes")
-    elif people == "ghost folk":
+    elif people in ("ghost folk", "human ghost"):
         pass
     elif r["id"] in UGLY or (UNGLAM.search(ftext) and not PRETTYRE.search(r["face"])):
         if re.search(r"powder|painted|rouge", ftext, re.I):
@@ -257,6 +259,7 @@ people = []
 bad_obj = re.compile(r"\b(holding|hold|towel|tray|fan|spoon|rope|crate|book|ledger|stool|chair|wall|table|counter|bed|door|bottle|basket|pin cushion|tape|strap)\b", re.I)
 for r in rows:
     r = {k: (v or "").strip() for k, v in r.items()}
+    r["name"] = RENAMES.get(r["id"], r["name"])
     r = apply_ugly(r)
     cb = core(r)
     woman = r["sex"] == "F"
@@ -284,7 +287,7 @@ for r in rows:
     if True:  # ghosts get a studio prompt too (user, Nov 2026)
       pr["nude"] = (f"{STYLE}, one {'woman' if woman else 'man'}, {cb}, fully nude, no clothing, {nu_pose}, {FRAME}, "
                   f"soft even light, {nu_expr}, {BG['nude']}, {anat(r)}")
-    ev_third = pid.startswith("EV-") and r["prompts_needed"].strip()[:1] == "3"
+    ev_third = (pid.startswith("EV-") and r["prompts_needed"].strip()[:1] == "3") or bool(FORCE_THIRD.search(r["where"]))
     if r["third_image_swim_or_underwear"] and (wants_third(r) or ev_third):
         sw_expr = cl_expr
         pr["swim"] = (f"{STYLE}, one {'woman' if woman else 'man'}, {cb}, wearing {tidy_third(r['third_image_swim_or_underwear'])}, "

@@ -35,7 +35,7 @@ WEST=[
 ]
 # fix: gertie/mara/nab om selection uses k index; handled per sex lists
 SOUTH=[
- dict(name="The Pearl-Diver Dinghy",role="Nacre Atoll pearl diver, lean and tanned",skin=["sun-tanned golden brown","warm brown"],om=["a short sarong and a bare chest, a shell necklace"],of=["a wrap top and short sarong, a shell necklace"],
+ dict(name="The Pearl-Diver Dinghy",third=("plain swim trunks","a plain one-piece swimsuit"),role="Nacre Atoll pearl diver, lean and tanned",skin=["sun-tanned golden brown","warm brown"],om=["a short sarong and a bare chest, a shell necklace"],of=["a wrap top and short sarong, a shell necklace"],
   crew=[("Hina","F",30,"a calm, tanned face","calm smile"),("Tai","M",24,"a bright, tanned face","easy grin")]),
  dict(name="The Rum Runner Skiff",role="Molasse rum seller, mildly drunk",skin=["ruddy brown","warm dark brown"],om=["a loose open shirt and rolled trousers, a straw hat"],of=["a faded wrap dress and a headscarf"],
   crew=[("Percival","M",40,"a flushed, grumbling face","grumbling grin"),("Dulcie","F",35,"a flushed, giggling face","tipsy grin")]),
@@ -65,11 +65,11 @@ SOUTH=[
   crew=[("Augustus","M",55,"a florid, entitled face","bossy look"),("Harriet","F",44,"a stern, entitled face","bossy glare"),("Thaddeus","M",38,"a smug, flushed face","lewd smirk"),("Lionel","M",31,"a smirking, flushed face","lewd grin"),("Beatrice","F",29,"a bold, flushed face","lewd smile"),("Clementine","F",26,"a pert, flushed face","lewd wink")]),
  dict(name="The Old Purity Ship",role="ghost sailor of an old all-human ship, proud and cold",kind=G,om=["a tattered captain's coat with tarnished buttons", '', "a tattered black preacher's coat and white collar", "a sodden sailor's jumper", '', ''],of=['', "a tattered officer's coat over a long skirt", '', '', "a sodden sailor's jumper and trousers", 'a sodden apron over a dark dress'],
   crew=[("Josiah","M",55,"a proud, stern, pale face","proud stare"),("Constance","F",42,"a cold, severe, pale face","cold stare"),("Obadiah","M",48,"a gaunt, righteous, pale face","righteous look"),("Silas","M",30,"a pale, haughty face","haughty look"),("Hester","F",26,"a pale, sneering face","sneering look"),("Thomasine","F",52,"a stern, pale face","cold stare")]),
- dict(name="The Drowned Pearl-Divers",role="ghost pearl diver, sad and gentle",kind=G,om=["a sodden wrap and a shell necklace"],of=["a sodden wrap dress and a shell necklace"],
+ dict(name="The Drowned Pearl-Divers",third=("plain swim trunks","a plain one-piece swimsuit"),role="ghost pearl diver, sad and gentle",kind=G,om=["a sodden wrap and a shell necklace"],of=["a sodden wrap dress and a shell necklace"],
   crew=[("Nainoa","M",40,"a sad, gentle, pale face","gentle look"),("Keanu","M",25,"a sad, pale face","gentle look"),("Leilani","F",36,"a sad, gentle, pale face","gentle look"),("Moana","F",23,"a sad, soft, pale face","gentle look")]),
 ]
 EAST=[
- dict(name="The Regatta Skiff",role="racing sailor in good kit, boastful",skin=["tanned","sun-kissed"],om=["a crisp white racing jersey and shorts, a cap"],of=["a crisp white racing top and short trousers, a cap"],
+ dict(name="The Regatta Skiff",third=("plain swim trunks","a plain one-piece swimsuit"),role="racing sailor in good kit, boastful",skin=["tanned","sun-kissed"],om=["a crisp white racing jersey and shorts, a cap"],of=["a crisp white racing top and short trousers, a cap"],
   crew=[("Julian","M",27,"a glossy, confident face","boastful grin"),("Camille","F",25,"a glossy, bright face","boastful grin")]),
  dict(name="The Admiralty Launch",role="Brinewatch petty officer, strict",skin=["pale, weathered","fair"],om=["a navy petty officer's coat with brass buttons and a cap"],of=["a navy petty officer's coat with brass buttons and a cap"],
   crew=[("Matvei","M",38,"a strict, tidy face","strict look"),("Zinaida","F",33,"a strict, handsome face","strict look")]),

@@ -27,7 +27,7 @@ for r in rows:
     if m:
         h = f"{m.group(1)} hair {m.group(2)}"
     r["hair"] = h
-    for pre, nm in (("ember folk", "ember folk"), ("ogre", "ogre"), ("amazon", "amazon"), ("cat-kin", "cat-kin"), ("wolf-kin", "wolf-kin"), ("stone-folk", "stone-folk"), ("ghost folk", "ghost folk")):
+    for pre, nm in (("ember folk", "ember folk"), ("ogre", "ogre"), ("amazon", "amazon"), ("cat-kin", "cat-kin"), ("wolf-kin", "wolf-kin"), ("stone-folk", "stone-folk"), ("ghost folk", "ghost folk"), ("human ghost", "human ghost")):
         if r["people"].startswith(pre):
             r["people"] = nm
     r["skin"] = re.sub(r"bruised and ", "", r["skin"])
