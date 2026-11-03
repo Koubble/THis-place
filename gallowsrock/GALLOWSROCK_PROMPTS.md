@@ -1,0 +1,487 @@
+# Gallowsrock prompts
+
+## W12-1 Nestor (man, 54) – W12 Gallows Rock The Panopticon Spire
+_the warden, severe_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Nestor, 54-year-old human man who looks his age, 6'1", lean and wiry, grey-pale skin, a calm, even face, green eyes, greying shaggy brown hair, a scar on the cheek, wearing a grey greatcoat with brass buttons, standing with both hands behind the head, relaxed, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, patient half-smile, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Nestor, 54-year-old human man who looks his age, 6'1", lean and wiry, grey-pale skin, a calm, even face, green eyes, greying shaggy brown hair, a scar on the cheek, fully nude, no clothing, standing with one hand behind the head and the weight on one leg, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, calm, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
+## W12-2 Osthryth (woman, 46) – W12 Gallows Rock The Panopticon Spire
+_deputy warden, cold_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Osthryth, 46-year-old human woman who looks her age, 5'6", athletic, a C cup bust, sallow skin, a quiet, thoughtful face, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, green eyes, hair streaked with grey, wearing a grey uniform coat and cap, standing with the weight on one leg, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, calm nod, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Osthryth, 46-year-old human woman who looks her age, 5'6", athletic, a C cup bust, sallow skin, a quiet, thoughtful face, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, green eyes, hair streaked with grey, fully nude, no clothing, standing with the weight on one leg and the head tilted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, calm, steady, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+## W12-3 Whisper (man, 48) – W12 Gallows Rock The Turnkey Barracoon
+_captain of the guard, hard_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Whisper, 48-year-old human man who looks his age, 5'7", broad and strong, grey-pale skin, a heavy, blunt face, a ragged cauliflower ear, a heavy lumpy brow and a squashed nose, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, unflattering rough-hewn features, dark brown eyes, short grey hair, a ragged ear, wearing a dark uniform and heavy boots, standing with both hands behind the head, relaxed, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, gruff nod, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Whisper, 48-year-old human man who looks his age, 5'7", broad and strong, grey-pale skin, a heavy, blunt face, a ragged cauliflower ear, a heavy lumpy brow and a squashed nose, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, unflattering rough-hewn features, dark brown eyes, short grey hair, a ragged ear, fully nude, no clothing, standing with one hand behind the head and the weight on one leg, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, blunt, plain, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
+## W12-4 Ivy (woman, 38) – W12 Gallows Rock The Turnkey Barracoon
+_senior guard_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Ivy, 38-year-old human woman, 5'9", tall and slim, an E cup bust, pale skin, a bold, striking face, exceptionally beautiful, strikingly attractive, flawless radiant skin, perfectly balanced symmetrical features, luminous eyes, full lips, hazel eyes, long dark hair, unkempt, a scar on the brow, wearing a dark uniform, jacket open, standing with one hand at the collarbone and the weight on one leg, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, bright, daring smile, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Ivy, 38-year-old human woman, 5'9", tall and slim, an E cup bust, pale skin, a bold, striking face, exceptionally beautiful, strikingly attractive, flawless radiant skin, perfectly balanced symmetrical features, luminous eyes, full lips, hazel eyes, long dark hair, unkempt, a scar on the brow, fully nude, no clothing, standing with one hand lifted to the collarbone and the other arm loose, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, bold, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+## W12-5 Twitch (man, 27) – W12 Gallows Rock The Turnkey Barracoon
+_guard, young and bored_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Twitch, 27-year-old human man, 6'4", broad and strong, sallow skin, a nervous face, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, pale blue eyes, black hair, cropped, a scar on the brow, wearing a uniform shirt, collar open, standing with the arms folded over the chest, the shoulders back, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, shy smile, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Twitch, 27-year-old human man, 6'4", broad and strong, sallow skin, a nervous face, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, pale blue eyes, black hair, cropped, a scar on the brow, fully nude, no clothing, standing with the arms crossed over the chest, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, shy, eyes lowered, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
+## W12-6 Sniff (man, 41) – W12 Gallows Rock The Northward Cellarium
+_trusty of the main cells, inmate_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Sniff, 41-year-old human man who looks his age, 6'2", broad and strong, sallow skin, a severe, composed face, a gaunt grey sneering face, pitted cheeks and uneven teeth, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, unflattering rough-hewn features, grey eyes, shaggy brown hair, wearing a grey convict shirt and trousers, standing square with the hands on the hips, the shoulders back, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, tight, disapproving look, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Sniff, 41-year-old human man who looks his age, 6'2", broad and strong, sallow skin, a severe, composed face, a gaunt grey sneering face, pitted cheeks and uneven teeth, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, unflattering rough-hewn features, grey eyes, shaggy brown hair, fully nude, no clothing, standing with the hands on the hips and the chin lifted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, composed, cold, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
+## W12-7 Cwenhild (woman, 35) – W12 Gallows Rock The Northward Cellarium
+_long-term inmate_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Cwenhild, 35-year-old human woman, 5'7", curvy, a C cup bust, pale skin, a warm, open face, hazel eyes, long dark hair, unkempt, wearing a grey prison dress, standing with one hand resting on the hip, the head tilted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, friendly grin, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Cwenhild, 35-year-old human woman, 5'7", curvy, a C cup bust, pale skin, a warm, open face, hazel eyes, long dark hair, unkempt, fully nude, no clothing, standing with one hand on the hip and the weight on one leg, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, amused, easy, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+## W12-8 Leofgifu (woman, 33) – W12 Gallows Rock The Treadmill Compound
+_yard guard, watchful_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Leofgifu, 33-year-old human woman, 5'2", sturdy, an F cup bust, skin that is dark, sun-starved, a craggy, honest face, a scarred leathery face, a lumpy nose and gapped teeth, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, unflattering rough-hewn features, pale blue eyes, a short ragged cut, a scar on the cheek, wearing a dark uniform and gloves, standing with the head tilted and the hair falling over one shoulder, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, grim smirk, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Leofgifu, 33-year-old human woman, 5'2", sturdy, an F cup bust, skin that is dark, sun-starved, a craggy, honest face, a scarred leathery face, a lumpy nose and gapped teeth, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, unflattering rough-hewn features, pale blue eyes, a short ragged cut, a scar on the cheek, fully nude, no clothing, standing with one hand sweeping the hair over one shoulder, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, blunt, plain, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+## W12-9 Weevil (man, 29) – W12 Gallows Rock The Treadmill Compound
+_inmate on the yard_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Weevil, 29-year-old human man, 5'7", average, fit, sallow skin, a bright, daring face, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, pale blue eyes, cropped dark hair, wearing a grey shirt, sleeves rolled, standing with one hand on the hip, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, bright, daring smile, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Weevil, 29-year-old human man, 5'7", average, fit, sallow skin, a bright, daring face, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, pale blue eyes, cropped dark hair, fully nude, no clothing, standing with one hand on the hip, the other arm loose, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, bold, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
+## W12-10 Achille (man, 52) – W12 Gallows Rock The Breakstone Excavations
+_quarry overseer_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Achille, 52-year-old human man who looks his age, 6'2", slim, pale skin, a heavy, blunt face, a flattened broken nose, thick jowls and a pitted red brow, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, unflattering rough-hewn features, green eyes, greying cropped dark hair, a faded tattoo on the forearm, wearing a heavy coat and cap, standing with the hands on the hips and the chin lifted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, grim smirk, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Achille, 52-year-old human man who looks his age, 6'2", slim, pale skin, a heavy, blunt face, a flattened broken nose, thick jowls and a pitted red brow, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, unflattering rough-hewn features, green eyes, greying cropped dark hair, a faded tattoo on the forearm, fully nude, no clothing, standing with the hands on the hips and the chest out, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, blunt, plain, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
+## W12-11 Freawyn (woman, 30) – W12 Gallows Rock The Breakstone Excavations
+_quarry inmate, strong_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Freawyn, 30-year-old human woman, 5'1", sturdy, a C cup bust, pale skin, a confident, laughing face, pale blue eyes, long dark hair, unkempt, wearing a grey shirt tied at the waist and trousers, standing with one hand at the collarbone, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, bold grin, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Freawyn, 30-year-old human woman, 5'1", sturdy, a C cup bust, pale skin, a confident, laughing face, pale blue eyes, long dark hair, unkempt, fully nude, no clothing, standing with one hand at the collarbone and the weight on one leg, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, bold, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+## W12-12 Flea (woman, 50) – W12 Gallows Rock The Skilly Messdeck
+_mess cook, big_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Flea, 50-year-old human woman who looks her age, 5'0", sturdy, a D cup bust, weathered brown skin, a warm, open face, a broken nose, a double chin and a hairy mole, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, unflattering rough-hewn features, grey eyes, hair streaked with grey, a broken nose, wearing a stained apron over a grey dress, standing with the head tilted and the hair falling over one shoulder, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, friendly grin, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Flea, 50-year-old human woman who looks her age, 5'0", sturdy, a D cup bust, weathered brown skin, a warm, open face, a broken nose, a double chin and a hairy mole, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, unflattering rough-hewn features, grey eyes, hair streaked with grey, a broken nose, fully nude, no clothing, standing with one hand sweeping the hair over one shoulder, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, amused, easy, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+## W12-13 Rabbit (man, 26) – W12 Gallows Rock The Skilly Messdeck
+_mess inmate_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Rabbit, 26-year-old human man, 5'7", slim, grey-pale skin, a mischievous, bright face, pale blue eyes, shaggy brown hair, a ragged ear, wearing an apron over a grey shirt, standing with the arms crossed over the chest, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, cheeky grin, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Rabbit, 26-year-old human man, 5'7", slim, grey-pale skin, a mischievous, bright face, pale blue eyes, shaggy brown hair, a ragged ear, fully nude, no clothing, standing with the arms folded across the chest and the weight on one leg, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, giggling, flushed, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
+## W12-14 Suzette (woman, 44) – W12 Gallows Rock The Lazaretto
+_prison surgeon, brisk_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Suzette, 44-year-old human woman who looks her age, 5'8", athletic, a B cup bust, weathered brown skin, a calm, even face, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, green eyes, short grey-streaked hair, wearing a white coat over dark clothes, standing with one hand sweeping the hair over one shoulder, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, patient half-smile, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Suzette, 44-year-old human woman who looks her age, 5'8", athletic, a B cup bust, weathered brown skin, a calm, even face, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, green eyes, short grey-streaked hair, fully nude, no clothing, standing with the hair over one shoulder, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, calm, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+## W12-15 Regnault (man, 60) – W12 Gallows Rock The Penitent Prayerhold
+_prison chaplain_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Regnault, 60-year-old human man who looks his age, an older man, 5'7", thin and stooped, skin that is dark, sun-starved, a hard, handsome face, pale blue eyes, grey hair, a trimmed beard, a ragged ear, wearing a dark robe, standing with one hand on the hip, the other arm loose, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, tight, disapproving look, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Regnault, 60-year-old human man who looks his age, an older man, 5'7", thin and stooped, skin that is dark, sun-starved, a hard, handsome face, pale blue eyes, grey hair, a trimmed beard, a ragged ear, fully nude, no clothing, standing with a hand on the hip and the head tilted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, composed, cold, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
+## W12-16 Slim (man, 47) – W12 Gallows Rock The Bagnio Disembarkation
+_dock master_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Slim, 47-year-old human man who looks his age, 6'3", average, fit, sallow skin, a gruff, battered face, a gaunt cracked face, a ragged ear and rotten teeth, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, unflattering rough-hewn features, pale blue eyes, greying shaggy brown hair, a ragged ear, wearing an oilskin coat and cap, standing with the weight on one leg and the arms loose, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, blunt scowl, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Slim, 47-year-old human man who looks his age, 6'3", average, fit, sallow skin, a gruff, battered face, a gaunt cracked face, a ragged ear and rotten teeth, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, unflattering rough-hewn features, pale blue eyes, greying shaggy brown hair, a ragged ear, fully nude, no clothing, standing with the weight on one leg, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, gruff, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
+## W12-17 Wulfrun (woman, 42) – W12 Gallows Rock The Pittance Tuckshop
+_commissary keeper, shrewd_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Wulfrun, 42-year-old human woman who looks her age, 5'2", tall and slim, a C cup bust, weathered brown skin, a sharp, smirking face, a sharp mean face, a hairy wart and thin colourless lips, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, unflattering rough-hewn features, grey eyes, cropped dark hair, a ragged ear, wearing a dark dress and spectacles, standing with the weight on one leg and the head tilted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, sly smile, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Wulfrun, 42-year-old human woman who looks her age, 5'2", tall and slim, a C cup bust, weathered brown skin, a sharp, smirking face, a sharp mean face, a hairy wart and thin colourless lips, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, unflattering rough-hewn features, grey eyes, cropped dark hair, a ragged ear, fully nude, no clothing, standing with a relaxed hip tilt, the arms loose at the sides, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, sly, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+## W12-18 Georgette (woman, 37) – W12 Gallows Rock The Tier Kennels
+_block trusty, tough_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Georgette, 37-year-old human woman, 5'7", curvy, a B cup bust, sallow skin, a gruff, battered face, a gruff flat face, a double chin and a hairy mole, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, unflattering rough-hewn features, green eyes, short grey-streaked hair, wearing a grey prison dress, sleeves rolled, standing with the hair over one shoulder, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, blunt scowl, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Georgette, 37-year-old human woman, 5'7", curvy, a B cup bust, sallow skin, a gruff, battered face, a gruff flat face, a double chin and a hairy mole, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, unflattering rough-hewn features, green eyes, short grey-streaked hair, fully nude, no clothing, standing with one hand lifted to the hair, the other arm loose, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, gruff, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+## W12-19 Badger (man, 28) – W12 Gallows Rock The Tier Kennels
+_inmate, charming_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Badger, 28-year-old human man, 5'8", average, fit, skin that is dark, sun-starved, a playful, dimpled face, exceptionally handsome, strikingly attractive, flawless skin, sculpted jaw and cheekbones, magnetic eyes, hazel eyes, shaved head, a broken nose, wearing a grey shirt, open at the neck, standing with the arms crossed and the chin lifted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, playful wink, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Badger, 28-year-old human man, 5'8", average, fit, skin that is dark, sun-starved, a playful, dimpled face, exceptionally handsome, strikingly attractive, flawless skin, sculpted jaw and cheekbones, magnetic eyes, hazel eyes, shaved head, a broken nose, fully nude, no clothing, standing with the arms folded over the chest, the shoulders back, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, playful, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
+## W12-20 Albertine (woman, 43) – W12 Gallows Rock The Correction Pillory
+_punishment warden, relishing_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Albertine, 43-year-old human woman who looks her age, 5'5", slender, a C cup bust, sallow skin, a severe, composed face, a cold sunken face, a crooked broken nose and thin cruel lips, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, unflattering rough-hewn features, dark brown eyes, hair tied back, brown, a broken nose, wearing a black uniform and gloves, standing with the hand on the hip and the chin lifted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, stern, level look, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Albertine, 43-year-old human woman who looks her age, 5'5", slender, a C cup bust, sallow skin, a severe, composed face, a cold sunken face, a crooked broken nose and thin cruel lips, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, unflattering rough-hewn features, dark brown eyes, hair tied back, brown, a broken nose, fully nude, no clothing, standing with a hand on the hip and the shoulders back, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, composed, cold, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+## W12-21 Dray (man, 34) – W12 Gallows Rock The Correction Pillory
+_punishment assistant_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Dray, 34-year-old human man, 6'3", solid and thick, weathered brown skin, a gruff, battered face, a thick brutish brow, a flat nose and a thick scarred lip, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, unflattering rough-hewn features, pale blue eyes, shaved head, a scar on the brow, wearing a leather apron over a bare chest, standing with the weight on one leg and the arms loose, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, blunt scowl, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Dray, 34-year-old human man, 6'3", solid and thick, weathered brown skin, a gruff, battered face, a thick brutish brow, a flat nose and a thick scarred lip, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, unflattering rough-hewn features, pale blue eyes, shaved head, a scar on the brow, fully nude, no clothing, standing with the weight on one leg, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, gruff, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
+## W12-22 Scab (man, 51) – W12 Gallows Rock The Donjon Of Silence
+_solitary keeper, silent_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Scab, 51-year-old human man who looks his age, 6'4", stocky, pale skin, a quiet, thoughtful face, green eyes, hair streaked with grey, wearing a heavy grey coat, standing upright with the arms at the sides, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, quiet, steady look, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Scab, 51-year-old human man who looks his age, 6'4", stocky, pale skin, a quiet, thoughtful face, green eyes, hair streaked with grey, fully nude, no clothing, standing with the arms relaxed at the sides and the chin lifted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, calm, steady, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
+## W12-23 Zephirin (man, 45) – W12 Gallows Rock The Gladiatorial Coliseum
+_pit master, bellowing_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Zephirin, 45-year-old human man who looks his age, 5'8", heavy-set, grey-pale skin, a heavy, blunt face, a sweating red face, a veined nose and wet thick lips, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, unflattering rough-hewn features, hazel eyes, hair streaked with grey, a faded tattoo on the forearm, wearing a leather vest and rolled sleeves, standing with the hands on the hips and the chest out, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, grim smirk, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Zephirin, 45-year-old human man who looks his age, 5'8", heavy-set, grey-pale skin, a heavy, blunt face, a sweating red face, a veined nose and wet thick lips, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, unflattering rough-hewn features, hazel eyes, hair streaked with grey, a faded tattoo on the forearm, fully nude, no clothing, standing square with the hands on the hips, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, gruff, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
+## W12-24 Wilburh (woman, 29) – W12 Gallows Rock The Gladiatorial Coliseum
+_pit fighter, inmate_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Wilburh, 29-year-old human woman, 5'7", slim, an E cup bust, grey-pale skin, a confident, laughing face, grey eyes, short grey-streaked hair, a scar on the brow, wearing a bound chest and trousers, bare arms, standing with one hand on the hip and the weight on one leg, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, confident, knowing smile, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Wilburh, 29-year-old human woman, 5'7", slim, an E cup bust, grey-pale skin, a confident, laughing face, grey eyes, short grey-streaked hair, a scar on the brow, fully nude, no clothing, standing with the hand on the hip and the chin lifted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, confident, amused, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+## W12-25 Garance (woman, 48) – W12 Gallows Rock The Keyring Taproom
+_keeper of the Keyring Taproom_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Garance, 48-year-old human woman who looks her age, 5'4", slender, a B cup bust, skin that is dark, sun-starved, a sly, clever face, pale blue eyes, cropped dark hair, a scar on the cheek, wearing a barmaid's apron over a dark dress, standing with a relaxed hip tilt, the arms loose at the sides, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, narrowed, watchful look, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Garance, 48-year-old human woman who looks her age, 5'4", slender, a B cup bust, skin that is dark, sun-starved, a sly, clever face, pale blue eyes, cropped dark hair, a scar on the cheek, fully nude, no clothing, standing with the weight on one hip and the arms loose, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, sly, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+## W12-26 Mumbles (man, 32) – W12 Gallows Rock The Keyring Taproom
+_taproom barman, guard_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Mumbles, 32-year-old human man, 6'1", tall and lean, sallow skin, a gentle, flushed face, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, hazel eyes, black hair, cropped, wearing a uniform shirt and apron, standing with the weight on one leg, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, nervous smile, eyes lowered, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Mumbles, 32-year-old human man, 6'1", tall and lean, sallow skin, a gentle, flushed face, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, hazel eyes, black hair, cropped, fully nude, no clothing, standing easy with the weight on one leg, the head tilted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, shy, flushed, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
+## W12-27 Ecgwyn (woman, 39) – W12 Gallows Rock The Visitation Latticework
+_booth matron_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Ecgwyn, 39-year-old human woman, 5'6", athletic, a C cup bust, weathered brown skin, a patient, composed face, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, pale blue eyes, long dark hair, unkempt, wearing a cotton slip, standing with a relaxed hip tilt, the arms loose at the sides, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, quiet, steady look, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Ecgwyn, 39-year-old human woman, 5'6", athletic, a C cup bust, weathered brown skin, a patient, composed face, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, pale blue eyes, long dark hair, unkempt, fully nude, no clothing, standing with the weight on one hip and the arms loose, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, calm, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+## W12-28 Desire (man, 31) – W12 Gallows Rock The Visitation Latticework
+_visiting-hour attendant_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Desire, 31-year-old human man, 5'7", solid and thick, pale skin, a playful, dimpled face, hazel eyes, cropped dark hair, wearing snug white drawers, standing tall with the arms loose at the sides, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, laughing smile, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Desire, 31-year-old human man, 5'7", solid and thick, pale skin, a playful, dimpled face, hazel eyes, cropped dark hair, fully nude, no clothing, standing with the arms at the sides, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, giggling, flushed, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
+## W12-29 Hildeburh (woman, 45) – W12 Gallows Rock The Warders Lavatorium
+_bath mistress of the Warders Lavatorium_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Hildeburh, 45-year-old human woman who looks her age, 5'7", full-figured, a B cup bust, grey-pale skin, a kind, creased face, pale blue eyes, a short ragged cut, wearing a plain grey dress, standing with the arms behind the back and the head tilted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, friendly grin, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Hildeburh, 45-year-old human woman who looks her age, 5'7", full-figured, a B cup bust, grey-pale skin, a kind, creased face, pale blue eyes, a short ragged cut, fully nude, no clothing, standing with the hands behind the back, leaning slightly forward, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, warm, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+**swim**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Hildeburh, 45-year-old human woman who looks her age, 5'7", full-figured, a B cup bust, grey-pale skin, a kind, creased face, pale blue eyes, a short ragged cut, wearing a thin cotton slip, standing with the weight on one leg, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, friendly grin, plain pale aqua-tinted cream background (#DDF3F1)
+
+## W12-30 Balthazar (man, 26) – W12 Gallows Rock The Warders Lavatorium
+_bath attendant_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Balthazar, 26-year-old human man, 6'0", stocky, sallow skin, a cheeky, freckled face, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, dark brown eyes, shaggy brown hair, wearing a plain shirt and trousers, standing with one hand on the hip, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, playful wink, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Balthazar, 26-year-old human man, 6'0", stocky, sallow skin, a cheeky, freckled face, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, dark brown eyes, shaggy brown hair, fully nude, no clothing, standing with one hand on the hip, the other arm loose, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, giggling, flushed, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
+**swim**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Balthazar, 26-year-old human man, 6'0", stocky, sallow skin, a cheeky, freckled face, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, dark brown eyes, shaggy brown hair, wearing plain cotton drawers, standing with one hand behind the head and the weight on one leg, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, playful wink, plain pale aqua-tinted cream background (#DDF3F1)
+
+## W12-31 Hobnail (man, 44) – W12 Gallows Rock The Pilfered Crevasse
+_black-market fixer, inmate_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Hobnail, 44-year-old human man who looks his age, 6'1", broad and strong, weathered brown skin, a sharp, smirking face, a broken lumpy nose, a sly leer and missing teeth, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, unflattering rough-hewn features, dark brown eyes, cropped dark hair, a broken nose, wearing a patched grey coat full of pockets, standing with the arms relaxed at the sides and the chin lifted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, knowing smirk, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Hobnail, 44-year-old human man who looks his age, 6'1", broad and strong, weathered brown skin, a sharp, smirking face, a broken lumpy nose, a sly leer and missing teeth, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, unflattering rough-hewn features, dark brown eyes, cropped dark hair, a broken nose, fully nude, no clothing, standing tall with the arms loose at the sides, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, knowing, amused, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
+## W12-32 Venise (woman, 34) – W12 Gallows Rock The Escape Conspiracy
+_escape conspirator, inmate_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Venise, 34-year-old human woman, 5'7", sturdy, a D cup bust, weathered brown skin, a nervous face, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, hazel eyes, short grey-streaked hair, wearing a grey prison dress, hem cut short, standing with the hair over one shoulder, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, shy smile, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Venise, 34-year-old human woman, 5'7", sturdy, a D cup bust, weathered brown skin, a nervous face, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, hazel eyes, short grey-streaked hair, fully nude, no clothing, standing with one hand lifted to the hair, the other arm loose, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, shy, flushed, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+## W12-33 Rodolphe (man, 38) – W12 Gallows Rock The Escape Conspiracy
+_escape conspirator, inmate_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Rodolphe, 38-year-old human man, 6'0", slim, sallow skin, a quiet, thoughtful face, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, grey eyes, black hair, cropped, a scar on the cheek, wearing a grey shirt and rough trousers, standing with both hands behind the head, relaxed, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, calm nod, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Rodolphe, 38-year-old human man, 6'0", slim, sallow skin, a quiet, thoughtful face, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, grey eyes, black hair, cropped, a scar on the cheek, fully nude, no clothing, standing with one hand behind the head and the weight on one leg, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, calm, steady, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
+## W12-34 Dominique (woman, 40) – W12 Gallows Rock The Muffled Parcel
+_owner of the Muffled Parcel, inmate_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Dominique, 40-year-old human woman who looks her age, 5'3", compact and curvy, a D cup bust, pale skin, a sharp, smirking face, dark brown eyes, hair tied back, brown, wearing a dark dress and long gloves, standing with the arms behind the back and the head tilted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, knowing smirk, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Dominique, 40-year-old human woman who looks her age, 5'3", compact and curvy, a D cup bust, pale skin, a sharp, smirking face, dark brown eyes, hair tied back, brown, fully nude, no clothing, standing with the hands behind the back, leaning slightly forward, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, knowing, amused, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+## W12-W1 Gristle (man, 31) – W12 Gallows Rock The Ramparts Beat and The Parapet Patrol (pop-up)
+_guard on the gantry_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Gristle, 31-year-old human man, 6'2", average, fit, grey-pale skin, a heavy, blunt face, grey eyes, shaggy brown hair, wearing a uniform shirt, jacket open, standing with the arms folded across the chest and the weight on one leg, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, gruff nod, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Gristle, 31-year-old human man, 6'2", average, fit, grey-pale skin, a heavy, blunt face, grey eyes, shaggy brown hair, fully nude, no clothing, standing with the arms crossed and the chin lifted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, gruff, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
+## W12-W2 Beetle (woman, 27) – W12 Gallows Rock The Ramparts Beat and The Parapet Patrol (pop-up)
+_inmate on the parapet beat_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Beetle, 27-year-old human woman, 5'0", slender, an E cup bust, pale skin, a confident, laughing face, dark brown eyes, short grey-streaked hair, a scar on the cheek, wearing a grey prison dress, standing with the fingertips resting at the collarbone, the head tilted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, bright, daring smile, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Beetle, 27-year-old human woman, 5'0", slender, an E cup bust, pale skin, a confident, laughing face, dark brown eyes, short grey-streaked hair, a scar on the cheek, fully nude, no clothing, standing with one hand at the collarbone, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, bold, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+## W12-W3 Gontran (man, 30) – W12 Gallows Rock The Starch Vennel and The Coalhole Spur (pop-up)
+_inmate in the laundry gap_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Gontran, 30-year-old human man, 5'10", heavy-set, pale skin, a mischievous, bright face, pale blue eyes, black hair, cropped, a scar on the cheek, wearing a grey shirt, open, standing with one hand on the hip, the other arm loose, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, cheeky grin, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Gontran, 30-year-old human man, 5'10", heavy-set, pale skin, a mischievous, bright face, pale blue eyes, black hair, cropped, a scar on the cheek, fully nude, no clothing, standing with a hand on the hip and the head tilted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, playful, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
+## W12-W4 Tinder (woman, 28) – W12 Gallows Rock The Starch Vennel and The Coalhole Spur (pop-up)
+_laundress in the coal spur_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Tinder, 28-year-old human woman, 5'4", curvy, a B cup bust, grey-pale skin, a confident, laughing face, dark brown eyes, cropped dark hair, wearing a short grey dress, loosened, standing with the head tilted and the hair falling over one shoulder, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, bright, daring smile, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Tinder, 28-year-old human woman, 5'4", curvy, a B cup bust, grey-pale skin, a confident, laughing face, dark brown eyes, cropped dark hair, fully nude, no clothing, standing with one hand sweeping the hair over one shoulder, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, bold, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+## W12-W5 Garrick (man, 35) – W12 Gallows Rock The Boilerhouse Showers (pop-up)
+_guard at the boiler showers_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Garrick, 35-year-old human man, 6'4", average, fit, grey-pale skin, a calm, even face, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, grey eyes, shaved head, a broken nose, wearing a uniform shirt and trousers, standing with one hand on the hip, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, quiet, steady look, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Garrick, 35-year-old human man, 6'4", average, fit, grey-pale skin, a calm, even face, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, grey eyes, shaved head, a broken nose, fully nude, no clothing, standing with one hand on the hip, the other arm loose, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, calm, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
+**swim**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Garrick, 35-year-old human man, 6'4", average, fit, grey-pale skin, a calm, even face, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, grey eyes, shaved head, a broken nose, wearing a towel low on the hips, standing with one hand behind the head and the weight on one leg, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, quiet, steady look, plain pale aqua-tinted cream background (#DDF3F1)
+
+## W12-W6 Michelle (woman, 32) – W12 Gallows Rock The Boilerhouse Showers (pop-up)
+_inmate at the boiler showers_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Michelle, 32-year-old human woman, 5'4", tall and slim, an E cup bust, weathered brown skin, a kind, creased face, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, hazel eyes, a short ragged cut, a scar on the brow, wearing a grey prison dress, standing with one hand lifted to the collarbone and the other arm loose, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, friendly grin, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Michelle, 32-year-old human woman, 5'4", tall and slim, an E cup bust, weathered brown skin, a kind, creased face, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, hazel eyes, a short ragged cut, a scar on the brow, fully nude, no clothing, standing with the fingertips resting at the collarbone, the head tilted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, warm, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+**swim**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Michelle, 32-year-old human woman, 5'4", tall and slim, an E cup bust, weathered brown skin, a kind, creased face, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, hazel eyes, a short ragged cut, a scar on the brow, wearing a thin linen shift and stockings, standing with the weight on one leg and the head tilted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, friendly grin, plain pale aqua-tinted cream background (#DDF3F1)
+
+## W12-W7 Pickle (man, 24) – W12 Gallows Rock The Moat Splash (pop-up)
+_young inmate in the moat_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Pickle, 24-year-old human man, 5'6", average, fit, sallow skin, a cheeky, freckled face, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, dark brown eyes, shaggy brown hair, a ragged ear, wearing trousers, bare chest, standing with the arms crossed over the chest, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, laughing smile, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Pickle, 24-year-old human man, 5'6", average, fit, sallow skin, a cheeky, freckled face, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, dark brown eyes, shaggy brown hair, a ragged ear, fully nude, no clothing, standing with the arms folded across the chest and the weight on one leg, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, giggling, flushed, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
+**swim**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Pickle, 24-year-old human man, 5'6", average, fit, sallow skin, a cheeky, freckled face, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, dark brown eyes, shaggy brown hair, a ragged ear, wearing plain cotton drawers, standing with one hand behind the head and the weight on one leg, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, laughing smile, plain pale aqua-tinted cream background (#DDF3F1)
+
+## W12-W8 Wealdburh (woman, 25) – W12 Gallows Rock The Moat Splash (pop-up)
+_female inmate in the moat_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Wealdburh, 25-year-old human woman, 5'3", full-figured, a C cup bust, weathered brown skin, a bold, striking face, pale blue eyes, a short ragged cut, wearing a shift clinging to her, standing with the arms behind the back and the head tilted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, bright, daring smile, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Wealdburh, 25-year-old human woman, 5'3", full-figured, a C cup bust, weathered brown skin, a bold, striking face, pale blue eyes, a short ragged cut, fully nude, no clothing, standing with the hands behind the back, leaning slightly forward, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, confident, amused, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+**swim**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Wealdburh, 25-year-old human woman, 5'3", full-figured, a C cup bust, weathered brown skin, a bold, striking face, pale blue eyes, a short ragged cut, wearing a plain one-piece swimsuit, standing with the weight on one leg, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, bright, daring smile, plain pale aqua-tinted cream background (#DDF3F1)

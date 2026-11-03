@@ -27,10 +27,12 @@ for r in rows:
     if m:
         h = f"{m.group(1)} hair {m.group(2)}"
     r["hair"] = h
-    for pre, nm in (("ember folk", "ember folk"), ("ogre", "ogre"), ("amazon", "amazon"), ("cat-kin", "cat-kin"), ("wolf-kin", "wolf-kin")):
+    for pre, nm in (("ember folk", "ember folk"), ("ogre", "ogre"), ("amazon", "amazon"), ("cat-kin", "cat-kin"), ("wolf-kin", "wolf-kin"), ("stone-folk", "stone-folk")):
         if r["people"].startswith(pre):
             r["people"] = nm
     r["skin"] = re.sub(r"bruised and ", "", r["skin"])
+    r["hair"] = re.sub(r"^none, ", "no hair, ", r["hair"])
+    r["marks"] = r["marks"].replace("a cut on the brow", "a scar on the brow")
     r["marks"] = re.sub(r"^(bruises|a collar-mark on the neck)$", "", r["marks"])
     if r["people"].startswith("reptile-folk"):
         r["people"] = "scalekin"

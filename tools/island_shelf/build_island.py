@@ -139,14 +139,15 @@ def core(r):
     people, desc, extra = parse_people(r["people"])
     sw = "woman" if woman else "man"
     her = "her" if woman else "his"
-    head = f"{r['name']}, {pa}-year-old {people} {sw}"
-    if pa >= 40:
+    ancient = people == "stone-folk" and age >= 100
+    head = f"{r['name']}, an ancient {people} {sw}" if ancient else f"{r['name']}, {pa}-year-old {people} {sw}"
+    if pa >= 40 and not ancient:
         head += f" who looks {her} age"
     if desc:
         head += ", " + desc
     if extra:
         head += ", " + ", ".join(extra)
-    if pa >= 55:
+    if pa >= 55 and not ancient:
         head += f", an older {sw}"
     if age < 22:
         head += f", an adult {sw} with defined cheekbones and mature features"
@@ -182,7 +183,7 @@ def core(r):
 SWIM_PLACE = re.compile(r"\bbath|\bspa\b|\bpools\b|\bbeach\b|\bcove\b|\bshore\b(?! leave)|\bshingle\b|\bstrand\b|\bspring|\bseep\b|"
                         r"\bbasins?\b|\bplunge\b|\bsauna|sweat hall|thaw house|scrub house|\bwash|\blido\b|tide cave|"
                         r"sunbath|pontoon|\bmere\b|cleansing|changing hut|massage|masseu|kneading|swimm|lifeguard|"
-                        r"surfer|steam kettle|hammam|rinse|scrubbing|rain butts|pool attendant|pool hand|seethe|burnside linn|fountain court|riverside landing|wherry|moat margin|tidepool|paddling|trough of suds|steam jetty|dampf|breakwater|diving|grotta|clinker steams|quenching lake|cenote|immersion trough|slack water|grotto|humid cavern|\bdips?\b|ablution|thermal|vapour tank|cistern|cauldron|sudatorium|strigil|soak|lagoon|jetty|wallow|oasis dip|brimstone fount|\bpond\b|\btubs?\b|mudflat|"
+                        r"surfer|steam kettle|hammam|rinse|scrubbing|rain butts|rock pool|hot pool|\btarn\b|steeping|showers|\bmoat\b|pool attendant|pool hand|seethe|burnside linn|fountain court|riverside landing|wherry|moat margin|tidepool|paddling|trough of suds|steam jetty|dampf|breakwater|diving|grotta|clinker steams|quenching lake|cenote|immersion trough|slack water|grotto|humid cavern|\bdips?\b|ablution|thermal|vapour tank|cistern|cauldron|sudatorium|strigil|soak|lagoon|jetty|wallow|oasis dip|brimstone fount|\bpond\b|\btubs?\b|mudflat|"
                         r"moorage|moorings|canal pier|seaward", re.I)
 
 
@@ -190,7 +191,7 @@ SWIM_PLACE = re.compile(r"\bbath|\bspa\b|\bpools\b|\bbeach\b|\bcove\b|\bshore\b(
 # hustlers, alley and street folk, homeless) also get one: lingerie, drawers or ragged underwear is their normal state.
 ADULT_ROLE = re.compile(r"madam|madame|hostess|\bworker\b|companion|works the arch|works there|hustler|"
                         r"offers (himself|herself|company)|\bselling\b|sells (his|her) nights|chosen (man|woman)|"
-                        r"rent in kind|woman of the (back )?lane|available|host of the tent|rarer appetites|girl (from|who)|house's one man|\bescort\b|courtesan|sells smiles|slipping into the dunes|girl slipping|girl meeting|in need of the money|gutter runnel|camp girl in|in the alley|sells (his|her) (nights|evenings)|sells hustles|woman of the (arena )?fringe", re.I)
+                        r"rent in kind|woman of the (back )?lane|available|host of the tent|rarer appetites|girl (from|who)|house's one man|\bescort\b|courtesan|sells smiles|slipping into the dunes|girl slipping|girl meeting|halkopino gap|mudflat girl in the gap|in need of the money|gutter runnel|camp girl in|in the alley|sells (his|her) (nights|evenings)|sells hustles|woman of the (arena )?fringe", re.I)
 ADULT_PLACE = re.compile(r"lattice|late lanterns|shared rite|whisper salon|decanter|silk cellar|ruby parlour|red shutter|"
                          r"warm tent|windward bunk|brass latch|rented hour|chosen house|lodging house|floating party|pink pennant|mizzen lounge", re.I)
 ADULT_STAFF = re.compile(r"attendant|keeper|cellarman|\bhost\b|hostess|madam|\bgirl\b|house's one man", re.I)
@@ -201,7 +202,7 @@ ADULT_VENUE = re.compile(r"crimson crypt|\bdomino\b|discreet suite|oubliette|\bu
                          r"sixpenny cots|poppy den|jasmine house|saffron house|cypress majlis|ember divan|unlicensed entrance|"
                          r"obligation dormitory|hidden arbour|mirrored hall|hourly cabins|pillars below|ninth bolt|companions' agency|"
                          r"hushed apartments|frosted cubicles|starlit cottages|lamplit sampan|oleander bower|doffing vestry|\bquadrille\b|"
-                         r"\bfelze\b|grille confessionals|dare peristyle|mermaids cradle|hammock tiers|moidore divans|kindling closets|harlequinade masquerade|plush boudoirs|moonheat hideaway|campaign consorts|mating copse|werg nischen|cercle loup noir|scellees souterrains|honeyed amber ottoman|subjugation vault|soft voices recess", re.I)
+                         r"\bfelze\b|grille confessionals|dare peristyle|mermaids cradle|hammock tiers|moidore divans|kindling closets|makuusali kamarit|seuralaisten row|doze tarpaulins|bulrush nooks|visitation latticework|harlequinade masquerade|plush boudoirs|moonheat hideaway|campaign consorts|mating copse|werg nischen|cercle loup noir|scellees souterrains|honeyed amber ottoman|subjugation vault|soft voices recess", re.I)
 NOT_ADULT = {"E03-33", "E08-8", "E12-6", "E12-27", "E05-26", "S05-12", "S05-W3", "S06-25", "S05-16", "W05-13"}  # Dagmar: hostess of a social circle, not an adult worker
 
 
@@ -292,7 +293,7 @@ for p in people:
         cores.append(s.split(", wearing ")[0].split(", fully nude")[0])
     assert len(set(cores)) == 1, p["id"]
     ages = re.findall(r"(\d+)-year-old", p["prompts"]["clothed"])
-    assert int(ages[0]) >= 22 or p["id"] in PROMPT_AGE, p["id"]
+    assert (not ages) or int(ages[0]) >= 22 or p["id"] in PROMPT_AGE, p["id"]
 json.dump(people, open(OUT_JSON, "w"), indent=1)
 n = sum(len(p["prompts"]) for p in people)
 print(len(people), "people,", n, "prompts; words max", max(len(t.split()) for p in people for t in p["prompts"].values()))
