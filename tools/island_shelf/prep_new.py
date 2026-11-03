@@ -99,6 +99,8 @@ for r in rows:
     cl = pool[cc][(k + 1) % len(pool[cc])]
     sw = (pool.get("weight" if woman else "head") )[(k + 2) % 4] if r["third_image_swim_or_underwear"] else None
     if sw and woman and "hair" in c: sw = W["hair"][(k + 2) % 4]
+    if r["id"].startswith("EV-") and r["prompts_needed"].strip()[:1] in ("0", "1"):
+        cl = nu = r["nude_pose"].strip()
     out.append(f'"{r["id"]}": ({cl!r}, {nu!r}, {sw!r}),')
 out.append("}")
 open(f"poses_{isl}.py", "w").write("\n".join(out) + "\n")

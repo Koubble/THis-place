@@ -29,3 +29,4 @@ for i in northships; do python3 -I prep_new.py $i >/dev/null; b ${i}_clean.csv $
 for i in westships; do python3 -I prep_new.py $i >/dev/null; b ${i}_clean.csv $i; done
 for i in southships; do python3 -I prep_new.py $i >/dev/null; b ${i}_clean.csv $i; done
 for i in eastships; do python3 -I prep_new.py $i >/dev/null; b ${i}_clean.csv $i; done
+for i in randomevents; do python3 -I prep_new.py $i >/dev/null; b ${i}_clean.csv $i; done

@@ -29,10 +29,15 @@ def parse_people(raw):
     return base, SPECIES.get(base, ("", None))[0], extra
 
 
+ANAT_OVERRIDE = {"EV-2": "huge penis"}  # Gorrow: biggest size in the game, the top of the scale, known for it
+
+
 def anat(r):
     """Women: fixed wording. Men: a roster size/shape note wins, then the species default, then 'average size penis'."""
     if r["sex"] == "F":
         return ANAT["F"]
+    if r["id"] in ANAT_OVERRIDE:
+        return ANAT_OVERRIDE[r["id"]]
     s = r["bust_or_scale"].lower()
     if re.search(r"extremely large", s):
         return "very large penis"
@@ -272,12 +277,15 @@ for r in rows:
     nu_expr = fix(r["nude_expression"])
     ghost = parse_people(r["people"])[0] == "ghost folk"
     pr = {}
-    pr["clothed"] = (f"{STYLE}, one {'woman' if woman else 'man'}, {cb}, wearing {clothed_out}, {cl_pose}, {FRAME}, "
-                     f"soft even light, {cl_expr}, {BG['clothed']}")
+    ev_nude_only = pid.startswith("EV-") and r["prompts_needed"].strip()[:1] in ("0", "1")
+    if not ev_nude_only:
+        pr["clothed"] = (f"{STYLE}, one {'woman' if woman else 'man'}, {cb}, wearing {clothed_out}, {cl_pose}, {FRAME}, "
+                         f"soft even light, {cl_expr}, {BG['clothed']}")
     if True:  # ghosts get a studio prompt too (user, Nov 2026)
       pr["nude"] = (f"{STYLE}, one {'woman' if woman else 'man'}, {cb}, fully nude, no clothing, {nu_pose}, {FRAME}, "
                   f"soft even light, {nu_expr}, {BG['nude']}, {anat(r)}")
-    if r["third_image_swim_or_underwear"] and wants_third(r):
+    ev_third = pid.startswith("EV-") and r["prompts_needed"].strip()[:1] == "3"
+    if r["third_image_swim_or_underwear"] and (wants_third(r) or ev_third):
         sw_expr = cl_expr
         pr["swim"] = (f"{STYLE}, one {'woman' if woman else 'man'}, {cb}, wearing {tidy_third(r['third_image_swim_or_underwear'])}, "
                       f"{sw_pose}, {FRAME}, soft even light, {sw_expr}, {BG['swim']}")
@@ -296,7 +304,7 @@ for p in people:
         s = t.split(", one ", 1)[1].split(", ", 1)[1]
         cores.append(s.split(", wearing ")[0].split(", fully nude")[0])
     assert len(set(cores)) == 1, p["id"]
-    ages = re.findall(r"(\d+)-year-old", p["prompts"]["clothed"])
+    ages = re.findall(r"(\d+)-year-old", next(iter(p["prompts"].values())))
     assert (not ages) or int(ages[0]) >= 22 or p["id"] in PROMPT_AGE, p["id"]
 json.dump(people, open(OUT_JSON, "w"), indent=1)
 n = sum(len(p["prompts"]) for p in people)

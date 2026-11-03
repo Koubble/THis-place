@@ -514,4 +514,18 @@ UGLY = {
  "ES-40": dict(face_add="heavy powder cracking over sagging jowls and a hairy mole"),
  "ES-32": dict(face_add="a sun-glared leathery face, a hooked nose and missing teeth"),
  "ES-5": dict(face_add="a gossipy creased face, a bulbous nose and a hairy mole"),
+ # Random People
+ "EV-1": dict(face_add="raised lumpy growths across the brow and cheeks, rotten gapped teeth and a wet snarling lip"),
+ "EV-2": dict(face_add="a flattened twice-broken nose, cracked yellow teeth and thick scar tissue on the brow"),
+ "EV-3": dict(face_add="a matted beard, sunken staring eyes and rotten teeth"),
+ "EV-4": dict(face_add="a leering gap-toothed grin, scar-lined cracked skin and a crooked broken nose"),
+ "EV-5": dict(face_add="a broken flattened nose, heavy jowls and thick scar tissue on the cheek"),
+ "EV-8": dict(face_add="a purple drinker's nose, bloodshot eyes and a split lip"),
+ "EV-9": dict(face_add="an oily sneer, wet thin lips and a wart beside the nose"),
+ "EV-23": dict(face_add="sagging jowls, a hooked nose and a hairy wart on the chin"),
+ "EV-24": dict(face_add="a sharp pointed nose, thin lips and a hairy mole on the cheek"),
+ "EV-25": dict(face_add="deep wrinkles, a hooked nose and a large hairy wart"),
+ "EV-26": dict(face_add="a sallow shifty face, rotten teeth and a greasy sneer"),
+ "EV-30": dict(face_add="a leathery sun-ruined face, missing teeth and a sunken mouth"),
+ "EV-34": dict(face_add="a bulbous red drinker's nose, puffy cheeks and bloodshot eyes"),
 }
