@@ -26,3 +26,6 @@ for i in harrowfield vinemarch keelhaven heartsease; do python3 -I prep_new.py $
 for i in oldgate cairnmoor calico steelmarch; do python3 -I prep_new.py $i >/dev/null; b ${i}_clean.csv $i; done
 for i in timberfell stonewake murkfen gallowsrock; do python3 -I prep_new.py $i >/dev/null; b ${i}_clean.csv $i; done
 for i in northships; do python3 -I prep_new.py $i >/dev/null; b ${i}_clean.csv $i; done
+for i in westships; do python3 -I prep_new.py $i >/dev/null; b ${i}_clean.csv $i; done
+for i in southships; do python3 -I prep_new.py $i >/dev/null; b ${i}_clean.csv $i; done
+for i in eastships; do python3 -I prep_new.py $i >/dev/null; b ${i}_clean.csv $i; done
