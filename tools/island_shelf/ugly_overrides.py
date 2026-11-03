@@ -461,4 +461,17 @@ UGLY = {
  "W12-20": dict(face_add="a cold sunken face, a crooked broken nose and thin cruel lips"),
  "W12-18": dict(face_add="a gruff flat face, a double chin and a hairy mole"),
  "W12-8": dict(face_add="a scarred leathery face, a lumpy nose and gapped teeth"),
+ # North Ships
+ "NS-1": dict(face_add="a bulbous cracked red nose, frost-rimed bristles and a puffy jowled chin"),
+ "NS-2": dict(face_add="a pinched tart face, a hairy mole and thin chapped lips"),
+ "NS-11": dict(face_add="a sallow sly face, small shifty eyes and rotten brown teeth"),
+ "NS-12": dict(face_add="a hard pitted face, a missing tooth and a broken crooked nose"),
+ "NS-19": dict(face_add="a purple drinker's nose, bloodshot eyes and a sagging red jowl"),
+ "NS-21": dict(face_add="a lumpy broken nose, cauliflower ears and a split thick lip"),
+ "NS-22": dict(face_add="a greasy bald head, a bulbous red nose and a slack wet grin"),
+ "NS-23": dict(face_add="a double chin, a hairy mole and ruddy broken veins"),
+ "NS-26": dict(face_add="deep wind-wrinkles, a hooked nose and a hairy wart on the chin"),
+ "NS-29": dict(face_add="a gaunt cruel face, sunken cheeks and uneven yellow teeth"),
+ "NS-30": dict(face_add="a pitted grinning face, a wart by the nose and gapped teeth"),
+ "NS-33": dict(face_add="a heavy cruel jaw, a frost-bitten purple nose and a hairy wart on the cheek"),
 }

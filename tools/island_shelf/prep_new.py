@@ -14,7 +14,7 @@ PROP = re.compile(r"\b(ledger|tray|notebook|slate|stack of papers|clipboard|armf
                   r"small brass bell|baton in one hand|tall brass pot|scraper-brush|toll box|tasting|wreath in hand|"
                   r"make-up brush|tiny scales|a ring of keys|key ring|chain of keys|bruise|rake|brass scale|dipper|beard comb|fine tools|"
                   r"tally cord|sack|bucket|bunch of keys|bottle|tin cup|cheap pies|stamp and an ink pad|lantern|bar rag|barrel tap|"
-                  r"crate of oddments|snuffbox|stocks|ring of rusty keys|huge ring of keys|a rope|rope around|lute|pen box|pen case|vial|a seal)\b", re.I)
+                  r"crate of oddments|snuffbox|stocks|ring of rusty keys|huge ring of keys|a rope|rope around|lute|pen box|pen case|vial|a seal(?!-))\b", re.I)
 KEEP = re.compile(r"behind (the|his|her) ear", re.I)
 HELD = re.compile(r"\b(in hand|in one hand|under (his|her|one) arm|over (one|his|her|the) shoulder|in (his|her) pocket|in (his|her) hand)\b", re.I)
 CLEAN = {}
@@ -27,7 +27,7 @@ for r in rows:
     if m:
         h = f"{m.group(1)} hair {m.group(2)}"
     r["hair"] = h
-    for pre, nm in (("ember folk", "ember folk"), ("ogre", "ogre"), ("amazon", "amazon"), ("cat-kin", "cat-kin"), ("wolf-kin", "wolf-kin"), ("stone-folk", "stone-folk")):
+    for pre, nm in (("ember folk", "ember folk"), ("ogre", "ogre"), ("amazon", "amazon"), ("cat-kin", "cat-kin"), ("wolf-kin", "wolf-kin"), ("stone-folk", "stone-folk"), ("ghost folk", "ghost folk")):
         if r["people"].startswith(pre):
             r["people"] = nm
     r["skin"] = re.sub(r"bruised and ", "", r["skin"])

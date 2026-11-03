@@ -9,6 +9,7 @@ SPECIES = {
              "tail, large slit-pupilled eyes, small fangs, and a patched calico, tabby or tortoiseshell coat on the "
              "tail and ears and as fine fur patches on the arms and shoulders, the hair following the same patches",
              "barbed penis"),
+ "ghost folk": ("an eerie sea-person, pale, translucent and silvery, with trailing wet hair, hollow pale eyes and a faint glow", None),
  "frost folk": ("a cold-adapted human with faint frost patterns on the cheeks, temples and wrists", None),
  "ember folk": ("a person with stone-like skin with glowing orange lava veins and a faint ember light along the "
                 "veins, warm to the touch", "larger than average penis"),

@@ -160,6 +160,8 @@ def core(r):
     ftext = r["face"] + " " + r["marks"] + " " + r["skin"]
     if r["id"] in BEAUTY:
         parts.append("exceptionally beautiful, strikingly attractive, flawless radiant skin, perfectly balanced symmetrical features, luminous eyes, full lips" if woman else "exceptionally handsome, strikingly attractive, flawless skin, sculpted jaw and cheekbones, magnetic eyes")
+    elif people == "ghost folk":
+        pass
     elif r["id"] in UGLY or (UNGLAM.search(ftext) and not PRETTYRE.search(r["face"])):
         if re.search(r"powder|painted|rouge", ftext, re.I):
             parts.append("plain unglamorous looks, blemished uneven skin")
@@ -268,10 +270,12 @@ for r in rows:
             else adult_default(r)
     cl_expr = fix(r["clothed_expression"])
     nu_expr = fix(r["nude_expression"])
+    ghost = parse_people(r["people"])[0] == "ghost folk"
     pr = {}
     pr["clothed"] = (f"{STYLE}, one {'woman' if woman else 'man'}, {cb}, wearing {clothed_out}, {cl_pose}, {FRAME}, "
                      f"soft even light, {cl_expr}, {BG['clothed']}")
-    pr["nude"] = (f"{STYLE}, one {'woman' if woman else 'man'}, {cb}, fully nude, no clothing, {nu_pose}, {FRAME}, "
+    if not ghost:
+      pr["nude"] = (f"{STYLE}, one {'woman' if woman else 'man'}, {cb}, fully nude, no clothing, {nu_pose}, {FRAME}, "
                   f"soft even light, {nu_expr}, {BG['nude']}, {anat(r)}")
     if r["third_image_swim_or_underwear"] and wants_third(r):
         sw_expr = cl_expr
