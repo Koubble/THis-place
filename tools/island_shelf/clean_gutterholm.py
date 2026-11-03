@@ -1,0 +1,18 @@
+CLEAN = {
+"E05-29": dict(clothed_outfit="a grey dress"),
+"E05-30": dict(clothed_outfit="a black coat with greasy cuffs"),
+"E05-49": dict(clothed_outfit="a long coat"),
+"E05-74": dict(clothed_outfit="a torn vest"),
+"E05-78": dict(clothed_outfit="a ragged shirt"),
+"E05-86": dict(clothed_outfit="a patched coat"),
+"E05-39": dict(clothed_outfit="a leather apron and a dark-spotted shirt"),
+"E05-71": dict(clothed_outfit="a dark-stained apron and a tall hat"),
+"E05-W13": dict(clothed_outfit="a rag tied round the hips"),
+"E05-W15": dict(clothed_outfit="a pair of old drawers and a rag round the neck"),
+"E05-W18": dict(clothed_outfit="a chemise"),
+"E05-W14": dict(clothed_outfit="a shift, hair dripping"),
+"E05-W17": dict(clothed_outfit="a shirt and drawers"),
+"E05-W16": dict(clothed_outfit="a shift, hair plastered"),
+"E05-W11": dict(clothed_outfit="a leather vest over bare skin, scarred arms"),
+"E05-43": dict(clothed_outfit="an apron, bare arms"),
+}

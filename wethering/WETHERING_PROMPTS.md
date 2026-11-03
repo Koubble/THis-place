@@ -1,0 +1,633 @@
+# Wethering prompts
+
+## E06-1 Cuthred (man, 52) – E06 Wethering The Reckoning House
+_chief rent collector, polite and exact_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Cuthred, 52-year-old human man who looks his age, 6'1", solid and thick, freckled and sunburnt skin, a hard, handsome face, pale blue eyes, straw-blond hair, weathered hands, wearing a long black coat, a tall hat, standing relaxed with one hand behind the head, the other arm loose, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, cold, measuring stare, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Cuthred, 52-year-old human man who looks his age, 6'1", solid and thick, freckled and sunburnt skin, a hard, handsome face, pale blue eyes, straw-blond hair, weathered hands, fully nude, no clothing, standing with both hands behind the head, relaxed, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, stern, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
+## E06-2 Wynflaed (woman, 26) – E06 Wethering The Reckoning House
+_collector's clerk, nervous_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Wynflaed, 26-year-old human woman, 5'4", athletic, an E cup bust, wind-reddened skin, a shy, soft face, brown eyes, sandy hair in a plait, wearing a brown dress with an ink-stained apron, standing with the hands clasped in front and the head tilted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, nervous smile, eyes lowered, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Wynflaed, 26-year-old human woman, 5'4", athletic, an E cup bust, wind-reddened skin, a shy, soft face, brown eyes, sandy hair in a plait, fully nude, no clothing, standing with the arms behind the back, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, shy, flushed, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+## E06-3 Selwyn (man, 54) – E06 Wethering The Factors House
+_the landlord's agent who led Barnaby's eviction, smooth and cold_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Selwyn, 54-year-old human man who looks his age, 6'4", lean and wiry, skin that is pale, wind-burnt, a haughty, fine-boned face, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, green eyes, hair streaked with grey, weathered hands, wearing a well-cut dark coat, a gold watch, a silk waistcoat, standing with one hand on the hip, the other arm loose, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, haughty half-smile, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Selwyn, 54-year-old human man who looks his age, 6'4", lean and wiry, skin that is pale, wind-burnt, a haughty, fine-boned face, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, green eyes, hair streaked with grey, weathered hands, fully nude, no clothing, standing with a hand on the hip and the head tilted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, haughty, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
+## E06-4 Gunnhild (woman, 40) – E06 Wethering The Factors House
+_the agent's secretary, loyal_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Gunnhild, 40-year-old human woman who looks her age, 5'0", soft and curvy, a B cup bust, skin that is fair, freckled, a hard, handsome face, brown eyes, sandy hair in a plait, weathered hands, wearing a high-collared grey dress, standing with a relaxed hip tilt, the arms loose at the sides, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, cold, measuring stare, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Gunnhild, 40-year-old human woman who looks her age, 5'0", soft and curvy, a B cup bust, skin that is fair, freckled, a hard, handsome face, brown eyes, sandy hair in a plait, weathered hands, fully nude, no clothing, standing with the weight on one hip and the arms loose, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, composed, cold, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+## E06-5 Wulfric (man, 58) – E06 Wethering The Gale Mill
+_miller of the Windward Mill, flour to the elbows_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Wulfric, 58-year-old human man who looks his age, an older man, 5'11", thin and stooped, skin that is pale, wind-burnt, a heavy, blunt face, a long drooping nose with a wart, sunken cheeks and flour-caked pitted skin, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, unflattering rough-hewn features, pale blue eyes, thin silver hair, a wind-chapped nose, wearing a floury smock and a cap, rolled sleeves, standing with the weight on one leg, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, blunt scowl, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Wulfric, 58-year-old human man who looks his age, an older man, 5'11", thin and stooped, skin that is pale, wind-burnt, a heavy, blunt face, a long drooping nose with a wart, sunken cheeks and flour-caked pitted skin, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, unflattering rough-hewn features, pale blue eyes, thin silver hair, a wind-chapped nose, fully nude, no clothing, standing easy with the weight on one leg, the head tilted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, blunt, plain, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
+## E06-6 Oswald (man, 22) – E06 Wethering The Gale Mill
+_miller's apprentice, strong_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Oswald, 22-year-old human man, 6'5", huge and heavily muscled, ruddy brown skin, a playful, dimpled face, pale blue eyes, straw-blond hair, a scar on the hand, wearing a sleeveless floury shirt and trousers, standing with the arms crossed and the chin lifted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, laughing smile, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Oswald, 22-year-old human man, 6'5", huge and heavily muscled, ruddy brown skin, a playful, dimpled face, pale blue eyes, straw-blond hair, a scar on the hand, fully nude, no clothing, standing with the arms folded over the chest, the shoulders back, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, giggling, flushed, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
+## E06-7 Edwy (man, 49) – E06 Wethering The Beck Grindery
+_water-miller at the Beck Grindery, deaf from the wheel_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Edwy, 49-year-old human man who looks his age, 5'10", tall and lean, wind-reddened skin, a heavy, blunt face, pale blue eyes, hair streaked with grey, dirt under the nails, wearing a apron and boots, a cloth cap, standing with the arms at the sides, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, grim smirk, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Edwy, 49-year-old human man who looks his age, 5'10", tall and lean, wind-reddened skin, a heavy, blunt face, pale blue eyes, hair streaked with grey, dirt under the nails, fully nude, no clothing, standing upright with the arms at the sides, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, blunt, plain, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
+## E06-8 Elsa (woman, 45) – E06 Wethering The Beck Grindery
+_miller's wife, cheerful_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Elsa, 45-year-old human woman who looks her age, 5'7", slender, a D cup bust, wind-reddened skin, a friendly, round face, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, pale blue eyes, greying sandy hair in a plait, weathered hands, wearing an apron over a brown dress, flour on her face, standing with the weight on one leg and the head tilted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, warm smile, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Elsa, 45-year-old human woman who looks her age, 5'7", slender, a D cup bust, wind-reddened skin, a friendly, round face, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, pale blue eyes, greying sandy hair in a plait, weathered hands, fully nude, no clothing, standing with a relaxed hip tilt, the arms loose at the sides, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, amused, easy, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+## E06-9 Alfreda (woman, 43) – E06 Wethering The Bakers Bin
+_baker, up before dawn_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Alfreda, 43-year-old human woman who looks her age, 5'2", compact and curvy, a D cup bust, freckled and sunburnt skin, a kind, creased face, grey eyes, chestnut hair, windswept, wearing an apron and a floured head scarf, standing with the hands clasped in front, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, kind, easy smile, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Alfreda, 43-year-old human woman who looks her age, 5'2", compact and curvy, a D cup bust, freckled and sunburnt skin, a kind, creased face, grey eyes, chestnut hair, windswept, fully nude, no clothing, standing with the arms behind the back, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, amused, easy, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+## E06-10 Ragnall (man, 56) – E06 Wethering The Tenants Parley
+_tenants' reeve, speaks for them all_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Ragnall, 56-year-old human man who looks his age, an older man, 6'1", average, fit, wind-reddened skin, a calm, even face, brown eyes, hair streaked with grey, wearing a clean shirt and waistcoat, a tidy hat, rolled sleeves, standing with the arms folded across the chest and the weight on one leg, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, quiet, steady look, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Ragnall, 56-year-old human man who looks his age, an older man, 6'1", average, fit, wind-reddened skin, a calm, even face, brown eyes, hair streaked with grey, fully nude, no clothing, standing with the arms crossed and the chin lifted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, calm, steady, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
+## E06-11 Eleanor (woman, 37) – E06 Wethering The Tenants Parley
+_tenants' clerk, keeps the minutes_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Eleanor, 37-year-old human woman, 5'4", full-figured, an E cup bust, skin that is pale, wind-burnt, a quiet, thoughtful face, brown eyes, dark hair in a bun, wearing a plain blue dress and a shawl, standing with the hands clasped behind the back and the chest lifted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, patient half-smile, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Eleanor, 37-year-old human woman, 5'4", full-figured, an E cup bust, skin that is pale, wind-burnt, a quiet, thoughtful face, brown eyes, dark hair in a bun, fully nude, no clothing, standing with the arms behind the back, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, calm, steady, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+## E06-12 Bede (man, 55) – E06 Wethering The Plough and Harrow
+_landlord of the Plough and Harrow, big laugh_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Bede, 55-year-old human man who looks his age, an older man, 5'11", compact and tough, wind-reddened skin, a bold, striking face, hazel eyes, greying sandy hair, wearing a leather apron over a checked shirt, standing upright with the arms at the sides, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, bright, daring smile, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Bede, 55-year-old human man who looks his age, an older man, 5'11", compact and tough, wind-reddened skin, a bold, striking face, hazel eyes, greying sandy hair, fully nude, no clothing, standing with the arms relaxed at the sides and the chin lifted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, confident, amused, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
+## E06-13 Cyneburg (woman, 29) – E06 Wethering The Plough and Harrow
+_barmaid at the Harrow, bawdy_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Cyneburg, 29-year-old human woman, 5'3", slender, a B cup bust, wind-reddened skin, a cheeky, freckled face, hazel eyes, straw-blond hair pinned, a wind-chapped nose, wearing a laced bodice and a short skirt, an apron, standing with the fingertips resting at the collarbone, the head tilted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, laughing smile, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Cyneburg, 29-year-old human woman, 5'3", slender, a B cup bust, wind-reddened skin, a cheeky, freckled face, hazel eyes, straw-blond hair pinned, a wind-chapped nose, fully nude, no clothing, standing with one hand at the collarbone, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, playful, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+## E06-14 Leofwin (man, 47) – E06 Wethering The Harvest Barn
+_barn warden, keeps the harvest store_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Leofwin, 47-year-old human man who looks his age, 5'9", lean and wiry, freckled and sunburnt skin, a patient, composed face, green eyes, greying brown hair, freckles, wearing a wide hat and a smock, standing with the arms at the sides, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, calm nod, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Leofwin, 47-year-old human man who looks his age, 5'9", lean and wiry, freckled and sunburnt skin, a patient, composed face, green eyes, greying brown hair, freckles, fully nude, no clothing, standing upright with the arms at the sides, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, calm, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
+## E06-15 Aelfgifu (woman, 23) – E06 Wethering The Harvest Barn
+_farm lass at the barn, cheerful_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Aelfgifu, 23-year-old human woman, 5'9", sturdy, an E cup bust, ruddy brown skin, a cheeky, freckled face, brown eyes, dark hair in a bun, dirt under the nails, wearing a short dress and an apron, straw in her hair, standing with a relaxed hip tilt, the arms loose at the sides, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, playful wink, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Aelfgifu, 23-year-old human woman, 5'9", sturdy, an E cup bust, ruddy brown skin, a cheeky, freckled face, brown eyes, dark hair in a bun, dirt under the nails, fully nude, no clothing, standing with the weight on one hip and the arms loose, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, playful, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+## E06-16 Alvilda (woman, 34) – E06 Wethering The Churn Dairy
+_dairymaid, big-armed and loud_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Alvilda, 34-year-old human woman, 5'8", athletic, a D cup bust, weathered pink skin, a friendly, round face, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, hazel eyes, ginger hair, tied back, wearing a milking apron and a head scarf, sleeves rolled, standing with the weight on one leg, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, warm smile, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Alvilda, 34-year-old human woman, 5'8", athletic, a D cup bust, weathered pink skin, a friendly, round face, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, hazel eyes, ginger hair, tied back, fully nude, no clothing, standing with the weight on one leg and the head tilted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, warm, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+## E06-17 Dilys (woman, 50) – E06 Wethering The Churn Dairy
+_cheesemaker, patient_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Dilys, 50-year-old human woman who looks her age, 5'6", curvy, a C cup bust, ruddy skin, a calm, even face, blue eyes, hair streaked with grey, dirt under the nails, wearing a white apron and cap, standing with a hand on the hip and the shoulders back, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, patient half-smile, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Dilys, 50-year-old human woman who looks her age, 5'6", curvy, a C cup bust, ruddy skin, a calm, even face, blue eyes, hair streaked with grey, dirt under the nails, fully nude, no clothing, standing with one hand resting on the hip, the head tilted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, calm, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+## E06-18 Kenric (man, 59) – E06 Wethering The Wheelwright
+_wheelwright, careful with the spokes_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Kenric, 59-year-old human man who looks his age, an older man, 5'11", heavy and slow, ruddy brown skin, a craggy, honest face, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, hazel eyes, grey hair, a trimmed beard, weathered hands, wearing a leather apron and shirtsleeves, standing with one hand on the hip and the weight on one leg, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, gruff nod, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Kenric, 59-year-old human man who looks his age, an older man, 5'11", heavy and slow, ruddy brown skin, a craggy, honest face, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, hazel eyes, grey hair, a trimmed beard, weathered hands, fully nude, no clothing, standing with one hand on the hip, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, blunt, plain, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
+## E06-19 Kolgrim (man, 44) – E06 Wethering The Farrier
+_blacksmith, huge and quiet_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Kolgrim, 44-year-old human man who looks his age, 6'6", broad, thick and powerful, weathered pink skin, a craggy, honest face, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, brown eyes, sandy hair, windswept, weathered hands, wearing a sleeveless leather apron over bare arms, soot, standing relaxed with one hand behind the head, the other arm loose, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, blunt scowl, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Kolgrim, 44-year-old human man who looks his age, 6'6", broad, thick and powerful, weathered pink skin, a craggy, honest face, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, brown eyes, sandy hair, windswept, weathered hands, fully nude, no clothing, standing with both hands behind the head, relaxed, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, blunt, plain, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
+## E06-20 Ubbe (man, 20) – E06 Wethering The Farrier
+_smith's lad, sweaty_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Ubbe, 22-year-old human man, an adult man with defined cheekbones and mature features, 6'3", broad and strong, skin that is pale, wind-burnt, a cheeky, freckled face, grey eyes, ginger hair and beard, wearing a sleeveless shirt and an apron, standing with both hands behind the head, relaxed, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, laughing smile, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Ubbe, 22-year-old human man, an adult man with defined cheekbones and mature features, 6'3", broad and strong, skin that is pale, wind-burnt, a cheeky, freckled face, grey eyes, ginger hair and beard, fully nude, no clothing, standing with one hand behind the head and the weight on one leg, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, giggling, flushed, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
+## E06-21 Gytha (woman, 48) – E06 Wethering The Barley Store
+_storekeeper of the Barley Store_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Gytha, 48-year-old human woman who looks her age, 5'7", soft and curvy, a C cup bust, freckled and sunburnt skin, a warm, open face, green eyes, chestnut hair, windswept, wearing a plain dress, an apron and a shawl, standing with one hand on the hip and the weight on one leg, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, warm smile, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Gytha, 48-year-old human woman who looks her age, 5'7", soft and curvy, a C cup bust, freckled and sunburnt skin, a warm, open face, green eyes, chestnut hair, windswept, fully nude, no clothing, standing with the hand on the hip and the chin lifted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, amused, easy, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+## E06-22 Dolfin (man, 25) – E06 Wethering The Barley Store
+_storekeeper's boy_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Dolfin, 25-year-old human man, 5'7", lean and wiry, skin that is pale, wind-burnt, a mischievous, bright face, hazel eyes, sandy hair, windswept, dirt under the nails, wearing a patched shirt, braces and a flat cap, standing with a hand on the hip and the head tilted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, cheeky grin, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Dolfin, 25-year-old human man, 5'7", lean and wiry, skin that is pale, wind-burnt, a mischievous, bright face, hazel eyes, sandy hair, windswept, dirt under the nails, fully nude, no clothing, standing with one hand on the hip and the weight on one leg, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, giggling, flushed, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
+## E06-23 Hereward (man, 61) – E06 Wethering The Hilltop Meeting
+_preacher of the Hilltop Meeting, mild_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Hereward, 61-year-old human man who looks his age, an older man, 5'10", spare and upright, ruddy brown skin, a quiet, thoughtful face, brown eyes, iron-grey hair, a trimmed beard, a scar on the hand, wearing a black coat and a white collar, standing with the weight on one leg, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, patient half-smile, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Hereward, 61-year-old human man who looks his age, an older man, 5'10", spare and upright, ruddy brown skin, a quiet, thoughtful face, brown eyes, iron-grey hair, a trimmed beard, a scar on the hand, fully nude, no clothing, standing easy with the weight on one leg, the head tilted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, calm, steady, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
+## E06-24 Heulwen (woman, 57) – E06 Wethering The Hilltop Meeting
+_preacher's wife, brisk_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Heulwen, 57-year-old human woman who looks her age, an older woman, 5'9", tall and slim, an E cup bust, skin that is fair, freckled, a hard, handsome face, a sour pinched face, a hairy mole by the mouth and thin lips, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, unflattering rough-hewn features, blue eyes, ginger hair, tied back, dirt under the nails, wearing a dark dress and a bonnet, standing with one hand sweeping the hair over one shoulder, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, cold, measuring stare, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Heulwen, 57-year-old human woman who looks her age, an older woman, 5'9", tall and slim, an E cup bust, skin that is fair, freckled, a hard, handsome face, a sour pinched face, a hairy mole by the mouth and thin lips, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, unflattering rough-hewn features, blue eyes, ginger hair, tied back, dirt under the nails, fully nude, no clothing, standing with the hair over one shoulder, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, stern, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+## E06-25 Beatha (woman, 42) – E06 Wethering The Hornbook
+_hedge-schoolmistress, patient_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Beatha, 42-year-old human woman who looks her age, 5'5", compact and curvy, a C cup bust, skin that is fair, freckled, a warm, open face, pale blue eyes, dark hair in a bun, a wind-chapped nose, wearing a neat grey dress and a shawl, standing with the weight on one leg and the head tilted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, warm smile, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Beatha, 42-year-old human woman who looks her age, 5'5", compact and curvy, a C cup bust, skin that is fair, freckled, a warm, open face, pale blue eyes, dark hair in a bun, a wind-chapped nose, fully nude, no clothing, standing with a relaxed hip tilt, the arms loose at the sides, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, amused, easy, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+## E06-26 Thurstan (man, 53) – E06 Wethering The Hornbook
+_schoolmaster, stern and kind_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Thurstan, 53-year-old human man who looks his age, 6'1", heavy-set, wind-reddened skin, a severe, composed face, pale blue eyes, ginger hair and beard, freckles, wearing a worn black coat and spectacles, standing with the hands on the hips and the chest out, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, tight, disapproving look, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Thurstan, 53-year-old human man who looks his age, 6'1", heavy-set, wind-reddened skin, a severe, composed face, pale blue eyes, ginger hair and beard, freckles, fully nude, no clothing, standing square with the hands on the hips, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, stern, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
+## E06-27 Phoebe (woman, 62) – E06 Wethering The Midwifery
+_midwife and healer, knows every family_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Phoebe, 62-year-old human woman who looks her age, an older woman, 5'4", stout, an E cup bust, skin that is pale, wind-burnt, a friendly, round face, a double chin, a hairy mole on the cheek and ruddy broken veins, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, unflattering rough-hewn features, green eyes, white hair, dirt under the nails, wearing an apron over a brown dress, herbs tucked in her belt, standing with the weight on one leg and the head tilted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, friendly grin, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Phoebe, 62-year-old human woman who looks her age, an older woman, 5'4", stout, an E cup bust, skin that is pale, wind-burnt, a friendly, round face, a double chin, a hairy mole on the cheek and ruddy broken veins, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, unflattering rough-hewn features, green eyes, white hair, dirt under the nails, fully nude, no clothing, standing with a relaxed hip tilt, the arms loose at the sides, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, amused, easy, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+## E06-28 Oswyn (woman, 24) – E06 Wethering The Midwifery
+_healer's assistant, young and shy_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Oswyn, 24-year-old human woman, 5'5", curvy, a C cup bust, skin that is pale, wind-burnt, a nervous face, hazel eyes, ginger hair, tied back, dirt under the nails, wearing a plain dress with rolled sleeves, standing with the weight on one leg, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, nervous smile, eyes lowered, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Oswyn, 24-year-old human woman, 5'5", curvy, a C cup bust, skin that is pale, wind-burnt, a nervous face, hazel eyes, ginger hair, tied back, dirt under the nails, fully nude, no clothing, standing with the weight on one leg and the head tilted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, shy, eyes lowered, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+## E06-29 Godgifu (woman, 60) – E06 Wethering Cottage Lane
+_Barnaby's mother, keeps the cottage, proud of him_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Godgifu, 60-year-old human woman who looks her age, an older woman, 5'10", big and broad, thick arms, an F cup bust, sunburnt and freckled skin, a broad, open, cheerful face, worn but kind, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, blue eyes, straw-blond hair going grey, thick and tousled under a cap, weathered hands, wearing a patched brown dress, a shawl and an apron, a cap over her hair, standing with the hands clasped in front, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, friendly grin, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Godgifu, 60-year-old human woman who looks her age, an older woman, 5'10", big and broad, thick arms, an F cup bust, sunburnt and freckled skin, a broad, open, cheerful face, worn but kind, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, blue eyes, straw-blond hair going grey, thick and tousled under a cap, weathered hands, fully nude, no clothing, standing with the hands clasped behind the back and the chest lifted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, warm, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+## E06-30 Cathryn (woman, 57) – E06 Wethering Cottage Lane
+_Barnaby's aunt, her sister, sharp-tongued_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Cathryn, 57-year-old human woman who looks her age, an older woman, 5'8", big and broad, a B cup bust, sunburnt and freckled skin, a broad, open, cheerful face, blue eyes, straw-blond hair going grey, tied back, freckles, wearing a patched blue dress and a head scarf, standing with the fingertips resting at the collarbone, the head tilted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, grim smirk, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Cathryn, 57-year-old human woman who looks her age, an older woman, 5'8", big and broad, a B cup bust, sunburnt and freckled skin, a broad, open, cheerful face, blue eyes, straw-blond hair going grey, tied back, freckles, fully nude, no clothing, standing with one hand at the collarbone, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, blunt, plain, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+## E06-31 Gethin (man, 48) – E06 Wethering The Hurdle Fold
+_shepherd, whistles to his dogs_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Gethin, 48-year-old human man who looks his age, 5'8", average, fit, skin that is fair, freckled, a craggy, honest face, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, pale blue eyes, hair streaked with grey, weathered hands, wearing a wool jerkin, a long coat and a tall hat, standing with the arms folded across the chest and the weight on one leg, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, grim smirk, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Gethin, 48-year-old human man who looks his age, 5'8", average, fit, skin that is fair, freckled, a craggy, honest face, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, pale blue eyes, hair streaked with grey, weathered hands, fully nude, no clothing, standing with the arms crossed and the chin lifted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, gruff, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
+## E06-32 Kitty (woman, 30) – E06 Wethering The Hurdle Fold
+_shepherdess, fast on the hill_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Kitty, 30-year-old human woman, 5'6", slender, an E cup bust, skin that is pale, wind-burnt, a patient, composed face, grey eyes, straw-blond hair pinned, wearing a patched dress under a coat, a scarf, standing with the hands clasped in front, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, calm nod, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Kitty, 30-year-old human woman, 5'6", slender, an E cup bust, skin that is pale, wind-burnt, a patient, composed face, grey eyes, straw-blond hair pinned, fully nude, no clothing, standing with the arms behind the back, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, calm, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+## E06-33 Tostig (man, 69) – E06 Wethering Windmill Ridge
+_windmill-ridge lookout, old and wise_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Tostig, 69-year-old human man who looks his age, an older man, 5'9", spare and upright, wind-reddened skin, a lined, resigned face, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, blue eyes, white hair, dirt under the nails, wearing a long coat and a woolly hat, standing with the arms folded across the chest and the weight on one leg, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, weary nod, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Tostig, 69-year-old human man who looks his age, an older man, 5'9", spare and upright, wind-reddened skin, a lined, resigned face, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, blue eyes, white hair, dirt under the nails, fully nude, no clothing, standing with the arms crossed and the chin lifted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, resigned, plain, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
+## E06-34 Fulk (man, 57) – E06 Wethering The Poorhouse
+_master of the poorhouse, stingy_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Fulk, 57-year-old human man who looks his age, an older man, 5'7", solid and thick, weathered pink skin, a stern, lined face, a pinched mean face, thin cracked lips and a large wart beside the nose, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, unflattering rough-hewn features, grey eyes, hair streaked with grey, a scar on the hand, wearing a threadbare black coat and gloves, standing with a hand on the hip and the head tilted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, tight, disapproving look, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Fulk, 57-year-old human man who looks his age, an older man, 5'7", solid and thick, weathered pink skin, a stern, lined face, a pinched mean face, thin cracked lips and a large wart beside the nose, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, unflattering rough-hewn features, grey eyes, hair streaked with grey, a scar on the hand, fully nude, no clothing, standing with one hand on the hip and the weight on one leg, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, stern, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
+## E06-35 Eadgyth (woman, 46) – E06 Wethering The Poorhouse
+_poorhouse nurse, overworked_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Eadgyth, 46-year-old human woman who looks her age, 5'1", slender, a B cup bust, ruddy brown skin, a drawn, weary face, sallow tired skin, sunken eyes and cracked lips, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, unflattering rough-hewn features, brown eyes, ginger hair, tied back, weathered hands, wearing a grey dress and apron, her hair under a cap, standing with the arms behind the back, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, tired smile, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Eadgyth, 46-year-old human woman who looks her age, 5'1", slender, a B cup bust, ruddy brown skin, a drawn, weary face, sallow tired skin, sunken eyes and cracked lips, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, unflattering rough-hewn features, brown eyes, ginger hair, tied back, weathered hands, fully nude, no clothing, standing with the arms behind the back and the head tilted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, resigned, plain, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+## E06-36 Owain (man, 43) – E06 Wethering The Bailiffs Billet
+_chief bailiff, one of the agent's hired men_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Owain, 43-year-old human man who looks his age, 6'6", broad, thick and powerful, weathered pink skin, a gruff, battered face, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, green eyes, grey-brown hair, tousled, weathered hands, wearing a heavy coat and boots, a stout cap, standing with the arms relaxed at the sides and the chin lifted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, gruff nod, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Owain, 43-year-old human man who looks his age, 6'6", broad, thick and powerful, weathered pink skin, a gruff, battered face, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, green eyes, grey-brown hair, tousled, weathered hands, fully nude, no clothing, standing tall with the arms loose at the sides, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, blunt, plain, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
+## E06-37 Dewi (man, 31) – E06 Wethering The Bailiffs Billet
+_bailiff, brutish and bored_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Dewi, 31-year-old human man, 6'6", huge and heavily muscled, skin that is pale, wind-burnt, a gruff, battered face, a flattened nose, a thick brutish brow and pitted ruddy cheeks, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, unflattering rough-hewn features, hazel eyes, brown hair, thick, wearing a leather jerkin and heavy boots, standing with one hand on the hip, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, blunt scowl, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Dewi, 31-year-old human man, 6'6", huge and heavily muscled, skin that is pale, wind-burnt, a gruff, battered face, a flattened nose, a thick brutish brow and pitted ruddy cheeks, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, unflattering rough-hewn features, hazel eyes, brown hair, thick, fully nude, no clothing, standing with one hand on the hip, the other arm loose, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, gruff, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
+## E06-38 Jessamy (woman, 52) – E06 Wethering The Drovers Arms
+_landlady of the Drovers Arms_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Jessamy, 52-year-old human woman who looks her age, 5'4", curvy, a C cup bust, ruddy brown skin, a friendly, round face, grey eyes, hair streaked with grey, a wind-chapped nose, wearing a green dress and apron, keys at her belt, standing with one hand at the collarbone and the weight on one leg, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, kind, easy smile, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Jessamy, 52-year-old human woman who looks her age, 5'4", curvy, a C cup bust, ruddy brown skin, a friendly, round face, grey eyes, hair streaked with grey, a wind-chapped nose, fully nude, no clothing, standing with one hand lifted to the collarbone and the other arm loose, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, warm, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+## E06-39 Llew (man, 21) – E06 Wethering The Drovers Arms
+_stable lad at the Arms_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Llew, 22-year-old human man, an adult man with defined cheekbones and mature features, 5'9", broad and strong, ruddy skin, a cheeky, freckled face, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, green eyes, dark hair, cropped, weathered hands, wearing a patched shirt, a leather apron, standing with one hand behind the head and the weight on one leg, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, laughing smile, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Llew, 22-year-old human man, an adult man with defined cheekbones and mature features, 5'9", broad and strong, ruddy skin, a cheeky, freckled face, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, green eyes, dark hair, cropped, weathered hands, fully nude, no clothing, standing relaxed with one hand behind the head, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, playful, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
+## E06-40 Hywel (man, 46) – E06 Wethering The Shearing Stand
+_shearing boss, loud and quick_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Hywel, 46-year-old human man who looks his age, 6'4", lean and wiry, wind-reddened skin, a craggy, honest face, hazel eyes, greying ginger hair and beard, a wind-chapped nose, wearing a sleeveless vest and rolled trousers, a bandana, standing with the arms crossed over the chest, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, blunt scowl, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Hywel, 46-year-old human man who looks his age, 6'4", lean and wiry, wind-reddened skin, a craggy, honest face, hazel eyes, greying ginger hair and beard, a wind-chapped nose, fully nude, no clothing, standing with the arms folded across the chest and the weight on one leg, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, blunt, plain, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
+## E06-41 Haldane (man, 56) – E06 Wethering The Cider Press
+_cider-presser, always a little drunk_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Haldane, 56-year-old human man who looks his age, an older man, 6'0", compact and tough, wind-reddened skin, a confident, laughing face, a bulbous veined red nose, bloodshot eyes and a sagging double chin, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, unflattering rough-hewn features, brown eyes, sandy hair, windswept, dirt under the nails, wearing a sleeveless smock stained with juice, a flat cap, standing with the arms relaxed at the sides and the chin lifted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, bright, daring smile, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Haldane, 56-year-old human man who looks his age, an older man, 6'0", compact and tough, wind-reddened skin, a confident, laughing face, a bulbous veined red nose, bloodshot eyes and a sagging double chin, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, unflattering rough-hewn features, brown eyes, sandy hair, windswept, dirt under the nails, fully nude, no clothing, standing tall with the arms loose at the sides, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, bold, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
+## E06-42 Ulla (woman, 63) – E06 Wethering The Empty Manor
+_caretaker of the Empty Manor, bored_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Ulla, 63-year-old human woman who looks her age, an older woman, 5'8", soft and heavy, an F cup bust, skin that is fair, freckled, a drawn, weary face, a hairy wart on the chin, faint moustache hairs and sagging jowls, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, unflattering rough-hewn features, blue eyes, white hair, thinning, freckles, wearing a faded black dress and a lace cap, standing with the arms behind the back, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, weary nod, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Ulla, 63-year-old human woman who looks her age, an older woman, 5'8", soft and heavy, an F cup bust, skin that is fair, freckled, a drawn, weary face, a hairy wart on the chin, faint moustache hairs and sagging jowls, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, unflattering rough-hewn features, blue eyes, white hair, thinning, freckles, fully nude, no clothing, standing with the arms behind the back and the head tilted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, resigned, plain, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+## E06-43 Rhys (man, 49) – E06 Wethering The Arrears Granary
+_collector who takes rent in favours, genial_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Rhys, 49-year-old human man who looks his age, 5'6", tall and lean, skin that is ruddy, oily and sweat-sheened, a quick, watchful face, a greasy sweating face, wet loose lips and uneven yellow teeth, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, unflattering rough-hewn features, blue eyes, greying brown hair, a scar on the hand, wearing a green velvet coat and a gold pocketwatch, standing with both hands behind the head, relaxed, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, knowing smirk, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Rhys, 49-year-old human man who looks his age, 5'6", tall and lean, skin that is ruddy, oily and sweat-sheened, a quick, watchful face, a greasy sweating face, wet loose lips and uneven yellow teeth, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, unflattering rough-hewn features, blue eyes, greying brown hair, a scar on the hand, fully nude, no clothing, standing with one hand behind the head and the weight on one leg, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, sly, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
+## E06-44 Verena (woman, 32) – E06 Wethering The Arrears Granary
+_tenant's wife working off the rent_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Verena, 32-year-old human woman, 5'6", curvy, a B cup bust, ruddy brown skin, a shy, soft face, hazel eyes, sandy hair in a plait, a wind-chapped nose, wearing a plain dress and apron, tired eyes, standing with the weight on one leg and the head tilted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, nervous smile, eyes lowered, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Verena, 32-year-old human woman, 5'6", curvy, a B cup bust, ruddy brown skin, a shy, soft face, hazel eyes, sandy hair in a plait, a wind-chapped nose, fully nude, no clothing, standing with a relaxed hip tilt, the arms loose at the sides, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, shy, eyes lowered, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+## E06-45 Brigid (woman, 44) – E06 Wethering The Collectors Snug
+_keeper of the Snug, never asks questions_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Brigid, 44-year-old human woman who looks her age, 5'6", curvy, an F cup bust, freckled and sunburnt skin, a sharp, smirking face, a hard sallow face, a wart beside the nose and a sneering thin mouth, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, unflattering rough-hewn features, hazel eyes, brown hair under a cap, dirt under the nails, wearing a thin linen shift and stockings, standing with one hand resting on the hip, the head tilted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, narrowed, watchful look, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Brigid, 44-year-old human woman who looks her age, 5'6", curvy, an F cup bust, freckled and sunburnt skin, a sharp, smirking face, a hard sallow face, a wart beside the nose and a sneering thin mouth, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, unflattering rough-hewn features, hazel eyes, brown hair under a cap, dirt under the nails, fully nude, no clothing, standing with one hand on the hip and the weight on one leg, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, knowing, amused, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+## E06-46 Thorold (man, 35) – E06 Wethering The Collectors Snug
+_collector's favourite, charming_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Thorold, 35-year-old human man, 5'9", spare and tall, skin that is fair, freckled, a bold, striking face, hazel eyes, sandy hair, windswept, freckles, wearing linen drawers, standing with the arms folded across the chest and the weight on one leg, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, confident, knowing smile, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Thorold, 35-year-old human man, 5'9", spare and tall, skin that is fair, freckled, a bold, striking face, hazel eyes, sandy hair, windswept, freckles, fully nude, no clothing, standing with the arms crossed and the chin lifted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, confident, amused, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
+## E06-W1 Yngvar (man, 45) – E06 Wethering The Cornfield and The Lambing Croft (pop-up)
+_farmer on his way to market_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Yngvar, 45-year-old human man who looks his age, 5'6", stocky, weathered pink skin, a gruff, battered face, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, green eyes, hair streaked with grey, dirt under the nails, wearing a patched coat and a hat, standing with the arms relaxed at the sides and the chin lifted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, blunt scowl, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Yngvar, 45-year-old human man who looks his age, 5'6", stocky, weathered pink skin, a gruff, battered face, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, green eyes, hair streaked with grey, dirt under the nails, fully nude, no clothing, standing tall with the arms loose at the sides, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, gruff, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
+## E06-W2 Magnhild (woman, 22) – E06 Wethering The Cornfield and The Lambing Croft (pop-up)
+_farm girl with a basket of eggs_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Magnhild, 22-year-old human woman, 5'1", sturdy, a D cup bust, skin that is fair, freckled, a cheeky, freckled face, brown eyes, brown hair under a cap, wearing a simple dress and a straw hat, standing with the hands lightly clasped in front and the shoulders back, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, laughing smile, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Magnhild, 22-year-old human woman, 5'1", sturdy, a D cup bust, skin that is fair, freckled, a cheeky, freckled face, brown eyes, brown hair under a cap, fully nude, no clothing, standing with the arms behind the back and the head tilted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, playful, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+## E06-W3 Ingolf (man, 38) – E06 Wethering The Hay Mow and The Hedgerow and The Shame Post (pop-up)
+_tenant caught short of the rent_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Ingolf, 38-year-old human man, 5'11", stocky, ruddy skin, a drawn, weary face, green eyes, ginger hair and beard, a wind-chapped nose, wearing a torn shirt and braces, no hat, standing with a hand on the hip and the head tilted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, weary nod, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Ingolf, 38-year-old human man, 5'11", stocky, ruddy skin, a drawn, weary face, green eyes, ginger hair and beard, a wind-chapped nose, fully nude, no clothing, standing with one hand on the hip and the weight on one leg, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, resigned, plain, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
+## E06-W4 Mildred (woman, 34) – E06 Wethering The Hay Mow and The Hedgerow and The Shame Post (pop-up)
+_tenant's wife in the village stocks_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Mildred, 34-year-old human woman, 5'0", slender, a C cup bust, ruddy brown skin, a nervous face, pale blue eyes, brown hair under a cap, wearing a ragged dress, standing with one hand lifted to the hair, the other arm loose, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, flustered smile, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Mildred, 34-year-old human woman, 5'0", slender, a C cup bust, ruddy brown skin, a nervous face, pale blue eyes, brown hair under a cap, fully nude, no clothing, standing with the head tilted and the hair falling over one shoulder, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, shy, flushed, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+## E06-W5 Jarl (man, 27) – E06 Wethering The Hay Mow and The Hedgerow and The Shame Post (pop-up)
+_hired man slipping off the job_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Jarl, 27-year-old human man, 6'4", broad and strong, wind-reddened skin, a quick, watchful face, blue eyes, brown hair, thick, wearing a leather jerkin, loose shirt, standing with the weight on one leg and the arms loose, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, knowing smirk, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Jarl, 27-year-old human man, 6'4", broad and strong, wind-reddened skin, a quick, watchful face, blue eyes, brown hair, thick, fully nude, no clothing, standing with the weight on one leg, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, sly, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
+## E06-W6 Jolenta (woman, 26) – E06 Wethering The Hay Mow and The Hedgerow and The Shame Post (pop-up)
+_barmaid on her break_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Jolenta, 26-year-old human woman, 5'6", compact and curvy, a C cup bust, weathered pink skin, a playful, dimpled face, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, brown eyes, brown hair under a cap, wearing a loose blouse and a short skirt, an apron, standing with the arms behind the back and the head tilted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, playful wink, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Jolenta, 26-year-old human woman, 5'6", compact and curvy, a C cup bust, weathered pink skin, a playful, dimpled face, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, brown eyes, brown hair under a cap, fully nude, no clothing, standing with the hands behind the back, leaning slightly forward, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, playful, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+## E06-W7 Tegid (man, 30) – E06 Wethering The Lye Washing (pop-up)
+_farmhand washing after the day_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Tegid, 30-year-old human man, 5'7", lean and wiry, ruddy brown skin, a quiet, thoughtful face, blue eyes, dark hair, cropped, wearing a plain work shirt and trousers, standing with the weight on one leg and the arms loose, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, calm nod, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Tegid, 30-year-old human man, 5'7", lean and wiry, ruddy brown skin, a quiet, thoughtful face, blue eyes, dark hair, cropped, fully nude, no clothing, standing with the weight on one leg, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, calm, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
+**swim**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Tegid, 30-year-old human man, 5'7", lean and wiry, ruddy brown skin, a quiet, thoughtful face, blue eyes, dark hair, cropped, wearing linen drawers, standing with both hands behind the head, relaxed, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, calm nod, plain pale aqua-tinted cream background (#DDF3F1)
+
+## E06-W8 Nan (woman, 28) – E06 Wethering The Lye Washing (pop-up)
+_dairymaid washing_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Nan, 28-year-old human woman, 5'3", curvy, a C cup bust, ruddy brown skin, a warm, open face, pale blue eyes, straw-blond hair pinned, a scar on the hand, wearing a linen shift, her hair loose, standing with one hand lifted to the collarbone and the other arm loose, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, warm smile, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Nan, 28-year-old human woman, 5'3", curvy, a C cup bust, ruddy brown skin, a warm, open face, pale blue eyes, straw-blond hair pinned, a scar on the hand, fully nude, no clothing, standing with the fingertips resting at the collarbone, the head tilted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, amused, easy, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+**swim**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Nan, 28-year-old human woman, 5'3", curvy, a C cup bust, ruddy brown skin, a warm, open face, pale blue eyes, straw-blond hair pinned, a scar on the hand, wearing a plain one-piece swimsuit, standing with the weight on one leg and the head tilted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, warm smile, plain pale aqua-tinted cream background (#DDF3F1)
+
+## E06-W9 Neot (man, 20) – E06 Wethering The Duck Pond (pop-up)
+_lad swimming in the mill pond_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Neot, 22-year-old human man, an adult man with defined cheekbones and mature features, 5'7", solid and thick, ruddy skin, a mischievous, bright face, green eyes, dark hair, cropped, wearing a plain shirt and trousers, standing with the arms crossed over the chest, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, cheeky grin, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Neot, 22-year-old human man, an adult man with defined cheekbones and mature features, 5'7", solid and thick, ruddy skin, a mischievous, bright face, green eyes, dark hair, cropped, fully nude, no clothing, standing with the arms folded across the chest and the weight on one leg, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, giggling, flushed, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
+**swim**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Neot, 22-year-old human man, an adult man with defined cheekbones and mature features, 5'7", solid and thick, ruddy skin, a mischievous, bright face, green eyes, dark hair, cropped, wearing a short wrap-cloth, standing with one hand behind the head and the weight on one leg, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, cheeky grin, plain pale aqua-tinted cream background (#DDF3F1)
+
+## E06-W10 Idonea (woman, 23) – E06 Wethering The Duck Pond (pop-up)
+_girl swimming in the pond_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Idonea, 23-year-old human woman, 5'8", slim, a D cup bust, skin that is fair, freckled, a mischievous, bright face, hazel eyes, ginger hair, tied back, dirt under the nails, wearing a thin shift, hair loose, standing with one hand at the collarbone, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, playful wink, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Idonea, 23-year-old human woman, 5'8", slim, a D cup bust, skin that is fair, freckled, a mischievous, bright face, hazel eyes, ginger hair, tied back, dirt under the nails, fully nude, no clothing, standing with one hand at the collarbone and the weight on one leg, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, playful, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+**swim**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Idonea, 23-year-old human woman, 5'8", slim, a D cup bust, skin that is fair, freckled, a mischievous, bright face, hazel eyes, ginger hair, tied back, dirt under the nails, wearing a cotton slip, standing with the weight on one hip and the arms loose, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, playful wink, plain pale aqua-tinted cream background (#DDF3F1)

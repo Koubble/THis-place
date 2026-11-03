@@ -176,7 +176,7 @@ def core(r):
 SWIM_PLACE = re.compile(r"\bbath|\bspa\b|\bpools\b|\bbeach\b|\bcove\b|\bshore\b(?! leave)|\bshingle\b|\bstrand\b|\bspring|\bseep\b|"
                         r"\bbasins?\b|\bplunge\b|\bsauna|sweat hall|thaw house|scrub house|\bwash|\blido\b|tide cave|"
                         r"sunbath|pontoon|\bmere\b|cleansing|changing hut|massage|masseu|kneading|swimm|lifeguard|"
-                        r"surfer|steam kettle|thermal|vapour tank|cistern|cauldron|sudatorium|strigil|soak|lagoon|jetty|"
+                        r"surfer|steam kettle|thermal|vapour tank|cistern|cauldron|sudatorium|strigil|soak|lagoon|jetty|wallow|oasis dip|brimstone fount|\bpond\b|\btubs?\b|mudflat|"
                         r"moorage|moorings|canal pier|seaward", re.I)
 
 
@@ -191,8 +191,9 @@ ADULT_STAFF = re.compile(r"attendant|keeper|cellarman|\bhost\b|hostess|madam|\bg
 ALLEY_PLACE = re.compile(r"back alley", re.I)
 # venues where everyone listed is an adult worker
 ADULT_VENUE = re.compile(r"crimson crypt|\bdomino\b|discreet suite|oubliette|\bunmasked\b|murmur booths|twilight revel|\bsmoulder\b|"
-                         r"peephole|rouge vestibule|private stakes|redemption rail|laurel chambers", re.I)
-NOT_ADULT = {"E03-33", "E08-8"}  # Dagmar: hostess of a social circle, not an adult worker
+                         r"peephole|rouge vestibule|private stakes|redemption rail|laurel chambers|scale boudoir|collectors snug|"
+                         r"sixpenny cots|poppy den", re.I)
+NOT_ADULT = {"E03-33", "E08-8", "E12-6", "E12-27", "E05-26"}  # Dagmar: hostess of a social circle, not an adult worker
 
 
 RAGGED = re.compile(r"selling|desperate|homeless|alley|street|sells (his|her) nights|lane|hustler|thief|drunk|pickpocket", re.I)

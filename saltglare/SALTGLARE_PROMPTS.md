@@ -1,0 +1,509 @@
+# Saltglare prompts
+
+## E12-1 Hamoud (man, 54) – E12 Saltglare The Evaporation Pans
+_pan boss, reads the brine by taste_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Hamoud, 54-year-old human man who looks his age, 5'7", solid and thick, deep tan skin, a craggy, honest face, amber eyes, hair streaked with grey, a silver nose ring, wearing a long wrapped robe and a dust-caked head cloth, standing relaxed with one hand behind the head, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, gruff nod, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Hamoud, 54-year-old human man who looks his age, 5'7", solid and thick, deep tan skin, a craggy, honest face, amber eyes, hair streaked with grey, a silver nose ring, fully nude, no clothing, standing relaxed with one hand behind the head, the other arm loose, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, gruff, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
+## E12-2 Amel (woman, 32) – E12 Saltglare The Evaporation Pans
+_pan raker, tireless_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Amel, 32-year-old human woman, 5'6", tall and slim, an E cup bust, copper skin, a quiet, thoughtful face, amber eyes, black hair in two plaits and a head-wrap, sun lines at the eyes, wearing a wrapped tunic and trousers, a veil against the glare, bare forearms, standing with one hand lifted to the collarbone and the other arm loose, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, quiet, steady look, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Amel, 32-year-old human woman, 5'6", tall and slim, an E cup bust, copper skin, a quiet, thoughtful face, amber eyes, black hair in two plaits and a head-wrap, sun lines at the eyes, fully nude, no clothing, standing with the fingertips resting at the collarbone, the head tilted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, calm, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+## E12-3 Kreth (man, 33) – E12 Saltglare The Evaporation Pans
+_pan raker, scalekin, tail swishing_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Kreth, 33-year-old scalekin man, a reptile-folk humanoid with fine scales over the whole body, a thick tail, a ridge of small spines or a frill down the back of the head and neck, a snouted but human-shaped face with slit-pupilled golden eyes and a forked tongue, and no hair, 6'0", compact and tough, rust-red scaled skin, a snouted, long-jawed face, patient, slit-pupilled gold eyes, no hair, a ridge of small spines down the back of the head, a frill dyed with ochre, wearing a loincloth-style wrap and a loose cloth around the shoulders, a tail free, standing with the arms crossed over the chest, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, quiet, steady look, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Kreth, 33-year-old scalekin man, a reptile-folk humanoid with fine scales over the whole body, a thick tail, a ridge of small spines or a frill down the back of the head and neck, a snouted but human-shaped face with slit-pupilled golden eyes and a forked tongue, and no hair, 6'0", compact and tough, rust-red scaled skin, a snouted, long-jawed face, patient, slit-pupilled gold eyes, no hair, a ridge of small spines down the back of the head, a frill dyed with ochre, fully nude, no clothing, standing with the arms folded across the chest and the weight on one leg, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, calm, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), ridged paired penis
+
+## E12-4 Nuzza (woman, 24) – E12 Saltglare The Evaporation Pans
+_young raker, scalekin, quick with the rake_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Nuzza, 24-year-old scalekin woman, a reptile-folk humanoid with fine scales over the whole body, a thick tail, a ridge of small spines or a frill down the back of the head and neck, a snouted but human-shaped face with slit-pupilled golden eyes and a forked tongue, and no hair, 6'1", compact and curvy, an E cup bust, ochre scaled skin, a snouted, watchful face, slit-pupilled gold eyes, no hair, a ridge of small spines down the back of the head, a banded tail, wearing a shortened wrap and a light cloth, her frill showing, standing with the hands clasped in front, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, cheeky grin, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Nuzza, 24-year-old scalekin woman, a reptile-folk humanoid with fine scales over the whole body, a thick tail, a ridge of small spines or a frill down the back of the head and neck, a snouted but human-shaped face with slit-pupilled golden eyes and a forked tongue, and no hair, 6'1", compact and curvy, an E cup bust, ochre scaled skin, a snouted, watchful face, slit-pupilled gold eyes, no hair, a ridge of small spines down the back of the head, a banded tail, fully nude, no clothing, standing with the arms behind the back, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, giggling, flushed, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+## E12-5 Numidi (man, 47) – E12 Saltglare The Brine Sheds
+_brine boiler, sweat and steam_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Numidi, 47-year-old human man who looks his age, 5'7", stocky, skin that is copper, cracked and salt-burned, a craggy, honest face, a lumpy salt-crusted face, a flattened nose and cracked weeping lips, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, unflattering rough-hewn features, dark brown eyes, dark hair, short, a salt-crusted beard, sun lines at the eyes, wearing a sleeveless smock soaked through, scarred forearms, standing upright with the arms at the sides, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, grim smirk, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Numidi, 47-year-old human man who looks his age, 5'7", stocky, skin that is copper, cracked and salt-burned, a craggy, honest face, a lumpy salt-crusted face, a flattened nose and cracked weeping lips, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, unflattering rough-hewn features, dark brown eyes, dark hair, short, a salt-crusted beard, sun lines at the eyes, fully nude, no clothing, standing with the arms relaxed at the sides and the chin lifted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, blunt, plain, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
+## E12-6 Kethra (woman, 36) – E12 Saltglare The Brine Sheds
+_drying-shed worker, scalekin, loves the heat_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Kethra, 36-year-old scalekin woman, a reptile-folk humanoid with fine scales over the whole body, a thick tail, a ridge of small spines or a frill down the back of the head and neck, a snouted but human-shaped face with slit-pupilled golden eyes and a forked tongue, and no hair, 5'7", soft and curvy, a D cup bust, green scaled skin, a snouted, long-jawed face, patient, slit-pupilled gold eyes, no hair, a ridge of small spines down the back of the head, fine scars along the snout, wearing a loose wrapped dress, her tail wrapped in a cloth, standing with one hand sweeping the hair over one shoulder, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, friendly grin, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Kethra, 36-year-old scalekin woman, a reptile-folk humanoid with fine scales over the whole body, a thick tail, a ridge of small spines or a frill down the back of the head and neck, a snouted but human-shaped face with slit-pupilled golden eyes and a forked tongue, and no hair, 5'7", soft and curvy, a D cup bust, green scaled skin, a snouted, long-jawed face, patient, slit-pupilled gold eyes, no hair, a ridge of small spines down the back of the head, fine scars along the snout, fully nude, no clothing, standing with the hair over one shoulder, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, amused, easy, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+## E12-7 Koceila (man, 59) – E12 Saltglare The Weighing Beam
+_tally-master, never cheated_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Koceila, 59-year-old human man who looks his age, an older man, 5'6", lean and weathered, copper skin, a stern, lined face, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, brown eyes, thin silver hair, salt-burned hands, wearing a plain robe, ink-blue fingers, standing easy with the weight on one leg, the head tilted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, tight, disapproving look, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Koceila, 59-year-old human man who looks his age, an older man, 5'6", lean and weathered, copper skin, a stern, lined face, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, brown eyes, thin silver hair, salt-burned hands, fully nude, no clothing, standing with a relaxed hip tilt, the arms loose, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, stern, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
+## E12-8 Hanifa (woman, 43) – E12 Saltglare The Weighing Beam
+_salt factor, trader from the caravans_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Hanifa, 43-year-old human woman who looks her age, 5'9", slim and curvy, a D cup bust, dark brown skin, a sly, clever face, black eyes, dark hair under a wrapped cloth, wearing a layered travelling robe and a turban, ink on her cuffs, standing with one hand on the hip and the weight on one leg, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, sly smile, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Hanifa, 43-year-old human woman who looks her age, 5'9", slim and curvy, a D cup bust, dark brown skin, a sly, clever face, black eyes, dark hair under a wrapped cloth, fully nude, no clothing, standing with the hand on the hip and the chin lifted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, sly, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+## E12-9 Thiziri (woman, 50) – E12 Saltglare The Wrap Shop
+_wrap-seller, can wrap you in any style_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Thiziri, 50-year-old human woman who looks her age, 5'9", slim and curvy, an E cup bust, olive-brown skin, a friendly, round face, deep wrinkles, a wart by the nose and cracked lips, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, unflattering rough-hewn features, brown eyes, dark hair under a wrapped cloth, cracked lips, wearing a plain dress with pins in the hem, standing with a hand on the hip and the shoulders back, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, kind, easy smile, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Thiziri, 50-year-old human woman who looks her age, 5'9", slim and curvy, an E cup bust, olive-brown skin, a friendly, round face, deep wrinkles, a wart by the nose and cracked lips, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, unflattering rough-hewn features, brown eyes, dark hair under a wrapped cloth, cracked lips, fully nude, no clothing, standing with one hand resting on the hip, the head tilted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, amused, easy, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+## E12-10 Younes (man, 52) – E12 Saltglare The Well Keepers
+_well keeper, hoards the water ledger_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Younes, 52-year-old human man who looks his age, 5'10", lean and wiry, deep tan skin, a hard, handsome face, a hooked sun-cracked nose, a hairy wart on the cheek and thin cracked lips, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, unflattering rough-hewn features, amber eyes, hair streaked with grey, wearing a long robe, cracked lips, standing with a relaxed hip tilt, the arms loose, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, stern, level look, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Younes, 52-year-old human man who looks his age, 5'10", lean and wiry, deep tan skin, a hard, handsome face, a hooked sun-cracked nose, a hairy wart on the cheek and thin cracked lips, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, unflattering rough-hewn features, amber eyes, hair streaked with grey, fully nude, no clothing, standing with the weight on one leg and the arms loose, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, stern, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
+## E12-11 Dalila (woman, 26) – E12 Saltglare The Well Keepers
+_well girl, hauls the water_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Dalila, 26-year-old human woman, 5'4", soft and curvy, an E cup bust, weathered brown skin, a mischievous, bright face, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, dark brown eyes, dark hair under a wrapped cloth, wearing a short wrapped dress and a head-cloth, sandals, standing with the arms behind the back, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, laughing smile, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Dalila, 26-year-old human woman, 5'4", soft and curvy, an E cup bust, weathered brown skin, a mischievous, bright face, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, dark brown eyes, dark hair under a wrapped cloth, fully nude, no clothing, standing with the arms behind the back and the head tilted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, giggling, flushed, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+## E12-12 Ssorak (man, 70) – E12 Saltglare The Basking Slabs
+_elder of the Basking Stones, scalekin, still as a rock_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Ssorak, 70-year-old scalekin man who looks his age, a reptile-folk humanoid with fine scales over the whole body, a thick tail, a ridge of small spines or a frill down the back of the head and neck, a snouted but human-shaped face with slit-pupilled golden eyes and a forked tongue, and no hair, an older man, 5'7", lean and weathered, rust-red scaled skin, a snouted, long-jawed face, patient, slit-pupilled gold eyes, no hair, a ridge of small spines down the back of the head, a banded tail, wearing a draped cloth and a heavy bead collar, standing with a relaxed hip tilt, the arms loose, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, patient half-smile, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Ssorak, 70-year-old scalekin man who looks his age, a reptile-folk humanoid with fine scales over the whole body, a thick tail, a ridge of small spines or a frill down the back of the head and neck, a snouted but human-shaped face with slit-pupilled golden eyes and a forked tongue, and no hair, an older man, 5'7", lean and weathered, rust-red scaled skin, a snouted, long-jawed face, patient, slit-pupilled gold eyes, no hair, a ridge of small spines down the back of the head, a banded tail, fully nude, no clothing, standing with the weight on one leg and the arms loose, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, calm, steady, plain pale lavender-tinted cream background (#EEE6F7), ridged paired penis
+
+## E12-13 Ozza (woman, 38) – E12 Saltglare The Basking Slabs
+_basker, scalekin, soaking up the sun_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Ozza, 38-year-old scalekin woman, a reptile-folk humanoid with fine scales over the whole body, a thick tail, a ridge of small spines or a frill down the back of the head and neck, a snouted but human-shaped face with slit-pupilled golden eyes and a forked tongue, and no hair, 6'2", soft and curvy, a D cup bust, ochre scaled skin, a snouted but human-shaped face, calm, slit-pupilled gold eyes, no hair, a ridge of small spines down the back of the head, a notched frill, wearing a light wrap around the hips and a half-open cloth, standing with one hand on the hip and the weight on one leg, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, warm smile, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Ozza, 38-year-old scalekin woman, a reptile-folk humanoid with fine scales over the whole body, a thick tail, a ridge of small spines or a frill down the back of the head and neck, a snouted but human-shaped face with slit-pupilled golden eyes and a forked tongue, and no hair, 6'2", soft and curvy, a D cup bust, ochre scaled skin, a snouted but human-shaped face, calm, slit-pupilled gold eyes, no hair, a ridge of small spines down the back of the head, a notched frill, fully nude, no clothing, standing with the hand on the hip and the chin lifted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, amused, easy, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+## E12-14 Ixxa (woman, 55) – E12 Saltglare The Scalekin Commons
+_scalekin mother of the Commons, keeps the peace_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Ixxa, 55-year-old scalekin woman who looks her age, a reptile-folk humanoid with fine scales over the whole body, a thick tail, a ridge of small spines or a frill down the back of the head and neck, a snouted but human-shaped face with slit-pupilled golden eyes and a forked tongue, and no hair, an older woman, 6'4", athletic, an E cup bust, ochre scaled skin, a snouted, watchful face, slit-pupilled gold eyes, no hair, a ridge of small spines down the back of the head, a banded tail, wearing a decorated wrap and beads, a notched frill, standing with one hand resting on the hip, the head tilted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, friendly grin, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Ixxa, 55-year-old scalekin woman who looks her age, a reptile-folk humanoid with fine scales over the whole body, a thick tail, a ridge of small spines or a frill down the back of the head and neck, a snouted but human-shaped face with slit-pupilled golden eyes and a forked tongue, and no hair, an older woman, 6'4", athletic, an E cup bust, ochre scaled skin, a snouted, watchful face, slit-pupilled gold eyes, no hair, a ridge of small spines down the back of the head, a banded tail, fully nude, no clothing, standing with one hand on the hip and the weight on one leg, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, amused, easy, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+## E12-15 Rissk (man, 48) – E12 Saltglare The Scalekin Commons
+_scalekin storyteller, hisses the old tales_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Rissk, 48-year-old scalekin man who looks his age, a reptile-folk humanoid with fine scales over the whole body, a thick tail, a ridge of small spines or a frill down the back of the head and neck, a snouted but human-shaped face with slit-pupilled golden eyes and a forked tongue, and no hair, 5'9", solid and thick, sand-coloured scaled skin, a snouted, long-jawed face, patient, slit-pupilled gold eyes, no hair, a ridge of small spines down the back of the head, a frill dyed with ochre, wearing a loose robe with painted bands, standing easy with the weight on one leg, the head tilted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, bright, daring smile, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Rissk, 48-year-old scalekin man who looks his age, a reptile-folk humanoid with fine scales over the whole body, a thick tail, a ridge of small spines or a frill down the back of the head and neck, a snouted but human-shaped face with slit-pupilled golden eyes and a forked tongue, and no hair, 5'9", solid and thick, sand-coloured scaled skin, a snouted, long-jawed face, patient, slit-pupilled gold eyes, no hair, a ridge of small spines down the back of the head, a frill dyed with ochre, fully nude, no clothing, standing with a relaxed hip tilt, the arms loose, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, confident, amused, plain pale lavender-tinted cream background (#EEE6F7), ridged paired penis
+
+## E12-16 Tamimt (woman, 45) – E12 Saltglare The Cool Pantries
+_pantry keeper, rations everything_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Tamimt, 45-year-old human woman who looks her age, 5'0", soft and curvy, an F cup bust, deep tan skin, a heavy, blunt face, a heavy jowled face, a hairy mole on the chin and cracked lips, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, unflattering rough-hewn features, hazel eyes, long black hair in a braid under a veil, a faint blue tattoo on the chin, wearing a patched robe, standing with one hand sweeping the hair over one shoulder, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, blunt scowl, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Tamimt, 45-year-old human woman who looks her age, 5'0", soft and curvy, an F cup bust, deep tan skin, a heavy, blunt face, a heavy jowled face, a hairy mole on the chin and cracked lips, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, unflattering rough-hewn features, hazel eyes, long black hair in a braid under a veil, a faint blue tattoo on the chin, fully nude, no clothing, standing with the hair over one shoulder, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, blunt, plain, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+## E12-17 Nadhir (man, 46) – E12 Saltglare Sundry and Grit
+_storekeeper of Dust and Sundry, sells anything_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Nadhir, 46-year-old human man who looks his age, 5'11", heavy-set, copper skin, a cheeky, freckled face, a sweating shiny brow, a gap-toothed grin and a double chin, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, unflattering rough-hewn features, brown eyes, black curls under a head-wrap, sun lines at the eyes, wearing a dusty vest, a head cloth, a big grin, standing with one hand on the hip, the other arm loose, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, cheeky grin, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Nadhir, 46-year-old human man who looks his age, 5'11", heavy-set, copper skin, a cheeky, freckled face, a sweating shiny brow, a gap-toothed grin and a double chin, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, unflattering rough-hewn features, brown eyes, black curls under a head-wrap, sun lines at the eyes, fully nude, no clothing, standing with a hand on the hip and the head tilted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, playful, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
+## E12-18 Nabila (woman, 49) – E12 Saltglare The Mirage
+_keeper of the Mirage, bar of cool drinks_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Nabila, 49-year-old human woman who looks her age, 5'4", tall and slim, a D cup bust, deep tan skin, a friendly, round face, dark brown eyes, hair streaked with grey, sun lines at the eyes, wearing a bright wrapped dress and bangles, standing with the hands lightly clasped in front and the shoulders back, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, friendly grin, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Nabila, 49-year-old human woman who looks her age, 5'4", tall and slim, a D cup bust, deep tan skin, a friendly, round face, dark brown eyes, hair streaked with grey, sun lines at the eyes, fully nude, no clothing, standing with the arms behind the back and the head tilted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, warm, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+## E12-19 Ourdia (man, 23) – E12 Saltglare The Mirage
+_drinks boy, mirage-eyed_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Ourdia, 23-year-old human man, 5'7", average, fit, ruddy brown skin, a cheeky, freckled face, brown eyes, black curls under a head-wrap, sun lines at the eyes, wearing a loose tunic and a head-wrap, standing with a relaxed hip tilt, the arms loose, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, playful wink, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Ourdia, 23-year-old human man, 5'7", average, fit, ruddy brown skin, a cheeky, freckled face, brown eyes, black curls under a head-wrap, sun lines at the eyes, fully nude, no clothing, standing with the weight on one leg and the arms loose, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, giggling, flushed, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
+## E12-20 Tilelli (woman, 57) – E12 Saltglare The Healers Awning
+_healer, half herb and half salt_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Tilelli, 57-year-old human woman who looks her age, an older woman, 5'2", slim, a C cup bust, sun-dark brown skin, a patient, composed face, a hooked nose, a hairy wart on the chin and deep sun-wrinkles, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, unflattering rough-hewn features, black eyes, hair streaked with grey, a faint blue tattoo on the chin, wearing a patched robe with pockets, standing with the weight on one leg and the head tilted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, calm nod, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Tilelli, 57-year-old human woman who looks her age, an older woman, 5'2", slim, a C cup bust, sun-dark brown skin, a patient, composed face, a hooked nose, a hairy wart on the chin and deep sun-wrinkles, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, unflattering rough-hewn features, black eyes, hair streaked with grey, a faint blue tattoo on the chin, fully nude, no clothing, standing with a relaxed hip tilt, the arms loose at the sides, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, calm, steady, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+## E12-21 Lounis (man, 64) – E12 Saltglare The Council Tarpaulin
+_elder of the human harvesters, strict_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Lounis, 64-year-old human man who looks his age, an older man, 5'8", stout and slow, olive-brown skin, a severe, composed face, amber eyes, iron-grey hair, a faint blue tattoo on the chin, wearing a long indigo robe and a head-wrap, standing with the arms folded over the chest, the shoulders back, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, tight, disapproving look, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Lounis, 64-year-old human man who looks his age, an older man, 5'8", stout and slow, olive-brown skin, a severe, composed face, amber eyes, iron-grey hair, a faint blue tattoo on the chin, fully nude, no clothing, standing with the arms crossed over the chest, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, stern, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
+## E12-22 Aldjia (woman, 34) – E12 Saltglare The Council Tarpaulin
+_elder's scribe, human_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Aldjia, 34-year-old human woman, 5'1", curvy, a C cup bust, dark brown skin, a calm, even face, amber eyes, dark hair under a wrapped cloth, sun lines at the eyes, wearing a plain robe, standing with the hands clasped in front, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, calm nod, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Aldjia, 34-year-old human woman, 5'1", curvy, a C cup bust, dark brown skin, a calm, even face, amber eyes, dark hair under a wrapped cloth, sun lines at the eyes, fully nude, no clothing, standing with the hands behind the back, leaning slightly forward, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, calm, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+## E12-23 Anir (man, 41) – E12 Saltglare The Halite Carvers
+_salt carver, makes shapes from crystal_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Anir, 41-year-old human man who looks his age, 5'9", compact and tough, olive-brown skin, a quiet, thoughtful face, amber eyes, black hair under a wrapped cloth, sun lines at the eyes, wearing a smock dusted white, standing with one hand on the hip and the weight on one leg, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, patient half-smile, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Anir, 41-year-old human man who looks his age, 5'9", compact and tough, olive-brown skin, a quiet, thoughtful face, amber eyes, black hair under a wrapped cloth, sun lines at the eyes, fully nude, no clothing, standing with one hand on the hip, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, calm, steady, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
+## E12-24 Kyzza (woman, 40) – E12 Saltglare The Mud Wallow
+_mud-keeper of the wallow, scalekin_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Kyzza, 40-year-old scalekin woman who looks her age, a reptile-folk humanoid with fine scales over the whole body, a thick tail, a ridge of small spines or a frill down the back of the head and neck, a snouted but human-shaped face with slit-pupilled golden eyes and a forked tongue, and no hair, 6'1", curvy, a D cup bust, sand-coloured scaled skin, a snouted, long-jawed face, patient, slit-pupilled gold eyes, no hair, a ridge of small spines down the back of the head, a frill dyed with ochre, wearing a simple wrap, mud-streaked tail, standing with the arms behind the back, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, kind, easy smile, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Kyzza, 40-year-old scalekin woman who looks her age, a reptile-folk humanoid with fine scales over the whole body, a thick tail, a ridge of small spines or a frill down the back of the head and neck, a snouted but human-shaped face with slit-pupilled golden eyes and a forked tongue, and no hair, 6'1", curvy, a D cup bust, sand-coloured scaled skin, a snouted, long-jawed face, patient, slit-pupilled gold eyes, no hair, a ridge of small spines down the back of the head, a frill dyed with ochre, fully nude, no clothing, standing with the arms behind the back and the head tilted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, warm, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+**swim**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Kyzza, 40-year-old scalekin woman who looks her age, a reptile-folk humanoid with fine scales over the whole body, a thick tail, a ridge of small spines or a frill down the back of the head and neck, a snouted but human-shaped face with slit-pupilled golden eyes and a forked tongue, and no hair, 6'1", curvy, a D cup bust, sand-coloured scaled skin, a snouted, long-jawed face, patient, slit-pupilled gold eyes, no hair, a ridge of small spines down the back of the head, a frill dyed with ochre, wearing a thin linen shift and stockings, standing with the weight on one hip and the arms loose, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, kind, easy smile, plain pale aqua-tinted cream background (#DDF3F1)
+
+## E12-25 Gaya (man, 30) – E12 Saltglare The Mud Wallow
+_mud-masseur, human, strong hands_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Gaya, 30-year-old human man, 6'3", average, fit, ruddy brown skin, a gruff, battered face, brown eyes, black curls under a head-wrap, salt-burned hands, wearing a short work tunic, standing with the arms relaxed at the sides and the chin lifted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, gruff nod, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Gaya, 30-year-old human man, 6'3", average, fit, ruddy brown skin, a gruff, battered face, brown eyes, black curls under a head-wrap, salt-burned hands, fully nude, no clothing, standing tall with the arms loose at the sides, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, blunt, plain, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
+**swim**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Gaya, 30-year-old human man, 6'3", average, fit, ruddy brown skin, a gruff, battered face, brown eyes, black curls under a head-wrap, salt-burned hands, wearing plain cotton drawers, standing relaxed with one hand behind the head, the other arm loose, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, gruff nod, plain pale aqua-tinted cream background (#DDF3F1)
+
+## E12-26 Zethis (man, 44) – E12 Saltglare The Rattle
+_bartender of the Rattle, scalekin, quick to serve_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Zethis, 44-year-old scalekin man who looks his age, a reptile-folk humanoid with fine scales over the whole body, a thick tail, a ridge of small spines or a frill down the back of the head and neck, a snouted but human-shaped face with slit-pupilled golden eyes and a forked tongue, and no hair, 5'6", average, fit, sand-coloured scaled skin, a snouted, watchful face, slit-pupilled gold eyes, no hair, a ridge of small spines down the back of the head, a notched frill, wearing a patterned wrap, tail balanced, standing with one hand on the hip, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, knowing smirk, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Zethis, 44-year-old scalekin man who looks his age, a reptile-folk humanoid with fine scales over the whole body, a thick tail, a ridge of small spines or a frill down the back of the head and neck, a snouted but human-shaped face with slit-pupilled golden eyes and a forked tongue, and no hair, 5'6", average, fit, sand-coloured scaled skin, a snouted, watchful face, slit-pupilled gold eyes, no hair, a ridge of small spines down the back of the head, a notched frill, fully nude, no clothing, standing with one hand on the hip, the other arm loose, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, knowing, amused, plain pale lavender-tinted cream background (#EEE6F7), ridged paired penis
+
+## E12-27 Brissa (woman, 29) – E12 Saltglare The Rattle
+_hostess of the Rattle, scalekin, loves music_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Brissa, 29-year-old scalekin woman, a reptile-folk humanoid with fine scales over the whole body, a thick tail, a ridge of small spines or a frill down the back of the head and neck, a snouted but human-shaped face with slit-pupilled golden eyes and a forked tongue, and no hair, 6'2", sturdy, a D cup bust, rust-red scaled skin, a snouted but human-shaped face, calm, slit-pupilled gold eyes, no hair, a ridge of small spines down the back of the head, a banded tail, wearing a sheer wrap over a bandeau, bangles on the tail, standing with the hands lightly clasped in front and the shoulders back, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, bold grin, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Brissa, 29-year-old scalekin woman, a reptile-folk humanoid with fine scales over the whole body, a thick tail, a ridge of small spines or a frill down the back of the head and neck, a snouted but human-shaped face with slit-pupilled golden eyes and a forked tongue, and no hair, 6'2", sturdy, a D cup bust, rust-red scaled skin, a snouted but human-shaped face, calm, slit-pupilled gold eyes, no hair, a ridge of small spines down the back of the head, a banded tail, fully nude, no clothing, standing with the hands clasped behind the back and the chest lifted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, confident, amused, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+## E12-28 Tinhinan (woman, 25) – E12 Saltglare The Rattle
+_barmaid of the Rattle, human, flirty_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Tinhinan, 25-year-old human woman, 5'1", compact and curvy, a B cup bust, ruddy brown skin, a cheeky, freckled face, dark brown eyes, black hair in two plaits and a head-wrap, wearing a low-cut wrap dress and bangles, standing with the fingertips resting at the collarbone, the head tilted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, playful wink, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Tinhinan, 25-year-old human woman, 5'1", compact and curvy, a B cup bust, ruddy brown skin, a cheeky, freckled face, dark brown eyes, black hair in two plaits and a head-wrap, fully nude, no clothing, standing with one hand at the collarbone, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, giggling, flushed, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+## E12-29 Awal (man, 51) – E12 Saltglare The Dromedary Stables
+_stableman of the Salt Road, keeps the beasts_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Awal, 51-year-old human man who looks his age, 5'6", spare and tall, deep tan skin, a craggy, honest face, brown eyes, hair streaked with grey, a silver nose ring, wearing a wrapped tunic and heavy sandals, standing with the arms folded across the chest and the weight on one leg, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, grim smirk, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Awal, 51-year-old human man who looks his age, 5'6", spare and tall, deep tan skin, a craggy, honest face, brown eyes, hair streaked with grey, a silver nose ring, fully nude, no clothing, standing with the arms crossed and the chin lifted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, blunt, plain, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
+## E12-30 Hind (woman, 42) – E12 Saltglare The Harvesters Shacks
+_harvester's wife with a basket_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Hind, 42-year-old human woman who looks her age, 5'8", slender, a C cup bust, weathered brown skin, a warm, open face, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, hazel eyes, dark curls pinned under a scarf, a faint blue tattoo on the chin, wearing a sun-bleached dress and head-cloth, standing with one hand on the hip and the weight on one leg, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, friendly grin, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Hind, 42-year-old human woman who looks her age, 5'8", slender, a C cup bust, weathered brown skin, a warm, open face, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, hazel eyes, dark curls pinned under a scarf, a faint blue tattoo on the chin, fully nude, no clothing, standing with the hand on the hip and the chin lifted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, warm, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+## E12-31 Belaid (man, 66) – E12 Saltglare The Harvesters Shacks
+_retired raker, bad knees_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Belaid, 66-year-old human man who looks his age, an older man, 6'0", spare and upright, copper skin, a lined, resigned face, sunken cheeks, a few remaining teeth and a hairy wart on the cheek, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, unflattering rough-hewn features, hazel eyes, white hair, a silver nose ring, wearing a loose robe, standing with a relaxed hip tilt, the arms loose, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, weary nod, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Belaid, 66-year-old human man who looks his age, an older man, 6'0", spare and upright, copper skin, a lined, resigned face, sunken cheeks, a few remaining teeth and a hairy wart on the cheek, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, unflattering rough-hewn features, hazel eyes, white hair, a silver nose ring, fully nude, no clothing, standing with the weight on one leg and the arms loose, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, tired, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
+## E12-32 Ysmera (woman, 47) – E12 Saltglare The Cooling Awnings
+_rester at the Colonnade, gossip, scalekin_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Ysmera, 47-year-old scalekin woman who looks her age, a reptile-folk humanoid with fine scales over the whole body, a thick tail, a ridge of small spines or a frill down the back of the head and neck, a snouted but human-shaped face with slit-pupilled golden eyes and a forked tongue, and no hair, 5'11", curvy, a D cup bust, green scaled skin, a snouted, long-jawed face, patient, slit-pupilled gold eyes, no hair, a ridge of small spines down the back of the head, a notched frill, wearing a draped wrap and a shade cloth, standing with one hand on the hip and the weight on one leg, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, warm smile, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Ysmera, 47-year-old scalekin woman who looks her age, a reptile-folk humanoid with fine scales over the whole body, a thick tail, a ridge of small spines or a frill down the back of the head and neck, a snouted but human-shaped face with slit-pupilled golden eyes and a forked tongue, and no hair, 5'11", curvy, a D cup bust, green scaled skin, a snouted, long-jawed face, patient, slit-pupilled gold eyes, no hair, a ridge of small spines down the back of the head, a notched frill, fully nude, no clothing, standing with the hand on the hip and the chin lifted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, amused, easy, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+## E12-33 Boudjema (man, 45) – E12 Saltglare The Dusk Traders
+_brine dealer, smooth voice_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Boudjema, 45-year-old human man who looks his age, 6'4", broad and strong, skin that is deep tan, oily and sweat-sheened, a quick, watchful face, sweating oily skin, a leering gold-toothed grin and a double chin, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, unflattering rough-hewn features, dark brown eyes, black hair under a wrapped cloth, salt-burned hands, wearing a quilted robe and a gold tooth, standing with a hand on the hip and the head tilted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, narrowed, watchful look, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Boudjema, 45-year-old human man who looks his age, 6'4", broad and strong, skin that is deep tan, oily and sweat-sheened, a quick, watchful face, sweating oily skin, a leering gold-toothed grin and a double chin, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, unflattering rough-hewn features, dark brown eyes, black hair under a wrapped cloth, salt-burned hands, fully nude, no clothing, standing with one hand on the hip and the weight on one leg, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, knowing, amused, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
+## E12-34 Thiyya (woman, 27) – E12 Saltglare The Dusk Traders
+_dealer's runner, human_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Thiyya, 27-year-old human woman, 5'6", curvy, a D cup bust, deep tan skin, a quick, watchful face, brown eyes, black hair in two plaits and a head-wrap, a silver nose ring, wearing a short tunic and trousers, standing with the hand on the hip and the chin lifted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, narrowed, watchful look, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Thiyya, 27-year-old human woman, 5'6", curvy, a D cup bust, deep tan skin, a quick, watchful face, brown eyes, black hair in two plaits and a head-wrap, a silver nose ring, fully nude, no clothing, standing with a hand on the hip and the shoulders back, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, knowing, amused, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+## E12-35 Systra (woman, 46) – E12 Saltglare The Scale Boudoir
+_keeper of the Scale Boudoir, scalekin, soft-spoken_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Systra, 46-year-old scalekin woman who looks her age, a reptile-folk humanoid with fine scales over the whole body, a thick tail, a ridge of small spines or a frill down the back of the head and neck, a snouted but human-shaped face with slit-pupilled golden eyes and a forked tongue, and no hair, 6'2", compact and curvy, a D cup bust, ochre scaled skin, a snouted, watchful face, slit-pupilled gold eyes, no hair, a ridge of small spines down the back of the head, a frill dyed with ochre, wearing a cotton slip, standing with the hands clasped behind the back and the chest lifted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, sly smile, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Systra, 46-year-old scalekin woman who looks her age, a reptile-folk humanoid with fine scales over the whole body, a thick tail, a ridge of small spines or a frill down the back of the head and neck, a snouted but human-shaped face with slit-pupilled golden eyes and a forked tongue, and no hair, 6'2", compact and curvy, a D cup bust, ochre scaled skin, a snouted, watchful face, slit-pupilled gold eyes, no hair, a ridge of small spines down the back of the head, a frill dyed with ochre, fully nude, no clothing, standing with the arms behind the back, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, sly, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+## E12-36 Tessar (man, 31) – E12 Saltglare The Scale Boudoir
+_companion at the Scale Boudoir, scalekin, patient_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Tessar, 31-year-old scalekin man, a reptile-folk humanoid with fine scales over the whole body, a thick tail, a ridge of small spines or a frill down the back of the head and neck, a snouted but human-shaped face with slit-pupilled golden eyes and a forked tongue, and no hair, 6'3", lean and wiry, green scaled skin, a snouted, long-jawed face, patient, slit-pupilled gold eyes, no hair, a ridge of small spines down the back of the head, a banded tail, wearing plain cotton drawers, standing upright with the arms at the sides, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, calm nod, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Tessar, 31-year-old scalekin man, a reptile-folk humanoid with fine scales over the whole body, a thick tail, a ridge of small spines or a frill down the back of the head and neck, a snouted but human-shaped face with slit-pupilled golden eyes and a forked tongue, and no hair, 6'3", lean and wiry, green scaled skin, a snouted, long-jawed face, patient, slit-pupilled gold eyes, no hair, a ridge of small spines down the back of the head, a banded tail, fully nude, no clothing, standing with the arms relaxed at the sides and the chin lifted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, calm, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), ridged paired penis
+
+## E12-W1 Idir (man, 39) – E12 Saltglare The Glare Expanse and The Haze Track (pop-up)
+_salt-caravan driver_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Idir, 39-year-old human man, 5'8", solid and thick, sun-dark brown skin, a heavy, blunt face, dark brown eyes, dark hair, short, a salt-crusted beard, salt-burned hands, wearing a dusty travelling robe and a veil, standing upright with the arms at the sides, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, gruff nod, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Idir, 39-year-old human man, 5'8", solid and thick, sun-dark brown skin, a heavy, blunt face, dark brown eyes, dark hair, short, a salt-crusted beard, salt-burned hands, fully nude, no clothing, standing with the arms relaxed at the sides and the chin lifted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, gruff, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
+## E12-W2 Zhassa (woman, 30) – E12 Saltglare The Glare Expanse and The Haze Track (pop-up)
+_scalekin basking on the flats_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Zhassa, 30-year-old scalekin woman, a reptile-folk humanoid with fine scales over the whole body, a thick tail, a ridge of small spines or a frill down the back of the head and neck, a snouted but human-shaped face with slit-pupilled golden eyes and a forked tongue, and no hair, 6'4", slim and curvy, an F cup bust, green scaled skin, a snouted, watchful face, slit-pupilled gold eyes, no hair, a ridge of small spines down the back of the head, a notched frill, wearing a light cloth around the hips and shoulders, standing with the fingertips resting at the collarbone, the head tilted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, friendly grin, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Zhassa, 30-year-old scalekin woman, a reptile-folk humanoid with fine scales over the whole body, a thick tail, a ridge of small spines or a frill down the back of the head and neck, a snouted but human-shaped face with slit-pupilled golden eyes and a forked tongue, and no hair, 6'4", slim and curvy, an F cup bust, green scaled skin, a snouted, watchful face, slit-pupilled gold eyes, no hair, a ridge of small spines down the back of the head, a notched frill, fully nude, no clothing, standing with one hand at the collarbone, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, warm, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+## E12-W3 Aksil (man, 24) – E12 Saltglare The Arid Gulch (pop-up)
+_smuggler's boy_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Aksil, 24-year-old human man, 5'6", broad and strong, dark brown skin, a quick, watchful face, dark brown eyes, black curls under a head-wrap, a faint blue tattoo on the chin, wearing a hooded cloak, bare feet, standing with the arms folded across the chest and the weight on one leg, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, narrowed, watchful look, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Aksil, 24-year-old human man, 5'6", broad and strong, dark brown skin, a quick, watchful face, dark brown eyes, black curls under a head-wrap, a faint blue tattoo on the chin, fully nude, no clothing, standing with the arms crossed and the chin lifted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, sly, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
+## E12-W4 Ouidad (woman, 28) – E12 Saltglare The Arid Gulch (pop-up)
+_woman of the lanes_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Ouidad, 28-year-old human woman, 5'1", full-figured, an E cup bust, weathered brown skin, a shy, soft face, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, hazel eyes, dark hair under a wrapped cloth, cracked lips, wearing a thin linen shift and stockings, standing with a relaxed hip tilt, the arms loose at the sides, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, flustered smile, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Ouidad, 28-year-old human woman, 5'1", full-figured, an E cup bust, weathered brown skin, a shy, soft face, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, hazel eyes, dark hair under a wrapped cloth, cracked lips, fully nude, no clothing, standing with the weight on one hip and the arms loose, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, shy, flushed, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+## E12-W5 Yacine (man, 41) – E12 Saltglare The Brimstone Fount (pop-up)
+_harvester soaking after the shift_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Yacine, 41-year-old human man who looks his age, 5'8", solid and thick, dark brown skin, a tired, worn face, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, amber eyes, black curls under a head-wrap, a silver nose ring, wearing a plain tunic and trousers, standing with one hand on the hip, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, resigned look, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Yacine, 41-year-old human man who looks his age, 5'8", solid and thick, dark brown skin, a tired, worn face, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, amber eyes, black curls under a head-wrap, a silver nose ring, fully nude, no clothing, standing with one hand on the hip, the other arm loose, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, resigned, plain, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
+**swim**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Yacine, 41-year-old human man who looks his age, 5'8", solid and thick, dark brown skin, a tired, worn face, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, amber eyes, black curls under a head-wrap, a silver nose ring, wearing linen drawers, standing with one hand behind the head and the weight on one leg, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, resigned look, plain pale aqua-tinted cream background (#DDF3F1)
+
+## E12-W6 Aszira (woman, 33) – E12 Saltglare The Brimstone Fount (pop-up)
+_scalekin warming in the spring_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Aszira, 33-year-old scalekin woman, a reptile-folk humanoid with fine scales over the whole body, a thick tail, a ridge of small spines or a frill down the back of the head and neck, a snouted but human-shaped face with slit-pupilled golden eyes and a forked tongue, and no hair, 6'2", slim, a D cup bust, sand-coloured scaled skin, a snouted, watchful face, slit-pupilled gold eyes, no hair, a ridge of small spines down the back of the head, a frill dyed with ochre, wearing a cloth wrap, standing with the hands behind the back, leaning slightly forward, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, friendly grin, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Aszira, 33-year-old scalekin woman, a reptile-folk humanoid with fine scales over the whole body, a thick tail, a ridge of small spines or a frill down the back of the head and neck, a snouted but human-shaped face with slit-pupilled golden eyes and a forked tongue, and no hair, 6'2", slim, a D cup bust, sand-coloured scaled skin, a snouted, watchful face, slit-pupilled gold eyes, no hair, a ridge of small spines down the back of the head, a frill dyed with ochre, fully nude, no clothing, standing with the hands clasped behind the back and the chest lifted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, warm, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+**swim**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Aszira, 33-year-old scalekin woman, a reptile-folk humanoid with fine scales over the whole body, a thick tail, a ridge of small spines or a frill down the back of the head and neck, a snouted but human-shaped face with slit-pupilled golden eyes and a forked tongue, and no hair, 6'2", slim, a D cup bust, sand-coloured scaled skin, a snouted, watchful face, slit-pupilled gold eyes, no hair, a ridge of small spines down the back of the head, a frill dyed with ochre, wearing a cotton slip, standing with the weight on one leg and the head tilted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, friendly grin, plain pale aqua-tinted cream background (#DDF3F1)
+
+## E12-W7 Amayas (man, 23) – E12 Saltglare The Oasis Dip (pop-up)
+_young harvester at the oasis_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Amayas, 23-year-old human man, 6'3", solid and thick, ruddy brown skin, a mischievous, bright face, black eyes, grey-streaked dark hair, a head cloth, cracked lips, wearing a loose shirt and trousers, standing relaxed with one hand behind the head, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, playful wink, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Amayas, 23-year-old human man, 6'3", solid and thick, ruddy brown skin, a mischievous, bright face, black eyes, grey-streaked dark hair, a head cloth, cracked lips, fully nude, no clothing, standing relaxed with one hand behind the head, the other arm loose, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, giggling, flushed, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
+**swim**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Amayas, 23-year-old human man, 6'3", solid and thick, ruddy brown skin, a mischievous, bright face, black eyes, grey-streaked dark hair, a head cloth, cracked lips, wearing a short wrap-cloth, standing with one hand behind the head and the weight on one leg, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, playful wink, plain pale aqua-tinted cream background (#DDF3F1)
+
+## E12-W8 Tamghart (woman, 25) – E12 Saltglare The Oasis Dip (pop-up)
+_girl cooling off at the oasis_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Tamghart, 25-year-old human woman, 5'1", full-figured, an F cup bust, sun-dark brown skin, a mischievous, bright face, black eyes, black hair in two plaits and a head-wrap, wearing a thin cotton dress, standing with one hand lifted to the hair, the other arm loose, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, playful wink, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Tamghart, 25-year-old human woman, 5'1", full-figured, an F cup bust, sun-dark brown skin, a mischievous, bright face, black eyes, black hair in two plaits and a head-wrap, fully nude, no clothing, standing with the head tilted and the hair falling over one shoulder, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, playful, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+**swim**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Tamghart, 25-year-old human woman, 5'1", full-figured, an F cup bust, sun-dark brown skin, a mischievous, bright face, black eyes, black hair in two plaits and a head-wrap, wearing a plain one-piece swimsuit, standing with the hair over one shoulder, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, playful wink, plain pale aqua-tinted cream background (#DDF3F1)

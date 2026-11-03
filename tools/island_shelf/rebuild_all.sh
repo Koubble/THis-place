@@ -17,3 +17,4 @@ b /root/.claude/uploads/909bbc03-ce55-5daf-8b55-ea0f864e9bba/4f12b05b-Whitesail_
 b veilhollow_clean.csv veilhollow
 b brinewatch_clean.csv brinewatch
 for i in goldspire lyrenne duskmarket dicehold roarhold; do python3 -I prep_new.py $i >/dev/null; b ${i}_clean.csv $i; done
+for i in saltglare wethering gutterholm; do python3 -I prep_new.py $i >/dev/null; b ${i}_clean.csv $i; done

@@ -9,9 +9,11 @@ PROP = re.compile(r"\b(ledger|tray|notebook|slate|stack of papers|clipboard|armf
                   r"stub of chalk|tape and chalk|reed pen|gold-nibbed pen|tuning fork|violin bow|ticker tape|chalkboard|"
                   r"ticket|gloves in (his|her) (belt|pocket)|speaking trumpet|lantern on a pole|thimble|sealing-wax stick|"
                   r"small brass bell|baton in one hand|tall brass pot|scraper-brush|toll box|tasting|wreath in hand|"
-                  r"make-up brush|tiny scales|a ring of keys|key ring|chain of keys|bruise)\b", re.I)
+                  r"make-up brush|tiny scales|a ring of keys|key ring|chain of keys|bruise|rake|brass scale|dipper|beard comb|fine tools|"
+                  r"tally cord|sack|bucket|bunch of keys|bottle|tin cup|cheap pies|stamp and an ink pad|lantern|bar rag|barrel tap|"
+                  r"crate of oddments|snuffbox|stocks|ring of rusty keys|huge ring of keys|a rope|rope around)\b", re.I)
 KEEP = re.compile(r"behind (the|his|her) ear", re.I)
-HELD = re.compile(r"\b(in hand|in one hand|under (his|her|one) arm|over one shoulder|in (his|her) pocket)\b", re.I)
+HELD = re.compile(r"\b(in hand|in one hand|under (his|her|one) arm|over (one|his|her) shoulder|in (his|her) pocket)\b", re.I)
 CLEAN = {}
 exec(open(f"clean_{isl}.py").read()) if __import__("os").path.exists(f"clean_{isl}.py") else None
 changed = []
@@ -22,6 +24,10 @@ for r in rows:
     if m:
         h = f"{m.group(1)} hair {m.group(2)}"
     r["hair"] = h
+    if r["people"].startswith("reptile-folk"):
+        r["people"] = "scalekin"
+        r["skin"] = re.sub(r"\bscales\b", "scaled", r["skin"])
+        r["hair"] = re.sub(r"^none", "no hair", r["hair"])
     # outfit: drop carried-prop segments
     segs = [s.strip() for s in re.split(r",\s*", r["clothed_outfit"]) if s.strip()]
     keep = [s for s in segs if KEEP.search(s) or not (PROP.search(s) or HELD.search(s))]
