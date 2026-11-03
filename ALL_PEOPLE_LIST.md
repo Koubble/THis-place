@@ -2661,7 +2661,7 @@ Current names (after the Nov 3 renames). A name marked ⚠ is shared with someon
 | SS-37 | Ghashka | w | 41 | ogre | South Ships The Ogre Raider | Thornmaw ogre raider, huge and brutish |
 | SS-38 | Murzuka | w | 33 | ogre | South Ships The Ogre Raider | Thornmaw ogre raider, huge and brutish |
 | SS-39 | Domhnall | m | 55 | human | South Ships The Planters' Brig | Molasse planter, entitled and bossy |
-| SS-40 | Harriet | w | 44 | human | South Ships The Planters' Brig | Molasse overseer, entitled and bossy |
+| SS-40 | Rowena | w | 44 | human | South Ships The Planters' Brig | Molasse overseer, entitled and bossy |
 | SS-41 | Gruffydd | m | 38 | human | South Ships The Planters' Brig | Molasse planter's crew, lewd |
 | SS-42 | Lionel | m | 31 | human | South Ships The Planters' Brig | Molasse planter's crew, lewd |
 | SS-43 | Beatrice | w | 29 | human | South Ships The Planters' Brig | Molasse planter's crew, lewd and forward |

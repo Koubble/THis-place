@@ -1,5 +1,6 @@
 # id -> new name (from the other AI's name check, Nov 2026). Applied at build time.
 RENAMES = {
+ "SS-40": "Rowena",
  "E02-20": "Trofim",
  "ES-16": "Iason",
  "ES-21": "Eusebio",
