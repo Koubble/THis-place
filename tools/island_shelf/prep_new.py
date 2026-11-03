@@ -11,7 +11,7 @@ PROP = re.compile(r"\b(ledger|tray|notebook|slate|stack of papers|clipboard|armf
                   r"small brass bell|baton in one hand|tall brass pot|scraper-brush|toll box|tasting|wreath in hand|"
                   r"make-up brush|tiny scales|a ring of keys|key ring|chain of keys|bruise|rake|brass scale|dipper|beard comb|fine tools|"
                   r"tally cord|sack|bucket|bunch of keys|bottle|tin cup|cheap pies|stamp and an ink pad|lantern|bar rag|barrel tap|"
-                  r"crate of oddments|snuffbox|stocks|ring of rusty keys|huge ring of keys|a rope|rope around)\b", re.I)
+                  r"crate of oddments|snuffbox|stocks|ring of rusty keys|huge ring of keys|a rope|rope around|lute|pen box|pen case|vial|a seal)\b", re.I)
 KEEP = re.compile(r"behind (the|his|her) ear", re.I)
 HELD = re.compile(r"\b(in hand|in one hand|under (his|her|one) arm|over (one|his|her) shoulder|in (his|her) pocket)\b", re.I)
 CLEAN = {}

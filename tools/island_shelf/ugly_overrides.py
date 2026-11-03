@@ -163,4 +163,14 @@ UGLY = {
  "E05-80": dict(face_add="sunken sallow cheeks, a hairy mole and thin cracked lips"),
  "E05-W6": dict(face_add="a hairy wart on the nose, faint whiskers on the chin and a sagging neck"),
  "E05-69": dict(face_add="a flat broken nose, hollow cheeks and a toothless mouth"),
+ # Rosewater
+ "E07-37": dict(face_add="a greasy oiled sneer, wet thin lips and a hairy wart by the nose", skin="golden-brown, oily and sweat-sheened"),
+ "E07-31": dict(face_add="a sly pitted face, a gold tooth and uneven yellow teeth"),
+ "E07-14": dict(face_add="heavy sweating jowls, a thick neck and a greasy shine on the skin", skin="light olive, oily and sweat-sheened"),
+ "E07-18": dict(face_add="a battered flattened nose, pitted cheeks and a missing tooth"),
+ "E07-28": dict(face_add="sagging jowls, liver spots and a long hairy wart on the cheek"),
+ "E07-3": dict(face_add="heavy powder caked into deep wrinkles, sagging jowls and a hairy mole on the chin"),
+ "E07-34": dict(face_add="a long pointed nose, a sunken mouth and a hairy wart on the chin"),
+ "E07-30": dict(face_add="a double chin, ruddy cheeks and a hairy mole by the mouth"),
+ "E07-25": dict(face_add="deep dancer's lines, a sagging jaw and a heavy hooked nose"),
 }
