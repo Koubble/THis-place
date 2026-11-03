@@ -330,6 +330,17 @@ One Piece anime art style, adventure manga anime style, bold clean ink outlines,
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Aethelflaed, 52-year-old human woman who looks her age, 5'1", full-figured, a C cup bust, weathered fair skin, a warm, open face, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, grey eyes, chestnut braids, a sunburnt neck, fully nude, no clothing, standing with the hands clasped behind the back and the chest lifted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, amused, easy, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
 
+## W01-31 Aethelwin (man, 18) – W01 Harrowfield The Gleaners Buttery
+_kitchen boy_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Aethelwin, 22-year-old human man, an adult man with defined cheekbones and mature features, 5'8", lean and wiry, skin that is fair, sun-ruddy, a shy, soft face, hazel eyes, red hair, unruly, wearing a big apron and rolled sleeves, standing relaxed with one hand behind the head, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, nervous smile, eyes lowered, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Aethelwin, 22-year-old human man, an adult man with defined cheekbones and mature features, 5'8", lean and wiry, skin that is fair, sun-ruddy, a shy, soft face, hazel eyes, red hair, unruly, fully nude, no clothing, standing relaxed with one hand behind the head, the other arm loose, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, shy, eyes lowered, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
 ## W01-32 Aelfwyn (woman, 59) – W01 Harrowfield The Simples Plot
 _herb healer, gentle_
 
