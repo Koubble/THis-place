@@ -1,0 +1,531 @@
+# Keelhaven prompts
+
+## W03-1 Fridolin (man, 55) – W03 Keelhaven The Kielbank Launchways
+_master shipwright, broad and exacting_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Fridolin, 55-year-old human man who looks his age, an older man, 6'3", broad and strong, ruddy skin, a heavy, blunt face, a heavy lumpy brow, a flattened nose and rough pitted skin, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, unflattering rough-hewn features, green eyes, hair streaked with grey, a small scar on the jaw, wearing a leather apron over a wool shirt, standing square with the hands on the hips, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, blunt scowl, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Fridolin, 55-year-old human man who looks his age, an older man, 6'3", broad and strong, ruddy skin, a heavy, blunt face, a heavy lumpy brow, a flattened nose and rough pitted skin, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, unflattering rough-hewn features, green eyes, hair streaked with grey, a small scar on the jaw, fully nude, no clothing, standing square with the hands on the hips, the shoulders back, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, gruff, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
+## W03-2 Hiltrud (woman, 30) – W03 Keelhaven The Kielbank Launchways
+_journeyman shipwright, strong_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Hiltrud, 30-year-old human woman, 5'4", tall and slim, a C cup bust, sun-browned fair skin, a bold, striking face, brown eyes, grey hair in a bun, calloused hands, wearing a canvas apron and rolled sleeves, hair tied back, standing with a relaxed hip tilt, the arms loose at the sides, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, bright, daring smile, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Hiltrud, 30-year-old human woman, 5'4", tall and slim, a C cup bust, sun-browned fair skin, a bold, striking face, brown eyes, grey hair in a bun, calloused hands, fully nude, no clothing, standing with the weight on one hip and the arms loose, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, bold, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+## W03-3 Nele (woman, 59) – W03 Keelhaven The Schiffbauer Gildehaus
+_guild master of the shipwrights, proud_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Nele, 59-year-old human woman who looks her age, an older woman, 5'0", spare and upright, an E cup bust, tanned skin, a stern, lined face, deep wrinkles, a hooked nose and a hairy wart on the chin, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, unflattering rough-hewn features, hazel eyes, white hair, thinning, wearing a dark wool coat with a brass chain of office, standing with the hair over one shoulder, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, stern, level look, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Nele, 59-year-old human woman who looks her age, an older woman, 5'0", spare and upright, an E cup bust, tanned skin, a stern, lined face, deep wrinkles, a hooked nose and a hairy wart on the chin, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, unflattering rough-hewn features, hazel eyes, white hair, thinning, fully nude, no clothing, standing with one hand lifted to the hair, the other arm loose, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, composed, cold, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+## W03-4 Hartwig (man, 48) – W03 Keelhaven The Bohlen Sagegruben
+_head sawyer, sawdust in his beard_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Hartwig, 48-year-old human man who looks his age, 5'9", compact and tough, skin that is fair, wind-reddened, a gruff, battered face, a battered face, a bulbous nose and sawdust-caked whiskers, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, unflattering rough-hewn features, green eyes, grey-blond hair, a trimmed beard, calloused hands, wearing a leather apron over a rolled-sleeve shirt, standing with one hand on the hip and the weight on one leg, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, grim smirk, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Hartwig, 48-year-old human man who looks his age, 5'9", compact and tough, skin that is fair, wind-reddened, a gruff, battered face, a battered face, a bulbous nose and sawdust-caked whiskers, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, unflattering rough-hewn features, green eyes, grey-blond hair, a trimmed beard, calloused hands, fully nude, no clothing, standing with one hand on the hip, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, blunt, plain, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
+## W03-5 Rieke (woman, 25) – W03 Keelhaven The Bohlen Sagegruben
+_sawyer's hand_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Rieke, 25-year-old human woman, 5'3", slim and curvy, a B cup bust, ruddy skin, a nervous face, brown eyes, short fair hair, calloused hands, wearing a sleeveless work shirt and trousers, standing with one hand lifted to the hair, the other arm loose, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, shy smile, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Rieke, 25-year-old human woman, 5'3", slim and curvy, a B cup bust, ruddy skin, a nervous face, brown eyes, short fair hair, calloused hands, fully nude, no clothing, standing with the head tilted and the hair falling over one shoulder, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, shy, eyes lowered, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+## W03-6 Wigbert (man, 44) – W03 Keelhaven The Tauwerk Reeperbahn
+_ropemaker, patient hands_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Wigbert, 44-year-old human man who looks his age, 5'8", broad and strong, ruddy skin, a lined, resigned face, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, hazel eyes, sandy hair, cropped, calloused hands, wearing a plain apron and rolled sleeves, standing with one hand on the hip and the weight on one leg, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, tired smile, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Wigbert, 44-year-old human man who looks his age, 5'8", broad and strong, ruddy skin, a lined, resigned face, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, hazel eyes, sandy hair, cropped, calloused hands, fully nude, no clothing, standing with one hand on the hip, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, tired, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
+## W03-7 Dietlind (woman, 22) – W03 Keelhaven The Tauwerk Reeperbahn
+_rope walker apprentice_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Dietlind, 22-year-old human woman, 5'3", sturdy, an E cup bust, ruddy skin, a shy, soft face, blue eyes, blonde braids pinned up, freckles across the nose, wearing a plain dress and apron, hemp fibres in her hair, standing with the arms behind the back and the head tilted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, shy smile, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Dietlind, 22-year-old human woman, 5'3", sturdy, an E cup bust, ruddy skin, a shy, soft face, blue eyes, blonde braids pinned up, freckles across the nose, fully nude, no clothing, standing with the hands behind the back, leaning slightly forward, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, shy, eyes lowered, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+## W03-8 Wencke (woman, 46) – W03 Keelhaven The Segeltuch Kammer
+_sailmaker, fast needle_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Wencke, 46-year-old human woman who looks her age, 5'9", slim, a D cup bust, skin that is fair, wind-reddened, a calm, even face, brown eyes, greying auburn hair tied with a ribbon, wearing a canvas apron, standing with the weight on one leg, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, calm nod, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Wencke, 46-year-old human woman who looks her age, 5'9", slim, a D cup bust, skin that is fair, wind-reddened, a calm, even face, brown eyes, greying auburn hair tied with a ribbon, fully nude, no clothing, standing with the weight on one leg and the head tilted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, calm, steady, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+## W03-9 Ratbod (man, 19) – W03 Keelhaven The Segeltuch Kammer
+_sail loft boy_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Ratbod, 22-year-old human man, an adult man with defined cheekbones and mature features, 6'0", heavy-set, skin that is pale, weathered, a nervous face, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, grey eyes, brown hair under a knitted cap, a small scar on the jaw, wearing a plain shirt and a cap, standing with a hand on the hip and the head tilted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, flustered smile, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Ratbod, 22-year-old human man, an adult man with defined cheekbones and mature features, 6'0", heavy-set, skin that is pale, weathered, a nervous face, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, grey eyes, brown hair under a knitted cap, a small scar on the jaw, fully nude, no clothing, standing with one hand on the hip and the weight on one leg, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, shy, flushed, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
+## W03-10 Kuno (man, 42) – W03 Keelhaven The Beschlag Giesserei
+_foundry smith, soot to the elbows_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Kuno, 42-year-old human man who looks his age, 5'6", lean and wiry, sun-browned fair skin, a gruff, battered face, green eyes, brown hair under a knitted cap, freckles across the nose, wearing a heavy apron over a sleeveless shirt, standing with one hand on the hip and the weight on one leg, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, blunt scowl, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Kuno, 42-year-old human man who looks his age, 5'6", lean and wiry, sun-browned fair skin, a gruff, battered face, green eyes, brown hair under a knitted cap, freckles across the nose, fully nude, no clothing, standing with one hand on the hip, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, gruff, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
+## W03-11 Almut (woman, 23) – W03 Keelhaven The Beschlag Giesserei
+_foundry apprentice_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Almut, 23-year-old human woman, 5'4", slender, a C cup bust, fair and freckled skin, a bold, striking face, green eyes, auburn hair tied with a ribbon, freckles across the nose, wearing a canvas apron and a headscarf, standing with the hand on the hip and the chin lifted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, confident, knowing smile, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Almut, 23-year-old human woman, 5'4", slender, a C cup bust, fair and freckled skin, a bold, striking face, green eyes, auburn hair tied with a ribbon, freckles across the nose, fully nude, no clothing, standing with a hand on the hip and the shoulders back, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, bold, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+## W03-12 Ortwin (man, 52) – W03 Keelhaven The Schiffsausrustung Handlung
+_owner of the Schiffsausrustung Handlung, can find anything_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Ortwin, 52-year-old human man who looks his age, 6'3", broad and strong, sun-browned fair skin, a quiet, thoughtful face, hazel eyes, greying sandy hair, cropped, calloused hands, wearing a brown apron over a waistcoat, standing with the hands on the hips and the chest out, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, quiet, steady look, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Ortwin, 52-year-old human man who looks his age, 6'3", broad and strong, sun-browned fair skin, a quiet, thoughtful face, hazel eyes, greying sandy hair, cropped, calloused hands, fully nude, no clothing, standing square with the hands on the hips, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, calm, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
+## W03-13 Ortrud (woman, 27) – W03 Keelhaven The Schiffsausrustung Handlung
+_chandlery clerk, quick_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Ortrud, 27-year-old human woman, 5'4", sturdy, a D cup bust, tanned skin, a bold, striking face, exceptionally beautiful, strikingly attractive, flawless radiant skin, perfectly balanced symmetrical features, luminous eyes, full lips, brown eyes, grey hair in a bun, wearing a neat dress and shop apron, standing with the arms behind the back and the head tilted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, bold grin, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Ortrud, 27-year-old human woman, 5'4", sturdy, a D cup bust, tanned skin, a bold, striking face, exceptionally beautiful, strikingly attractive, flawless radiant skin, perfectly balanced symmetrical features, luminous eyes, full lips, brown eyes, grey hair in a bun, fully nude, no clothing, standing with the hands behind the back, leaning slightly forward, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, confident, amused, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+## W03-14 Christa (woman, 53) – W03 Keelhaven The Hafenmeister Kontor
+_harbourmaster, stern and fair_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Christa, 53-year-old human woman who looks her age, 5'2", compact and curvy, a C cup bust, skin that is pale, weathered, a stern, lined face, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, brown eyes, greying brown hair in a thick plait, calloused hands, wearing a dark naval-style coat and a peaked cap, standing with the hands clasped in front and the head tilted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, cold, measuring stare, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Christa, 53-year-old human woman who looks her age, 5'2", compact and curvy, a C cup bust, skin that is pale, weathered, a stern, lined face, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, brown eyes, greying brown hair in a thick plait, calloused hands, fully nude, no clothing, standing with the hands clasped behind the back and the chest lifted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, stern, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+## W03-15 Lothar (man, 50) – W03 Keelhaven The Reparatur Trockenbecken
+_dock boss of the Reparatur Trockenbecken, loud_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Lothar, 50-year-old human man who looks his age, 5'10", slim, skin that is fair, wind-reddened, a heavy, blunt face, a red shouting face, a thick neck and a broken nose, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, unflattering rough-hewn features, blue eyes, hair streaked with grey, wearing a heavy coat and a cap, standing relaxed with one hand behind the head, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, blunt scowl, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Lothar, 50-year-old human man who looks his age, 5'10", slim, skin that is fair, wind-reddened, a heavy, blunt face, a red shouting face, a thick neck and a broken nose, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, unflattering rough-hewn features, blue eyes, hair streaked with grey, fully nude, no clothing, standing relaxed with one hand behind the head, the other arm loose, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, blunt, plain, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
+## W03-16 Ebba (woman, 32) – W03 Keelhaven The Reparatur Trockenbecken
+_dock mechanic_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Ebba, 32-year-old human woman, 5'1", full-figured, an E cup bust, skin that is pale, weathered, a drawn, weary face, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, hazel eyes, brown hair in a thick plait, wearing a canvas boiler suit and rolled sleeves, standing with a hand on the hip and the shoulders back, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, tired smile, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Ebba, 32-year-old human woman, 5'1", full-figured, an E cup bust, skin that is pale, weathered, a drawn, weary face, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, hazel eyes, brown hair in a thick plait, fully nude, no clothing, standing with one hand resting on the hip, the head tilted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, resigned, plain, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+## W03-17 Immo (man, 47) – W03 Keelhaven The Ankerbier Herberge
+_innkeeper of the Anchor And Ale, hearty_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Immo, 47-year-old human man who looks his age, 5'10", slim, fair and freckled skin, a friendly, round face, hazel eyes, hair streaked with grey, freckles across the nose, wearing an apron over a rolled-sleeve shirt, standing square with the hands on the hips, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, kind, easy smile, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Immo, 47-year-old human man who looks his age, 5'10", slim, fair and freckled skin, a friendly, round face, hazel eyes, hair streaked with grey, freckles across the nose, fully nude, no clothing, standing square with the hands on the hips, the shoulders back, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, amused, easy, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
+## W03-18 Swantje (woman, 24) – W03 Keelhaven The Ankerbier Herberge
+_inn maid, brisk_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Swantje, 24-year-old human woman, 5'1", curvy, a D cup bust, skin that is pale, weathered, a bright, daring face, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, green eyes, fair hair under a kerchief, wearing a plain dress and apron, standing with the weight on one leg and the head tilted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, confident, knowing smile, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Swantje, 24-year-old human woman, 5'1", curvy, a D cup bust, skin that is pale, weathered, a bright, daring face, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, green eyes, fair hair under a kerchief, fully nude, no clothing, standing with a relaxed hip tilt, the arms loose at the sides, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, confident, amused, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+## W03-19 Notburga (woman, 51) – W03 Keelhaven The Kombuse Speisehaus
+_galley cook, big ladle_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Notburga, 51-year-old human woman who looks her age, 5'2", slim, a D cup bust, tanned skin, a friendly, round face, a double chin, a hairy mole and ruddy broken veins, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, unflattering rough-hewn features, brown eyes, fair hair under a kerchief, freckles across the nose, wearing a wide apron over a wool dress, standing with the weight on one hip and the arms loose, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, kind, easy smile, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Notburga, 51-year-old human woman who looks her age, 5'2", slim, a D cup bust, tanned skin, a friendly, round face, a double chin, a hairy mole and ruddy broken veins, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, unflattering rough-hewn features, brown eyes, fair hair under a kerchief, freckles across the nose, fully nude, no clothing, standing with the weight on one leg, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, amused, easy, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+## W03-20 Tonnies (man, 18) – W03 Keelhaven The Kombuse Speisehaus
+_galley boy_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Tonnies, 22-year-old human man, an adult man with defined cheekbones and mature features, 6'2", heavy-set, sun-browned fair skin, a gentle, flushed face, blue eyes, grey-blond hair, a trimmed beard, a tar-stained cuff, wearing a stained apron and rolled sleeves, standing square with the hands on the hips, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, shy smile, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Tonnies, 22-year-old human man, an adult man with defined cheekbones and mature features, 6'2", heavy-set, sun-browned fair skin, a gentle, flushed face, blue eyes, grey-blond hair, a trimmed beard, a tar-stained cuff, fully nude, no clothing, standing square with the hands on the hips, the shoulders back, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, shy, eyes lowered, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
+## W03-21 Pankraz (man, 60) – W03 Keelhaven The Seemanns Kirche
+_ship chaplain, friendly_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Pankraz, 60-year-old human man who looks his age, an older man, 5'6", lean and weathered, sun-browned fair skin, a severe, composed face, blue eyes, grey hair, wearing a plain black cassock, standing with the hands on the hips and the chin lifted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, stern, level look, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Pankraz, 60-year-old human man who looks his age, an older man, 5'6", lean and weathered, sun-browned fair skin, a severe, composed face, blue eyes, grey hair, fully nude, no clothing, standing with the hands on the hips and the chest out, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, composed, cold, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
+## W03-22 Frauke (woman, 41) – W03 Keelhaven The Steuermanns Schule
+_navigation teacher, chart on the desk_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Frauke, 41-year-old human woman who looks her age, 5'1", athletic, an F cup bust, tanned skin, a patient, composed face, green eyes, short fair hair, calloused hands, wearing a smart jacket and spectacles, standing with the hair over one shoulder, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, quiet, steady look, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Frauke, 41-year-old human woman who looks her age, 5'1", athletic, an F cup bust, tanned skin, a patient, composed face, green eyes, short fair hair, calloused hands, fully nude, no clothing, standing with one hand lifted to the hair, the other arm loose, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, calm, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+## W03-23 Oltmann (man, 24) – W03 Keelhaven The Steuermanns Schule
+_young navigator trainee_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Oltmann, 24-year-old human man, 5'11", lean and wiry, skin that is pale, weathered, a nervous face, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, grey eyes, a shaved head, wearing a neat coat, standing with both hands behind the head, relaxed, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, nervous smile, eyes lowered, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Oltmann, 24-year-old human man, 5'11", lean and wiry, skin that is pale, weathered, a nervous face, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, grey eyes, a shaved head, fully nude, no clothing, standing with one hand behind the head and the weight on one leg, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, shy, eyes lowered, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
+## W03-24 Kea (woman, 44) – W03 Keelhaven The Schiffsarzt Badestube
+_ship healer, brisk and kind_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Kea, 44-year-old human woman who looks her age, 5'7", sturdy, a C cup bust, fair and freckled skin, a patient, composed face, green eyes, fair hair under a kerchief, a small scar on the jaw, wearing a white apron over a grey dress, standing with one hand lifted to the hair, the other arm loose, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, patient half-smile, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Kea, 44-year-old human woman who looks her age, 5'7", sturdy, a C cup bust, fair and freckled skin, a patient, composed face, green eyes, fair hair under a kerchief, a small scar on the jaw, fully nude, no clothing, standing with the head tilted and the hair falling over one shoulder, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, calm, steady, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+## W03-25 Rainer (man, 62) – W03 Keelhaven The Waage Kaufhaus
+_the merchant who cheated Ned over the Ace High, soft and sharp-eyed_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Rainer, 62-year-old human man who looks his age, an older man, 6'2", thin and stooped, tanned skin, a sly, clever face, a sly sallow face, a long drooping nose and wet thin lips, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, unflattering rough-hewn features, brown eyes, white hair, calloused hands, wearing a rich brocade waistcoat, watch chain and a heavy coat, standing tall with the arms loose at the sides, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, narrowed, watchful look, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Rainer, 62-year-old human man who looks his age, an older man, 6'2", thin and stooped, tanned skin, a sly, clever face, a sly sallow face, a long drooping nose and wet thin lips, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, unflattering rough-hewn features, brown eyes, white hair, calloused hands, fully nude, no clothing, standing with the arms at the sides, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, sly, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
+## W03-26 Balduin (man, 31) – W03 Keelhaven The Waage Kaufhaus
+_counting house clerk, ink on his fingers_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Balduin, 31-year-old human man, 5'11", tall and lean, skin that is fair, wind-reddened, a calm, even face, exceptionally handsome, strikingly attractive, flawless skin, sculpted jaw and cheekbones, magnetic eyes, blue eyes, brown hair under a knitted cap, calloused hands, wearing a dark waistcoat and sleeve garters, standing upright with the arms at the sides, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, quiet, steady look, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Balduin, 31-year-old human man, 5'11", tall and lean, skin that is fair, wind-reddened, a calm, even face, exceptionally handsome, strikingly attractive, flawless skin, sculpted jaw and cheekbones, magnetic eyes, blue eyes, brown hair under a knitted cap, calloused hands, fully nude, no clothing, standing with the arms relaxed at the sides and the chin lifted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, calm, steady, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
+## W03-27 Meinolf (man, 34) – W03 Keelhaven The Wurfelbecher Kluver
+_the merchant's son who lost the ship's deed to Wilma, resentful_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Meinolf, 34-year-old human man, 5'9", heavy-set, sun-browned fair skin, a sharp, smirking face, a puffy bloodshot face, a double chin and a greasy sneer, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, unflattering rough-hewn features, grey eyes, fair hair tied back, wearing a rumpled fine coat, cravat undone, bloodshot eyes, standing with the arms folded over the chest, the shoulders back, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, narrowed, watchful look, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Meinolf, 34-year-old human man, 5'9", heavy-set, sun-browned fair skin, a sharp, smirking face, a puffy bloodshot face, a double chin and a greasy sneer, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, unflattering rough-hewn features, grey eyes, fair hair tied back, fully nude, no clothing, standing with the arms crossed over the chest, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, sly, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
+## W03-28 Hartmut (man, 49) – W03 Keelhaven The Wurfelbecher Kluver
+_landlord of the Wurfelbecher Kluver, quiet and watchful_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Hartmut, 49-year-old human man who looks his age, 5'11", stocky, skin that is pale, weathered, a sharp, smirking face, a freckled blotchy face, a sharp pointed nose and thin lips, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, unflattering rough-hewn features, grey eyes, red hair, wind-tousled, freckles across the nose, wearing a barman's apron and rolled sleeves, standing with the arms crossed and the chin lifted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, narrowed, watchful look, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Hartmut, 49-year-old human man who looks his age, 5'11", stocky, skin that is pale, weathered, a sharp, smirking face, a freckled blotchy face, a sharp pointed nose and thin lips, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, unflattering rough-hewn features, grey eyes, red hair, wind-tousled, freckles across the nose, fully nude, no clothing, standing with the arms folded over the chest, the shoulders back, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, knowing, amused, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
+## W03-29 Marlies (woman, 33) – W03 Keelhaven The Wurfelbecher Kluver
+_card-room dealer, quick hands_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Marlies, 33-year-old human woman, 5'3", curvy, a D cup bust, ruddy skin, a bold, striking face, green eyes, grey hair in a bun, freckles across the nose, wearing a black waistcoat and white shirt, sleeves rolled, standing with the hands clasped in front, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, confident, knowing smile, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Marlies, 33-year-old human woman, 5'3", curvy, a D cup bust, ruddy skin, a bold, striking face, green eyes, grey hair in a bun, freckles across the nose, fully nude, no clothing, standing with the arms behind the back and the head tilted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, bold, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+## W03-30 Lore (woman, 48) – W03 Keelhaven The Matrosen Schlafboden
+_keeper of the Matrosen Schlafboden_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Lore, 48-year-old human woman who looks her age, 5'1", athletic, a D cup bust, skin that is fair, wind-reddened, a quick, watchful face, grey eyes, greying brown hair in a thick plait, wearing a plain dress and a shawl, standing with the hands clasped in front and the head tilted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, sly smile, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Lore, 48-year-old human woman who looks her age, 5'1", athletic, a D cup bust, skin that is fair, wind-reddened, a quick, watchful face, grey eyes, greying brown hair in a thick plait, fully nude, no clothing, standing with the hands behind the back, leaning slightly forward, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, knowing, amused, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+## W03-31 Holger (man, 25) – W03 Keelhaven The Matrosen Schlafboden
+_hostel hand_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Holger, 25-year-old human man, 5'9", solid and thick, skin that is fair, wind-reddened, a playful, dimpled face, grey eyes, sandy hair, cropped, calloused hands, wearing a loose shirt and braces, standing tall with the arms loose at the sides, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, laughing smile, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Holger, 25-year-old human man, 5'9", solid and thick, skin that is fair, wind-reddened, a playful, dimpled face, grey eyes, sandy hair, cropped, calloused hands, fully nude, no clothing, standing with the arms at the sides, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, giggling, flushed, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
+## W03-32 Gesa (woman, 45) – W03 Keelhaven The Werg Nischen
+_mistress of the Werg Nischen, shrewd_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Gesa, 45-year-old human woman who looks her age, 5'7", sturdy, a D cup bust, tanned skin, a sly, clever face, a sly hard face, a hairy wart by the nose and thin lips, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, unflattering rough-hewn features, green eyes, hair streaked with grey, a tar-stained cuff, wearing a black lace lingerie set with stockings, standing with the hand on the hip and the chin lifted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, knowing smirk, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Gesa, 45-year-old human woman who looks her age, 5'7", sturdy, a D cup bust, tanned skin, a sly, clever face, a sly hard face, a hairy wart by the nose and thin lips, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, unflattering rough-hewn features, green eyes, hair streaked with grey, a tar-stained cuff, fully nude, no clothing, standing with a hand on the hip and the shoulders back, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, sly, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+## W03-33 Sieglinde (woman, 27) – W03 Keelhaven The Werg Nischen
+_alcove hostess, laughing_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Sieglinde, 27-year-old human woman, 5'2", athletic, a B cup bust, sun-browned fair skin, a confident, laughing face, blue eyes, brown hair in a thick plait, freckles across the nose, wearing a thin linen shift and stockings, standing with the hands lightly clasped in front and the shoulders back, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, bold grin, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Sieglinde, 27-year-old human woman, 5'2", athletic, a B cup bust, sun-browned fair skin, a confident, laughing face, blue eyes, brown hair in a thick plait, freckles across the nose, fully nude, no clothing, standing with the arms behind the back, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, confident, amused, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+## W03-34 Ysbrand (man, 43) – W03 Keelhaven The Salzlake Dampfbad
+_bath master of the Salzlake Dampfbad_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Ysbrand, 43-year-old human man who looks his age, 6'0", tall and lean, skin that is pale, weathered, a friendly, round face, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, blue eyes, fair hair tied back, calloused hands, wearing a leather apron over a shirt, standing with the arms at the sides, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, friendly grin, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Ysbrand, 43-year-old human man who looks his age, 6'0", tall and lean, skin that is pale, weathered, a friendly, round face, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, blue eyes, fair hair tied back, calloused hands, fully nude, no clothing, standing upright with the arms at the sides, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, amused, easy, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
+**swim**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Ysbrand, 43-year-old human man who looks his age, 6'0", tall and lean, skin that is pale, weathered, a friendly, round face, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, blue eyes, fair hair tied back, calloused hands, wearing a towel low on the hips, standing with one hand behind the head and the weight on one leg, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, friendly grin, plain pale aqua-tinted cream background (#DDF3F1)
+
+## W03-35 Irmgard (woman, 29) – W03 Keelhaven The Salzlake Dampfbad
+_bath attendant_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Irmgard, 29-year-old human woman, 5'8", athletic, a C cup bust, sun-browned fair skin, a cheeky, freckled face, grey eyes, fair hair under a kerchief, wearing a linen wrap dress, hair up, standing with a hand on the hip and the shoulders back, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, cheeky grin, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Irmgard, 29-year-old human woman, 5'8", athletic, a C cup bust, sun-browned fair skin, a cheeky, freckled face, grey eyes, fair hair under a kerchief, fully nude, no clothing, standing with one hand resting on the hip, the head tilted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, giggling, flushed, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+**swim**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Irmgard, 29-year-old human woman, 5'8", athletic, a C cup bust, sun-browned fair skin, a cheeky, freckled face, grey eyes, fair hair under a kerchief, wearing a lace chemise and stockings, standing with the weight on one leg and the head tilted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, cheeky grin, plain pale aqua-tinted cream background (#DDF3F1)
+
+## W03-36 Jadwiga (woman, 40) – W03 Keelhaven The Knoten Geschirr Lager
+_owner of the Knoten Geschirr Lager, knots and grins_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Jadwiga, 40-year-old human woman who looks her age, 5'5", tall and slim, an E cup bust, skin that is fair, wind-reddened, a sly, clever face, green eyes, auburn hair tied with a ribbon, wearing a leather apron over a laced top, standing with the weight on one leg, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, narrowed, watchful look, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Jadwiga, 40-year-old human woman who looks her age, 5'5", tall and slim, an E cup bust, skin that is fair, wind-reddened, a sly, clever face, green eyes, auburn hair tied with a ribbon, fully nude, no clothing, standing with the weight on one leg and the head tilted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, sly, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+## W03-37 Adalbert (man, 45) – W03 Keelhaven The Heringsstieg
+_fish wharf boss, loud_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Adalbert, 45-year-old human man who looks his age, 5'9", spare and tall, sun-browned fair skin, a craggy, honest face, a sunburnt lumpy face, rotten teeth and a flat nose, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, unflattering rough-hewn features, brown eyes, brown hair under a knitted cap, wearing oilskin apron and sea boots, standing with the hands on the hips and the chin lifted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, gruff nod, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Adalbert, 45-year-old human man who looks his age, 5'9", spare and tall, sun-browned fair skin, a craggy, honest face, a sunburnt lumpy face, rotten teeth and a flat nose, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, unflattering rough-hewn features, brown eyes, brown hair under a knitted cap, fully nude, no clothing, standing with the hands on the hips and the chest out, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, blunt, plain, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
+## W03-38 Mechthild (woman, 55) – W03 Keelhaven The Heringsstieg
+_net mender, sharp-tongued_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Mechthild, 55-year-old human woman who looks her age, an older woman, 5'1", tall and slim, a C cup bust, fair and freckled skin, a severe, composed face, a severe sallow face, a hairy mole and thin colourless lips, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, unflattering rough-hewn features, brown eyes, brown hair in a thick plait, calloused hands, wearing a shawl and a wool dress, standing with the weight on one hip and the arms loose, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, tight, disapproving look, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Mechthild, 55-year-old human woman who looks her age, an older woman, 5'1", tall and slim, a C cup bust, fair and freckled skin, a severe, composed face, a severe sallow face, a hairy mole and thin colourless lips, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, unflattering rough-hewn features, brown eyes, brown hair in a thick plait, calloused hands, fully nude, no clothing, standing with the weight on one leg, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, composed, cold, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+## W03-W1 Burchard (man, 38) – W03 Keelhaven The Kaimauer Bummel and The Kranbahn Laufsteg (pop-up)
+_shipwright strolling the quay promenade_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Burchard, 38-year-old human man, 6'2", tall and lean, skin that is pale, weathered, a kind, creased face, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, blue eyes, sandy hair, cropped, a small scar on the jaw, wearing a wool coat and cap, standing relaxed with one hand behind the head, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, warm smile, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Burchard, 38-year-old human man, 6'2", tall and lean, skin that is pale, weathered, a kind, creased face, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, blue eyes, sandy hair, cropped, a small scar on the jaw, fully nude, no clothing, standing relaxed with one hand behind the head, the other arm loose, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, warm, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
+## W03-W2 Gesine (woman, 29) – W03 Keelhaven The Kaimauer Bummel and The Kranbahn Laufsteg (pop-up)
+_woman with a basket on the gantry catwalk_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Gesine, 29-year-old human woman, 5'7", slim, an E cup bust, skin that is pale, weathered, a bright, daring face, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, blue eyes, blonde braids pinned up, a small scar on the jaw, wearing a wool dress and shawl, standing with one hand lifted to the collarbone and the other arm loose, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, bold grin, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Gesine, 29-year-old human woman, 5'7", slim, an E cup bust, skin that is pale, weathered, a bright, daring face, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, blue eyes, blonde braids pinned up, a small scar on the jaw, fully nude, no clothing, standing with the fingertips resting at the collarbone, the head tilted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, confident, amused, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+## W03-W3 Peer (man, 28) – W03 Keelhaven The Helling Unterbau and The Netzboden Engpass (pop-up)
+_sailor slipping under the slips_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Peer, 28-year-old human man, 6'1", spare and tall, sun-browned fair skin, a playful, dimpled face, hazel eyes, fair hair tied back, wearing an open shirt, collar loose, standing with the arms at the sides, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, cheeky grin, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Peer, 28-year-old human man, 6'1", spare and tall, sun-browned fair skin, a playful, dimpled face, hazel eyes, fair hair tied back, fully nude, no clothing, standing upright with the arms at the sides, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, playful, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
+## W03-W4 Annegret (woman, 24) – W03 Keelhaven The Helling Unterbau and The Netzboden Engpass (pop-up)
+_girl meeting someone in the net loft squeeze_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Annegret, 24-year-old human woman, 5'5", compact and curvy, a C cup bust, tanned skin, a confident, laughing face, grey eyes, short fair hair, freckles across the nose, wearing a black lace lingerie set with stockings, standing with the weight on one hip and the arms loose, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, bold grin, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Annegret, 24-year-old human woman, 5'5", compact and curvy, a C cup bust, tanned skin, a confident, laughing face, grey eyes, short fair hair, freckles across the nose, fully nude, no clothing, standing with the weight on one leg, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, confident, amused, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+## W03-W5 Diedrich (man, 41) – W03 Keelhaven The Dampf Bohlenweg (pop-up)
+_shipwright on the steam jetty steps_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Diedrich, 41-year-old human man who looks his age, 5'10", tall and lean, ruddy skin, a calm, even face, hazel eyes, grey-blond hair, a trimmed beard, calloused hands, wearing a wool shirt and trousers, standing with the arms folded across the chest and the weight on one leg, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, patient half-smile, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Diedrich, 41-year-old human man who looks his age, 5'10", tall and lean, ruddy skin, a calm, even face, hazel eyes, grey-blond hair, a trimmed beard, calloused hands, fully nude, no clothing, standing with the arms crossed and the chin lifted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, calm, steady, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
+**swim**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Diedrich, 41-year-old human man who looks his age, 5'10", tall and lean, ruddy skin, a calm, even face, hazel eyes, grey-blond hair, a trimmed beard, calloused hands, wearing plain linen drawers, standing relaxed with one hand behind the head, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, patient half-smile, plain pale aqua-tinted cream background (#DDF3F1)
+
+## W03-W6 Ute (woman, 33) – W03 Keelhaven The Dampf Bohlenweg (pop-up)
+_woman on the steam jetty steps_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Ute, 33-year-old human woman, 5'8", soft and curvy, an F cup bust, skin that is fair, wind-reddened, a kind, creased face, grey eyes, blonde braids pinned up, a tar-stained cuff, wearing a linen wrap dress, standing with the fingertips resting at the collarbone, the head tilted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, friendly grin, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Ute, 33-year-old human woman, 5'8", soft and curvy, an F cup bust, skin that is fair, wind-reddened, a kind, creased face, grey eyes, blonde braids pinned up, a tar-stained cuff, fully nude, no clothing, standing with one hand at the collarbone, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, amused, easy, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+**swim**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Ute, 33-year-old human woman, 5'8", soft and curvy, an F cup bust, skin that is fair, wind-reddened, a kind, creased face, grey eyes, blonde braids pinned up, a tar-stained cuff, wearing a lace chemise and stockings, standing with a relaxed hip tilt, the arms loose at the sides, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, friendly grin, plain pale aqua-tinted cream background (#DDF3F1)
+
+## W03-W7 Tilman (man, 23) – W03 Keelhaven The Hafen Sprossen and The Wellenbrecher Damm (pop-up)
+_young sailor diving off the breakwater_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Tilman, 23-year-old human man, 5'10", average, fit, tanned skin, a cheeky, freckled face, grey eyes, sandy hair, cropped, calloused hands, wearing shorts, bare chest, standing upright with the arms at the sides, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, cheeky grin, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Tilman, 23-year-old human man, 5'10", average, fit, tanned skin, a cheeky, freckled face, grey eyes, sandy hair, cropped, calloused hands, fully nude, no clothing, standing with the arms relaxed at the sides and the chin lifted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, giggling, flushed, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
+**swim**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Tilman, 23-year-old human man, 5'10", average, fit, tanned skin, a cheeky, freckled face, grey eyes, sandy hair, cropped, calloused hands, wearing plain cotton drawers, standing relaxed with one hand behind the head, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, cheeky grin, plain pale aqua-tinted cream background (#DDF3F1)
+
+## W03-W8 Valburg (woman, 22) – W03 Keelhaven The Hafen Sprossen and The Wellenbrecher Damm (pop-up)
+_girl swimming at the harbour ladders_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Valburg, 22-year-old human woman, 5'1", curvy, a D cup bust, tanned skin, a confident, laughing face, brown eyes, grey hair in a bun, calloused hands, wearing a linen shift clinging to her, standing with the hands clasped in front and the head tilted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, bright, daring smile, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Valburg, 22-year-old human woman, 5'1", curvy, a D cup bust, tanned skin, a confident, laughing face, brown eyes, grey hair in a bun, calloused hands, fully nude, no clothing, standing with the arms behind the back and the head tilted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, confident, amused, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+**swim**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Valburg, 22-year-old human woman, 5'1", curvy, a D cup bust, tanned skin, a confident, laughing face, brown eyes, grey hair in a bun, calloused hands, wearing a thin linen shift and stockings, standing with the weight on one hip and the arms loose, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, bright, daring smile, plain pale aqua-tinted cream background (#DDF3F1)

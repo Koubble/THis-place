@@ -2,6 +2,9 @@ import csv, re, sys, zlib
 isl = sys.argv[1]
 rows = list(csv.DictReader(open(f"{isl}_raw.csv", encoding="utf-8-sig")))
 fields = list(rows[0].keys())
+minors = [r for r in rows if int(r["age"]) < 18]
+for m in minors: print("DROPPED MINOR", m["id"], m["name"], m["age"])
+rows = [r for r in rows if int(r["age"]) >= 18]
 PROP = re.compile(r"\b(ledger|tray|notebook|slate|stack of papers|clipboard|armful of books|baton|parasol|umbrella|briefcase|clutch|"
                   r"fan|menu card|programme|script|sheet music|wax tablet|ladle|goblet|wine jug|basket|tasting spoon|scroll|brass pot|"
                   r"long pipe|long holder|mask on a stick|ticket book|ticket pouch|satchel|canvas bag|deck of cards|coil of rope|"
@@ -13,7 +16,7 @@ PROP = re.compile(r"\b(ledger|tray|notebook|slate|stack of papers|clipboard|armf
                   r"tally cord|sack|bucket|bunch of keys|bottle|tin cup|cheap pies|stamp and an ink pad|lantern|bar rag|barrel tap|"
                   r"crate of oddments|snuffbox|stocks|ring of rusty keys|huge ring of keys|a rope|rope around|lute|pen box|pen case|vial|a seal)\b", re.I)
 KEEP = re.compile(r"behind (the|his|her) ear", re.I)
-HELD = re.compile(r"\b(in hand|in one hand|under (his|her|one) arm|over (one|his|her) shoulder|in (his|her) pocket|in (his|her) hand)\b", re.I)
+HELD = re.compile(r"\b(in hand|in one hand|under (his|her|one) arm|over (one|his|her|the) shoulder|in (his|her) pocket|in (his|her) hand)\b", re.I)
 CLEAN = {}
 exec(open(f"clean_{isl}.py").read()) if __import__("os").path.exists(f"clean_{isl}.py") else None
 changed = []

@@ -1,0 +1,16 @@
+CLEAN = {
+"W01-6": dict(clothed_outfit="a canvas apron and a flat cap"),
+"W01-3": dict(clothed_outfit="a bright waistcoat"),
+"W01-9": dict(hair="grey hair in a coil"),
+"W01-13": dict(hair="light brown hair in a coil"),
+"W01-19": dict(hair="light brown hair in a coil"),
+"W01-29": dict(hair="light brown hair in a coil"),
+"W01-15": dict(hair="short ginger hair"),
+"W01-21": dict(clothed_outfit="a long coat"),
+"W01-25": dict(clothed_outfit="a shawl and apron"),
+"W01-32": dict(clothed_outfit="a green shawl"),
+"W01-W1": dict(clothed_outfit="a smock and a flat cap"),
+"W01-W5": dict(clothed_outfit="a linen shift dress, hair loose"),
+"W01-W6": dict(clothed_outfit="a plain smock and trousers"),
+"W01-46": dict(clothed_outfit="a short dress"),
+}

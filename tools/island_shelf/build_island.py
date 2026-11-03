@@ -3,6 +3,7 @@ sys.path.insert(0, ".")
 import importlib
 from species import SPECIES
 from ugly_overrides import UGLY
+from beauty_overrides import BEAUTY
 
 CSV_PATH, OUT_JSON = sys.argv[1], sys.argv[2]
 PH = importlib.import_module(sys.argv[3] if len(sys.argv) > 3 else 'poses_hearthstone')
@@ -153,7 +154,9 @@ def core(r):
     parts.append(skin_phrase(fix(r["skin"])))
     parts.append(face_phrase(r["face"]))
     ftext = r["face"] + " " + r["marks"] + " " + r["skin"]
-    if r["id"] in UGLY or (UNGLAM.search(ftext) and not PRETTYRE.search(r["face"])):
+    if r["id"] in BEAUTY:
+        parts.append("exceptionally beautiful, strikingly attractive, flawless radiant skin, perfectly balanced symmetrical features, luminous eyes, full lips" if woman else "exceptionally handsome, strikingly attractive, flawless skin, sculpted jaw and cheekbones, magnetic eyes")
+    elif r["id"] in UGLY or (UNGLAM.search(ftext) and not PRETTYRE.search(r["face"])):
         if re.search(r"powder|painted|rouge", ftext, re.I):
             parts.append("plain unglamorous looks, blemished uneven skin")
         else:
@@ -176,7 +179,7 @@ def core(r):
 SWIM_PLACE = re.compile(r"\bbath|\bspa\b|\bpools\b|\bbeach\b|\bcove\b|\bshore\b(?! leave)|\bshingle\b|\bstrand\b|\bspring|\bseep\b|"
                         r"\bbasins?\b|\bplunge\b|\bsauna|sweat hall|thaw house|scrub house|\bwash|\blido\b|tide cave|"
                         r"sunbath|pontoon|\bmere\b|cleansing|changing hut|massage|masseu|kneading|swimm|lifeguard|"
-                        r"surfer|steam kettle|hammam|rinse|scrubbing|rain butts|clinker steams|quenching lake|cenote|immersion trough|slack water|grotto|humid cavern|\bdips?\b|ablution|thermal|vapour tank|cistern|cauldron|sudatorium|strigil|soak|lagoon|jetty|wallow|oasis dip|brimstone fount|\bpond\b|\btubs?\b|mudflat|"
+                        r"surfer|steam kettle|hammam|rinse|scrubbing|rain butts|steam jetty|dampf|breakwater|diving|grotta|clinker steams|quenching lake|cenote|immersion trough|slack water|grotto|humid cavern|\bdips?\b|ablution|thermal|vapour tank|cistern|cauldron|sudatorium|strigil|soak|lagoon|jetty|wallow|oasis dip|brimstone fount|\bpond\b|\btubs?\b|mudflat|"
                         r"moorage|moorings|canal pier|seaward", re.I)
 
 
@@ -195,7 +198,7 @@ ADULT_VENUE = re.compile(r"crimson crypt|\bdomino\b|discreet suite|oubliette|\bu
                          r"sixpenny cots|poppy den|jasmine house|saffron house|cypress majlis|ember divan|unlicensed entrance|"
                          r"obligation dormitory|hidden arbour|mirrored hall|hourly cabins|pillars below|ninth bolt|companions' agency|"
                          r"hushed apartments|frosted cubicles|starlit cottages|lamplit sampan|oleander bower|doffing vestry|\bquadrille\b|"
-                         r"\bfelze\b|grille confessionals|dare peristyle|mermaids cradle|hammock tiers|moidore divans|kindling closets|mating copse|honeyed amber ottoman|subjugation vault|soft voices recess", re.I)
+                         r"\bfelze\b|grille confessionals|dare peristyle|mermaids cradle|hammock tiers|moidore divans|kindling closets|mating copse|werg nischen|cercle loup noir|scellees souterrains|honeyed amber ottoman|subjugation vault|soft voices recess", re.I)
 NOT_ADULT = {"E03-33", "E08-8", "E12-6", "E12-27", "E05-26", "S05-12", "S05-W3", "S06-25", "S05-16"}  # Dagmar: hostess of a social circle, not an adult worker
 
 
