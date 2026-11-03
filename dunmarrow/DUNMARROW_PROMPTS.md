@@ -1,392 +1,431 @@
-# Dunmarrow prompts (56 people, 115 prompts)
+# Dunmarrow prompts
 
-## N3-1 Walt (lift man, N3 Dunmarrow Number One Shaft)
+## N3-1 Walt (man, 58) – N3 Dunmarrow Number One Shaft
+_lift man_
 
 **clothed**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Walt, 58-year-old human man who looks his age, an older man, 5'9", wiry and stooped, soot-grey pale skin, a long weathered face, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, pale grey eyes, cropped grey hair, coal dust in the knuckle creases, wearing a patched brown pit jacket over a collarless shirt, leather braces, a cloth cap, a small lamp on his belt, standing stooped with the hands folded in front and a steady silent look, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, steady, silent look, plain cream background (#FFF8E7)
 
-**studio**
+**nude**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Walt, 58-year-old human man who looks his age, an older man, 5'9", wiry and stooped, soot-grey pale skin, a long weathered face, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, pale grey eyes, cropped grey hair, coal dust in the knuckle creases, fully nude, no clothing, standing stooped with the hands folded behind the back, wary and patient, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, wary, patient, plain pale lavender-tinted cream background (#EEE6F7), average size penis
 
-## N3-2 Harry (veteran gem-cutter, N3 Dunmarrow Cutters' Row)
+## N3-2 Harry (man, 61) – N3 Dunmarrow Cutters' Row
+_veteran gem-cutter_
 
 **clothed**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Harry, 61-year-old human man who looks his age, an older man, 5'7", stout and solid, ruddy skin, a sour, lined face, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, brown eyes, thinning white hair, stained fingertips, wearing a leather apron over a rolled-sleeve shirt, a jeweller's loupe pushed up on his forehead, a cord of keys, standing with the arms crossed and a sour half-smile, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, sour half-smile, plain cream background (#FFF8E7)
 
-**studio**
+**nude**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Harry, 61-year-old human man who looks his age, an older man, 5'7", stout and solid, ruddy skin, a sour, lined face, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, brown eyes, thinning white hair, stained fingertips, fully nude, no clothing, standing stout and solid with the arms crossed over the chest, grudging, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, grumpy, grudging, plain pale lavender-tinted cream background (#EEE6F7), average size penis
 
-## N3-3 Joyce (young gem-cutter, Otto's old bench, admires his work, N3 Dunmarrow Cutters' Row (Brandt's Bench))
+## N3-3 Joyce (woman, 24) – N3 Dunmarrow Cutters' Row (Brandt's Bench)
+_young gem-cutter, Otto's old bench, admires his work_
 
 **clothed**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Joyce, 24-year-old human woman, 5'4", slim, a B cup bust, pale skin with freckles, an earnest, shy face, hazel eyes, dark brown hair in a bun with a pencil through it, polish-stained fingers, wearing a grey work dress under a leather apron, sleeves rolled, a loupe on a cord, standing with the hands held shyly in front and the head slightly bowed, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, shy earnest smile, plain cream background (#FFF8E7)
 
-**studio**
+**nude**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Joyce, 24-year-old human woman, 5'4", slim, a B cup bust, pale skin with freckles, an earnest, shy face, hazel eyes, dark brown hair in a bun with a pencil through it, polish-stained fingers, fully nude, no clothing, standing with the shoulders drawn in, hands clasped behind the back and the eyes lowered, awed, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, shy, awed, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
 
-## N3-4 Hilda (assay buyer, N3 Dunmarrow Fairweight Assay House)
+## N3-4 Hilda (woman, 44) – N3 Dunmarrow Fairweight Assay House
+_assay buyer_
 
 **clothed**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Hilda, 44-year-old human woman who looks her age, 5'6", spare and upright, a C cup bust, pale skin, a sharp, appraising face, dark eyes, black hair with a grey streak in a tight bun, ink on her right hand, wearing a high-collared dark blouse under a waistcoat, spectacles on a chain, a pair of small brass scales on the counter, standing upright with one eyebrow raised and a hand on the hip, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, appraising look, plain cream background (#FFF8E7)
 
-**studio**
+**nude**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Hilda, 44-year-old human woman who looks her age, 5'6", spare and upright, a C cup bust, pale skin, a sharp, appraising face, dark eyes, black hair with a grey streak in a tight bun, ink on her right hand, fully nude, no clothing, standing upright with the chin lifted and one hand touching the hair at the temple, coolly amused, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, coolly amused, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
 
-## N3-5 Arnold (pit boss, N3 Dunmarrow The Company House)
+## N3-5 Arnold (man, 54) – N3 Dunmarrow The Company House
+_pit boss_
 
 **clothed**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Arnold, 54-year-old human man who looks his age, 6'0", heavy and broad, ruddy skin, a jowly, gruff face, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, blue eyes, bald with grey sideburns, wearing a good waistcoat over rolled shirtsleeves, a watch chain, heavy boots, a bowler hat, standing with the hands on the hips and the belly forward, gruff, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, gruff scowl, plain cream background (#FFF8E7)
 
-**studio**
+**nude**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Arnold, 54-year-old human man who looks his age, 6'0", heavy and broad, ruddy skin, a jowly, gruff face, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, blue eyes, bald with grey sideburns, fully nude, no clothing, standing with the hands on the hips and the shoulders hunched in embarrassment, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, gruff, embarrassed, plain pale lavender-tinted cream background (#EEE6F7), average size penis
 
-## N3-6 Cuthbert (company clerk, pushy with pretty women, N3 Dunmarrow The Company House)
+## N3-6 Cuthbert (man, 38) – N3 Dunmarrow The Company House
+_company clerk, pushy with pretty women_
 
 **clothed**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Cuthbert, 38-year-old human man, 5'8", slim, pale skin, a smarmy face, a shiny smarmy face with oily skin, uneven yellow teeth and a wart beside the lip, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, unflattering rough-hewn features, pale blue eyes, slicked brown hair, ink-stained cuffs, wearing a clerk's frock coat with a half-undone high collar, ink-stained cuffs, a pencil behind his ear, standing leaning to one side with a smarmy smirk, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, oily smile, plain cream background (#FFF8E7)
 
-**studio**
+**nude**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Cuthbert, 38-year-old human man, 5'8", slim, pale skin, a smarmy face, a shiny smarmy face with oily skin, uneven yellow teeth and a wart beside the lip, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, unflattering rough-hewn features, pale blue eyes, slicked brown hair, ink-stained cuffs, fully nude, no clothing, standing leaning to one side with the hip popped and one hand through the hair, smug, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, smug, plain pale lavender-tinted cream background (#EEE6F7), average size penis
 
-## N3-7 Peg (union organiser, N3 Dunmarrow Pitmen's Hall)
+## N3-7 Peg (woman, 36) – N3 Dunmarrow Pitmen's Hall
+_union organiser_
 
 **clothed**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Peg, 36-year-old human woman, 5'5", stocky and strong, a C cup bust, ruddy skin, a fierce, freckled face, green eyes, copper hair in a tight braid, calloused hands, wearing a man's waistcoat over a rolled-sleeve shirt, a long skirt, a red union sash, standing with the fists on the hips and the chin up, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, fiery look, plain cream background (#FFF8E7)
 
-**studio**
+**nude**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Peg, 36-year-old human woman, 5'5", stocky and strong, a C cup bust, ruddy skin, a fierce, freckled face, green eyes, copper hair in a tight braid, calloused hands, fully nude, no clothing, standing with the fists on the hips, chin up and chest out, defiant, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, defiant, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
 
-## N3-8 Doris (healer, N3 Dunmarrow The Breathing House)
+## N3-8 Doris (woman, 49) – N3 Dunmarrow The Breathing House
+_healer_
 
 **clothed**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Doris, 49-year-old human woman who looks her age, 5'6", soft and tired, a D cup bust, pale skin, a gentle, tired face, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, grey eyes, grey-streaked brown hair under a cap, wearing a grey nurse's dress with an apron, sleeves rolled, a cloth over one shoulder, standing with the arms loose at the sides, tired and gentle, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, gentle weary smile, plain cream background (#FFF8E7)
 
-**studio**
+**nude**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Doris, 49-year-old human woman who looks her age, 5'6", soft and tired, a D cup bust, pale skin, a gentle, tired face, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, grey eyes, grey-streaked brown hair under a cap, fully nude, no clothing, standing with the shoulders sagging and one hand rubbing the back of the neck, tired and kind, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, tired, kind, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
 
-## N3-9 Len (orderly, N3 Dunmarrow The Breathing House)
+## N3-9 Len (man, 40) – N3 Dunmarrow The Breathing House
+_orderly_
 
 **clothed**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Len, 40-year-old human man who looks his age, 6'2", big and quiet, tan skin, a calm, patient face, brown eyes, short fair hair and a short beard, wearing a sleeveless grey tunic under an apron, rolled trousers, standing big and quiet with the arms at the sides, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, calm look, plain cream background (#FFF8E7)
 
-**studio**
+**nude**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Len, 40-year-old human man who looks his age, 6'2", big and quiet, tan skin, a calm, patient face, brown eyes, short fair hair and a short beard, fully nude, no clothing, standing with the arms at the sides and the shoulders hunched, shy, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, calm, shy, plain pale lavender-tinted cream background (#EEE6F7), average size penis
 
-## N3-10 Edna (baker, N3 Dunmarrow The Hot Crust)
+## N3-10 Edna (woman, 52) – N3 Dunmarrow The Hot Crust
+_baker_
 
 **clothed**
 
-One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Edna, 52-year-old human woman who looks her age, 5'3", round and floury, an E cup bust, ruddy skin, a round, warm face, blue eyes, grey hair in a bun, flour on her forearms, wearing a floury apron over a short-sleeved dress, a cloth tied over her hair, standing with the hands on the hips, laughing, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, warm smile, plain cream background (#FFF8E7)
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Edna, 52-year-old human woman who looks her age, 5'3", round and floury, an E cup bust, ruddy skin, a round, warm face, a floury red face, a double chin and a hairy mole, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, unflattering rough-hewn features, blue eyes, grey hair in a bun, flour on her forearms, wearing a floury apron over a short-sleeved dress, a cloth tied over her hair, standing with the hands on the hips, laughing, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, warm smile, plain cream background (#FFF8E7)
 
-**studio**
+**nude**
 
-One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Edna, 52-year-old human woman who looks her age, 5'3", round and floury, an E cup bust, ruddy skin, a round, warm face, blue eyes, grey hair in a bun, flour on her forearms, fully nude, no clothing, standing with the head back laughing and one hand on the hip, bawdy, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, warm, bawdy, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Edna, 52-year-old human woman who looks her age, 5'3", round and floury, an E cup bust, ruddy skin, a round, warm face, a floury red face, a double chin and a hairy mole, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, unflattering rough-hewn features, blue eyes, grey hair in a bun, flour on her forearms, fully nude, no clothing, standing with the head back laughing and one hand on the hip, bawdy, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, warm, bawdy, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
 
-## N3-11 Madge (counter girl (clearly adult), N3 Dunmarrow The Hot Crust)
+## N3-11 Madge (woman, 23) – N3 Dunmarrow The Hot Crust
+_counter girl (clearly adult)_
 
 **clothed**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Madge, 23-year-old human woman, 5'4", slim, a B cup bust, fair skin, a flushed, round face, blue eyes, pale-blonde plaits, wearing an apron over a puff-sleeved blouse and a short skirt, standing with one arm across the waist, flustered, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, flustered smile, plain cream background (#FFF8E7)
 
-**studio**
+**nude**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Madge, 23-year-old human woman, 5'4", slim, a B cup bust, fair skin, a flushed, round face, blue eyes, pale-blonde plaits, fully nude, no clothing, standing with the head down, hands clasped behind the back and the cheeks flushed, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, flustered, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
 
-## N3-12 Reg (butcher, N3 Dunmarrow The Full Pail)
+## N3-12 Reg (man, 55) – N3 Dunmarrow The Full Pail
+_butcher_
 
 **clothed**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Reg, 55-year-old human man who looks his age, an older man, 5'11", huge and barrel-chested, ruddy skin, a jovial face, small blue eyes, bald with a thick moustache, wearing a striped apron over bare hairy forearms, a straw boater hat, standing with the hands on the hips and a booming grin, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, booming grin, plain cream background (#FFF8E7)
 
-**studio**
+**nude**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Reg, 55-year-old human man who looks his age, an older man, 5'11", huge and barrel-chested, ruddy skin, a jovial face, small blue eyes, bald with a thick moustache, fully nude, no clothing, standing barrel-chested with the hands on the hips and a jovial bawdy grin, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, jovial, bawdy, plain pale lavender-tinted cream background (#EEE6F7), average size penis
 
-## N3-13 Winnie (grocer, N3 Dunmarrow The Full Pail)
+## N3-13 Winnie (woman, 50) – N3 Dunmarrow The Full Pail
+_grocer_
 
 **clothed**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Winnie, 50-year-old human woman who looks her age, 5'6", sturdy, a D cup bust, pale skin, a blunt, honest face, hazel eyes, grey-brown hair under a cap, wearing a long apron, rolled sleeves, a scarf knotted at the neck, standing with the arms folded and an honest stare, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, arms-folded stare, plain cream background (#FFF8E7)
 
-**studio**
+**nude**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Winnie, 50-year-old human woman who looks her age, 5'6", sturdy, a D cup bust, pale skin, a blunt, honest face, hazel eyes, grey-brown hair under a cap, fully nude, no clothing, standing with the hands on the hips and the weight on one leg, unimpressed, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, unimpressed, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
 
-## N3-14 Hardwick (storekeeper, fair and forgettable, N3 Dunmarrow Hardwick's Pit Stores)
+## N3-14 Hardwick (man, 59) – N3 Dunmarrow Hardwick's Pit Stores
+_storekeeper, fair and forgettable_
 
 **clothed**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Hardwick, 59-year-old human man who looks his age, an older man, 5'8", thin and average, pale skin, a mild, forgettable face, grey eyes, thin mouse-brown hair, wearing a brown shop coat, a pencil behind his ear, sleeve protectors, standing with the arms at the sides and a mild blank look, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, polite blank look, plain cream background (#FFF8E7)
 
-**studio**
+**nude**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Hardwick, 59-year-old human man who looks his age, an older man, 5'8", thin and average, pale skin, a mild, forgettable face, grey eyes, thin mouse-brown hair, fully nude, no clothing, standing with the arms at the sides, mild and blank, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, mild, blank, plain pale lavender-tinted cream background (#EEE6F7), average size penis
 
-## N3-15 Agnes (tailor and mender; OTTO'S MOTHER (looks like an older, smaller Otto), N3 Dunmarrow The Patched Sleeve)
+## N3-15 Agnes (woman, 74) – N3 Dunmarrow The Patched Sleeve
+_tailor and mender; OTTO'S MOTHER (looks like an older, smaller Otto)_
 
 **clothed**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Agnes, 74-year-old human woman who looks her age, an older woman, 5'0", small and frail, a B cup bust, pale skin with fine lines, a round, plain, soft face with a kind tired look, an old woman's face, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, pale grey-blue eyes, kind and a little tired, behind wire glasses, thin white hair that was once grey-brown, in a small bun, needle-pricked fingertips, wearing a black dress with a white collar, a woollen shawl, a thimble, a tape measure round her neck, standing with the chin lifted proudly and the arms at the sides, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, quiet proud look, gently sharp, plain cream background (#FFF8E7)
 
-**studio**
+**nude**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Agnes, 74-year-old human woman who looks her age, an older woman, 5'0", small and frail, a B cup bust, pale skin with fine lines, a round, plain, soft face with a kind tired look, an old woman's face, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, pale grey-blue eyes, kind and a little tired, behind wire glasses, thin white hair that was once grey-brown, in a small bun, needle-pricked fingertips, fully nude, no clothing, standing with the arms at the sides and the chin lifted, proud, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, proud, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
 
-## N3-16 Tess (apprentice (clearly adult), N3 Dunmarrow The Patched Sleeve)
+## N3-16 Tess (woman, 20) – N3 Dunmarrow The Patched Sleeve
+_apprentice (clearly adult)_
 
 **clothed**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Tess, 22-year-old human woman, an adult woman with defined cheekbones and mature features, 5'3", slight, a B cup bust, fair skin, an eager face, green eyes, auburn plait, wearing a patched apron over a blouse and skirt, pins on her collar, standing with the hands clasped behind the back, eager, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, eager smile, plain cream background (#FFF8E7)
 
-**studio**
+**nude**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Tess, 22-year-old human woman, an adult woman with defined cheekbones and mature features, 5'3", slight, a B cup bust, fair skin, an eager face, green eyes, auburn plait, fully nude, no clothing, standing with the hands clasped behind the back, rocking slightly, eager and shy, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, eager, shy, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
 
-## N3-17 Ned (cobbler, N3 Dunmarrow Hobnail and Heel)
+## N3-17 Ned (man, 47) – N3 Dunmarrow Hobnail and Heel
+_cobbler_
 
 **clothed**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Ned, 47-year-old human man who looks his age, 5'6", wiry, tan skin, a dry, knowing face, dark eyes, black hair, wearing a leather apron over a rolled-sleeve shirt, standing with the weight on one leg and a dry smirk, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, dry smirk, plain cream background (#FFF8E7)
 
-**studio**
+**nude**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Ned, 47-year-old human man who looks his age, 5'6", wiry, tan skin, a dry, knowing face, dark eyes, black hair, fully nude, no clothing, standing with one shoulder dropped and the head tilted, dry, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, dry, plain pale lavender-tinted cream background (#EEE6F7), average size penis
 
-## N3-18 Esme (herb-wife, N3 Dunmarrow Comfrey Corner)
+## N3-18 Esme (woman, 62) – N3 Dunmarrow Comfrey Corner
+_herb-wife_
 
 **clothed**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Esme, 62-year-old human woman who looks her age, an older woman, 5'2", tiny and bent, a C cup bust, tan and wrinkled skin, a muttering, shrewd face, a hooked nose, warts and a few brown teeth, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, unflattering rough-hewn features, black eyes, wild white hair with sprigs of herb in it, green-stained fingers, wearing a patchwork shawl over a faded dress, bundles of herbs hanging from her belt, standing hunched with a muttering grin, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, muttering grin, plain cream background (#FFF8E7)
 
-**studio**
+**nude**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Esme, 62-year-old human woman who looks her age, an older woman, 5'2", tiny and bent, a C cup bust, tan and wrinkled skin, a muttering, shrewd face, a hooked nose, warts and a few brown teeth, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, unflattering rough-hewn features, black eyes, wild white hair with sprigs of herb in it, green-stained fingers, fully nude, no clothing, standing hunched and cackling with one hand raised in the air, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, cackling, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
 
-## N3-19 Sid (pawnbroker and fence, N3 Dunmarrow The Second Hand)
+## N3-19 Sid (man, 52) – N3 Dunmarrow The Second Hand
+_pawnbroker and fence_
 
 **clothed**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Sid, 52-year-old human man who looks his age, 5'7", soft and sleek, pale skin, an oily, polite face, a damp pasty face with a wart beside the nose, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, unflattering rough-hewn features, dark eyes, slicked black hair and a thin moustache, a ring on every finger, wearing a velvet waistcoat, a pocket watch, rings, a loupe, standing with the fingertips steepled and an oily smile, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, oily polite smile, plain cream background (#FFF8E7)
 
-**studio**
+**nude**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Sid, 52-year-old human man who looks his age, 5'7", soft and sleek, pale skin, an oily, polite face, a damp pasty face with a wart beside the nose, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, unflattering rough-hewn features, dark eyes, slicked black hair and a thin moustache, a ring on every finger, fully nude, no clothing, standing with the fingertips steepled at the chest and an oily smile, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, oily, plain pale lavender-tinted cream background (#EEE6F7), average size penis
 
-## N3-20 Bob (tavern keeper, ex-miner, N3 Dunmarrow The Lamp and Pick)
+## N3-20 Bob (man, 60) – N3 Dunmarrow The Lamp and Pick
+_tavern keeper, ex-miner_
 
 **clothed**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Bob, 60-year-old human man who looks his age, an older man, 6'1", huge and heavy, ruddy skin, a big warm face, blue eyes, bald with a grey beard, an old pit scar on one forearm, wearing rolled sleeves, a stained apron, a tankard in his fist, standing with the big belly forward and a booming laugh, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, booming laugh, plain cream background (#FFF8E7)
 
-**studio**
+**nude**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Bob, 60-year-old human man who looks his age, an older man, 6'1", huge and heavy, ruddy skin, a big warm face, blue eyes, bald with a grey beard, an old pit scar on one forearm, fully nude, no clothing, standing with the hands resting on the belly and a warm laugh, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, warm, plain pale lavender-tinted cream background (#EEE6F7), average size penis
 
-## N3-21 Dot (barmaid, dry and motherly, N3 Dunmarrow The Lamp and Pick)
+## N3-21 Dot (woman, 45) – N3 Dunmarrow The Lamp and Pick
+_barmaid, dry and motherly_
 
 **clothed**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Dot, 45-year-old human woman who looks her age, 5'5", motherly, a D cup bust, pale skin, a dry, kind face, brown eyes, dark curls going grey, tied up, wearing a low-cut blouse under a stained apron, rolled sleeves, standing with the hands on the hips, dry and kind, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, dry smile, plain cream background (#FFF8E7)
 
-**studio**
+**nude**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Dot, 45-year-old human woman who looks her age, 5'5", motherly, a D cup bust, pale skin, a dry, kind face, brown eyes, dark curls going grey, tied up, fully nude, no clothing, standing with one hand on the hip and the head tilted, dry and amused, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, dry, amused, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
 
-## N3-22 Lucy (barmaid, cheeky and touchy-feely, N3 Dunmarrow The Lamp and Pick)
+## N3-22 Lucy (woman, 25) – N3 Dunmarrow The Lamp and Pick
+_barmaid, cheeky and touchy-feely_
 
 **clothed**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Lucy, 25-year-old human woman, 5'4", curvy, a D cup bust, fair skin, a cheeky face, green eyes, red-gold curls, wearing a low-cut blouse under a laced bodice, a short skirt, a tray, standing with one hand on the hip, the hip cocked and a wink, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, cheeky wink, plain cream background (#FFF8E7)
 
-**studio**
+**nude**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Lucy, 25-year-old human woman, 5'4", curvy, a D cup bust, fair skin, a cheeky face, green eyes, red-gold curls, fully nude, no clothing, standing with the hip cocked, one hand in the curls and a cheeky wink, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, cheeky, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
 
-## N3-23 Tanner (cellar bouncer and fight-master, N3 Dunmarrow The Lamp and Pick (fighting cellar))
+## N3-23 Tanner (man, 38) – N3 Dunmarrow The Lamp and Pick (fighting cellar)
+_cellar bouncer and fight-master_
 
 **clothed**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Tanner, 38-year-old human man, 6'3", huge and scarred, tan skin, a flat, stern face, grey eyes, shaved head, a scar through one eyebrow, wearing a bare-armed leather vest, rolled trousers, wrapped knuckles, standing with the arms folded and a flat stare, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, flat stare, plain cream background (#FFF8E7)
 
-**studio**
+**nude**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Tanner, 38-year-old human man, 6'3", huge and scarred, tan skin, a flat, stern face, grey eyes, shaved head, a scar through one eyebrow, fully nude, no clothing, standing with the arms folded and the feet apart, stern, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, stern, plain pale lavender-tinted cream background (#EEE6F7), average size penis
 
-## N3-24 Eustace (keeper, fussy, N3 Dunmarrow The Tally House)
+## N3-24 Eustace (man, 56) – N3 Dunmarrow The Tally House
+_keeper, fussy_
 
 **clothed**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Eustace, 56-year-old human man who looks his age, an older man, 5'9", portly, pale skin, a pursed, fussy face, pale blue eyes behind a pince-nez, thin comb-over, wearing a black tailcoat, a bow tie, a pince-nez on a ribbon, standing very upright with the hands clasped in front, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, pursed lips, plain cream background (#FFF8E7)
 
-**studio**
+**nude**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Eustace, 56-year-old human man who looks his age, an older man, 5'9", portly, pale skin, a pursed, fussy face, pale blue eyes behind a pince-nez, thin comb-over, fully nude, no clothing, standing very upright with the hands clasped behind the back, mortified, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, mortified, plain pale lavender-tinted cream background (#EEE6F7), average size penis
 
-## N3-25 Clara (maid, prim and secretly curious, N3 Dunmarrow The Tally House)
+## N3-25 Clara (woman, 28) – N3 Dunmarrow The Tally House
+_maid, prim and secretly curious_
 
 **clothed**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Clara, 28-year-old human woman, 5'6", slim and upright, a C cup bust, pale skin, a prim face, grey eyes, brown hair in a tight bun, wearing a black maid's dress buttoned to the chin with a white collar and apron, standing with the hands clasped low and the chin lifted primly, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, prim look, plain cream background (#FFF8E7)
 
-**studio**
+**nude**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Clara, 28-year-old human woman, 5'6", slim and upright, a C cup bust, pale skin, a prim face, grey eyes, brown hair in a tight bun, fully nude, no clothing, standing with the hands clasped behind the back, the chin lifted primly and the eyes sneaking a look, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, prim, curious, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
 
-## N3-26 Ethel (cook, N3 Dunmarrow The Hot Pot Cookhouse)
+## N3-26 Ethel (woman, 50) – N3 Dunmarrow The Hot Pot Cookhouse
+_cook_
 
 **clothed**
 
-One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Ethel, 50-year-old human woman who looks her age, 5'5", broad and strong, an E cup bust, ruddy skin, a motherly, brisk face, blue eyes, grey hair under a net, wearing a big apron over a short-sleeved dress, a ladle tucked in her apron, standing laughing with the hands on the hips, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, brisk smile, plain cream background (#FFF8E7)
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Ethel, 50-year-old human woman who looks her age, 5'5", broad and strong, an E cup bust, ruddy skin, a motherly, brisk face, a lumpy greasy face, jowls and a wart on the cheek, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, unflattering rough-hewn features, blue eyes, grey hair under a net, wearing a big apron over a short-sleeved dress, a ladle tucked in her apron, standing laughing with the hands on the hips, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, brisk smile, plain cream background (#FFF8E7)
 
-**studio**
+**nude**
 
-One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Ethel, 50-year-old human woman who looks her age, 5'5", broad and strong, an E cup bust, ruddy skin, a motherly, brisk face, blue eyes, grey hair under a net, fully nude, no clothing, standing laughing with the head back and the hands on the hips, motherly, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, motherly, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Ethel, 50-year-old human woman who looks her age, 5'5", broad and strong, an E cup bust, ruddy skin, a motherly, brisk face, a lumpy greasy face, jowls and a wart on the cheek, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, unflattering rough-hewn features, blue eyes, grey hair under a net, fully nude, no clothing, standing laughing with the head back and the hands on the hips, motherly, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, motherly, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
 
-## N3-27 Gwen (server, shy, N3 Dunmarrow The Hot Pot Cookhouse)
+## N3-27 Gwen (woman, 27) – N3 Dunmarrow The Hot Pot Cookhouse
+_server, shy_
 
 **clothed**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Gwen, 27-year-old human woman, 5'5", slim, a B cup bust, fair skin, a shy face, hazel eyes, dark plait, wearing an apron over a plain blouse and skirt, sleeves rolled, standing with the hands clasped in front, shy, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, shy smile, plain cream background (#FFF8E7)
 
-**studio**
+**nude**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Gwen, 27-year-old human woman, 5'5", slim, a B cup bust, fair skin, a shy face, hazel eyes, dark plait, fully nude, no clothing, standing with the shoulders drawn in and the hands clasped behind the back, shy, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, shy, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
 
-## N3-28 Violet (madam, fair and firm, N3 Dunmarrow The Ruby Parlour)
+## N3-28 Violet (woman, 50) – N3 Dunmarrow The Ruby Parlour
+_madam, fair and firm_
 
 **clothed**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Violet, 50-year-old human woman who looks her age, 5'8", full and elegant, an E cup bust, skin that is pale, powdered, a handsome, shrewd face, green eyes, auburn hair pinned up, a beauty spot on her cheek, wearing a red lace corset set with stockings, standing straight with one hand on the hip and the chin up, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, shrewd smile, plain cream background (#FFF8E7)
 
-**studio**
+**nude**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Violet, 50-year-old human woman who looks her age, 5'8", full and elegant, an E cup bust, skin that is pale, powdered, a handsome, shrewd face, green eyes, auburn hair pinned up, a beauty spot on her cheek, fully nude, no clothing, standing straight with the chin up, one hand at the hair and the back gently arched, confident, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, confident, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
 
-## N3-29 Rosie (worker, cheerful, likes the work, N3 Dunmarrow The Ruby Parlour)
+## N3-29 Rosie (woman, 26) – N3 Dunmarrow The Ruby Parlour
+_worker, cheerful, likes the work_
 
 **clothed**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Rosie, 26-year-old human woman, 5'5", curvy, a DD cup bust, fair and freckled skin, a cheerful face, brown eyes, red-gold curls, wearing black lace underwear with stockings, standing with the hands behind the head, cheerful, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, cheerful smile, plain cream background (#FFF8E7)
 
-**studio**
+**nude**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Rosie, 26-year-old human woman, 5'5", curvy, a DD cup bust, fair and freckled skin, a cheerful face, brown eyes, red-gold curls, fully nude, no clothing, standing with the hands behind the head and the chest lifted, cheerful, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, cheerful, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
 
-## N3-30 Mavis (worker, funny and practical, N3 Dunmarrow The Ruby Parlour)
+## N3-30 Mavis (woman, 46) – N3 Dunmarrow The Ruby Parlour
+_worker, funny and practical_
 
 **clothed**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Mavis, 46-year-old human woman who looks her age, 5'6", soft and full, a DD cup bust, pale skin, a wry, laughing face, brown eyes, black dyed hair in a loose pile, wearing a cream corset set with stockings, standing with the arms folded under the bust, wry, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, wry grin, plain cream background (#FFF8E7)
 
-**studio**
+**nude**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Mavis, 46-year-old human woman who looks her age, 5'6", soft and full, a DD cup bust, pale skin, a wry, laughing face, brown eyes, black dyed hair in a loose pile, fully nude, no clothing, standing with the hands on the hips, the weight on one leg and a wry laughing look, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, wry, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
 
-## N3-31 Jem (doorman, the moral line, N3 Dunmarrow The Ruby Parlour)
+## N3-31 Jem (man, 44) – N3 Dunmarrow The Ruby Parlour
+_doorman, the moral line_
 
 **clothed**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Jem, 44-year-old human man who looks his age, 6'4", huge, dark brown skin, a calm, level face, brown eyes, shaved head, wearing a black coat over a white shirt, a bowler hat, standing with the arms folded and a calm stare, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, calm stare, plain cream background (#FFF8E7)
 
-**studio**
+**nude**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Jem, 44-year-old human man who looks his age, 6'4", huge, dark brown skin, a calm, level face, brown eyes, shaved head, fully nude, no clothing, standing calmly with the arms at the sides and the shoulders square, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, calm, plain pale lavender-tinted cream background (#EEE6F7), average size penis
 
-## N3-32 Fenwick (dealer, a smooth cheat, N3 Dunmarrow The Lucky Seam)
+## N3-32 Fenwick (man, 40) – N3 Dunmarrow The Lucky Seam
+_dealer, a smooth cheat_
 
 **clothed**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Fenwick, 40-year-old human man who looks his age, 5'10", slim and slick, pale skin, a smooth face, grey eyes, black hair parted in the middle and a thin moustache, wearing a striped waistcoat with sleeve garters, a green eyeshade, a deck of cards, standing with a smirk and one hand in a pocket, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, smooth smile, plain cream background (#FFF8E7)
 
-**studio**
+**nude**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Fenwick, 40-year-old human man who looks his age, 5'10", slim and slick, pale skin, a smooth face, grey eyes, black hair parted in the middle and a thin moustache, fully nude, no clothing, standing with a smirk, one hand on the hip and the head tilted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, smug, plain pale lavender-tinted cream background (#EEE6F7), average size penis
 
-## N3-33 Hal (bruiser, N3 Dunmarrow The Lucky Seam)
+## N3-33 Hal (man, 33) – N3 Dunmarrow The Lucky Seam
+_bruiser_
 
 **clothed**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Hal, 33-year-old human man, 6'1", thick-necked, ruddy skin, a bored face with a broken nose, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, brown eyes, cropped brown hair, a broken nose, wearing rolled shirtsleeves, braces, heavy boots, standing with the arms at the sides, bored, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, bored look, plain cream background (#FFF8E7)
 
-**studio**
+**nude**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Hal, 33-year-old human man, 6'1", thick-necked, ruddy skin, a bored face with a broken nose, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, brown eyes, cropped brown hair, a broken nose, fully nude, no clothing, standing with the arms hanging and a bored slouch, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, bored, plain pale lavender-tinted cream background (#EEE6F7), average size penis
 
-## N3-34 Mortimer (loan shark, N3 Dunmarrow The Pale Ledger)
+## N3-34 Mortimer (man, 48) – N3 Dunmarrow The Pale Ledger
+_loan shark_
 
 **clothed**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Mortimer, 48-year-old human man who looks his age, 5'11", thin and tidy, pale skin, a polite, cold face, pale eyes, combed silver hair, wearing a black frock coat, a silver watch chain, spotless gloves, standing very straight, cold and polite, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, polite cold smile, plain cream background (#FFF8E7)
 
-**studio**
+**nude**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Mortimer, 48-year-old human man who looks his age, 5'11", thin and tidy, pale skin, a polite, cold face, pale eyes, combed silver hair, fully nude, no clothing, standing very straight with the hands clasped behind the back, cold, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, cold, plain pale lavender-tinted cream background (#EEE6F7), average size penis
 
-## N3-35 Prudence (lender and collector, N3 Dunmarrow The Pale Ledger)
+## N3-35 Prudence (woman, 41) – N3 Dunmarrow The Pale Ledger
+_lender and collector_
 
 **clothed**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Prudence, 41-year-old human woman who looks her age, 5'7", slender, a C cup bust, pale skin, a polished, chilly face, grey eyes, black hair in a tight chignon, wearing a charcoal high-collared dress, gloves, a ledger under her arm, standing straight with the chin level, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, chilly smile, plain cream background (#FFF8E7)
 
-**studio**
+**nude**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Prudence, 41-year-old human woman who looks her age, 5'7", slender, a C cup bust, pale skin, a polished, chilly face, grey eyes, black hair in a tight chignon, fully nude, no clothing, standing straight with the chin level and the hands at the sides, cool, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, cool, level, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
 
-## N3-36 Ralph (watch sergeant, lazy and takes his cut, N3 Dunmarrow Lower Watch Post)
+## N3-36 Ralph (man, 50) – N3 Dunmarrow Lower Watch Post
+_watch sergeant, lazy and takes his cut_
 
 **clothed**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Ralph, 50-year-old human man who looks his age, 5'9", soft and paunchy, ruddy skin, a lazy face, heavy sagging jowls, a greasy sweating brow, a drooping lip and a large mole with hairs, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, unflattering rough-hewn features, brown eyes, thin brown hair and a drooping moustache, wearing an unbuttoned watchman's coat, a loose belt, a rumpled hat, standing with a hand on the paunch, lazy, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, lazy look, plain cream background (#FFF8E7)
 
-**studio**
+**nude**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Ralph, 50-year-old human man who looks his age, 5'9", soft and paunchy, ruddy skin, a lazy face, heavy sagging jowls, a greasy sweating brow, a drooping lip and a large mole with hairs, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, unflattering rough-hewn features, brown eyes, thin brown hair and a drooping moustache, fully nude, no clothing, standing slouched with a hand on the paunch, lazy, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, lazy, plain pale lavender-tinted cream background (#EEE6F7), average size penis
 
-## N3-37 Toby (young constable, decent and out of his depth, N3 Dunmarrow Lower Watch Post)
+## N3-37 Toby (man, 22) – N3 Dunmarrow Lower Watch Post
+_young constable, decent and out of his depth_
 
 **clothed**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Toby, 22-year-old human man, 5'10", lanky, fair skin, an earnest face, blue eyes, floppy sandy hair, wearing an ill-fitting watch coat, a round helmet-hat, a whistle, standing stiffly with the hands at the sides, nervous, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, nervous look, plain cream background (#FFF8E7)
 
-**studio**
+**nude**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Toby, 22-year-old human man, 5'10", lanky, fair skin, an earnest face, blue eyes, floppy sandy hair, fully nude, no clothing, standing stiffly with the hands at the sides and the shoulders high, nervous, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, nervous, plain pale lavender-tinted cream background (#EEE6F7), average size penis
 
-## N3-38 Verity (keeper, reads the names at dusk, N3 Dunmarrow Chapel of the Names)
+## N3-38 Verity (woman, 63) – N3 Dunmarrow Chapel of the Names
+_keeper, reads the names at dusk_
 
 **clothed**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Verity, 63-year-old human woman who looks her age, an older woman, 5'4", narrow and upright, a B cup bust, pale skin, a serene face, grey eyes, grey hair under a black cap, wearing a plain black dress with a shawl, a small book in her hands, standing with the hands folded in front, serene, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, serene look, plain cream background (#FFF8E7)
 
-**studio**
+**nude**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Verity, 63-year-old human woman who looks her age, an older woman, 5'4", narrow and upright, a B cup bust, pale skin, a serene face, grey eyes, grey hair under a black cap, fully nude, no clothing, standing serenely with the hands resting at the sides and the head slightly bowed, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, serene, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
 
-## N3-39 Ida (bath attendant, matter-of-fact about bodies, N3 Dunmarrow The Scrub House)
+## N3-39 Ida (woman, 40) – N3 Dunmarrow The Scrub House
+_bath attendant, matter-of-fact about bodies_
 
 **clothed**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Ida, 40-year-old human woman who looks her age, 5'6", strong and sturdy, a D cup bust, tan skin, an unbothered face, brown eyes, dark hair in a headscarf, wearing a damp linen dress with rolled sleeves, towels over one arm, standing unbothered with the arms loose, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, matter-of-fact look, plain cream background (#FFF8E7)
 
-**studio**
+**nude**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Ida, 40-year-old human woman who looks her age, 5'6", strong and sturdy, a D cup bust, tan skin, an unbothered face, brown eyes, dark hair in a headscarf, fully nude, no clothing, standing unbothered with one hand on the hip and the weight on one leg, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, unbothered, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
 
@@ -394,163 +433,179 @@ One Piece anime art style, adventure manga anime style, bold clean ink outlines,
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Ida, 40-year-old human woman who looks her age, 5'6", strong and sturdy, a D cup bust, tan skin, an unbothered face, brown eyes, dark hair in a headscarf, wearing a plain dark swimming costume, standing unbothered with the hands on the hips, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, matter-of-fact look, plain pale aqua-tinted cream background (#DDF3F1)
 
-## N3-40 Maggie (fishwife, loud and bawdy, N3 Dunmarrow Slate Quay)
+## N3-40 Maggie (woman, 48) – N3 Dunmarrow Slate Quay
+_fishwife, loud and bawdy_
 
 **clothed**
 
-One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Maggie, 48-year-old human woman who looks her age, 5'5", broad and loud, an E cup bust, ruddy skin, a big laughing face, blue eyes, red hair going grey, tied back, wearing an oilskin apron over a low blouse, rolled sleeves, a basket of fish, standing laughing with the hands on the hips, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, loud laugh, plain cream background (#FFF8E7)
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Maggie, 48-year-old human woman who looks her age, 5'5", broad and loud, an E cup bust, ruddy skin, a big laughing face, a gap-toothed bawdy grin, a ruddy broken-veined nose and a wart, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, unflattering rough-hewn features, blue eyes, red hair going grey, tied back, wearing an oilskin apron over a low blouse, rolled sleeves, a basket of fish, standing laughing with the hands on the hips, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, loud laugh, plain cream background (#FFF8E7)
 
-**studio**
+**nude**
 
-One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Maggie, 48-year-old human woman who looks her age, 5'5", broad and loud, an E cup bust, ruddy skin, a big laughing face, blue eyes, red hair going grey, tied back, fully nude, no clothing, standing with one fist raised in the air and a loud bawdy laugh, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, bawdy, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Maggie, 48-year-old human woman who looks her age, 5'5", broad and loud, an E cup bust, ruddy skin, a big laughing face, a gap-toothed bawdy grin, a ruddy broken-veined nose and a wart, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, unflattering rough-hewn features, blue eyes, red hair going grey, tied back, fully nude, no clothing, standing with one fist raised in the air and a loud bawdy laugh, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, bawdy, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
 
-## N3-41 Fred (stallholder, blunt, N3 Dunmarrow Pennywell Market (second-hand tools))
+## N3-41 Fred (man, 50) – N3 Dunmarrow Pennywell Market (second-hand tools)
+_stallholder, blunt_
 
 **clothed**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Fred, 50-year-old human man who looks his age, 5'8", wiry, tan skin, a blunt face, brown eyes, grey stubble under a flat cap, wearing a patched coat, a flat cap, a cloth of tools laid out, standing with the arms folded and a blunt look, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, blunt look, plain cream background (#FFF8E7)
 
-**studio**
+**nude**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Fred, 50-year-old human man who looks his age, 5'8", wiry, tan skin, a blunt face, brown eyes, grey stubble under a flat cap, fully nude, no clothing, standing with the arms folded and the weight on one leg, blunt, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, blunt, plain pale lavender-tinted cream background (#EEE6F7), average size penis
 
-## N3-42 Ada (stallholder, cheeky, N3 Dunmarrow Pennywell Market (ribbons and trinkets))
+## N3-42 Ada (woman, 33) – N3 Dunmarrow Pennywell Market (ribbons and trinkets)
+_stallholder, cheeky_
 
 **clothed**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Ada, 33-year-old human woman, 5'3", small-framed, a C cup bust, pale skin, a cheeky face, dark eyes, black bob with ribbons, wearing a striped dress with ribbons pinned all over, a tray of trinkets, standing peering over the shoulder with a cheeky grin, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, cheeky grin, plain cream background (#FFF8E7)
 
-**studio**
+**nude**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Ada, 33-year-old human woman, 5'3", small-framed, a C cup bust, pale skin, a cheeky face, dark eyes, black bob with ribbons, fully nude, no clothing, standing peering back over the shoulder with the hip cocked, cheeky, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, cheeky, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
 
-## N3-43 Cyril (stallholder, touchy and sells out early, N3 Dunmarrow Pennywell Market (pies))
+## N3-43 Cyril (man, 60) – N3 Dunmarrow Pennywell Market (pies)
+_stallholder, touchy and sells out early_
 
 **clothed**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Cyril, 60-year-old human man who looks his age, an older man, 5'9", plump, pale skin with red cheeks, a touchy, red-cheeked face, blue eyes, white tufts of hair, wearing a floury apron over a waistcoat, a tray of pies, standing with the hands on the belly, touchy, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, touchy frown, plain cream background (#FFF8E7)
 
-**studio**
+**nude**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Cyril, 60-year-old human man who looks his age, an older man, 5'9", plump, pale skin with red cheeks, a touchy, red-cheeked face, blue eyes, white tufts of hair, fully nude, no clothing, standing with a hand on the belly and the lips pursed, touchy, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, touchy, plain pale lavender-tinted cream background (#EEE6F7), average size penis
 
-## N3-44 Beryl (stallholder, touchy-feely and unbothered, N3 Dunmarrow Pennywell Market (knitwear))
+## N3-44 Beryl (woman, 44) – N3 Dunmarrow Pennywell Market (knitwear)
+_stallholder, touchy-feely and unbothered_
 
 **clothed**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Beryl, 44-year-old human woman who looks her age, 5'7", big and soft, an F cup bust, pale skin, a friendly face, blue eyes, grey-blonde hair in a bun, wearing a hand-knitted cardigan open over a low blouse, a long skirt, a pile of knitwear, standing with the arms open, friendly, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, friendly smile, plain cream background (#FFF8E7)
 
-**studio**
+**nude**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Beryl, 44-year-old human woman who looks her age, 5'7", big and soft, an F cup bust, pale skin, a friendly face, blue eyes, grey-blonde hair in a bun, fully nude, no clothing, standing with the arms open and the head tilted, unbothered and friendly, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, unbothered, friendly, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
 
-## N3-W1 Jack (debtor to the Pale Ledger, offers himself to clear the debt, N3 Dunmarrow Tramway Arch and hidden places (pop-up))
+## N3-W1 Jack (man, 31) – N3 Dunmarrow Tramway Arch and hidden places (pop-up)
+_debtor to the Pale Ledger, offers himself to clear the debt_
 
 **clothed**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Jack, 31-year-old human man, 5'10", lean and worn, pale skin, a weary, hopeful face, haunted brown eyes, unkempt brown hair and stubble, wearing patched drawers, standing with the hands open in offer, weary, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, weary, hopeful look, plain cream background (#FFF8E7)
 
-**studio**
+**nude**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Jack, 31-year-old human man, 5'10", lean and worn, pale skin, a weary, hopeful face, haunted brown eyes, unkempt brown hair and stubble, fully nude, no clothing, standing with the hands open at the sides in offer, embarrassed, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, embarrassed, plain pale lavender-tinted cream background (#EEE6F7), average size penis
 
-## N3-W2 Lizzie (debtor to the Pale Ledger, offers herself to clear the debt, N3 Dunmarrow Tramway Arch and hidden places (pop-up))
+## N3-W2 Lizzie (woman, 29) – N3 Dunmarrow Tramway Arch and hidden places (pop-up)
+_debtor to the Pale Ledger, offers herself to clear the debt_
 
 **clothed**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Lizzie, 29-year-old human woman, 5'5", thin, a B cup bust, fair skin, a tired, brave face, hollow grey eyes, lank dark-blonde hair, wearing a patched white slip, standing with the hands at the sides, tired but brave, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, tired smile, plain cream background (#FFF8E7)
 
-**studio**
+**nude**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Lizzie, 29-year-old human woman, 5'5", thin, a B cup bust, fair skin, a tired, brave face, hollow grey eyes, lank dark-blonde hair, fully nude, no clothing, standing with the hands at the sides, resigned and brave, chin up, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, resigned, brave, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
 
-## N3-W3 Jago (drunk who tries his luck, N3 Dunmarrow Tramway Arch (pop-up))
+## N3-W3 Jago (man, 40) – N3 Dunmarrow Tramway Arch (pop-up)
+_drunk who tries his luck_
 
 **clothed**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Jago, 40-year-old human man who looks his age, 5'9", wiry, ruddy skin, a face with a leering, boozy grin, a swollen red nose, rotten gapped teeth, a wart on the cheek and a sweating brow, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, unflattering rough-hewn features, bloodshot brown eyes, greasy dark hair, wearing a stained shirt open at the chest, braces, a bottle in a pocket, standing swaying with one hand out, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, leering grin, plain cream background (#FFF8E7)
 
-**studio**
+**nude**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Jago, 40-year-old human man who looks his age, 5'9", wiry, ruddy skin, a face with a leering, boozy grin, a swollen red nose, rotten gapped teeth, a wart on the cheek and a sweating brow, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, unflattering rough-hewn features, bloodshot brown eyes, greasy dark hair, fully nude, no clothing, standing swaying with one hand out and a shameless grin, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, grinning, shameless, plain pale lavender-tinted cream background (#EEE6F7), average size penis
 
-## N3-W4 Nancy (works the arch, blunt about it, N3 Dunmarrow Tramway Arch (pop-up))
+## N3-W4 Nancy (woman, 34) – N3 Dunmarrow Tramway Arch (pop-up)
+_works the arch, blunt about it_
 
 **clothed**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Nancy, 34-year-old human woman, 5'6", lean, a C cup bust, tan skin, a blunt face, brown eyes, black hair in a topknot, wearing black underwear with stockings, standing with the hip cocked, blunt, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, blunt look, plain cream background (#FFF8E7)
 
-**studio**
+**nude**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Nancy, 34-year-old human woman, 5'6", lean, a C cup bust, tan skin, a blunt face, brown eyes, black hair in a topknot, fully nude, no clothing, standing with one hip out and the hands on the hips, blunt, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, blunt, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
 
-## N3-W5 Gareth (miner coming off shift, N3 Dunmarrow Number One Shaft (pop-up))
+## N3-W5 Gareth (man, 36) – N3 Dunmarrow Number One Shaft (pop-up)
+_miner coming off shift_
 
 **clothed**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Gareth, 36-year-old human man, 6'0", strong, soot-grey skin, a tired, grinning face, blue eyes, cropped dark hair, coal dust in every crease, wearing a soot-streaked vest, pit trousers, boots, a lamp on his belt, standing with the hands on the hips, tired and grinning, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, tired grin, plain cream background (#FFF8E7)
 
-**studio**
+**nude**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Gareth, 36-year-old human man, 6'0", strong, soot-grey skin, a tired, grinning face, blue eyes, cropped dark hair, coal dust in every crease, fully nude, no clothing, standing with the hands on the hips and the head rolled back, tired and easy, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, tired, easy, plain pale lavender-tinted cream background (#EEE6F7), average size penis
 
-## N3-W6 Polly (young woman waiting for her man, N3 Dunmarrow Number One Shaft (pop-up))
+## N3-W6 Polly (woman, 22) – N3 Dunmarrow Number One Shaft (pop-up)
+_young woman waiting for her man_
 
 **clothed**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Polly, 22-year-old human woman, 5'4", slim, a B cup bust, fair skin, a nervous, hopeful face, brown eyes, brown braids, wearing a shawl over a plain dress, a basket, standing with the hands clasped, anxious and hopeful, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, anxious smile, plain cream background (#FFF8E7)
 
-**studio**
+**nude**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Polly, 22-year-old human woman, 5'4", slim, a B cup bust, fair skin, a nervous, hopeful face, brown eyes, brown braids, fully nude, no clothing, standing with the hands clasped behind the back and the shoulders drawn in, nervous, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, nervous, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
 
-## N3-W7 Petra (bold, lonely widow who offers company, N3 Dunmarrow Slag Hill (pop-up))
+## N3-W7 Petra (woman, 44) – N3 Dunmarrow Slag Hill (pop-up)
+_bold, lonely widow who offers company_
 
 **clothed**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Petra, 44-year-old human woman who looks her age, 5'7", full, a DD cup bust, tan skin, a bold, lonely face, dark eyes, dark hair loose with grey streaks, wearing black lace underwear with stockings, standing with one hand reaching out, bold, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, bold smile, plain cream background (#FFF8E7)
 
-**studio**
+**nude**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Petra, 44-year-old human woman who looks her age, 5'7", full, a DD cup bust, tan skin, a bold, lonely face, dark eyes, dark hair loose with grey streaks, fully nude, no clothing, standing with one hand reaching out and the head tilted, bold and wistful, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, bold, wistful, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
 
-## N3-W8 Clem (retired pitman, N3 Dunmarrow Slag Hill (pop-up))
+## N3-W8 Clem (man, 66) – N3 Dunmarrow Slag Hill (pop-up)
+_retired pitman_
 
 **clothed**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Clem, 66-year-old human man who looks his age, an older man, 5'7", stooped, grey pale skin, a coughing, kind face, pale blue eyes, white hair under a cap, wearing a worn pit jacket, a flat cap, a pipe, standing stooped with a hand on the chest, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, wheezy grin, plain cream background (#FFF8E7)
 
-**studio**
+**nude**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Clem, 66-year-old human man who looks his age, an older man, 5'7", stooped, grey pale skin, a coughing, kind face, pale blue eyes, white hair under a cap, fully nude, no clothing, standing stooped with one hand on the chest, gentle, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, gentle, plain pale lavender-tinted cream background (#EEE6F7), average size penis
 
-## N3-W9 Sal (bargewoman, N3 Dunmarrow Slate Quay (pop-up))
+## N3-W9 Sal (woman, 29) – N3 Dunmarrow Slate Quay (pop-up)
+_bargewoman_
 
 **clothed**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Sal, 29-year-old human woman, 5'8", rangy, a C cup bust, tan skin, a face with a wide grin, brown eyes, short dark hair, rope calluses, wearing a sleeveless jerkin over a shirt, rolled trousers, boots, standing with one shoulder dropped and a wide grin, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, wide grin, plain cream background (#FFF8E7)
 
-**studio**
+**nude**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Sal, 29-year-old human woman, 5'8", rangy, a C cup bust, tan skin, a face with a wide grin, brown eyes, short dark hair, rope calluses, fully nude, no clothing, standing with the weight on one leg and the hands on the hips, a wide bold grin, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, cheerful, bold, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
 
-## N3-W10 Davey (hauler, big and forward, N3 Dunmarrow Slate Quay (pop-up))
+## N3-W10 Davey (man, 33) – N3 Dunmarrow Slate Quay (pop-up)
+_hauler, big and forward_
 
 **clothed**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Davey, 33-year-old human man, 6'2", huge, tan skin, a face with a flirty grin, green eyes, cropped brown hair, wearing a bare-chested leather harness vest, rolled trousers, standing flexing the arms with a flirty grin, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, flirty grin, plain cream background (#FFF8E7)
 
-**studio**
+**nude**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Davey, 33-year-old human man, 6'2", huge, tan skin, a face with a flirty grin, green eyes, cropped brown hair, fully nude, no clothing, standing flexing both arms, cocky, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, cocky, plain pale lavender-tinted cream background (#EEE6F7), average size penis
 
-## N3-W11 Rhosyn (washerwoman, N3 Dunmarrow The Scrub House (pop-up))
+## N3-W11 Rhosyn (woman, 27) – N3 Dunmarrow The Scrub House (pop-up)
+_washerwoman_
 
 **clothed**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Rhosyn, 27-year-old human woman, 5'5", sturdy, a D cup bust, pink and pale skin, a friendly face, brown eyes, dark hair pinned up, wearing an apron over a damp dress, rolled sleeves, a basket of linen, standing friendly with the arms loose, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, friendly smile, plain cream background (#FFF8E7)
 
-**studio**
+**nude**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Rhosyn, 27-year-old human woman, 5'5", sturdy, a D cup bust, pink and pale skin, a friendly face, brown eyes, dark hair pinned up, fully nude, no clothing, standing friendly with one hand pushing the hair back, unbothered, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, unbothered, friendly, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
 
@@ -558,13 +613,14 @@ One Piece anime art style, adventure manga anime style, bold clean ink outlines,
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Rhosyn, 27-year-old human woman, 5'5", sturdy, a D cup bust, pink and pale skin, a friendly face, brown eyes, dark hair pinned up, wearing a plain damp swimming costume, standing friendly with the hands on the hips, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, friendly smile, plain pale aqua-tinted cream background (#DDF3F1)
 
-## N3-W12 Ivor (miner scrubbing off the soot, N3 Dunmarrow The Scrub House (pop-up))
+## N3-W12 Ivor (man, 41) – N3 Dunmarrow The Scrub House (pop-up)
+_miner scrubbing off the soot_
 
 **clothed**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Ivor, 41-year-old human man who looks his age, 5'11", muscular, soot-streaked skin, a tired, easy face, grey eyes, short black hair, wearing a towel round his waist, a soot-streaked shirt over a shoulder, standing easy with the weight on one leg, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, easy grin, plain cream background (#FFF8E7)
 
-**studio**
+**nude**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Ivor, 41-year-old human man who looks his age, 5'11", muscular, soot-streaked skin, a tired, easy face, grey eyes, short black hair, fully nude, no clothing, standing easy with one hand rubbing the back of the neck, unbothered, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, easy, unbothered, plain pale lavender-tinted cream background (#EEE6F7), average size penis
 

@@ -1,352 +1,387 @@
-# Wrackmoor prompts (44 people, 92 prompts)
+# Wrackmoor prompts
 
-## N10-1 Caulk (wreck-receiver, smooth and bribable, N10 Wrackmoor The Receiver's Desk)
+## N10-1 Caulk (man, 52) – N10 Wrackmoor The Receiver's Desk
+_wreck-receiver, smooth and bribable_
 
 **clothed**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Caulk, 52-year-old human man who looks his age, 5'10", lean and neat, skin that is pale, salt-cracked, a smooth, calculating face, pale brown eyes, slicked grey hair and a thin moustache, wearing a good but patched black coat, a receiver's badge on a ribbon, a ledger and a stamp, standing very upright, smooth, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, smooth smile, plain cream background (#FFF8E7)
 
-**studio**
+**nude**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Caulk, 52-year-old human man who looks his age, 5'10", lean and neat, skin that is pale, salt-cracked, a smooth, calculating face, pale brown eyes, slicked grey hair and a thin moustache, fully nude, no clothing, standing very upright with the hands clasped behind the back, smooth and flustered, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, smooth, flustered, plain pale lavender-tinted cream background (#EEE6F7), average size penis
 
-## N10-2 Bobbin (clerk, nervous, N10 Wrackmoor The Receiver's Desk)
+## N10-2 Bobbin (man, 28) – N10 Wrackmoor The Receiver's Desk
+_clerk, nervous_
 
 **clothed**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Bobbin, 28-year-old human man, 5'8", thin and stooped, skin that is pale, chapped, a nervous, ink-stained face, grey eyes, limp brown hair, ink on the fingers, wearing a threadbare coat with ink-stained cuffs, a pen behind his ear, a bundle of papers, standing thin and stooped with the shoulders drawn in, nervous, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, nervous smile, plain cream background (#FFF8E7)
 
-**studio**
+**nude**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Bobbin, 28-year-old human man, 5'8", thin and stooped, skin that is pale, chapped, a nervous, ink-stained face, grey eyes, limp brown hair, ink on the fingers, fully nude, no clothing, standing stooped with the hands clasped behind the back, nervous and embarrassed, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, nervous, embarrassed, plain pale lavender-tinted cream background (#EEE6F7), average size penis
 
-## N10-3 Cleat (yard boss, huge, N10 Wrackmoor The Breaking Yard)
+## N10-3 Cleat (man, 48) – N10 Wrackmoor The Breaking Yard
+_yard boss, huge_
 
 **clothed**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Cleat, 48-year-old human man who looks his age, 6'3", huge and scarred, salt-cracked and weathered skin, a hard, creased face, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, pale blue eyes, cropped grey hair and a scarred scalp, a scar across the forearm and a missing fingertip, wearing a patched canvas smock, thick gloves, rope belt, heavy boots, standing square and huge with the arms at the sides, hard, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, hard look, plain cream background (#FFF8E7)
 
-**studio**
+**nude**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Cleat, 48-year-old human man who looks his age, 6'3", huge and scarred, salt-cracked and weathered skin, a hard, creased face, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, pale blue eyes, cropped grey hair and a scarred scalp, a scar across the forearm and a missing fingertip, fully nude, no clothing, standing square with the arms at the sides and the head lowered, hard and embarrassed, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, hard, embarrassed, plain pale lavender-tinted cream background (#EEE6F7), average size penis
 
-## N10-4 Strake (woman breaker, tough, N10 Wrackmoor The Breaking Yard)
+## N10-4 Strake (woman, 26) – N10 Wrackmoor The Breaking Yard
+_woman breaker, tough_
 
 **clothed**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Strake, 26-year-old human woman, 5'9", strong and wiry, a B cup bust, salt-cracked and weathered skin, a tough, blunt face, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, grey eyes, cropped dark hair under a rag, a scar on the chin, wearing a patched canvas smock with rolled sleeves, men's trousers and boots, gloves tucked in her belt, standing with the hands on the hips and a blunt grin, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, blunt grin, plain cream background (#FFF8E7)
 
-**studio**
+**nude**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Strake, 26-year-old human woman, 5'9", strong and wiry, a B cup bust, salt-cracked and weathered skin, a tough, blunt face, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, grey eyes, cropped dark hair under a rag, a scar on the chin, fully nude, no clothing, standing with the hands on the hips and the chin up, blunt and bold, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, blunt, bold, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
 
-## N10-5 Gaff (auctioneer, silver-tongued, N10 Wrackmoor The Hammer House)
+## N10-5 Gaff (man, 45) – N10 Wrackmoor The Hammer House
+_auctioneer, silver-tongued_
 
 **clothed**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Gaff, 45-year-old human man who looks his age, 5'11", lean and showy, skin that is tanned, salt-cracked, a silver-tongued, grinning face, brown eyes, oiled dark hair and a waxed moustache, wearing a patched but flashy red waistcoat over a stained shirt, a top hat with a dent, standing with one arm flung wide and a showman's grin, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, showman's grin, plain cream background (#FFF8E7)
 
-**studio**
+**nude**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Gaff, 45-year-old human man who looks his age, 5'11", lean and showy, skin that is tanned, salt-cracked, a silver-tongued, grinning face, brown eyes, oiled dark hair and a waxed moustache, fully nude, no clothing, standing with one arm flung wide and the head back, grinning and flustered, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, showman's grin, flustered, plain pale lavender-tinted cream background (#EEE6F7), average size penis
 
-## N10-6 Mussel (woman shopkeeper, shrewd, N10 Wrackmoor Cast-Offs)
+## N10-6 Mussel (woman, 50) – N10 Wrackmoor Cast-Offs
+_woman shopkeeper, shrewd_
 
 **clothed**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Mussel, 50-year-old human woman who looks her age, 5'5", stout and solid, an E cup bust, salt-cracked and weathered skin, a shrewd, weathered face, a hooked nose and a wart, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, unflattering rough-hewn features, dark brown eyes, grey-streaked brown hair in a kerchief, wearing a patched apron over a faded dress, a tape measure round her neck, a hook on a string, standing stout with the hands on the hips, shrewd, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, shrewd smile, plain cream background (#FFF8E7)
 
-**studio**
+**nude**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Mussel, 50-year-old human woman who looks her age, 5'5", stout and solid, an E cup bust, salt-cracked and weathered skin, a shrewd, weathered face, a hooked nose and a wart, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, unflattering rough-hewn features, dark brown eyes, grey-streaked brown hair in a kerchief, fully nude, no clothing, standing stout with the hands on the hips and the chin up, shrewd and unembarrassed, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, shrewd, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
 
-## N10-7 Ratline (woman rag-picker, sharp-eyed, N10 Wrackmoor Scrap and Sail)
+## N10-7 Ratline (woman, 38) – N10 Wrackmoor Scrap and Sail
+_woman rag-picker, sharp-eyed_
 
 **clothed**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Ratline, 38-year-old human woman, 5'6", lean and wiry, a B cup bust, salt-cracked and weathered skin, a sharp-eyed, narrow face, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, hazel eyes, matted sandy hair under a scarf, wearing a sack-cloth apron over a patched dress, a bundle of sailcloth on her back, standing lean and wiry with a sharp grin, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, sharp grin, plain cream background (#FFF8E7)
 
-**studio**
+**nude**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Ratline, 38-year-old human woman, 5'6", lean and wiry, a B cup bust, salt-cracked and weathered skin, a sharp-eyed, narrow face, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, hazel eyes, matted sandy hair under a scarf, fully nude, no clothing, standing with the hands on the hips and the head cocked, sharp and bold, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, sharp, bold, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
 
-## N10-8 Rivet (smith, taciturn, N10 Wrackmoor The Rivet Shop)
+## N10-8 Rivet (man, 44) – N10 Wrackmoor The Rivet Shop
+_smith, taciturn_
 
 **clothed**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Rivet, 44-year-old human man who looks his age, 5'10", heavy-shouldered, skin that is sooty, salt-cracked, a taciturn, sooty face, dark grey eyes, cropped black hair and a short beard, burn scars on the forearms, wearing a scorched leather apron over a bare-armed shirt, thick gloves, standing square with the arms at the sides, taciturn, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, taciturn nod, plain cream background (#FFF8E7)
 
-**studio**
+**nude**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Rivet, 44-year-old human man who looks his age, 5'10", heavy-shouldered, skin that is sooty, salt-cracked, a taciturn, sooty face, dark grey eyes, cropped black hair and a short beard, burn scars on the forearms, fully nude, no clothing, standing square with the arms at the sides and the head lowered, taciturn and embarrassed, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, taciturn, embarrassed, plain pale lavender-tinted cream background (#EEE6F7), average size penis
 
-## N10-9 Dulse (woman healer, gruff, N10 Wrackmoor The Patching Hut)
+## N10-9 Dulse (woman, 55) – N10 Wrackmoor The Patching Hut
+_woman healer, gruff_
 
 **clothed**
 
-One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Dulse, 55-year-old human woman who looks her age, an older woman, 5'4", small and sturdy, a D cup bust, salt-cracked and weathered skin, a gruff, lined face, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, grey-green eyes, iron-grey hair in a braid, wearing a patched dress with rolled sleeves, a stained apron, a pouch of herbs and strips of linen, standing small and sturdy with the arms crossed, gruff, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, gruff look, plain cream background (#FFF8E7)
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Dulse, 55-year-old human woman who looks her age, an older woman, 5'4", small and sturdy, a D cup bust, salt-cracked and weathered skin, a gruff, lined face, leathery skin, a flat crooked nose and missing teeth, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, unflattering rough-hewn features, grey-green eyes, iron-grey hair in a braid, wearing a patched dress with rolled sleeves, a stained apron, a pouch of herbs and strips of linen, standing small and sturdy with the arms crossed, gruff, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, gruff look, plain cream background (#FFF8E7)
 
-**studio**
+**nude**
 
-One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Dulse, 55-year-old human woman who looks her age, an older woman, 5'4", small and sturdy, a D cup bust, salt-cracked and weathered skin, a gruff, lined face, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, grey-green eyes, iron-grey hair in a braid, fully nude, no clothing, standing small and sturdy with the hands on the hips, gruff and unembarrassed, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, gruff, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Dulse, 55-year-old human woman who looks her age, an older woman, 5'4", small and sturdy, a D cup bust, salt-cracked and weathered skin, a gruff, lined face, leathery skin, a flat crooked nose and missing teeth, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, unflattering rough-hewn features, grey-green eyes, iron-grey hair in a braid, fully nude, no clothing, standing small and sturdy with the hands on the hips, gruff and unembarrassed, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, gruff, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
 
-## N10-10 Cockle (woman cook, loud, N10 Wrackmoor The Chowder Hut)
+## N10-10 Cockle (woman, 40) – N10 Wrackmoor The Chowder Hut
+_woman cook, loud_
 
 **clothed**
 
-One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Cockle, 40-year-old human woman who looks her age, 5'6", big and solid, an E cup bust, salt-cracked and weathered skin, a loud, laughing face, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, green eyes, red-brown hair under a stained cap, wearing a grease-stained apron over a patched dress, sleeves rolled, a ladle in hand, standing with one arm raised and a laughing grin, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, laughing grin, plain cream background (#FFF8E7)
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Cockle, 40-year-old human woman who looks her age, 5'6", big and solid, an E cup bust, salt-cracked and weathered skin, a loud, laughing face, a ruddy lumpy face, gapped teeth and a hairy wart, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, unflattering rough-hewn features, green eyes, red-brown hair under a stained cap, wearing a grease-stained apron over a patched dress, sleeves rolled, a ladle in hand, standing with one arm raised and a laughing grin, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, laughing grin, plain cream background (#FFF8E7)
 
-**studio**
+**nude**
 
-One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Cockle, 40-year-old human woman who looks her age, 5'6", big and solid, an E cup bust, salt-cracked and weathered skin, a loud, laughing face, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, green eyes, red-brown hair under a stained cap, fully nude, no clothing, standing with one arm raised and the head back, laughing and bold, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, laughing, bold, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Cockle, 40-year-old human woman who looks her age, 5'6", big and solid, an E cup bust, salt-cracked and weathered skin, a loud, laughing face, a ruddy lumpy face, gapped teeth and a hairy wart, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, unflattering rough-hewn features, green eyes, red-brown hair under a stained cap, fully nude, no clothing, standing with one arm raised and the head back, laughing and bold, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, laughing, bold, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
 
-## N10-11 Tallow (keeper, gruff and weary, N10 Wrackmoor The Tar Barrel)
+## N10-11 Tallow (man, 50) – N10 Wrackmoor The Tar Barrel
+_keeper, gruff and weary_
 
 **clothed**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Tallow, 50-year-old human man who looks his age, 5'11", stout and strong, skin that is ruddy, salt-cracked, a gruff, weary face, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, blue eyes, grizzled grey hair and a thick beard, a broken nose, wearing a stained waistcoat over rolled shirtsleeves, a bar cloth over his shoulder, standing with the arms folded, weary, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, weary look, plain cream background (#FFF8E7)
 
-**studio**
+**nude**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Tallow, 50-year-old human man who looks his age, 5'11", stout and strong, skin that is ruddy, salt-cracked, a gruff, weary face, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, blue eyes, grizzled grey hair and a thick beard, a broken nose, fully nude, no clothing, standing with the arms folded and the head ducked, weary and embarrassed, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, weary, embarrassed, plain pale lavender-tinted cream background (#EEE6F7), average size penis
 
-## N10-12 Periwinkle (barmaid, quick and cheeky, N10 Wrackmoor The Tar Barrel)
+## N10-12 Periwinkle (woman, 24) – N10 Wrackmoor The Tar Barrel
+_barmaid, quick and cheeky_
 
 **clothed**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Periwinkle, 24-year-old human woman, 5'5", slim and lively, a B cup bust, salt-cracked and weathered skin, a quick, cheeky face, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, brown eyes, dark curls in a patched scarf, wearing a laced bodice over a grubby blouse, a patched skirt, a tray under one arm, standing with a hip cocked and one arm raised, cheeky, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, cheeky grin, plain cream background (#FFF8E7)
 
-**studio**
+**nude**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Periwinkle, 24-year-old human woman, 5'5", slim and lively, a B cup bust, salt-cracked and weathered skin, a quick, cheeky face, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, brown eyes, dark curls in a patched scarf, fully nude, no clothing, standing with a hip cocked and one arm raised overhead, cheeky and teasing, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, cheeky, teasing, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
 
-## N10-13 Bosun (ex-sailor lay preacher, N10 Wrackmoor Hallelujah Hulk)
+## N10-13 Bosun (man, 60) – N10 Wrackmoor Hallelujah Hulk
+_ex-sailor lay preacher_
 
 **clothed**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Bosun, 60-year-old human man who looks his age, an older man, 5'9", thin and bent, salt-cracked and weathered skin, a fierce, kindly face, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, pale blue eyes, wild white hair and a long white beard, a missing ear lobe, wearing a tattered black coat and a white band collar, a worn Bible, standing stooped with the hands clasped at the chest, fierce and kind, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, fierce kind smile, plain cream background (#FFF8E7)
 
-**studio**
+**nude**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Bosun, 60-year-old human man who looks his age, an older man, 5'9", thin and bent, salt-cracked and weathered skin, a fierce, kindly face, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, pale blue eyes, wild white hair and a long white beard, a missing ear lobe, fully nude, no clothing, standing stooped with the hands clasped behind the back, fierce and flustered, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, fierce, flustered, plain pale lavender-tinted cream background (#EEE6F7), average size penis
 
-## N10-14 Spar (wrecker chief, patient and cold, N10 Wrackmoor The False Light)
+## N10-14 Spar (man, 46) – N10 Wrackmoor The False Light
+_wrecker chief, patient and cold_
 
 **clothed**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Spar, 46-year-old human man who looks his age, 6'0", lean and rangy, skin that is weathered, pale underneath, a patient, cold face, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, pale grey eyes, cropped black hair and a scar-split beard, a long scar across the cheek, wearing a long dark oilskin coat, a storm lantern in hand, a woollen cap, standing lean and rangy with the arms at the sides and a cold smile, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, cold smile, plain cream background (#FFF8E7)
 
-**studio**
+**nude**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Spar, 46-year-old human man who looks his age, 6'0", lean and rangy, skin that is weathered, pale underneath, a patient, cold face, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, pale grey eyes, cropped black hair and a scar-split beard, a long scar across the cheek, fully nude, no clothing, standing lean with the arms at the sides and the chin level, cold and unembarrassed, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, cold, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), average size penis
 
-## N10-15 Teal (woman lantern-keeper, restless, N10 Wrackmoor The False Light)
+## N10-15 Teal (woman, 29) – N10 Wrackmoor The False Light
+_woman lantern-keeper, restless_
 
 **clothed**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Teal, 29-year-old human woman, 5'7", slim and sinewy, a B cup bust, salt-cracked and weathered skin, a restless, hungry face, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, pale green eyes, short ragged blonde hair, wearing an oilskin coat over a patched dress, a lantern in each hand, standing slim and sinewy with one hand raised beside the face, restless, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, restless smile, plain cream background (#FFF8E7)
 
-**studio**
+**nude**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Teal, 29-year-old human woman, 5'7", slim and sinewy, a B cup bust, salt-cracked and weathered skin, a restless, hungry face, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, pale green eyes, short ragged blonde hair, fully nude, no clothing, standing slim with one hand raised beside the face and the weight shifting, restless and tense, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, restless, tense, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
 
-## N10-16 Bilge (keeper, shrewd and slow, N10 Wrackmoor The Bilge Rat)
+## N10-16 Bilge (man, 50) – N10 Wrackmoor The Bilge Rat
+_keeper, shrewd and slow_
 
 **clothed**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Bilge, 50-year-old human man who looks his age, 5'10", stout and heavy, skin that is ruddy, broken-veined, a shrewd, heavy face, a swollen veined nose and a double chin, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, unflattering rough-hewn features, bloodshot blue eyes, bald with a grizzled beard, wearing a stained waistcoat over a grubby shirt, a bar cloth over his shoulder, standing stout with the arms folded, shrewd, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, shrewd look, plain cream background (#FFF8E7)
 
-**studio**
+**nude**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Bilge, 50-year-old human man who looks his age, 5'10", stout and heavy, skin that is ruddy, broken-veined, a shrewd, heavy face, a swollen veined nose and a double chin, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, unflattering rough-hewn features, bloodshot blue eyes, bald with a grizzled beard, fully nude, no clothing, standing stout with the arms folded and the head tilted, shrewd and embarrassed, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, shrewd, embarrassed, plain pale lavender-tinted cream background (#EEE6F7), average size penis
 
-## N10-17 Sump (barmaid, blunt and desperate, N10 Wrackmoor The Bilge Rat)
+## N10-17 Sump (woman, 32) – N10 Wrackmoor The Bilge Rat
+_barmaid, blunt and desperate_
 
 **clothed**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Sump, 32-year-old human woman, 5'6", thin and tired, a C cup bust, salt-cracked and weathered skin, a blunt, worn face, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, grey eyes, matted brown hair in a messy bun, wearing a laced bodice over a grubby blouse, a patched skirt, a tray, standing with a hand on the hip, tired, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, tired grin, plain cream background (#FFF8E7)
 
-**studio**
+**nude**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Sump, 32-year-old human woman, 5'6", thin and tired, a C cup bust, salt-cracked and weathered skin, a blunt, worn face, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, grey eyes, matted brown hair in a messy bun, fully nude, no clothing, standing with a hand on the hip and the head tilted, tired and direct, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, tired, direct, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
 
-## N10-18 Bollard (bouncer, the one who draws the line, N10 Wrackmoor The Bilge Rat)
+## N10-18 Bollard (man, 40) – N10 Wrackmoor The Bilge Rat
+_bouncer, the one who draws the line_
 
 **clothed**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Bollard, 40-year-old human man who looks his age, 6'3", huge and solid, weathered skin, a stern, steady face, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, grey eyes, shaved head and a short beard, a scar across the brow, wearing a patched leather vest over a bare-armed shirt, a rope belt, a bar towel, standing square and huge with the arms at the sides, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, stern nod, plain cream background (#FFF8E7)
 
-**studio**
+**nude**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Bollard, 40-year-old human man who looks his age, 6'3", huge and solid, weathered skin, a stern, steady face, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, grey eyes, shaved head and a short beard, a scar across the brow, fully nude, no clothing, standing square with the arms at the sides and the jaw set, stern and embarrassed, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, stern, embarrassed, plain pale lavender-tinted cream background (#EEE6F7), average size penis
 
-## N10-19 Skink (fence, twitchy and sly, N10 Wrackmoor The Magpie Nest)
+## N10-19 Skink (man, 41) – N10 Wrackmoor The Magpie Nest
+_fence, twitchy and sly_
 
 **clothed**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Skink, 41-year-old human man who looks his age, 5'7", thin and quick, skin that is sallow, salt-cracked, a twitchy, sly face, a twitchy pinched face with pitted skin, rotten gapped teeth and a wart on the nose, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, unflattering rough-hewn features, dark brown eyes, greasy black hair, a gold tooth, wearing a coat with too many pockets, rings on several fingers, standing hunched with the coat held open, sly, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, sly grin, plain cream background (#FFF8E7)
 
-**studio**
+**nude**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Skink, 41-year-old human man who looks his age, 5'7", thin and quick, skin that is sallow, salt-cracked, a twitchy, sly face, a twitchy pinched face with pitted skin, rotten gapped teeth and a wart on the nose, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, unflattering rough-hewn features, dark brown eyes, greasy black hair, a gold tooth, fully nude, no clothing, standing hunched with the hands clasped to the chest, sly and embarrassed, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, sly, embarrassed, plain pale lavender-tinted cream background (#EEE6F7), average size penis
 
-## N10-20 Bung (woman madam, brisk and weathered, N10 Wrackmoor The Windward Bunk)
+## N10-20 Bung (woman, 49) – N10 Wrackmoor The Windward Bunk
+_woman madam, brisk and weathered_
 
 **clothed**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Bung, 49-year-old human woman who looks her age, 5'7", full-figured and solid, a D cup bust, salt-cracked and weathered skin, a brisk, hard face, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, green eyes, dyed red hair in a pile, wearing a faded patched slip, standing with a hand on the hip, brisk and appraising, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, brisk, appraising smile, plain cream background (#FFF8E7)
 
-**studio**
+**nude**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Bung, 49-year-old human woman who looks her age, 5'7", full-figured and solid, a D cup bust, salt-cracked and weathered skin, a brisk, hard face, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, green eyes, dyed red hair in a pile, fully nude, no clothing, standing with a hand on the hip and the chin lifted, brisk and unembarrassed, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, brisk, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
 
-## N10-21 Ling (woman worker, weary and wry, N10 Wrackmoor The Windward Bunk)
+## N10-21 Ling (woman, 26) – N10 Wrackmoor The Windward Bunk
+_woman worker, weary and wry_
 
 **clothed**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Ling, 26-year-old human woman, 5'6", slim, a C cup bust, skin that is pale, weathered, a weary, wry face, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, grey-blue eyes, long tangled brown hair, wearing a worn patched chemise, standing with one shoulder bare and a hip cocked, wry, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, wry smile, plain cream background (#FFF8E7)
 
-**studio**
+**nude**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Ling, 26-year-old human woman, 5'6", slim, a C cup bust, skin that is pale, weathered, a weary, wry face, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, grey-blue eyes, long tangled brown hair, fully nude, no clothing, standing with a hip cocked and the head tilted, wry and tired, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, wry, tired, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
 
-## N10-22 Fathom (man worker, quiet and resigned, N10 Wrackmoor The Windward Bunk)
+## N10-22 Fathom (man, 27) – N10 Wrackmoor The Windward Bunk
+_man worker, quiet and resigned_
 
 **clothed**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Fathom, 27-year-old human man, 6'0", lean and fine-featured, skin that is pale, a little weathered, a quiet, handsome face, grey-blue eyes, dark hair falling over his eyes, wearing patched drawers, standing with the shirt open and the eyes lowered, quiet, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, quiet half-smile, plain cream background (#FFF8E7)
 
-**studio**
+**nude**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Fathom, 27-year-old human man, 6'0", lean and fine-featured, skin that is pale, a little weathered, a quiet, handsome face, grey-blue eyes, dark hair falling over his eyes, fully nude, no clothing, standing with the eyes lowered and the hands clasped behind the back, resigned and shy, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, resigned, shy, plain pale lavender-tinted cream background (#EEE6F7), average size penis
 
-## N10-23 Whelk (woman landlady, takes rent in kind, N10 Wrackmoor The Kelp Beds)
+## N10-23 Whelk (woman, 56) – N10 Wrackmoor The Kelp Beds
+_woman landlady, takes rent in kind_
 
 **clothed**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Whelk, 56-year-old human woman who looks her age, an older woman, 5'4", stout and strong, an E cup bust, salt-cracked and weathered skin, a shrewd, hard face, heavy jowls and a hairy mole on the chin, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, unflattering rough-hewn features, pale blue eyes, white hair in a tight braid, wearing a plain patched shift, standing stout and strong with a shrewd smile, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, shrewd smile, plain cream background (#FFF8E7)
 
-**studio**
+**nude**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Whelk, 56-year-old human woman who looks her age, an older woman, 5'4", stout and strong, an E cup bust, salt-cracked and weathered skin, a shrewd, hard face, heavy jowls and a hairy mole on the chin, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, unflattering rough-hewn features, pale blue eyes, white hair in a tight braid, fully nude, no clothing, standing stout with the hands on the hips, shrewd and unembarrassed, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, shrewd, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
 
-## N10-24 Hawser (lodger who sells his nights, N10 Wrackmoor The Kelp Beds)
+## N10-24 Hawser (man, 33) – N10 Wrackmoor The Kelp Beds
+_lodger who sells his nights_
 
 **clothed**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Hawser, 33-year-old human man, 5'11", gaunt and rangy, skin that is pale, hollow-cheeked, a haunted, handsome face, brown eyes, long stringy brown hair, wearing patched drawers, standing gaunt with the arms wrapped round himself, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, hollow smile, plain cream background (#FFF8E7)
 
-**studio**
+**nude**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Hawser, 33-year-old human man, 5'11", gaunt and rangy, skin that is pale, hollow-cheeked, a haunted, handsome face, brown eyes, long stringy brown hair, fully nude, no clothing, standing gaunt with the arms hanging and the head bowed, hollow and resigned, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, hollow, resigned, plain pale lavender-tinted cream background (#EEE6F7), average size penis
 
-## N10-25 Brack (lender, smooth and patient, N10 Wrackmoor The Debt Locker)
+## N10-25 Brack (man, 55) – N10 Wrackmoor The Debt Locker
+_lender, smooth and patient_
 
 **clothed**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Brack, 55-year-old human man who looks his age, an older man, 5'9", neat and trim, skin that is pale, clean-shaven, a smooth, patient face, pale grey eyes, oiled white hair, wearing a good dark coat with patched elbows, spectacles on a chain, a thin book, standing very upright with a thin patient smile, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, patient thin smile, plain cream background (#FFF8E7)
 
-**studio**
+**nude**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Brack, 55-year-old human man who looks his age, an older man, 5'9", neat and trim, skin that is pale, clean-shaven, a smooth, patient face, pale grey eyes, oiled white hair, fully nude, no clothing, standing very upright with the hands clasped behind the back, patient and unflustered, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, patient, unflustered, plain pale lavender-tinted cream background (#EEE6F7), average size penis
 
-## N10-26 Crab (woman collector, hard, N10 Wrackmoor The Debt Locker)
+## N10-26 Crab (woman, 31) – N10 Wrackmoor The Debt Locker
+_woman collector, hard_
 
 **clothed**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Crab, 31-year-old human woman, 5'8", sturdy and strong, a C cup bust, salt-cracked and weathered skin, a flat, hard face, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, dark grey eyes, cropped dark hair, a split lip, healed, wearing a long patched coat over a plain dress, heavy boots, a tally-book, standing sturdy with a flat look and the arms at the sides, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, flat look, plain cream background (#FFF8E7)
 
-**studio**
+**nude**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Crab, 31-year-old human woman, 5'8", sturdy and strong, a C cup bust, salt-cracked and weathered skin, a flat, hard face, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, dark grey eyes, cropped dark hair, a split lip, healed, fully nude, no clothing, standing sturdy with the hands on the hips and the chin level, flat and unembarrassed, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, flat, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
 
-## N10-27 Skate (smuggler, rangy and quick, N10 Wrackmoor The Rotten Barque)
+## N10-27 Skate (man, 38) – N10 Wrackmoor The Rotten Barque
+_smuggler, rangy and quick_
 
 **clothed**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Skate, 38-year-old human man, 6'0", lean and rangy, skin that is weathered, tanned, a quick, rangy face, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, blue eyes, tangled sandy hair and stubble, a rope scar on one hand, wearing a patched oilskin jacket, rolled trousers, bare feet, a coil of rope, standing lean and rangy with a quick grin, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, quick grin, plain cream background (#FFF8E7)
 
-**studio**
+**nude**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Skate, 38-year-old human man, 6'0", lean and rangy, skin that is weathered, tanned, a quick, rangy face, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, blue eyes, tangled sandy hair and stubble, a rope scar on one hand, fully nude, no clothing, standing lean with one hand rubbing the back of the neck, quick and bold, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, quick, bold, plain pale lavender-tinted cream background (#EEE6F7), average size penis
 
-## N10-28 Jib (woman smuggler, sly, N10 Wrackmoor The Rotten Barque)
+## N10-28 Jib (woman, 27) – N10 Wrackmoor The Rotten Barque
+_woman smuggler, sly_
 
 **clothed**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Jib, 27-year-old human woman, 5'6", lean and quick, a B cup bust, salt-cracked and weathered skin, a sly, quick face, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, green eyes, short black hair under a cap, wearing a patched oilskin jacket, rolled trousers, bare feet, a satchel, standing lean and quick with a sly grin, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, sly grin, plain cream background (#FFF8E7)
 
-**studio**
+**nude**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Jib, 27-year-old human woman, 5'6", lean and quick, a B cup bust, salt-cracked and weathered skin, a sly, quick face, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, green eyes, short black hair under a cap, fully nude, no clothing, standing with the hands on the hips and the head cocked, sly and challenging, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, sly, challenging, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
 
-## N10-29 Scupper (woman who runs the night market, watchful, N10 Wrackmoor The Moonless Trade)
+## N10-29 Scupper (woman, 36) – N10 Wrackmoor The Moonless Trade
+_woman who runs the night market, watchful_
 
 **clothed**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Scupper, 36-year-old human woman, 5'7", lean and elegant, a C cup bust, skin that is pale, salt-cracked, a watchful, calm face, pale brown eyes, dark hair in a long braid, wearing a long dark patched cloak over a plain dress, a shuttered lantern, standing lean and elegant with the cloak open, calm, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, calm watchful look, plain cream background (#FFF8E7)
 
-**studio**
+**nude**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Scupper, 36-year-old human woman, 5'7", lean and elegant, a C cup bust, skin that is pale, salt-cracked, a watchful, calm face, pale brown eyes, dark hair in a long braid, fully nude, no clothing, standing lean and elegant with the arms loose and the chin level, calm and unembarrassed, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, calm, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
 
-## N10-30 Oakum (gaoler, corrupt and lazy, N10 Wrackmoor The Hulk Gaol)
+## N10-30 Oakum (man, 45) – N10 Wrackmoor The Hulk Gaol
+_gaoler, corrupt and lazy_
 
 **clothed**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Oakum, 45-year-old human man who looks his age, 5'10", heavy and soft, skin that is ruddy, salt-cracked, a lazy, corrupt face, sweating heavy jowls, a lazy drooping lip and greasy skin, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, unflattering rough-hewn features, bloodshot brown eyes, thinning greasy hair, wearing a stained uniform coat with brass buttons, a ring of keys, standing heavy and soft with the thumbs in the belt, lazy, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, lazy smirk, plain cream background (#FFF8E7)
 
-**studio**
+**nude**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Oakum, 45-year-old human man who looks his age, 5'10", heavy and soft, skin that is ruddy, salt-cracked, a lazy, corrupt face, sweating heavy jowls, a lazy drooping lip and greasy skin, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, unflattering rough-hewn features, bloodshot brown eyes, thinning greasy hair, fully nude, no clothing, standing heavy with the thumbs hooked at the hips, lazy and embarrassed, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, lazy, embarrassed, plain pale lavender-tinted cream background (#EEE6F7), average size penis
 
-## N10-31 Shag (woman turnkey, bored, N10 Wrackmoor The Hulk Gaol)
+## N10-31 Shag (woman, 30) – N10 Wrackmoor The Hulk Gaol
+_woman turnkey, bored_
 
 **clothed**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Shag, 30-year-old human woman, 5'8", strong and solid, a D cup bust, salt-cracked and weathered skin, a bored, handsome face, brown eyes, short brown hair, wearing a patched uniform coat over a rolled-sleeve shirt, men's trousers, a ring of keys, standing strong and solid with the arms crossed, bored, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, bored look, plain cream background (#FFF8E7)
 
-**studio**
+**nude**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Shag, 30-year-old human woman, 5'8", strong and solid, a D cup bust, salt-cracked and weathered skin, a bored, handsome face, brown eyes, short brown hair, fully nude, no clothing, standing strong and solid with the hands on the hips, bored and unbothered, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, bored, unbothered, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
 
-## N10-32 Dredge (distiller, shifty, N10 Wrackmoor The Brackish Brewery)
+## N10-32 Dredge (man, 43) – N10 Wrackmoor The Brackish Brewery
+_distiller, shifty_
 
 **clothed**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Dredge, 43-year-old human man who looks his age, 5'8", wiry, skin that is pale, blotchy, a shifty, grinning face, blotchy sweating skin and rotten teeth, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, unflattering rough-hewn features, bloodshot grey eyes, greasy brown hair, stained fingers, wearing a stained apron over a patched shirt, a jug in one hand, standing hunched with a shifty grin, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, shifty grin, plain cream background (#FFF8E7)
 
-**studio**
+**nude**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Dredge, 43-year-old human man who looks his age, 5'8", wiry, skin that is pale, blotchy, a shifty, grinning face, blotchy sweating skin and rotten teeth, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, unflattering rough-hewn features, bloodshot grey eyes, greasy brown hair, stained fingers, fully nude, no clothing, standing hunched with the hands clasped to the chest, shifty and embarrassed, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, shifty, embarrassed, plain pale lavender-tinted cream background (#EEE6F7), average size penis
 
-## N10-33 Thimble (woman maker and keeper of the crude shop, dry-humoured, N10 Wrackmoor Crude Comforts)
+## N10-33 Thimble (woman, 39) – N10 Wrackmoor Crude Comforts
+_woman maker and keeper of the crude shop, dry-humoured_
 
 **clothed**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Thimble, 39-year-old human woman, 5'7", lean and strong, a C cup bust, salt-cracked and weathered skin, a dry, amused face, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, hazel eyes, dark hair in a rope-tied knot, rope burns on both palms, wearing a patched canvas apron over a rolled-sleeve dress, a coil of tarred cord at her belt, a half-finished driftwood carving in hand, standing lean and strong with a dry smile, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, dry smile, plain cream background (#FFF8E7)
 
-**studio**
+**nude**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Thimble, 39-year-old human woman, 5'7", lean and strong, a C cup bust, salt-cracked and weathered skin, a dry, amused face, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, hazel eyes, dark hair in a rope-tied knot, rope burns on both palms, fully nude, no clothing, standing lean and strong with one hand on the hip, dry and amused, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, dry, amused, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
 
-## N10-34 Mizzen (man helper, cheerful and unembarrassed, N10 Wrackmoor Crude Comforts)
+## N10-34 Mizzen (man, 30) – N10 Wrackmoor Crude Comforts
+_man helper, cheerful and unembarrassed_
 
 **clothed**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Mizzen, 30-year-old human man, 5'11", stocky and strong, salt-cracked and weathered skin, a cheerful, unembarrassed face, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, blue eyes, sandy hair and stubble, wearing a patched canvas apron over a bare-armed shirt, sawdust on his sleeves, standing stocky with one arm raised, cheerful, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, cheerful grin, plain cream background (#FFF8E7)
 
-**studio**
+**nude**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Mizzen, 30-year-old human man, 5'11", stocky and strong, salt-cracked and weathered skin, a cheerful, unembarrassed face, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, blue eyes, sandy hair and stubble, fully nude, no clothing, standing stocky with one arm raised and a cheerful, unembarrassed grin, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, cheerful, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), average size penis
 
-## N10-W1 Shingle (beachcomber, easy-going, N10 Wrackmoor The Tideline Shingle (pop-up))
+## N10-W1 Shingle (man, 35) – N10 Wrackmoor The Tideline Shingle (pop-up)
+_beachcomber, easy-going_
 
 **clothed**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Shingle, 35-year-old human man, 5'10", lean and weathered, skin that is tanned, salt-cracked, an easy, weathered face, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, blue eyes, bleached hair and a scruffy beard, wearing a patched jersey, rolled trousers, bare feet, a sack over his shoulder, standing lean and weathered with an easy grin, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, easy grin, plain cream background (#FFF8E7)
 
-**studio**
+**nude**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Shingle, 35-year-old human man, 5'10", lean and weathered, skin that is tanned, salt-cracked, an easy, weathered face, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, blue eyes, bleached hair and a scruffy beard, fully nude, no clothing, standing lean with the hands behind the head, easy and bashful, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, easy, bashful, plain pale lavender-tinted cream background (#EEE6F7), average size penis
 
@@ -354,13 +389,14 @@ One Piece anime art style, adventure manga anime style, bold clean ink outlines,
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Shingle, 35-year-old human man, 5'10", lean and weathered, skin that is tanned, salt-cracked, an easy, weathered face, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, blue eyes, bleached hair and a scruffy beard, wearing patched drawers, standing with an easy grin, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, easy grin, plain pale aqua-tinted cream background (#DDF3F1)
 
-## N10-W2 Shrimp (scavenger, quick and small, N10 Wrackmoor The Tideline Shingle (pop-up))
+## N10-W2 Shrimp (woman, 27) – N10 Wrackmoor The Tideline Shingle (pop-up)
+_scavenger, quick and small_
 
 **clothed**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Shrimp, 27-year-old human woman, 5'3", small and wiry, a B cup bust, salt-cracked and weathered skin, a quick, freckled face, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, hazel eyes, sandy hair in a scarf, wearing a patched dress hitched up with a rope belt, bare feet, a sack, standing small and wiry with a quick grin, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, quick grin, plain cream background (#FFF8E7)
 
-**studio**
+**nude**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Shrimp, 27-year-old human woman, 5'3", small and wiry, a B cup bust, salt-cracked and weathered skin, a quick, freckled face, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, hazel eyes, sandy hair in a scarf, fully nude, no clothing, standing small and wiry with the hands on the hips, quick and bold, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, quick, bold, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
 
@@ -368,53 +404,58 @@ One Piece anime art style, adventure manga anime style, bold clean ink outlines,
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Shrimp, 27-year-old human woman, 5'3", small and wiry, a B cup bust, salt-cracked and weathered skin, a quick, freckled face, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, hazel eyes, sandy hair in a scarf, wearing a thin patched slip, standing with the hands on the hips, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, quick grin, plain pale aqua-tinted cream background (#DDF3F1)
 
-## N10-W3 Minnow (desperate, selling for coin, N10 Wrackmoor The Rotting Ribs, The Midden Run and The Smugglers' Holes (pop-up))
+## N10-W3 Minnow (woman, 24) – N10 Wrackmoor The Rotting Ribs, The Midden Run and The Smugglers' Holes (pop-up)
+_desperate, selling for coin_
 
 **clothed**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Minnow, 24-year-old human woman, 5'5", thin, a B cup bust, skin that is pale, hollow-eyed, a worn, tense face, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, grey eyes, dull brown hair, loose, wearing a thin worn slip, standing with the arms wrapped round herself, tense, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, tense smile, plain cream background (#FFF8E7)
 
-**studio**
+**nude**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Minnow, 24-year-old human woman, 5'5", thin, a B cup bust, skin that is pale, hollow-eyed, a worn, tense face, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, grey eyes, dull brown hair, loose, fully nude, no clothing, standing with the hands at the sides and the shoulders tight, tense and resigned, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, tense, resigned, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
 
-## N10-W4 Pipit (desperate, selling for coin, N10 Wrackmoor The Rotting Ribs, The Midden Run and The Smugglers' Holes (pop-up))
+## N10-W4 Pipit (woman, 22) – N10 Wrackmoor The Rotting Ribs, The Midden Run and The Smugglers' Holes (pop-up)
+_desperate, selling for coin_
 
 **clothed**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Pipit, 22-year-old human woman, 5'4", slim and small, a B cup bust, skin that is pale, flushed from the cold, a tense, pretty face, hazel eyes, light brown hair, matted, wearing a thin worn slip, standing with the hands behind the back, tense, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, tense smile, plain cream background (#FFF8E7)
 
-**studio**
+**nude**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Pipit, 22-year-old human woman, 5'4", slim and small, a B cup bust, skin that is pale, flushed from the cold, a tense, pretty face, hazel eyes, light brown hair, matted, fully nude, no clothing, standing with the hands behind the back and the shoulders hunched, tense and shy, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, tense, shy, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
 
-## N10-W5 Wedge (desperate, selling for coin, N10 Wrackmoor The Rotting Ribs, The Midden Run and The Smugglers' Holes (pop-up))
+## N10-W5 Wedge (man, 28) – N10 Wrackmoor The Rotting Ribs, The Midden Run and The Smugglers' Holes (pop-up)
+_desperate, selling for coin_
 
 **clothed**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Wedge, 28-year-old human man, 5'11", thin and wiry, skin that is pale, unshaven, a hollow, tense face, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, blue eyes, tangled fair hair, wearing patched drawers, standing with the arms crossed over the chest, tense, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, tense half-smile, plain cream background (#FFF8E7)
 
-**studio**
+**nude**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Wedge, 28-year-old human man, 5'11", thin and wiry, skin that is pale, unshaven, a hollow, tense face, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, blue eyes, tangled fair hair, fully nude, no clothing, standing with the arms at the sides and the shoulders tight, tense and resigned, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, tense, resigned, plain pale lavender-tinted cream background (#EEE6F7), average size penis
 
-## N10-W6 Knot (desperate, selling for coin, N10 Wrackmoor The Rotting Ribs, The Midden Run and The Smugglers' Holes (pop-up))
+## N10-W6 Knot (man, 33) – N10 Wrackmoor The Rotting Ribs, The Midden Run and The Smugglers' Holes (pop-up)
+_desperate, selling for coin_
 
 **clothed**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Knot, 33-year-old human man, 6'0", lean and sinewy, skin that is pale, wind-reddened, a tense, handsome face, brown eyes, dark hair tied back, wearing patched drawers, standing with the hands in the pockets, tense, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, tense half-smile, plain cream background (#FFF8E7)
 
-**studio**
+**nude**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Knot, 33-year-old human man, 6'0", lean and sinewy, skin that is pale, wind-reddened, a tense, handsome face, brown eyes, dark hair tied back, fully nude, no clothing, standing with the hands at the sides and the shoulders tight, tense and resigned, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, tense, resigned, plain pale lavender-tinted cream background (#EEE6F7), average size penis
 
-## N10-W7 Tench (bather scrubbing off the salt, N10 Wrackmoor The Sea Basins (pop-up))
+## N10-W7 Tench (man, 40) – N10 Wrackmoor The Sea Basins (pop-up)
+_bather scrubbing off the salt_
 
 **clothed**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Tench, 40-year-old human man who looks his age, 6'0", thick and strong, skin that is weathered, scrubbed pink, a flushed, tired face, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, blue eyes, wet brown hair and a dripping beard, a scar on the shoulder, wearing a damp towel round the waist, steam on his shoulders, standing thick and strong with a tired nod, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, tired nod, plain cream background (#FFF8E7)
 
-**studio**
+**nude**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Tench, 40-year-old human man who looks his age, 6'0", thick and strong, skin that is weathered, scrubbed pink, a flushed, tired face, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, blue eyes, wet brown hair and a dripping beard, a scar on the shoulder, fully nude, no clothing, standing thick and strong with a hand rubbing the back of the neck, tired and unbothered, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, tired, unbothered, plain pale lavender-tinted cream background (#EEE6F7), average size penis
 
@@ -422,13 +463,14 @@ One Piece anime art style, adventure manga anime style, bold clean ink outlines,
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Tench, 40-year-old human man who looks his age, 6'0", thick and strong, skin that is weathered, scrubbed pink, a flushed, tired face, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, blue eyes, wet brown hair and a dripping beard, a scar on the shoulder, wearing plain wet-looking drawers, standing thick and strong with the hands on the hips, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, tired nod, plain pale aqua-tinted cream background (#DDF3F1)
 
-## N10-W8 Curlew (bather scrubbing off the salt, N10 Wrackmoor The Sea Basins (pop-up))
+## N10-W8 Curlew (woman, 36) – N10 Wrackmoor The Sea Basins (pop-up)
+_bather scrubbing off the salt_
 
 **clothed**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Curlew, 36-year-old human woman, 5'8", strong and curvy, a D cup bust, skin that is weathered, scrubbed pink, a flushed, tired face, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, grey eyes, wet dark hair pinned up, wearing a damp wrap, steam on her shoulders, a scrubbing brush, standing tired with the arms loose, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, tired smile, plain cream background (#FFF8E7)
 
-**studio**
+**nude**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Curlew, 36-year-old human woman, 5'8", strong and curvy, a D cup bust, skin that is weathered, scrubbed pink, a flushed, tired face, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, grey eyes, wet dark hair pinned up, fully nude, no clothing, standing tired with one hand pushing the damp hair back, unbothered, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, tired, unbothered, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
 
@@ -436,22 +478,24 @@ One Piece anime art style, adventure manga anime style, bold clean ink outlines,
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Curlew, 36-year-old human woman, 5'8", strong and curvy, a D cup bust, skin that is weathered, scrubbed pink, a flushed, tired face, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, grey eyes, wet dark hair pinned up, wearing a plain wrap, standing tired with the hands on the hips, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, tired smile, plain pale aqua-tinted cream background (#DDF3F1)
 
-## N10-W9 Dab (old wrecker, watching the sea, N10 Wrackmoor The Gannet Rock and The Wrackstrip (pop-up))
+## N10-W9 Dab (man, 47) – N10 Wrackmoor The Gannet Rock and The Wrackstrip (pop-up)
+_old wrecker, watching the sea_
 
 **clothed**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Dab, 47-year-old human man who looks his age, 5'10", lean and bent, salt-cracked and weathered skin, a grim, watchful face, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, pale blue eyes, white hair and a ragged beard, a hook-scarred hand, wearing a tattered oilskin coat, a spyglass in his hand, standing lean and bent, grim and watchful, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, grim look, plain cream background (#FFF8E7)
 
-**studio**
+**nude**
 
 One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Dab, 47-year-old human man who looks his age, 5'10", lean and bent, salt-cracked and weathered skin, a grim, watchful face, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, pale blue eyes, white hair and a ragged beard, a hook-scarred hand, fully nude, no clothing, standing lean and bent with the hands clasped behind the back, grim and embarrassed, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, grim, embarrassed, plain pale lavender-tinted cream background (#EEE6F7), average size penis
 
-## N10-W10 Pilchard (woman looking for wreckage, sharp, N10 Wrackmoor The Gannet Rock and The Wrackstrip (pop-up))
+## N10-W10 Pilchard (woman, 52) – N10 Wrackmoor The Gannet Rock and The Wrackstrip (pop-up)
+_woman looking for wreckage, sharp_
 
 **clothed**
 
-One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Pilchard, 52-year-old human woman who looks her age, 5'5", sturdy, a D cup bust, salt-cracked and weathered skin, a sharp, still face, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, grey eyes, grey hair under a black shawl, wearing a black patched dress, a heavy shawl, a sack, standing sturdy and still, sharp-eyed, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, still look, plain cream background (#FFF8E7)
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Pilchard, 52-year-old human woman who looks her age, 5'5", sturdy, a D cup bust, salt-cracked and weathered skin, a sharp, still face, sunken sallow cheeks and a hooked nose with a wart, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, unflattering rough-hewn features, grey eyes, grey hair under a black shawl, wearing a black patched dress, a heavy shawl, a sack, standing sturdy and still, sharp-eyed, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, still look, plain cream background (#FFF8E7)
 
-**studio**
+**nude**
 
-One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Pilchard, 52-year-old human woman who looks her age, 5'5", sturdy, a D cup bust, salt-cracked and weathered skin, a sharp, still face, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, grey eyes, grey hair under a black shawl, fully nude, no clothing, standing sturdy and still with the hands clasped behind the back, still and shy, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, still, shy, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Pilchard, 52-year-old human woman who looks her age, 5'5", sturdy, a D cup bust, salt-cracked and weathered skin, a sharp, still face, sunken sallow cheeks and a hooked nose with a wart, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, unflattering rough-hewn features, grey eyes, grey hair under a black shawl, fully nude, no clothing, standing sturdy and still with the hands clasped behind the back, still and shy, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, still, shy, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible

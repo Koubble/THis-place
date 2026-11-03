@@ -1,0 +1,539 @@
+# Maenara prompts
+
+## S11-1 Eurybia (woman, 57) – S11 Maenara The Valkyrie Convocation
+_queen of Maenara, tall and calm_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Eurybia, 57-year-old amazon woman who looks her age, a bigger-boned, strong and athletic human woman with broad shoulders, tanned skin, braided hair, scars and ritual tattoos, an older woman, 6'7", tall, strong and full-figured, an E cup bust, golden-tanned skin, a sharp, tattooed face, amber eyes, sandy blonde braids, a tattooed band round the upper arm, wearing a plain bronze-trimmed tunic and a fur mantle, braids wound with gold, standing with the hands clasped in front, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, stern, level look, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Eurybia, 57-year-old amazon woman who looks her age, a bigger-boned, strong and athletic human woman with broad shoulders, tanned skin, braided hair, scars and ritual tattoos, an older woman, 6'7", tall, strong and full-figured, an E cup bust, golden-tanned skin, a sharp, tattooed face, amber eyes, sandy blonde braids, a tattooed band round the upper arm, fully nude, no clothing, standing with the arms behind the back, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, composed, cold, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+## S11-2 Despina (woman, 49) – S11 Maenara The Valkyrie Convocation
+_queen's counsellor, scarred and shrewd_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Despina, 49-year-old amazon woman who looks her age, a bigger-boned, strong and athletic human woman with broad shoulders, tanned skin, braided hair, scars and ritual tattoos, 6'3", tall, strong and full-figured, an F cup bust, skin that is bronze, sun-dark, a strong-jawed, scarred face, green eyes, dark hair braided with bronze beads, a scar across the ribs, wearing a dark long tunic with a bronze sash, standing with the arms behind the back and the head tilted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, patient half-smile, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Despina, 49-year-old amazon woman who looks her age, a bigger-boned, strong and athletic human woman with broad shoulders, tanned skin, braided hair, scars and ritual tattoos, 6'3", tall, strong and full-figured, an F cup bust, skin that is bronze, sun-dark, a strong-jawed, scarred face, green eyes, dark hair braided with bronze beads, a scar across the ribs, fully nude, no clothing, standing with the hands behind the back, leaning slightly forward, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, calm, steady, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+## S11-3 Alcippe (woman, 43) – S11 Maenara The Drilling Meadows
+_drill mistress, loud and relentless_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Alcippe, 43-year-old amazon woman who looks her age, a bigger-boned, strong and athletic human woman with broad shoulders, tanned skin, braided hair, scars and ritual tattoos, 6'3", tall, strong and full-figured, a G cup bust, skin that is olive, sun-browned, a strong-jawed, scarred face, a broken flattened nose, thick scar tissue on the cheek and missing teeth, plain unglamorous looks, blemished uneven skin, unflattering rough-hewn features, amber eyes, chestnut hair in a warrior's braid, a painted stripe across the cheeks, wearing a leather sports top and leather skirt, bare arms, standing with one hand resting on the hip, the head tilted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, blunt scowl, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Alcippe, 43-year-old amazon woman who looks her age, a bigger-boned, strong and athletic human woman with broad shoulders, tanned skin, braided hair, scars and ritual tattoos, 6'3", tall, strong and full-figured, a G cup bust, skin that is olive, sun-browned, a strong-jawed, scarred face, a broken flattened nose, thick scar tissue on the cheek and missing teeth, plain unglamorous looks, blemished uneven skin, unflattering rough-hewn features, amber eyes, chestnut hair in a warrior's braid, a painted stripe across the cheeks, fully nude, no clothing, standing with one hand on the hip and the weight on one leg, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, blunt, plain, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+## S11-4 Antiope (woman, 22) – S11 Maenara The Drilling Meadows
+_trainee warrior, eager_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Antiope, 22-year-old amazon woman, a bigger-boned, strong and athletic human woman with broad shoulders, tanned skin, braided hair, scars and ritual tattoos, 6'6", statuesque, muscular and curvy, an E cup bust, skin that is olive, sun-browned, a proud, high-cheekboned face, grey eyes, chestnut hair in a warrior's braid, a scar across the ribs, wearing a short leather tunic, bound chest, standing with one hand on the hip and the weight on one leg, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, nervous smile, eyes lowered, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Antiope, 22-year-old amazon woman, a bigger-boned, strong and athletic human woman with broad shoulders, tanned skin, braided hair, scars and ritual tattoos, 6'6", statuesque, muscular and curvy, an E cup bust, skin that is olive, sun-browned, a proud, high-cheekboned face, grey eyes, chestnut hair in a warrior's braid, a scar across the ribs, fully nude, no clothing, standing with the hand on the hip and the chin lifted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, shy, flushed, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+## S11-5 Polyxena (woman, 51) – S11 Maenara The Ordeal Dunefield
+_trial master of the Ordeal Dunefield_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Polyxena, 51-year-old amazon woman who looks her age, a bigger-boned, strong and athletic human woman with broad shoulders, tanned skin, braided hair, scars and ritual tattoos, 6'2", statuesque, muscular and curvy, a D cup bust, skin that is bronze, sun-dark, a proud, high-cheekboned face, grey eyes, chestnut hair in a warrior's braid, a scar across the ribs, wearing a long leather coat over a bare midriff, a stern look, standing with the head tilted and the hair falling over one shoulder, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, sly smile, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Polyxena, 51-year-old amazon woman who looks her age, a bigger-boned, strong and athletic human woman with broad shoulders, tanned skin, braided hair, scars and ritual tattoos, 6'2", statuesque, muscular and curvy, a D cup bust, skin that is bronze, sun-dark, a proud, high-cheekboned face, grey eyes, chestnut hair in a warrior's braid, a scar across the ribs, fully nude, no clothing, standing with one hand sweeping the hair over one shoulder, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, knowing, amused, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+## S11-6 Otrera (woman, 27) – S11 Maenara The Ordeal Dunefield
+_trial contestant, sweating_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Otrera, 27-year-old amazon woman, a bigger-boned, strong and athletic human woman with broad shoulders, tanned skin, braided hair, scars and ritual tattoos, 6'8", tall, strong and full-figured, a G cup bust, skin that is bronze, sun-dark, a proud, high-cheekboned face, hazel eyes, chestnut hair in a warrior's braid, a spiral tattoo on the shoulder, wearing a leather halter and short wrap, standing with the hair over one shoulder, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, confident, knowing smile, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Otrera, 27-year-old amazon woman, a bigger-boned, strong and athletic human woman with broad shoulders, tanned skin, braided hair, scars and ritual tattoos, 6'8", tall, strong and full-figured, a G cup bust, skin that is bronze, sun-dark, a proud, high-cheekboned face, hazel eyes, chestnut hair in a warrior's braid, a spiral tattoo on the shoulder, fully nude, no clothing, standing with one hand lifted to the hair, the other arm loose, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, confident, amused, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+## S11-7 Hesperia (woman, 58) – S11 Maenara The Cohort Dosshall
+_Helga's mother, retired cohort mother_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Hesperia, 58-year-old amazon woman who looks her age, a bigger-boned, strong and athletic human woman with broad shoulders, tanned skin, braided hair, scars and ritual tattoos, an older woman, 6'1", broad and muscular, a veteran's frame, an E cup bust, skin that is fair and sun-tanned, light freckles, a strong jaw and a weathered, freckled face, deep scar-lines, sagging jowls and a hairy mole, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, unflattering rough-hewn features, grey-green eyes, sandy blonde wavy hair, greying at the temples, old scars on the forearms, wearing a long leather tunic and a fur wrap, hair in a plait, standing with the hands behind the back, leaning slightly forward, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, cold, measuring stare, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Hesperia, 58-year-old amazon woman who looks her age, a bigger-boned, strong and athletic human woman with broad shoulders, tanned skin, braided hair, scars and ritual tattoos, an older woman, 6'1", broad and muscular, a veteran's frame, an E cup bust, skin that is fair and sun-tanned, light freckles, a strong jaw and a weathered, freckled face, deep scar-lines, sagging jowls and a hairy mole, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, unflattering rough-hewn features, grey-green eyes, sandy blonde wavy hair, greying at the temples, old scars on the forearms, fully nude, no clothing, standing with the hands clasped behind the back and the chest lifted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, composed, cold, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+## S11-8 Lysippe (woman, 37) – S11 Maenara The Cohort Dosshall
+_barracks warden_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Lysippe, 37-year-old amazon woman, a bigger-boned, strong and athletic human woman with broad shoulders, tanned skin, braided hair, scars and ritual tattoos, 6'3", statuesque, muscular and curvy, a G cup bust, golden-tanned skin, a strong-jawed, scarred face, grey eyes, a long black braid wrapped round the head, a scar across the ribs, wearing a leather vest and trousers, standing with one hand sweeping the hair over one shoulder, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, resigned look, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Lysippe, 37-year-old amazon woman, a bigger-boned, strong and athletic human woman with broad shoulders, tanned skin, braided hair, scars and ritual tattoos, 6'3", statuesque, muscular and curvy, a G cup bust, golden-tanned skin, a strong-jawed, scarred face, grey eyes, a long black braid wrapped round the head, a scar across the ribs, fully nude, no clothing, standing with the hair over one shoulder, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, tired, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+## S11-9 Sinope (woman, 33) – S11 Maenara The Champions Wreath Forecourt
+_cohort champion of Maenara, the island's best fighter_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Sinope, 33-year-old amazon woman, a bigger-boned, strong and athletic human woman with broad shoulders, tanned skin, braided hair, scars and ritual tattoos, 6'8", statuesque, muscular and curvy, an F cup bust, skin that is bronze, sun-dark, a proud, high-cheekboned face, amber eyes, black hair in long braids, battle scars on the forearms, wearing a bronze-studded leather top and short skirt, tattooed shoulders, standing with the weight on one leg and the head tilted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, confident, knowing smile, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Sinope, 33-year-old amazon woman, a bigger-boned, strong and athletic human woman with broad shoulders, tanned skin, braided hair, scars and ritual tattoos, 6'8", statuesque, muscular and curvy, an F cup bust, skin that is bronze, sun-dark, a proud, high-cheekboned face, amber eyes, black hair in long braids, battle scars on the forearms, fully nude, no clothing, standing with a relaxed hip tilt, the arms loose at the sides, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, bold, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+## S11-10 Sappho (woman, 23) – S11 Maenara The Champions Wreath Forecourt
+_champion's attendant_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Sappho, 23-year-old amazon woman, a bigger-boned, strong and athletic human woman with broad shoulders, tanned skin, braided hair, scars and ritual tattoos, 6'6", statuesque, muscular and curvy, an F cup bust, golden-tanned skin, a broad, freckled face, hazel eyes, chestnut hair in a warrior's braid, a tattooed band round the upper arm, wearing a light tunic and sandals, standing with the hands behind the back, leaning slightly forward, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, shy smile, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Sappho, 23-year-old amazon woman, a bigger-boned, strong and athletic human woman with broad shoulders, tanned skin, braided hair, scars and ritual tattoos, 6'6", statuesque, muscular and curvy, an F cup bust, golden-tanned skin, a broad, freckled face, hazel eyes, chestnut hair in a warrior's braid, a tattooed band round the upper arm, fully nude, no clothing, standing with the hands clasped behind the back and the chest lifted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, shy, flushed, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+## S11-11 Iphito (woman, 40) – S11 Maenara The Tanners Oakbark Steepers
+_leather worker, patient_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Iphito, 40-year-old amazon woman who looks her age, a bigger-boned, strong and athletic human woman with broad shoulders, tanned skin, braided hair, scars and ritual tattoos, 6'5", statuesque, muscular and curvy, an F cup bust, weathered brown skin, a broad, freckled face, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, green eyes, chestnut hair in a warrior's braid, a tattooed band round the upper arm, wearing a red silk slip with stockings, standing with one hand at the collarbone, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, quiet, steady look, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Iphito, 40-year-old amazon woman who looks her age, a bigger-boned, strong and athletic human woman with broad shoulders, tanned skin, braided hair, scars and ritual tattoos, 6'5", statuesque, muscular and curvy, an F cup bust, weathered brown skin, a broad, freckled face, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, green eyes, chestnut hair in a warrior's braid, a tattooed band round the upper arm, fully nude, no clothing, standing with one hand at the collarbone and the weight on one leg, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, calm, steady, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+## S11-12 Eudokia (woman, 46) – S11 Maenara The Quince Treillis
+_orchard keeper, humming_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Eudokia, 46-year-old amazon woman who looks her age, a bigger-boned, strong and athletic human woman with broad shoulders, tanned skin, braided hair, scars and ritual tattoos, 6'6", towering, broad and powerfully muscled, a D cup bust, skin that is bronze, sun-dark, a broad, freckled face, amber eyes, a long black braid wrapped round the head, a tattooed band round the upper arm, wearing a linen tunic and a straw hat, standing with one hand lifted to the collarbone and the other arm loose, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, kind, easy smile, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Eudokia, 46-year-old amazon woman who looks her age, a bigger-boned, strong and athletic human woman with broad shoulders, tanned skin, braided hair, scars and ritual tattoos, 6'6", towering, broad and powerfully muscled, a D cup bust, skin that is bronze, sun-dark, a broad, freckled face, amber eyes, a long black braid wrapped round the head, a tattooed band round the upper arm, fully nude, no clothing, standing with the fingertips resting at the collarbone, the head tilted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, amused, easy, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+## S11-13 Bremusa (woman, 52) – S11 Maenara The Ladling Ingle
+_hearth cook, large-handed and cheerful_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Bremusa, 52-year-old amazon woman who looks her age, a bigger-boned, strong and athletic human woman with broad shoulders, tanned skin, braided hair, scars and ritual tattoos, 6'2", tall, strong and full-figured, a G cup bust, skin that is bronze, sun-dark, a proud, high-cheekboned face, green eyes, chestnut hair in a warrior's braid, battle scars on the forearms, wearing a wool dress with a long apron, standing with the weight on one leg, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, warm smile, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Bremusa, 52-year-old amazon woman who looks her age, a bigger-boned, strong and athletic human woman with broad shoulders, tanned skin, braided hair, scars and ritual tattoos, 6'2", tall, strong and full-figured, a G cup bust, skin that is bronze, sun-dark, a proud, high-cheekboned face, green eyes, chestnut hair in a warrior's braid, battle scars on the forearms, fully nude, no clothing, standing with the weight on one leg and the head tilted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, amused, easy, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+## S11-14 Pantariste (woman, 25) – S11 Maenara The Ladling Ingle
+_kitchen hand_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Pantariste, 25-year-old amazon woman, a bigger-boned, strong and athletic human woman with broad shoulders, tanned skin, braided hair, scars and ritual tattoos, 6'2", statuesque, muscular and curvy, an F cup bust, weathered brown skin, a strong-jawed, scarred face, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, hazel eyes, sandy blonde braids, a spiral tattoo on the shoulder, wearing a short tunic and an apron, standing with the fingertips resting at the collarbone, the head tilted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, flustered smile, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Pantariste, 25-year-old amazon woman, a bigger-boned, strong and athletic human woman with broad shoulders, tanned skin, braided hair, scars and ritual tattoos, 6'2", statuesque, muscular and curvy, an F cup bust, weathered brown skin, a strong-jawed, scarred face, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, hazel eyes, sandy blonde braids, a spiral tattoo on the shoulder, fully nude, no clothing, standing with one hand at the collarbone, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, shy, eyes lowered, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+## S11-15 Briseis (woman, 55) – S11 Maenara The Yarrow Spinney
+_healer of the Yarrow Spinney, gentle for a giant_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Briseis, 55-year-old amazon woman who looks her age, a bigger-boned, strong and athletic human woman with broad shoulders, tanned skin, braided hair, scars and ritual tattoos, an older woman, 6'5", statuesque, muscular and curvy, an E cup bust, deep tan skin, a broad, freckled face, amber eyes, dark hair braided with bronze beads, ritual tattoos down the spine, wearing a green wool robe, standing with one hand at the collarbone and the weight on one leg, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, patient half-smile, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Briseis, 55-year-old amazon woman who looks her age, a bigger-boned, strong and athletic human woman with broad shoulders, tanned skin, braided hair, scars and ritual tattoos, an older woman, 6'5", statuesque, muscular and curvy, an E cup bust, deep tan skin, a broad, freckled face, amber eyes, dark hair braided with bronze beads, ritual tattoos down the spine, fully nude, no clothing, standing with one hand lifted to the collarbone and the other arm loose, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, calm, steady, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+## S11-16 Rhea (woman, 48) – S11 Maenara The Sisterhood Hostel
+_innkeeper of the Sisterhood Hostel, shrewd_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Rhea, 48-year-old amazon woman who looks her age, a bigger-boned, strong and athletic human woman with broad shoulders, tanned skin, braided hair, scars and ritual tattoos, 6'2", statuesque, muscular and curvy, a G cup bust, golden-tanned skin, a proud, high-cheekboned face, grey eyes, a long black braid wrapped round the head, a spiral tattoo on the shoulder, wearing a tailored linen dress, standing with the weight on one hip and the arms loose, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, knowing smirk, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Rhea, 48-year-old amazon woman who looks her age, a bigger-boned, strong and athletic human woman with broad shoulders, tanned skin, braided hair, scars and ritual tattoos, 6'2", statuesque, muscular and curvy, a G cup bust, golden-tanned skin, a proud, high-cheekboned face, grey eyes, a long black braid wrapped round the head, a spiral tattoo on the shoulder, fully nude, no clothing, standing with the weight on one leg, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, sly, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+## S11-17 Melanippe (woman, 28) – S11 Maenara The Sisterhood Hostel
+_inn maid, strong and brisk_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Melanippe, 28-year-old amazon woman, a bigger-boned, strong and athletic human woman with broad shoulders, tanned skin, braided hair, scars and ritual tattoos, 6'2", statuesque, muscular and curvy, an F cup bust, deep tan skin, a proud, high-cheekboned face, grey eyes, a long black braid wrapped round the head, ritual tattoos down the spine, wearing a short tunic and apron, standing with one hand lifted to the hair, the other arm loose, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, confident, knowing smile, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Melanippe, 28-year-old amazon woman, a bigger-boned, strong and athletic human woman with broad shoulders, tanned skin, braided hair, scars and ritual tattoos, 6'2", statuesque, muscular and curvy, an F cup bust, deep tan skin, a proud, high-cheekboned face, grey eyes, a long black braid wrapped round the head, ritual tattoos down the spine, fully nude, no clothing, standing with the head tilted and the hair falling over one shoulder, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, confident, amused, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+## S11-18 Harmothoe (woman, 44) – S11 Maenara The Inspection Gangplank
+_dock mistress of the Inspection Gangplank, thorough_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Harmothoe, 44-year-old amazon woman who looks her age, a bigger-boned, strong and athletic human woman with broad shoulders, tanned skin, braided hair, scars and ritual tattoos, 6'8", towering, broad and powerfully muscled, a D cup bust, skin that is bronze, sun-dark, a sharp, tattooed face, hazel eyes, black hair in long braids, a scar across the ribs, wearing a long coat over a sleeveless tunic, standing with one hand at the collarbone, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, sly smile, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Harmothoe, 44-year-old amazon woman who looks her age, a bigger-boned, strong and athletic human woman with broad shoulders, tanned skin, braided hair, scars and ritual tattoos, 6'8", towering, broad and powerfully muscled, a D cup bust, skin that is bronze, sun-dark, a sharp, tattooed face, hazel eyes, black hair in long braids, a scar across the ribs, fully nude, no clothing, standing with one hand at the collarbone and the weight on one leg, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, sly, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+## S11-19 Chloe (woman, 26) – S11 Maenara The Inspection Gangplank
+_dockhand who sorts the visitors_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Chloe, 26-year-old amazon woman, a bigger-boned, strong and athletic human woman with broad shoulders, tanned skin, braided hair, scars and ritual tattoos, 6'6", towering, broad and powerfully muscled, a G cup bust, deep tan skin, a proud, high-cheekboned face, grey eyes, black hair in long braids, a spiral tattoo on the shoulder, wearing a leather vest and short wrap, standing with one hand lifted to the collarbone and the other arm loose, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, confident, knowing smile, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Chloe, 26-year-old amazon woman, a bigger-boned, strong and athletic human woman with broad shoulders, tanned skin, braided hair, scars and ritual tattoos, 6'6", towering, broad and powerfully muscled, a G cup bust, deep tan skin, a proud, high-cheekboned face, grey eyes, black hair in long braids, a spiral tattoo on the shoulder, fully nude, no clothing, standing with the fingertips resting at the collarbone, the head tilted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, bold, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+## S11-20 Taxila (woman, 50) – S11 Maenara The Hydromel Longroom
+_mead hall mistress, hearty_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Taxila, 50-year-old amazon woman who looks her age, a bigger-boned, strong and athletic human woman with broad shoulders, tanned skin, braided hair, scars and ritual tattoos, 6'7", statuesque, muscular and curvy, a D cup bust, skin that is bronze, sun-dark, a sharp, tattooed face, a ruddy veined nose, a double chin and a hairy mole, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, unflattering rough-hewn features, grey eyes, black hair in long braids, a tattooed band round the upper arm, wearing a fur-trimmed tunic, standing with the hand on the hip and the chin lifted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, blunt scowl, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Taxila, 50-year-old amazon woman who looks her age, a bigger-boned, strong and athletic human woman with broad shoulders, tanned skin, braided hair, scars and ritual tattoos, 6'7", statuesque, muscular and curvy, a D cup bust, skin that is bronze, sun-dark, a sharp, tattooed face, a ruddy veined nose, a double chin and a hairy mole, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, unflattering rough-hewn features, grey eyes, black hair in long braids, a tattooed band round the upper arm, fully nude, no clothing, standing with a hand on the hip and the shoulders back, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, blunt, plain, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+## S11-21 Penthesilea (woman, 27) – S11 Maenara The Hydromel Longroom
+_mead server, laughing_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Penthesilea, 27-year-old amazon woman, a bigger-boned, strong and athletic human woman with broad shoulders, tanned skin, braided hair, scars and ritual tattoos, 6'4", tall, strong and full-figured, a G cup bust, skin that is bronze, sun-dark, a sharp, tattooed face, grey eyes, a long black braid wrapped round the head, a painted stripe across the cheeks, wearing a laced bodice and short skirt, standing with one hand resting on the hip, the head tilted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, playful wink, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Penthesilea, 27-year-old amazon woman, a bigger-boned, strong and athletic human woman with broad shoulders, tanned skin, braided hair, scars and ritual tattoos, 6'4", tall, strong and full-figured, a G cup bust, skin that is bronze, sun-dark, a sharp, tattooed face, grey eyes, a long black braid wrapped round the head, a painted stripe across the cheeks, fully nude, no clothing, standing with one hand on the hip and the weight on one leg, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, giggling, flushed, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+## S11-22 Figen (woman, 39) – S11 Maenara The Warp And Weft
+_weaver of the Warp And Weft, human, soft-spoken_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Figen, 39-year-old human woman, 5'5", slender, a B cup bust, bronze skin, a warm, open face, grey eyes, brown hair in a plait, a small tattoo, wearing a long linen dress, standing with one hand at the collarbone and the weight on one leg, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, warm smile, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Figen, 39-year-old human woman, 5'5", slender, a B cup bust, bronze skin, a warm, open face, grey eyes, brown hair in a plait, a small tattoo, fully nude, no clothing, standing with one hand lifted to the collarbone and the other arm loose, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, amused, easy, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+## S11-23 Ariadne (woman, 23) – S11 Maenara The Warp And Weft
+_weaver's apprentice_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Ariadne, 23-year-old amazon woman, a bigger-boned, strong and athletic human woman with broad shoulders, tanned skin, braided hair, scars and ritual tattoos, 6'6", towering, broad and powerfully muscled, a G cup bust, deep tan skin, a strong-jawed, scarred face, grey eyes, dark hair braided with bronze beads, a spiral tattoo on the shoulder, wearing a plain grey dress, standing with one hand sweeping the hair over one shoulder, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, nervous smile, eyes lowered, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Ariadne, 23-year-old amazon woman, a bigger-boned, strong and athletic human woman with broad shoulders, tanned skin, braided hair, scars and ritual tattoos, 6'6", towering, broad and powerfully muscled, a G cup bust, deep tan skin, a strong-jawed, scarred face, grey eyes, dark hair braided with bronze beads, a spiral tattoo on the shoulder, fully nude, no clothing, standing with the hair over one shoulder, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, shy, flushed, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+## S11-24 Thalestris (woman, 53) – S11 Maenara The Boarhunt Chalet
+_hunt lodge keeper, weathered_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Thalestris, 53-year-old amazon woman who looks her age, a bigger-boned, strong and athletic human woman with broad shoulders, tanned skin, braided hair, scars and ritual tattoos, 6'7", statuesque, muscular and curvy, an F cup bust, skin that is bronze, sun-dark, a proud, high-cheekboned face, weathered leathery skin, deep wrinkles and a lumpy nose, plain unglamorous looks, blemished uneven skin, unflattering rough-hewn features, green eyes, dark hair braided with bronze beads, a painted stripe across the cheeks, wearing a fur vest and leather trousers, standing with one hand on the hip and the weight on one leg, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, weary nod, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Thalestris, 53-year-old amazon woman who looks her age, a bigger-boned, strong and athletic human woman with broad shoulders, tanned skin, braided hair, scars and ritual tattoos, 6'7", statuesque, muscular and curvy, an F cup bust, skin that is bronze, sun-dark, a proud, high-cheekboned face, weathered leathery skin, deep wrinkles and a lumpy nose, plain unglamorous looks, blemished uneven skin, unflattering rough-hewn features, green eyes, dark hair braided with bronze beads, a painted stripe across the cheeks, fully nude, no clothing, standing with the hand on the hip and the chin lifted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, tired, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+## S11-25 Molpadia (woman, 62) – S11 Maenara The Matriarchs Shrine
+_priestess of the Matriarchs Shrine, serene_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Molpadia, 62-year-old amazon woman who looks her age, a bigger-boned, strong and athletic human woman with broad shoulders, tanned skin, braided hair, scars and ritual tattoos, an older woman, 6'6", tall, strong and full-figured, an F cup bust, skin that is bronze, sun-dark, a broad, freckled face, deep wrinkles, a sagging neck and a large wart, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, unflattering rough-hewn features, green eyes, auburn hair in tight braids, a scar across the ribs, wearing a white wool robe, a gold circlet, standing with a hand on the hip and the shoulders back, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, stern, level look, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Molpadia, 62-year-old amazon woman who looks her age, a bigger-boned, strong and athletic human woman with broad shoulders, tanned skin, braided hair, scars and ritual tattoos, an older woman, 6'6", tall, strong and full-figured, an F cup bust, skin that is bronze, sun-dark, a broad, freckled face, deep wrinkles, a sagging neck and a large wart, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, unflattering rough-hewn features, green eyes, auburn hair in tight braids, a scar across the ribs, fully nude, no clothing, standing with one hand resting on the hip, the head tilted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, stern, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+## S11-26 Tecmessa (woman, 34) – S11 Maenara The Cinnabar Seethes
+_spring attendant of the Cinnabar Seethes_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Tecmessa, 34-year-old amazon woman, a bigger-boned, strong and athletic human woman with broad shoulders, tanned skin, braided hair, scars and ritual tattoos, 6'8", towering, broad and powerfully muscled, an E cup bust, deep tan skin, a broad, freckled face, amber eyes, black hair in long braids, battle scars on the forearms, wearing a linen tunic dress, standing with the arms behind the back, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, kind, easy smile, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Tecmessa, 34-year-old amazon woman, a bigger-boned, strong and athletic human woman with broad shoulders, tanned skin, braided hair, scars and ritual tattoos, 6'8", towering, broad and powerfully muscled, an E cup bust, deep tan skin, a broad, freckled face, amber eyes, black hair in long braids, battle scars on the forearms, fully nude, no clothing, standing with the arms behind the back and the head tilted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, amused, easy, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+**swim**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Tecmessa, 34-year-old amazon woman, a bigger-boned, strong and athletic human woman with broad shoulders, tanned skin, braided hair, scars and ritual tattoos, 6'8", towering, broad and powerfully muscled, an E cup bust, deep tan skin, a broad, freckled face, amber eyes, black hair in long braids, battle scars on the forearms, wearing a thin linen shift and stockings, standing with the weight on one hip and the arms loose, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, kind, easy smile, plain pale aqua-tinted cream background (#DDF3F1)
+
+## S11-27 Philomena (woman, 29) – S11 Maenara The Cinnabar Seethes
+_spring attendant_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Philomena, 29-year-old amazon woman, a bigger-boned, strong and athletic human woman with broad shoulders, tanned skin, braided hair, scars and ritual tattoos, 6'6", tall, strong and full-figured, an E cup bust, weathered brown skin, a sharp, tattooed face, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, hazel eyes, black hair in long braids, ritual tattoos down the spine, wearing a linen wrap dress, standing with the hands behind the back, leaning slightly forward, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, bold grin, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Philomena, 29-year-old amazon woman, a bigger-boned, strong and athletic human woman with broad shoulders, tanned skin, braided hair, scars and ritual tattoos, 6'6", tall, strong and full-figured, an E cup bust, weathered brown skin, a sharp, tattooed face, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, hazel eyes, black hair in long braids, ritual tattoos down the spine, fully nude, no clothing, standing with the hands clasped behind the back and the chest lifted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, bold, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+**swim**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Philomena, 29-year-old amazon woman, a bigger-boned, strong and athletic human woman with broad shoulders, tanned skin, braided hair, scars and ritual tattoos, 6'6", tall, strong and full-figured, an E cup bust, weathered brown skin, a sharp, tattooed face, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, hazel eyes, black hair in long braids, ritual tattoos down the spine, wearing a plain one-piece swimsuit, standing with the weight on one leg and the head tilted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, bold grin, plain pale aqua-tinted cream background (#DDF3F1)
+
+## S11-28 Orithyia (woman, 41) – S11 Maenara The Honeyed Amber Ottoman
+_hostess of the Honeyed Amber Ottoman, languid_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Orithyia, 41-year-old amazon woman who looks her age, a bigger-boned, strong and athletic human woman with broad shoulders, tanned skin, braided hair, scars and ritual tattoos, 6'2", statuesque, muscular and curvy, a G cup bust, skin that is bronze, sun-dark, a strong-jawed, scarred face, grey eyes, black hair in long braids, a painted stripe across the cheeks, wearing a thin linen shift and stockings, standing with the hands clasped behind the back and the chest lifted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, sly smile, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Orithyia, 41-year-old amazon woman who looks her age, a bigger-boned, strong and athletic human woman with broad shoulders, tanned skin, braided hair, scars and ritual tattoos, 6'2", statuesque, muscular and curvy, a G cup bust, skin that is bronze, sun-dark, a strong-jawed, scarred face, grey eyes, black hair in long braids, a painted stripe across the cheeks, fully nude, no clothing, standing with the arms behind the back, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, knowing, amused, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+## S11-29 Neslihan (woman, 31) – S11 Maenara The Honeyed Amber Ottoman
+_singer of the Honeyed Amber Ottoman, human_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Neslihan, 31-year-old human woman, 5'3", compact and curvy, an E cup bust, tanned skin, a bold, striking face, hazel eyes, dark hair pinned up, a small tattoo, wearing a thin cotton slip, standing with the hands clasped in front, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, bold grin, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Neslihan, 31-year-old human woman, 5'3", compact and curvy, an E cup bust, tanned skin, a bold, striking face, hazel eyes, dark hair pinned up, a small tattoo, fully nude, no clothing, standing with the hands behind the back, leaning slightly forward, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, bold, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+## S11-30 Kinich (man, 28) – S11 Maenara The Honeyed Amber Ottoman
+_entertainer of the Honeyed Amber Ottoman, cat-kin, lithe and coy_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Kinich, 28-year-old cat-kin man, a slim, nimble human-like person with cat ears on top of the head and no human ears, a long slender cat tail, large slit-pupilled eyes, small fangs, and a patched calico, tabby or tortoiseshell coat on the tail and ears and as fine fur patches on the arms and shoulders, the hair following the same patches, 5'10", slender and lithe, smooth tan skin with patches of calico fur, a fine, mischievous face with whisker marks, amber eyes, short calico-patched hair with orange, black and white patches, a tail with a white tip, wearing plain cotton drawers, standing square with the hands on the hips, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, cheeky grin, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Kinich, 28-year-old cat-kin man, a slim, nimble human-like person with cat ears on top of the head and no human ears, a long slender cat tail, large slit-pupilled eyes, small fangs, and a patched calico, tabby or tortoiseshell coat on the tail and ears and as fine fur patches on the arms and shoulders, the hair following the same patches, 5'10", slender and lithe, smooth tan skin with patches of calico fur, a fine, mischievous face with whisker marks, amber eyes, short calico-patched hair with orange, black and white patches, a tail with a white tip, fully nude, no clothing, standing square with the hands on the hips, the shoulders back, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, giggling, flushed, plain pale lavender-tinted cream background (#EEE6F7), barbed penis
+
+## S11-31 Lampedo (woman, 46) – S11 Maenara The Humbling Corral
+_keeper of the Humbling Corral, stern_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Lampedo, 46-year-old amazon woman who looks her age, a bigger-boned, strong and athletic human woman with broad shoulders, tanned skin, braided hair, scars and ritual tattoos, 6'4", statuesque, muscular and curvy, an F cup bust, golden-tanned skin, a strong-jawed, scarred face, a hard jutting jaw, a crooked nose and a hairy wart, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, unflattering rough-hewn features, amber eyes, chestnut hair in a warrior's braid, a scar across the ribs, wearing a leather vest and trousers, standing with a hand on the hip and the shoulders back, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, sly smile, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Lampedo, 46-year-old amazon woman who looks her age, a bigger-boned, strong and athletic human woman with broad shoulders, tanned skin, braided hair, scars and ritual tattoos, 6'4", statuesque, muscular and curvy, an F cup bust, golden-tanned skin, a strong-jawed, scarred face, a hard jutting jaw, a crooked nose and a hairy wart, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, unflattering rough-hewn features, amber eyes, chestnut hair in a warrior's braid, a scar across the ribs, fully nude, no clothing, standing with one hand resting on the hip, the head tilted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, sly, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+## S11-32 Opis (woman, 30) – S11 Maenara The Humbling Corral
+_paddock hand_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Opis, 30-year-old amazon woman, a bigger-boned, strong and athletic human woman with broad shoulders, tanned skin, braided hair, scars and ritual tattoos, 6'5", towering, broad and powerfully muscled, an E cup bust, skin that is bronze, sun-dark, a strong-jawed, scarred face, grey eyes, black hair in long braids, a scar across the ribs, wearing a sleeveless leather vest and short trousers, standing with the weight on one leg, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, weary nod, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Opis, 30-year-old amazon woman, a bigger-boned, strong and athletic human woman with broad shoulders, tanned skin, braided hair, scars and ritual tattoos, 6'5", towering, broad and powerfully muscled, an E cup bust, skin that is bronze, sun-dark, a strong-jawed, scarred face, grey eyes, black hair in long braids, a scar across the ribs, fully nude, no clothing, standing with the weight on one leg and the head tilted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, tired, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+## S11-33 Tomyris (woman, 45) – S11 Maenara The Bondsmens Bunkroom
+_warden of the Bondsmens Bunkroom, strict but fair_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Tomyris, 45-year-old amazon woman who looks her age, a bigger-boned, strong and athletic human woman with broad shoulders, tanned skin, braided hair, scars and ritual tattoos, 6'8", statuesque, muscular and curvy, an F cup bust, skin that is bronze, sun-dark, a broad, freckled face, a heavy scarred brow and a squashed nose, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, unflattering rough-hewn features, green eyes, sandy blonde braids, a tattooed band round the upper arm, wearing a long leather coat, standing with a hand on the hip and the shoulders back, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, cold, measuring stare, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Tomyris, 45-year-old amazon woman who looks her age, a bigger-boned, strong and athletic human woman with broad shoulders, tanned skin, braided hair, scars and ritual tattoos, 6'8", statuesque, muscular and curvy, an F cup bust, skin that is bronze, sun-dark, a broad, freckled face, a heavy scarred brow and a squashed nose, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, unflattering rough-hewn features, green eyes, sandy blonde braids, a tattooed band round the upper arm, fully nude, no clothing, standing with one hand resting on the hip, the head tilted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, stern, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+## S11-34 Marpesia (woman, 40) – S11 Maenara The Subjugation Vault Annexe
+_mistress of the Subjugation Vault Annexe, commanding_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Marpesia, 40-year-old amazon woman who looks her age, a bigger-boned, strong and athletic human woman with broad shoulders, tanned skin, braided hair, scars and ritual tattoos, 6'3", tall, strong and full-figured, a G cup bust, skin that is bronze, sun-dark, a sharp, tattooed face, amber eyes, dark hair braided with bronze beads, a painted stripe across the cheeks, wearing a cream lace chemise with stockings, standing with the hands lightly clasped in front and the shoulders back, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, knowing smirk, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Marpesia, 40-year-old amazon woman who looks her age, a bigger-boned, strong and athletic human woman with broad shoulders, tanned skin, braided hair, scars and ritual tattoos, 6'3", tall, strong and full-figured, a G cup bust, skin that is bronze, sun-dark, a sharp, tattooed face, amber eyes, dark hair braided with bronze beads, a painted stripe across the cheeks, fully nude, no clothing, standing with the hands behind the back, leaning slightly forward, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, sly, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+## S11-35 Deianeira (woman, 27) – S11 Maenara The Subjugation Vault Annexe
+_chamber attendant_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Deianeira, 27-year-old amazon woman, a bigger-boned, strong and athletic human woman with broad shoulders, tanned skin, braided hair, scars and ritual tattoos, 6'2", statuesque, muscular and curvy, a G cup bust, golden-tanned skin, a strong-jawed, scarred face, amber eyes, auburn hair in tight braids, a scar across the ribs, wearing a lace chemise and stockings, standing with one hand resting on the hip, the head tilted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, bright, daring smile, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Deianeira, 27-year-old amazon woman, a bigger-boned, strong and athletic human woman with broad shoulders, tanned skin, braided hair, scars and ritual tattoos, 6'2", statuesque, muscular and curvy, a G cup bust, golden-tanned skin, a strong-jawed, scarred face, amber eyes, auburn hair in tight braids, a scar across the ribs, fully nude, no clothing, standing with one hand on the hip and the weight on one leg, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, bold, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+## S11-36 Andromache (woman, 47) – S11 Maenara The Taming Coffer
+_owner of the Taming Coffer, brisk and shrewd_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Andromache, 47-year-old amazon woman who looks her age, a bigger-boned, strong and athletic human woman with broad shoulders, tanned skin, braided hair, scars and ritual tattoos, 6'7", tall, strong and full-figured, an E cup bust, golden-tanned skin, a broad, freckled face, hazel eyes, chestnut hair in a warrior's braid, a tattooed band round the upper arm, wearing a leather apron over a laced top, standing with the hand on the hip and the chin lifted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, knowing smirk, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Andromache, 47-year-old amazon woman who looks her age, a bigger-boned, strong and athletic human woman with broad shoulders, tanned skin, braided hair, scars and ritual tattoos, 6'7", tall, strong and full-figured, an E cup bust, golden-tanned skin, a broad, freckled face, hazel eyes, chestnut hair in a warrior's braid, a tattooed band round the upper arm, fully nude, no clothing, standing with a hand on the hip and the shoulders back, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, sly, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+## S11-37 Semele (woman, 32) – S11 Maenara The Laurels Immersion Trough
+_bath attendant of the Laurels Immersion Trough_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Semele, 32-year-old amazon woman, a bigger-boned, strong and athletic human woman with broad shoulders, tanned skin, braided hair, scars and ritual tattoos, 6'2", towering, broad and powerfully muscled, a G cup bust, deep tan skin, a sharp, tattooed face, grey eyes, a long black braid wrapped round the head, battle scars on the forearms, wearing a linen tunic dress, standing with the hands clasped behind the back and the chest lifted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, friendly grin, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Semele, 32-year-old amazon woman, a bigger-boned, strong and athletic human woman with broad shoulders, tanned skin, braided hair, scars and ritual tattoos, 6'2", towering, broad and powerfully muscled, a G cup bust, deep tan skin, a sharp, tattooed face, grey eyes, a long black braid wrapped round the head, battle scars on the forearms, fully nude, no clothing, standing with the arms behind the back, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, amused, easy, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+**swim**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Semele, 32-year-old amazon woman, a bigger-boned, strong and athletic human woman with broad shoulders, tanned skin, braided hair, scars and ritual tattoos, 6'2", towering, broad and powerfully muscled, a G cup bust, deep tan skin, a sharp, tattooed face, grey eyes, a long black braid wrapped round the head, battle scars on the forearms, wearing a plain one-piece swimsuit, standing with a relaxed hip tilt, the arms loose at the sides, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, friendly grin, plain pale aqua-tinted cream background (#DDF3F1)
+
+## S11-38 Cynane (woman, 35) – S11 Maenara The Laurels Immersion Trough
+_victor's bather, a champion resting_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Cynane, 35-year-old amazon woman, a bigger-boned, strong and athletic human woman with broad shoulders, tanned skin, braided hair, scars and ritual tattoos, 6'6", tall, strong and full-figured, an F cup bust, golden-tanned skin, a broad, freckled face, hazel eyes, chestnut hair in a warrior's braid, a scar across the ribs, wearing a linen tunic dress, tattooed shoulders, standing with the hands clasped in front and the head tilted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, bright, daring smile, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Cynane, 35-year-old amazon woman, a bigger-boned, strong and athletic human woman with broad shoulders, tanned skin, braided hair, scars and ritual tattoos, 6'6", tall, strong and full-figured, an F cup bust, golden-tanned skin, a broad, freckled face, hazel eyes, chestnut hair in a warrior's braid, a scar across the ribs, fully nude, no clothing, standing with the hands clasped behind the back and the chest lifted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, bold, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+**swim**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Cynane, 35-year-old amazon woman, a bigger-boned, strong and athletic human woman with broad shoulders, tanned skin, braided hair, scars and ritual tattoos, 6'6", tall, strong and full-figured, an F cup bust, golden-tanned skin, a broad, freckled face, hazel eyes, chestnut hair in a warrior's braid, a scar across the ribs, wearing a lace chemise and stockings, standing with the weight on one leg and the head tilted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, bright, daring smile, plain pale aqua-tinted cream background (#DDF3F1)
+
+## S11-W1 Kukul (man, 31) – S11 Maenara The Trellis Aisles and The Flagstone Seats (pop-up)
+_wolf-kin musician strolling the quince rows_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Kukul, 31-year-old wolf-kin man, a human-like person with pointed wolf ears on top of the head and no human ears, a bushy wolf tail, a thick ruff of fur at the neck and down the spine, fine fur on the forearms and shins, sharp canine teeth and amber eyes; the ears, tail and ruff match the hair colour, 6'0", lean and rangy, tanned skin with grey fur patches, a lean, sharp-jawed face with a hint of muzzle, yellow eyes, grey-black shaggy hair, a bushy grey tail, wearing a loose open shirt and drawstring trousers, standing easy with the weight on one leg, the head tilted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, playful wink, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Kukul, 31-year-old wolf-kin man, a human-like person with pointed wolf ears on top of the head and no human ears, a bushy wolf tail, a thick ruff of fur at the neck and down the spine, fine fur on the forearms and shins, sharp canine teeth and amber eyes; the ears, tail and ruff match the hair colour, 6'0", lean and rangy, tanned skin with grey fur patches, a lean, sharp-jawed face with a hint of muzzle, yellow eyes, grey-black shaggy hair, a bushy grey tail, fully nude, no clothing, standing with a relaxed hip tilt, the arms loose, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, playful, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), knotted penis
+
+## S11-W2 Atalanta (woman, 36) – S11 Maenara The Trellis Aisles and The Flagstone Seats (pop-up)
+_amazon strolling the quince rows_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Atalanta, 36-year-old amazon woman, a bigger-boned, strong and athletic human woman with broad shoulders, tanned skin, braided hair, scars and ritual tattoos, 6'2", statuesque, muscular and curvy, a G cup bust, skin that is bronze, sun-dark, a strong-jawed, scarred face, green eyes, sandy blonde braids, a tattooed band round the upper arm, wearing a leather tunic and boots, braids tied back, standing with the weight on one hip and the arms loose, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, grim smirk, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Atalanta, 36-year-old amazon woman, a bigger-boned, strong and athletic human woman with broad shoulders, tanned skin, braided hair, scars and ritual tattoos, 6'2", statuesque, muscular and curvy, a G cup bust, skin that is bronze, sun-dark, a strong-jawed, scarred face, green eyes, sandy blonde braids, a tattooed band round the upper arm, fully nude, no clothing, standing with the weight on one leg, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, gruff, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+## S11-W3 Bulent (man, 34) – S11 Maenara The Muster Gable Flank and The Scarp Footpath (pop-up)
+_scalekin man slipping behind the bunkhall_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Bulent, 34-year-old scalekin man, a reptile-folk humanoid with fine scales over the whole body, a thick tail, a ridge of small spines or a frill down the back of the head and neck, a snouted but human-shaped face with slit-pupilled golden eyes and a forked tongue, and no hair, 5'8", lean and wiry, sand-coloured scaled skin, a snouted but human-shaped face, calm, slit-pupilled gold eyes, no hair, a ridge of small spines down the back of the head, a banded tail, wearing a loose wrap at the hips and a light cloth, his tail free, standing with one hand on the hip, the other arm loose, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, cheeky grin, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Bulent, 34-year-old scalekin man, a reptile-folk humanoid with fine scales over the whole body, a thick tail, a ridge of small spines or a frill down the back of the head and neck, a snouted but human-shaped face with slit-pupilled golden eyes and a forked tongue, and no hair, 5'8", lean and wiry, sand-coloured scaled skin, a snouted but human-shaped face, calm, slit-pupilled gold eyes, no hair, a ridge of small spines down the back of the head, a banded tail, fully nude, no clothing, standing with a hand on the hip and the head tilted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, playful, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), ridged paired penis
+
+## S11-W4 Kassandra (woman, 28) – S11 Maenara The Muster Gable Flank and The Scarp Footpath (pop-up)
+_amazon sneaking along the escarpment track_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Kassandra, 28-year-old amazon woman, a bigger-boned, strong and athletic human woman with broad shoulders, tanned skin, braided hair, scars and ritual tattoos, 6'4", towering, broad and powerfully muscled, an E cup bust, weathered brown skin, a sharp, tattooed face, plain unglamorous looks, blemished uneven skin, green eyes, dark hair braided with bronze beads, a painted stripe across the cheeks, wearing a short leather tunic, loosened, standing with one hand lifted to the collarbone and the other arm loose, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, bold grin, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Kassandra, 28-year-old amazon woman, a bigger-boned, strong and athletic human woman with broad shoulders, tanned skin, braided hair, scars and ritual tattoos, 6'4", towering, broad and powerfully muscled, an E cup bust, weathered brown skin, a sharp, tattooed face, plain unglamorous looks, blemished uneven skin, green eyes, dark hair braided with bronze beads, a painted stripe across the cheeks, fully nude, no clothing, standing with the fingertips resting at the collarbone, the head tilted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, confident, amused, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+## S11-W5 Orestes (man, 40) – S11 Maenara The Sulphurous Dimple (pop-up)
+_ember-folk man soaking in the cauldron tarn_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Orestes, 40-year-old ember folk man who looks his age, a person with stone-like skin with glowing orange lava veins and a faint ember light along the veins, warm to the touch, 6'4", broad and powerfully built, basalt-black skin with faint ember veins, a strong face lit by faint ember veins, amber eyes, black ash hair with ember glints, glowing veins along the forearms, wearing a loose open shirt, glowing veins on his chest, standing with the weight on one leg, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, calm nod, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Orestes, 40-year-old ember folk man who looks his age, a person with stone-like skin with glowing orange lava veins and a faint ember light along the veins, warm to the touch, 6'4", broad and powerfully built, basalt-black skin with faint ember veins, a strong face lit by faint ember veins, amber eyes, black ash hair with ember glints, glowing veins along the forearms, fully nude, no clothing, standing easy with the weight on one leg, the head tilted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, calm, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), larger than average penis
+
+**swim**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Orestes, 40-year-old ember folk man who looks his age, a person with stone-like skin with glowing orange lava veins and a faint ember light along the veins, warm to the touch, 6'4", broad and powerfully built, basalt-black skin with faint ember veins, a strong face lit by faint ember veins, amber eyes, black ash hair with ember glints, glowing veins along the forearms, wearing a towel low on the hips, standing with one hand behind the head and the weight on one leg, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, calm nod, plain pale aqua-tinted cream background (#DDF3F1)
+
+## S11-W6 Derinoe (woman, 34) – S11 Maenara The Sulphurous Dimple (pop-up)
+_amazon soaking in the cauldron tarn_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Derinoe, 34-year-old amazon woman, a bigger-boned, strong and athletic human woman with broad shoulders, tanned skin, braided hair, scars and ritual tattoos, 6'6", statuesque, muscular and curvy, an F cup bust, weathered brown skin, a strong-jawed, scarred face, plain unglamorous looks, blemished uneven skin, amber eyes, sandy blonde braids, a painted stripe across the cheeks, wearing a linen tunic dress, standing with the head tilted and the hair falling over one shoulder, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, friendly grin, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Derinoe, 34-year-old amazon woman, a bigger-boned, strong and athletic human woman with broad shoulders, tanned skin, braided hair, scars and ritual tattoos, 6'6", statuesque, muscular and curvy, an F cup bust, weathered brown skin, a strong-jawed, scarred face, plain unglamorous looks, blemished uneven skin, amber eyes, sandy blonde braids, a painted stripe across the cheeks, fully nude, no clothing, standing with one hand sweeping the hair over one shoulder, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, warm, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+**swim**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Derinoe, 34-year-old amazon woman, a bigger-boned, strong and athletic human woman with broad shoulders, tanned skin, braided hair, scars and ritual tattoos, 6'6", statuesque, muscular and curvy, an F cup bust, weathered brown skin, a strong-jawed, scarred face, plain unglamorous looks, blemished uneven skin, amber eyes, sandy blonde braids, a painted stripe across the cheeks, wearing a thin cotton slip, standing with one hand lifted to the hair, the other arm loose, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, friendly grin, plain pale aqua-tinted cream background (#DDF3F1)
+
+## S11-W7 Kestrel (man, 27) – S11 Maenara The Pebbled Rocklet and The Wading Crossing (pop-up)
+_human acrobat swimming in the sheltered inlet_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Kestrel, 27-year-old human man, 6'0", tall and lean, skin that is olive, sun-browned, a playful, dimpled face, brown eyes, dark hair, cropped, a small tattoo, wearing shorts, bare chest, standing square with the hands on the hips, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, cheeky grin, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Kestrel, 27-year-old human man, 6'0", tall and lean, skin that is olive, sun-browned, a playful, dimpled face, brown eyes, dark hair, cropped, a small tattoo, fully nude, no clothing, standing square with the hands on the hips, the shoulders back, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, giggling, flushed, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
+**swim**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Kestrel, 27-year-old human man, 6'0", tall and lean, skin that is olive, sun-browned, a playful, dimpled face, brown eyes, dark hair, cropped, a small tattoo, wearing plain cotton drawers, standing with one hand behind the head and the weight on one leg, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, cheeky grin, plain pale aqua-tinted cream background (#DDF3F1)
+
+## S11-W8 Volusia (woman, 26) – S11 Maenara The Pebbled Rocklet and The Wading Crossing (pop-up)
+_amazon swimming at the shallows crossing_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Volusia, 26-year-old amazon woman, a bigger-boned, strong and athletic human woman with broad shoulders, tanned skin, braided hair, scars and ritual tattoos, 6'8", tall, strong and full-figured, a G cup bust, golden-tanned skin, a broad, freckled face, hazel eyes, auburn hair in tight braids, ritual tattoos down the spine, wearing a linen shift, standing with the hand on the hip and the chin lifted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, bright, daring smile, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Volusia, 26-year-old amazon woman, a bigger-boned, strong and athletic human woman with broad shoulders, tanned skin, braided hair, scars and ritual tattoos, 6'8", tall, strong and full-figured, a G cup bust, golden-tanned skin, a broad, freckled face, hazel eyes, auburn hair in tight braids, ritual tattoos down the spine, fully nude, no clothing, standing with a hand on the hip and the shoulders back, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, confident, amused, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+**swim**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Volusia, 26-year-old amazon woman, a bigger-boned, strong and athletic human woman with broad shoulders, tanned skin, braided hair, scars and ritual tattoos, 6'8", tall, strong and full-figured, a G cup bust, golden-tanned skin, a broad, freckled face, hazel eyes, auburn hair in tight braids, ritual tattoos down the spine, wearing a cotton slip, standing with the weight on one leg, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, bright, daring smile, plain pale aqua-tinted cream background (#DDF3F1)

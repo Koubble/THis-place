@@ -21,3 +21,4 @@ for i in saltglare wethering gutterholm; do python3 -I prep_new.py $i >/dev/null
 for i in rosewater; do python3 -I prep_new.py $i >/dev/null; b ${i}_clean.csv $i; done
 for i in tarnsand coralmere bargewater greenhallow; do python3 -I prep_new.py $i >/dev/null; b ${i}_clean.csv $i; done
 for i in molasse masquelle cutlassbay nacreatoll; do python3 -I prep_new.py $i >/dev/null; b ${i}_clean.csv $i; done
+for i in emberfall thornmaw maenara ixmara; do python3 -I prep_new.py $i >/dev/null; b ${i}_clean.csv $i; done

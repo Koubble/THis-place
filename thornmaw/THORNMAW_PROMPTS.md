@@ -1,0 +1,627 @@
+# Thornmaw prompts
+
+## S10-1 Hruz (man, 58) – S10 Thornmaw The Rumbling Longhouse
+_clan chief of the Longhouse, vast and slow-spoken_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Hruz, 58-year-old ogre man who looks his age, a huge brutish humanoid with thick green-grey or grey-brown skin and small tusks rising from the lower jaw, a heavy brow, small eyes, massive arms and belly, scarred and tattooed with hunting marks, an older man, 8'8", towering and barrel-chested, grey-brown hide-like skin, a face with a broad, flat nose and a jutting jaw with tusks, pale green eyes, a bone-beaded braid, clan scars across the chest, wearing a heavy fur mantle over a bare chest, a bone-bead belt, standing with the arms crossed over the chest, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, gruff nod, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Hruz, 58-year-old ogre man who looks his age, a huge brutish humanoid with thick green-grey or grey-brown skin and small tusks rising from the lower jaw, a heavy brow, small eyes, massive arms and belly, scarred and tattooed with hunting marks, an older man, 8'8", towering and barrel-chested, grey-brown hide-like skin, a face with a broad, flat nose and a jutting jaw with tusks, pale green eyes, a bone-beaded braid, clan scars across the chest, fully nude, no clothing, standing with the arms folded across the chest and the weight on one leg, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, gruff, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), very large thick penis
+
+## S10-2 Ghuzha (woman, 45) – S10 Thornmaw The Rumbling Longhouse
+_chief's mate and speaker_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Ghuzha, 45-year-old ogre woman who looks her age, a huge brutish humanoid with thick green-grey or grey-brown skin and small tusks rising from the lower jaw, a heavy brow, small eyes, massive arms and belly, scarred and tattooed with hunting marks, 8'0", towering, broad and curvy, an E cup bust, dull grey-green skin, a face with a broad, flat nose and a jutting jaw with tusks, drooping jowls and a hairy wart on the chin, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, unflattering rough-hewn features, dark red eyes, matted brown hair with bone beads, a notched ear, wearing a hide wrap dress, bone ornaments, a fur shawl, standing with a relaxed hip tilt, the arms loose at the sides, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, tight, disapproving look, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Ghuzha, 45-year-old ogre woman who looks her age, a huge brutish humanoid with thick green-grey or grey-brown skin and small tusks rising from the lower jaw, a heavy brow, small eyes, massive arms and belly, scarred and tattooed with hunting marks, 8'0", towering, broad and curvy, an E cup bust, dull grey-green skin, a face with a broad, flat nose and a jutting jaw with tusks, drooping jowls and a hairy wart on the chin, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, unflattering rough-hewn features, dark red eyes, matted brown hair with bone beads, a notched ear, fully nude, no clothing, standing with the weight on one hip and the arms loose, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, composed, cold, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+## S10-3 Rakork (man, 44) – S10 Thornmaw The Huntsmens Embers
+_hunters' fire keeper, always cooking_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Rakork, 44-year-old ogre man who looks his age, a huge brutish humanoid with thick green-grey or grey-brown skin and small tusks rising from the lower jaw, a heavy brow, small eyes, massive arms and belly, scarred and tattooed with hunting marks, 8'9", huge and heavily muscled, thick green-grey skin, a scarred, tusked face, a lumpy scarred nose, cracked yellow tusks and warts on the brow, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, unflattering rough-hewn features, dark red eyes, a bone-beaded braid, a notched ear, wearing a hide kilt, bare chest, scarred arms, standing with the arms crossed over the chest, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, grim smirk, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Rakork, 44-year-old ogre man who looks his age, a huge brutish humanoid with thick green-grey or grey-brown skin and small tusks rising from the lower jaw, a heavy brow, small eyes, massive arms and belly, scarred and tattooed with hunting marks, 8'9", huge and heavily muscled, thick green-grey skin, a scarred, tusked face, a lumpy scarred nose, cracked yellow tusks and warts on the brow, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, unflattering rough-hewn features, dark red eyes, a bone-beaded braid, a notched ear, fully nude, no clothing, standing with the arms folded across the chest and the weight on one leg, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, blunt, plain, plain pale lavender-tinted cream background (#EEE6F7), very large thick penis
+
+## S10-4 Drakima (woman, 31) – S10 Thornmaw The Huntsmens Embers
+_serving woman at the fire, rough and fast_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Drakima, 31-year-old ogre woman, a huge brutish humanoid with thick green-grey or grey-brown skin and small tusks rising from the lower jaw, a heavy brow, small eyes, massive arms and belly, scarred and tattooed with hunting marks, 7'11", massive, powerful and voluptuous, a G cup bust, thick green-grey skin, a face with a broad, flat nose and a jutting jaw with tusks, dark red eyes, matted brown hair with bone beads, tusk-carved bracelets, wearing a short hide skirt and a bound hide top, standing with the fingertips resting at the collarbone, the head tilted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, bright, daring smile, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Drakima, 31-year-old ogre woman, a huge brutish humanoid with thick green-grey or grey-brown skin and small tusks rising from the lower jaw, a heavy brow, small eyes, massive arms and belly, scarred and tattooed with hunting marks, 7'11", massive, powerful and voluptuous, a G cup bust, thick green-grey skin, a face with a broad, flat nose and a jutting jaw with tusks, dark red eyes, matted brown hair with bone beads, tusk-carved bracelets, fully nude, no clothing, standing with one hand at the collarbone, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, bold, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+## S10-5 Tavish (man, 40) – S10 Thornmaw The Skinfolk Haggling
+_trader at the Skinfolk Haggling, a human who survives by haggling_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Tavish, 40-year-old human man who looks his age, 6'4", compact and tough, skin that is brown, scratched, a quiet, thoughtful face, a scarred crooked nose, dirt-caked skin and missing teeth, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, unflattering rough-hewn features, green eyes, a tangled beard and long hair, wearing a patched coat, standing easy with the weight on one leg, the head tilted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, quiet, steady look, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Tavish, 40-year-old human man who looks his age, 6'4", compact and tough, skin that is brown, scratched, a quiet, thoughtful face, a scarred crooked nose, dirt-caked skin and missing teeth, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, unflattering rough-hewn features, green eyes, a tangled beard and long hair, fully nude, no clothing, standing with a relaxed hip tilt, the arms loose, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, calm, steady, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
+## S10-6 Rukukha (woman, 38) – S10 Thornmaw The Skinfolk Haggling
+_ogre stock-keeper of the Skinfolk Haggling_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Rukukha, 38-year-old ogre woman, a huge brutish humanoid with thick green-grey or grey-brown skin and small tusks rising from the lower jaw, a heavy brow, small eyes, massive arms and belly, scarred and tattooed with hunting marks, 8'2", huge, strong and full-figured, an F cup bust, mottled green skin, a heavy-browed face with two upward tusks, pale green eyes, long coarse black hair in thick braids, painted clan stripes, wearing a leather apron over a hide dress, standing with the hands clasped behind the back and the chest lifted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, resigned look, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Rukukha, 38-year-old ogre woman, a huge brutish humanoid with thick green-grey or grey-brown skin and small tusks rising from the lower jaw, a heavy brow, small eyes, massive arms and belly, scarred and tattooed with hunting marks, 8'2", huge, strong and full-figured, an F cup bust, mottled green skin, a heavy-browed face with two upward tusks, pale green eyes, long coarse black hair in thick braids, painted clan stripes, fully nude, no clothing, standing with the arms behind the back, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, resigned, plain, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+## S10-7 Ghorukh (man, 36) – S10 Thornmaw The Scraping Trestles
+_hide worker, hands stained dark_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Ghorukh, 36-year-old ogre man, a huge brutish humanoid with thick green-grey or grey-brown skin and small tusks rising from the lower jaw, a heavy brow, small eyes, massive arms and belly, scarred and tattooed with hunting marks, 8'6", huge and heavily muscled, thick green-grey skin, a scarred, tusked face, pale green eyes, a shaved scalp with a topknot, bone piercings in the ears, wearing red silk drawers, standing with one hand on the hip, the other arm loose, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, warm smile, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Ghorukh, 36-year-old ogre man, a huge brutish humanoid with thick green-grey or grey-brown skin and small tusks rising from the lower jaw, a heavy brow, small eyes, massive arms and belly, scarred and tattooed with hunting marks, 8'6", huge and heavily muscled, thick green-grey skin, a scarred, tusked face, pale green eyes, a shaved scalp with a topknot, bone piercings in the ears, fully nude, no clothing, standing with a hand on the hip and the head tilted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, warm, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), very large thick penis
+
+## S10-8 Zagiza (woman, 28) – S10 Thornmaw The Scraping Trestles
+_hide scraper_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Zagiza, 28-year-old ogre woman, a huge brutish humanoid with thick green-grey or grey-brown skin and small tusks rising from the lower jaw, a heavy brow, small eyes, massive arms and belly, scarred and tattooed with hunting marks, 8'6", towering, broad and curvy, a D cup bust, mossy brown-grey skin, a heavy-browed face with two upward tusks, amber eyes, matted brown hair with bone beads, clan scars across the chest, wearing a hide wrap top and short leather skirt, standing with the hair over one shoulder, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, shy smile, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Zagiza, 28-year-old ogre woman, a huge brutish humanoid with thick green-grey or grey-brown skin and small tusks rising from the lower jaw, a heavy brow, small eyes, massive arms and belly, scarred and tattooed with hunting marks, 8'6", towering, broad and curvy, a D cup bust, mossy brown-grey skin, a heavy-browed face with two upward tusks, amber eyes, matted brown hair with bone beads, clan scars across the chest, fully nude, no clothing, standing with one hand lifted to the hair, the other arm loose, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, shy, flushed, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+## S10-9 Brutozh (man, 70) – S10 Thornmaw The Cairn Of Skulls
+_keeper of the Cairn Of Skulls, hushed and old_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Brutozh, 70-year-old ogre man who looks his age, a huge brutish humanoid with thick green-grey or grey-brown skin and small tusks rising from the lower jaw, a heavy brow, small eyes, massive arms and belly, scarred and tattooed with hunting marks, an older man, 8'5", huge and heavily muscled, mossy brown-grey skin, a wide face with small tusks and bright eyes, amber eyes, matted dark hair, tusk-carved bracelets, wearing a long ragged fur cloak, bone charms, standing with the arms crossed and the chin lifted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, tight, disapproving look, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Brutozh, 70-year-old ogre man who looks his age, a huge brutish humanoid with thick green-grey or grey-brown skin and small tusks rising from the lower jaw, a heavy brow, small eyes, massive arms and belly, scarred and tattooed with hunting marks, an older man, 8'5", huge and heavily muscled, mossy brown-grey skin, a wide face with small tusks and bright eyes, amber eyes, matted dark hair, tusk-carved bracelets, fully nude, no clothing, standing with the arms folded over the chest, the shoulders back, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, stern, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), very large thick penis
+
+## S10-10 Zagom (man, 42) – S10 Thornmaw The Haunch Gibbets
+_meat curer, sharp-eyed_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Zagom, 42-year-old ogre man who looks his age, a huge brutish humanoid with thick green-grey or grey-brown skin and small tusks rising from the lower jaw, a heavy brow, small eyes, massive arms and belly, scarred and tattooed with hunting marks, 9'0", massive and thick-limbed, grey-brown hide-like skin, a scarred, tusked face, pitted greasy skin, a drooping lip and boil-like warts, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, unflattering rough-hewn features, dark red eyes, a coarse black mane, clan scars across the chest, wearing a dark-stained leather apron, bare chest, standing tall with the arms loose at the sides, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, gruff nod, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Zagom, 42-year-old ogre man who looks his age, a huge brutish humanoid with thick green-grey or grey-brown skin and small tusks rising from the lower jaw, a heavy brow, small eyes, massive arms and belly, scarred and tattooed with hunting marks, 9'0", massive and thick-limbed, grey-brown hide-like skin, a scarred, tusked face, pitted greasy skin, a drooping lip and boil-like warts, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, unflattering rough-hewn features, dark red eyes, a coarse black mane, clan scars across the chest, fully nude, no clothing, standing with the arms at the sides, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, blunt, plain, plain pale lavender-tinted cream background (#EEE6F7), very large thick penis
+
+## S10-11 Moguza (woman, 27) – S10 Thornmaw The Haunch Gibbets
+_curing rack hand_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Moguza, 27-year-old ogre woman, a huge brutish humanoid with thick green-grey or grey-brown skin and small tusks rising from the lower jaw, a heavy brow, small eyes, massive arms and belly, scarred and tattooed with hunting marks, 8'9", huge, strong and full-figured, a G cup bust, mottled green skin, a face with a broad, flat nose and a jutting jaw with tusks, pale green eyes, long coarse black hair in thick braids, bone piercings in the ears, wearing a hide apron over a short wrap, standing with the weight on one leg and the head tilted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, flustered smile, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Moguza, 27-year-old ogre woman, a huge brutish humanoid with thick green-grey or grey-brown skin and small tusks rising from the lower jaw, a heavy brow, small eyes, massive arms and belly, scarred and tattooed with hunting marks, 8'9", huge, strong and full-figured, a G cup bust, mottled green skin, a face with a broad, flat nose and a jutting jaw with tusks, pale green eyes, long coarse black hair in thick braids, bone piercings in the ears, fully nude, no clothing, standing with a relaxed hip tilt, the arms loose at the sides, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, shy, flushed, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+## S10-12 Skiz (man, 52) – S10 Thornmaw The Tusk Chiselwright
+_ivory whittler, patient_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Skiz, 52-year-old ogre man who looks his age, a huge brutish humanoid with thick green-grey or grey-brown skin and small tusks rising from the lower jaw, a heavy brow, small eyes, massive arms and belly, scarred and tattooed with hunting marks, 8'11", huge and heavily muscled, mossy brown-grey skin, a face with a broad, flat nose and a jutting jaw with tusks, yellow eyes, a shaved scalp with a topknot, clan scars across the chest, wearing a leather apron, bone dust on his arms, standing with one hand behind the head and the weight on one leg, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, quiet, steady look, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Skiz, 52-year-old ogre man who looks his age, a huge brutish humanoid with thick green-grey or grey-brown skin and small tusks rising from the lower jaw, a heavy brow, small eyes, massive arms and belly, scarred and tattooed with hunting marks, 8'11", huge and heavily muscled, mossy brown-grey skin, a face with a broad, flat nose and a jutting jaw with tusks, yellow eyes, a shaved scalp with a topknot, clan scars across the chest, fully nude, no clothing, standing relaxed with one hand behind the head, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, calm, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), very large thick penis
+
+## S10-13 Ugog (man, 47) – S10 Thornmaw The Sloppy Bogwallow
+_wallow master, mud-caked and jovial_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Ugog, 47-year-old ogre man who looks his age, a huge brutish humanoid with thick green-grey or grey-brown skin and small tusks rising from the lower jaw, a heavy brow, small eyes, massive arms and belly, scarred and tattooed with hunting marks, 9'3", towering and barrel-chested, dull grey-green skin, a scarred, tusked face, a mud-caked lumpy face, a wart-covered nose and slack wet lips, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, unflattering rough-hewn features, black eyes, a coarse black mane, clan scars across the chest, wearing a mud-streaked hide loincloth, standing easy with the weight on one leg, the head tilted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, narrowed, watchful look, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Ugog, 47-year-old ogre man who looks his age, a huge brutish humanoid with thick green-grey or grey-brown skin and small tusks rising from the lower jaw, a heavy brow, small eyes, massive arms and belly, scarred and tattooed with hunting marks, 9'3", towering and barrel-chested, dull grey-green skin, a scarred, tusked face, a mud-caked lumpy face, a wart-covered nose and slack wet lips, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, unflattering rough-hewn features, black eyes, a coarse black mane, clan scars across the chest, fully nude, no clothing, standing with a relaxed hip tilt, the arms loose, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, sly, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), very large thick penis
+
+**swim**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Ugog, 47-year-old ogre man who looks his age, a huge brutish humanoid with thick green-grey or grey-brown skin and small tusks rising from the lower jaw, a heavy brow, small eyes, massive arms and belly, scarred and tattooed with hunting marks, 9'3", towering and barrel-chested, dull grey-green skin, a scarred, tusked face, a mud-caked lumpy face, a wart-covered nose and slack wet lips, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, unflattering rough-hewn features, black eyes, a coarse black mane, clan scars across the chest, wearing a short wrap-cloth, standing relaxed with one hand behind the head, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, narrowed, watchful look, plain pale aqua-tinted cream background (#DDF3F1)
+
+## S10-14 Bogukha (woman, 33) – S10 Thornmaw The Sloppy Bogwallow
+_wallow wench, mud to the thighs_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Bogukha, 33-year-old ogre woman, a huge brutish humanoid with thick green-grey or grey-brown skin and small tusks rising from the lower jaw, a heavy brow, small eyes, massive arms and belly, scarred and tattooed with hunting marks, 7'11", towering, broad and curvy, a D cup bust, mossy brown-grey skin, a wide face with small tusks and bright eyes, pale green eyes, long coarse black hair in thick braids, bone piercings in the ears, wearing a thin hide wrap, mud-streaked, standing with a relaxed hip tilt, the arms loose at the sides, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, confident, knowing smile, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Bogukha, 33-year-old ogre woman, a huge brutish humanoid with thick green-grey or grey-brown skin and small tusks rising from the lower jaw, a heavy brow, small eyes, massive arms and belly, scarred and tattooed with hunting marks, 7'11", towering, broad and curvy, a D cup bust, mossy brown-grey skin, a wide face with small tusks and bright eyes, pale green eyes, long coarse black hair in thick braids, bone piercings in the ears, fully nude, no clothing, standing with the weight on one hip and the arms loose, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, bold, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+**swim**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Bogukha, 33-year-old ogre woman, a huge brutish humanoid with thick green-grey or grey-brown skin and small tusks rising from the lower jaw, a heavy brow, small eyes, massive arms and belly, scarred and tattooed with hunting marks, 7'11", towering, broad and curvy, a D cup bust, mossy brown-grey skin, a wide face with small tusks and bright eyes, pale green eyes, long coarse black hair in thick braids, bone piercings in the ears, wearing a plain one-piece swimsuit, standing with the weight on one leg and the head tilted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, confident, knowing smile, plain pale aqua-tinted cream background (#DDF3F1)
+
+## S10-15 Ugark (man, 49) – S10 Thornmaw The Frothing Vatholes
+_brew-pit master, roars at the vats_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Ugark, 49-year-old ogre man who looks his age, a huge brutish humanoid with thick green-grey or grey-brown skin and small tusks rising from the lower jaw, a heavy brow, small eyes, massive arms and belly, scarred and tattooed with hunting marks, 8'8", massive and thick-limbed, mossy brown-grey skin, a face with a broad, flat nose and a jutting jaw with tusks, a bulbous pitted nose, bloodshot eyes and a chipped tusk, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, unflattering rough-hewn features, pale green eyes, matted dark hair, a notched ear, wearing a stained hide apron over a bare chest, standing with the arms at the sides, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, blunt scowl, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Ugark, 49-year-old ogre man who looks his age, a huge brutish humanoid with thick green-grey or grey-brown skin and small tusks rising from the lower jaw, a heavy brow, small eyes, massive arms and belly, scarred and tattooed with hunting marks, 8'8", massive and thick-limbed, mossy brown-grey skin, a face with a broad, flat nose and a jutting jaw with tusks, a bulbous pitted nose, bloodshot eyes and a chipped tusk, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, unflattering rough-hewn features, pale green eyes, matted dark hair, a notched ear, fully nude, no clothing, standing upright with the arms at the sides, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, gruff, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), very large thick penis
+
+## S10-16 Lenart (man, 29) – S10 Thornmaw The Frothing Vatholes
+_human brewer's hand, quick and nervous_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Lenart, 29-year-old human man, 6'1", heavy-set, sun-browned skin, a shy, soft face, dark brown eyes, a tangled beard and long hair, wearing a grubby shirt and rolled trousers, standing with the hands on the hips and the chin lifted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, flustered smile, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Lenart, 29-year-old human man, 6'1", heavy-set, sun-browned skin, a shy, soft face, dark brown eyes, a tangled beard and long hair, fully nude, no clothing, standing with the hands on the hips and the chest out, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, shy, flushed, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
+## S10-17 Morgarg (man, 54) – S10 Thornmaw The Pummel Cockpit
+_pit master of the Pummel Cockpit, huge and scarred_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Morgarg, 54-year-old ogre man who looks his age, a huge brutish humanoid with thick green-grey or grey-brown skin and small tusks rising from the lower jaw, a heavy brow, small eyes, massive arms and belly, scarred and tattooed with hunting marks, 8'10", towering and barrel-chested, mossy brown-grey skin, a face with a broad, flat nose and a jutting jaw with tusks, black eyes, a coarse black mane, a notched ear, wearing a sleeveless hide vest, wrapped fists, standing square with the hands on the hips, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, knowing smirk, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Morgarg, 54-year-old ogre man who looks his age, a huge brutish humanoid with thick green-grey or grey-brown skin and small tusks rising from the lower jaw, a heavy brow, small eyes, massive arms and belly, scarred and tattooed with hunting marks, 8'10", towering and barrel-chested, mossy brown-grey skin, a face with a broad, flat nose and a jutting jaw with tusks, black eyes, a coarse black mane, a notched ear, fully nude, no clothing, standing square with the hands on the hips, the shoulders back, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, knowing, amused, plain pale lavender-tinted cream background (#EEE6F7), very large thick penis
+
+## S10-18 Vokuka (woman, 34) – S10 Thornmaw The Pummel Cockpit
+_brawler, proud of her tusks_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Vokuka, 34-year-old ogre woman, a huge brutish humanoid with thick green-grey or grey-brown skin and small tusks rising from the lower jaw, a heavy brow, small eyes, massive arms and belly, scarred and tattooed with hunting marks, 8'6", massive, powerful and voluptuous, an E cup bust, dull grey-green skin, a scarred, tusked face, amber eyes, matted brown hair with bone beads, tusk-carved bracelets, wearing a hide sports wrap and short hide shorts, wrapped hands, standing with one hand at the collarbone and the weight on one leg, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, bright, daring smile, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Vokuka, 34-year-old ogre woman, a huge brutish humanoid with thick green-grey or grey-brown skin and small tusks rising from the lower jaw, a heavy brow, small eyes, massive arms and belly, scarred and tattooed with hunting marks, 8'6", massive, powerful and voluptuous, an E cup bust, dull grey-green skin, a scarred, tusked face, amber eyes, matted brown hair with bone beads, tusk-carved bracelets, fully nude, no clothing, standing with one hand lifted to the collarbone and the other arm loose, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, confident, amused, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+## S10-19 Aoife (woman, 36) – S10 Thornmaw The Servitor Huddle
+_human camp keeper, wary but kind_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Aoife, 36-year-old human woman, 5'6", compact and curvy, a B cup bust, pale and sunburnt skin, a hard, handsome face, green eyes, tangled brown hair, wearing a patched dress and an old shawl, standing with the hands clasped behind the back and the chest lifted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, stern, level look, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Aoife, 36-year-old human woman, 5'6", compact and curvy, a B cup bust, pale and sunburnt skin, a hard, handsome face, green eyes, tangled brown hair, fully nude, no clothing, standing with the arms behind the back, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, stern, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+## S10-20 Zorica (woman, 44) – S10 Thornmaw The Servitor Huddle
+_human cook of the Servitor Huddle_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Zorica, 44-year-old human woman who looks her age, 5'5", slim, a D cup bust, skin that is brown, scratched, a warm, open face, grey eyes, dark hair cut short and ragged, wearing a stained apron over a threadbare dress, standing with one hand on the hip and the weight on one leg, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, kind, easy smile, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Zorica, 44-year-old human woman who looks her age, 5'5", slim, a D cup bust, skin that is brown, scratched, a warm, open face, grey eyes, dark hair cut short and ragged, fully nude, no clothing, standing with the hand on the hip and the chin lifted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, amused, easy, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+## S10-21 Finlay (man, 26) – S10 Thornmaw The Servitor Huddle
+_human servant of the camp, quiet_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Finlay, 26-year-old human man, 6'4", slim, sun-browned skin, a gentle, flushed face, dark brown eyes, a tangled beard and long hair, insect bites, wearing a thin shirt and rolled trousers, bare feet, standing with the arms crossed and the chin lifted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, flustered smile, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Finlay, 26-year-old human man, 6'4", slim, sun-browned skin, a gentle, flushed face, dark brown eyes, a tangled beard and long hair, insect bites, fully nude, no clothing, standing with the arms folded over the chest, the shoulders back, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, shy, flushed, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
+## S10-22 Quynh (woman, 22) – S10 Thornmaw The Servitor Huddle
+_human servant of the camp, hopeful_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Quynh, 22-year-old human woman, 5'8", curvy, an F cup bust, skin that is olive, sweat-sheened, a nervous face, grey eyes, tangled brown hair, wearing a ragged shift dress, bare feet, standing with one hand at the collarbone, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, flustered smile, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Quynh, 22-year-old human woman, 5'8", curvy, an F cup bust, skin that is olive, sweat-sheened, a nervous face, grey eyes, tangled brown hair, fully nude, no clothing, standing with one hand at the collarbone and the weight on one leg, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, shy, flushed, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+## S10-23 Ugakha (woman, 40) – S10 Thornmaw The Cassava Furrows
+_field gatherer, broad and cheerful_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Ugakha, 40-year-old ogre woman who looks her age, a huge brutish humanoid with thick green-grey or grey-brown skin and small tusks rising from the lower jaw, a heavy brow, small eyes, massive arms and belly, scarred and tattooed with hunting marks, 8'5", towering, broad and curvy, an E cup bust, mossy brown-grey skin, a face with a broad, flat nose and a jutting jaw with tusks, yellow eyes, shaggy grey-brown hair, a notched ear, wearing a hide dress, standing with the head tilted and the hair falling over one shoulder, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, kind, easy smile, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Ugakha, 40-year-old ogre woman who looks her age, a huge brutish humanoid with thick green-grey or grey-brown skin and small tusks rising from the lower jaw, a heavy brow, small eyes, massive arms and belly, scarred and tattooed with hunting marks, 8'5", towering, broad and curvy, an E cup bust, mossy brown-grey skin, a face with a broad, flat nose and a jutting jaw with tusks, yellow eyes, shaggy grey-brown hair, a notched ear, fully nude, no clothing, standing with one hand sweeping the hair over one shoulder, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, warm, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+## S10-24 Grakazh (man, 33) – S10 Thornmaw The Cassava Furrows
+_field hand_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Grakazh, 33-year-old ogre man, a huge brutish humanoid with thick green-grey or grey-brown skin and small tusks rising from the lower jaw, a heavy brow, small eyes, massive arms and belly, scarred and tattooed with hunting marks, 9'4", towering and barrel-chested, thick green-grey skin, a heavy-browed face with two upward tusks, pale green eyes, matted dark hair, clan scars across the chest, wearing a hide kilt and a bare chest, standing relaxed with one hand behind the head, the other arm loose, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, laughing smile, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Grakazh, 33-year-old ogre man, a huge brutish humanoid with thick green-grey or grey-brown skin and small tusks rising from the lower jaw, a heavy brow, small eyes, massive arms and belly, scarred and tattooed with hunting marks, 9'4", towering and barrel-chested, thick green-grey skin, a heavy-browed face with two upward tusks, pale green eyes, matted dark hair, clan scars across the chest, fully nude, no clothing, standing with both hands behind the head, relaxed, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, giggling, flushed, plain pale lavender-tinted cream background (#EEE6F7), very large thick penis
+
+## S10-25 Rukoga (woman, 61) – S10 Thornmaw The Marrow Mystic
+_shaman, painted and calm_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Rukoga, 61-year-old ogre woman who looks her age, a huge brutish humanoid with thick green-grey or grey-brown skin and small tusks rising from the lower jaw, a heavy brow, small eyes, massive arms and belly, scarred and tattooed with hunting marks, an older woman, 8'9", huge, strong and full-figured, a G cup bust, mossy brown-grey skin, a scarred, tusked face, black eyes, long coarse black hair in thick braids, painted clan stripes, wearing a bone-bead robe, painted face, charms, standing with the hands clasped in front and the head tilted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, cold, measuring stare, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Rukoga, 61-year-old ogre woman who looks her age, a huge brutish humanoid with thick green-grey or grey-brown skin and small tusks rising from the lower jaw, a heavy brow, small eyes, massive arms and belly, scarred and tattooed with hunting marks, an older woman, 8'9", huge, strong and full-figured, a G cup bust, mossy brown-grey skin, a scarred, tusked face, black eyes, long coarse black hair in thick braids, painted clan stripes, fully nude, no clothing, standing with the arms behind the back, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, composed, cold, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+## S10-26 Morgok (man, 39) – S10 Thornmaw The Thunderdrum Knoll
+_drum-hill drummer, massive and rhythmic_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Morgok, 39-year-old ogre man, a huge brutish humanoid with thick green-grey or grey-brown skin and small tusks rising from the lower jaw, a heavy brow, small eyes, massive arms and belly, scarred and tattooed with hunting marks, 8'7", huge and heavily muscled, mossy brown-grey skin, a wide face with small tusks and bright eyes, yellow eyes, a bone-beaded braid, bone piercings in the ears, wearing a bare chest painted with ochre, a hide kilt, standing easy with the weight on one leg, the head tilted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, playful wink, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Morgok, 39-year-old ogre man, a huge brutish humanoid with thick green-grey or grey-brown skin and small tusks rising from the lower jaw, a heavy brow, small eyes, massive arms and belly, scarred and tattooed with hunting marks, 8'7", huge and heavily muscled, mossy brown-grey skin, a wide face with small tusks and bright eyes, yellow eyes, a bone-beaded braid, bone piercings in the ears, fully nude, no clothing, standing with a relaxed hip tilt, the arms loose, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, giggling, flushed, plain pale lavender-tinted cream background (#EEE6F7), very large thick penis
+
+## S10-27 Toruka (woman, 26) – S10 Thornmaw The Thunderdrum Knoll
+_dancer of the drum hill_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Toruka, 26-year-old ogre woman, a huge brutish humanoid with thick green-grey or grey-brown skin and small tusks rising from the lower jaw, a heavy brow, small eyes, massive arms and belly, scarred and tattooed with hunting marks, 8'4", massive, powerful and voluptuous, an E cup bust, mottled green skin, a scarred, tusked face, yellow eyes, a dark mane tied with hide cord, bone piercings in the ears, wearing a few strips of hide and beads, painted skin, standing with the hands clasped behind the back and the chest lifted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, bold grin, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Toruka, 26-year-old ogre woman, a huge brutish humanoid with thick green-grey or grey-brown skin and small tusks rising from the lower jaw, a heavy brow, small eyes, massive arms and belly, scarred and tattooed with hunting marks, 8'4", massive, powerful and voluptuous, an E cup bust, mottled green skin, a scarred, tusked face, yellow eyes, a dark mane tied with hide cord, bone piercings in the ears, fully nude, no clothing, standing with the arms behind the back, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, bold, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+## S10-28 Gulurn (man, 55) – S10 Thornmaw The Knucklebone Swap
+_bone market trader, dry wit_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Gulurn, 55-year-old ogre man who looks his age, a huge brutish humanoid with thick green-grey or grey-brown skin and small tusks rising from the lower jaw, a heavy brow, small eyes, massive arms and belly, scarred and tattooed with hunting marks, an older man, 8'9", massive and thick-limbed, mossy brown-grey skin, a face with a broad, flat nose and a jutting jaw with tusks, amber eyes, a shaved scalp with a topknot, painted clan stripes, wearing a hide waistcoat, bone charms, standing with the arms crossed and the chin lifted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, patient half-smile, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Gulurn, 55-year-old ogre man who looks his age, a huge brutish humanoid with thick green-grey or grey-brown skin and small tusks rising from the lower jaw, a heavy brow, small eyes, massive arms and belly, scarred and tattooed with hunting marks, an older man, 8'9", massive and thick-limbed, mossy brown-grey skin, a face with a broad, flat nose and a jutting jaw with tusks, amber eyes, a shaved scalp with a topknot, painted clan stripes, fully nude, no clothing, standing with the arms folded over the chest, the shoulders back, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, calm, steady, plain pale lavender-tinted cream background (#EEE6F7), very large thick penis
+
+## S10-29 Ghirka (woman, 35) – S10 Thornmaw The Knucklebone Swap
+_charm seller_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Ghirka, 35-year-old ogre woman, a huge brutish humanoid with thick green-grey or grey-brown skin and small tusks rising from the lower jaw, a heavy brow, small eyes, massive arms and belly, scarred and tattooed with hunting marks, 8'1", towering, broad and curvy, a G cup bust, mossy brown-grey skin, a scarred, tusked face, warty skin, a sagging lip and a lumpy nose, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, unflattering rough-hewn features, yellow eyes, a dark mane tied with hide cord, a notched ear, wearing a hide dress hung with bone charms, standing with the hands clasped in front and the head tilted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, resigned look, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Ghirka, 35-year-old ogre woman, a huge brutish humanoid with thick green-grey or grey-brown skin and small tusks rising from the lower jaw, a heavy brow, small eyes, massive arms and belly, scarred and tattooed with hunting marks, 8'1", towering, broad and curvy, a G cup bust, mossy brown-grey skin, a scarred, tusked face, warty skin, a sagging lip and a lumpy nose, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, unflattering rough-hewn features, yellow eyes, a dark mane tied with hide cord, a notched ear, fully nude, no clothing, standing with the arms behind the back and the head tilted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, resigned, plain, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+## S10-30 Hrag (man, 46) – S10 Thornmaw The Gluttons Trencher
+_feast hall master, loud and generous_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Hrag, 46-year-old ogre man who looks his age, a huge brutish humanoid with thick green-grey or grey-brown skin and small tusks rising from the lower jaw, a heavy brow, small eyes, massive arms and belly, scarred and tattooed with hunting marks, 8'4", huge and heavily muscled, dull grey-green skin, a heavy-browed face with two upward tusks, dark red eyes, a coarse black mane, a notched ear, wearing a fur vest, a bone-bead belt, standing easy with the weight on one leg, the head tilted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, blunt scowl, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Hrag, 46-year-old ogre man who looks his age, a huge brutish humanoid with thick green-grey or grey-brown skin and small tusks rising from the lower jaw, a heavy brow, small eyes, massive arms and belly, scarred and tattooed with hunting marks, 8'4", huge and heavily muscled, dull grey-green skin, a heavy-browed face with two upward tusks, dark red eyes, a coarse black mane, a notched ear, fully nude, no clothing, standing with a relaxed hip tilt, the arms loose, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, blunt, plain, plain pale lavender-tinted cream background (#EEE6F7), very large thick penis
+
+## S10-31 Mogarka (woman, 43) – S10 Thornmaw The Gluttons Trencher
+_feast hall cook, strong arms_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Mogarka, 43-year-old ogre woman who looks her age, a huge brutish humanoid with thick green-grey or grey-brown skin and small tusks rising from the lower jaw, a heavy brow, small eyes, massive arms and belly, scarred and tattooed with hunting marks, 8'7", huge, strong and full-figured, a G cup bust, mossy brown-grey skin, a wide face with small tusks and bright eyes, dark red eyes, long coarse black hair in thick braids, a notched ear, wearing a hide apron over a hide dress, standing with the fingertips resting at the collarbone, the head tilted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, warm smile, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Mogarka, 43-year-old ogre woman who looks her age, a huge brutish humanoid with thick green-grey or grey-brown skin and small tusks rising from the lower jaw, a heavy brow, small eyes, massive arms and belly, scarred and tattooed with hunting marks, 8'7", huge, strong and full-figured, a G cup bust, mossy brown-grey skin, a wide face with small tusks and bright eyes, dark red eyes, long coarse black hair in thick braids, a notched ear, fully nude, no clothing, standing with one hand at the collarbone, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, amused, easy, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+## S10-32 Drakuzh (man, 51) – S10 Thornmaw The Prey Chasm
+_keeper of the Prey Chasm, patient and cruel_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Drakuzh, 51-year-old ogre man who looks his age, a huge brutish humanoid with thick green-grey or grey-brown skin and small tusks rising from the lower jaw, a heavy brow, small eyes, massive arms and belly, scarred and tattooed with hunting marks, 8'11", towering and barrel-chested, thick green-grey skin, a heavy-browed face with two upward tusks, dark red eyes, a coarse black mane, painted clan stripes, wearing a hide kilt and a bone-bead sash, standing upright with the arms at the sides, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, sly smile, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Drakuzh, 51-year-old ogre man who looks his age, a huge brutish humanoid with thick green-grey or grey-brown skin and small tusks rising from the lower jaw, a heavy brow, small eyes, massive arms and belly, scarred and tattooed with hunting marks, 8'11", towering and barrel-chested, thick green-grey skin, a heavy-browed face with two upward tusks, dark red eyes, a coarse black mane, painted clan stripes, fully nude, no clothing, standing with the arms relaxed at the sides and the chin lifted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, sly, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), very large thick penis
+
+## S10-33 Iveta (woman, 23) – S10 Thornmaw The Prey Chasm
+_human captive of the Prey Chasm, tearful but defiant_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Iveta, 23-year-old human woman, 5'4", tall and slim, an F cup bust, sun-browned skin, a shy, soft face, green eyes, dark hair cut short and ragged, wearing a torn shift dress, bare feet, standing with the weight on one hip and the arms loose, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, nervous smile, eyes lowered, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Iveta, 23-year-old human woman, 5'4", tall and slim, an F cup bust, sun-browned skin, a shy, soft face, green eyes, dark hair cut short and ragged, fully nude, no clothing, standing with the weight on one leg, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, shy, flushed, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+## S10-34 Ghororna (woman, 48) – S10 Thornmaw The Prostrate Menhirs
+_keeper of the Prostrate Menhirs, solemn_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Ghororna, 48-year-old ogre woman who looks her age, a huge brutish humanoid with thick green-grey or grey-brown skin and small tusks rising from the lower jaw, a heavy brow, small eyes, massive arms and belly, scarred and tattooed with hunting marks, 8'5", towering, broad and curvy, an E cup bust, thick green-grey skin, a wide face with small tusks and bright eyes, a wart-studded chin, drooping jowls and cracked tusks, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, unflattering rough-hewn features, yellow eyes, long coarse black hair in thick braids, bone piercings in the ears, wearing a long hide robe, painted stripes, standing with one hand on the hip and the weight on one leg, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, narrowed, watchful look, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Ghororna, 48-year-old ogre woman who looks her age, a huge brutish humanoid with thick green-grey or grey-brown skin and small tusks rising from the lower jaw, a heavy brow, small eyes, massive arms and belly, scarred and tattooed with hunting marks, 8'5", towering, broad and curvy, an E cup bust, thick green-grey skin, a wide face with small tusks and bright eyes, a wart-studded chin, drooping jowls and cracked tusks, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, unflattering rough-hewn features, yellow eyes, long coarse black hair in thick braids, bone piercings in the ears, fully nude, no clothing, standing with the hand on the hip and the chin lifted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, knowing, amused, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+## S10-35 Vaclav (man, 27) – S10 Thornmaw The Prostrate Menhirs
+_human supplicant, kneeling and trembling_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Vaclav, 27-year-old human man, 5'11", lean and wiry, sun-browned skin, a nervous face, hazel eyes, a shaved head, insect bites, wearing a plain loincloth, standing with the hands on the hips and the chin lifted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, nervous smile, eyes lowered, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Vaclav, 27-year-old human man, 5'11", lean and wiry, sun-browned skin, a nervous face, hazel eyes, a shaved head, insect bites, fully nude, no clothing, standing with the hands on the hips and the chest out, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, shy, flushed, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
+## S10-36 Krumazha (woman, 37) – S10 Thornmaw The Fenwater Soaks
+_bath attendant of the Fenwater Soaks_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Krumazha, 37-year-old ogre woman, a huge brutish humanoid with thick green-grey or grey-brown skin and small tusks rising from the lower jaw, a heavy brow, small eyes, massive arms and belly, scarred and tattooed with hunting marks, 8'0", massive, powerful and voluptuous, a G cup bust, grey-brown hide-like skin, a scarred, tusked face, dark red eyes, long coarse black hair in thick braids, bone piercings in the ears, wearing a hide wrap tied at the chest, standing with one hand at the collarbone, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, kind, easy smile, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Krumazha, 37-year-old ogre woman, a huge brutish humanoid with thick green-grey or grey-brown skin and small tusks rising from the lower jaw, a heavy brow, small eyes, massive arms and belly, scarred and tattooed with hunting marks, 8'0", massive, powerful and voluptuous, a G cup bust, grey-brown hide-like skin, a scarred, tusked face, dark red eyes, long coarse black hair in thick braids, bone piercings in the ears, fully nude, no clothing, standing with one hand at the collarbone and the weight on one leg, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, warm, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+**swim**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Krumazha, 37-year-old ogre woman, a huge brutish humanoid with thick green-grey or grey-brown skin and small tusks rising from the lower jaw, a heavy brow, small eyes, massive arms and belly, scarred and tattooed with hunting marks, 8'0", massive, powerful and voluptuous, a G cup bust, grey-brown hide-like skin, a scarred, tusked face, dark red eyes, long coarse black hair in thick braids, bone piercings in the ears, wearing a thin linen shift and stockings, standing with the weight on one hip and the arms loose, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, kind, easy smile, plain pale aqua-tinted cream background (#DDF3F1)
+
+## S10-37 Skulorn (man, 31) – S10 Thornmaw The Fenwater Soaks
+_bath hand_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Skulorn, 31-year-old ogre man, a huge brutish humanoid with thick green-grey or grey-brown skin and small tusks rising from the lower jaw, a heavy brow, small eyes, massive arms and belly, scarred and tattooed with hunting marks, 8'5", huge and heavily muscled, mossy brown-grey skin, a wide face with small tusks and bright eyes, amber eyes, a coarse black mane, a notched ear, wearing a hide loincloth, standing with a hand on the hip and the head tilted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, laughing smile, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Skulorn, 31-year-old ogre man, a huge brutish humanoid with thick green-grey or grey-brown skin and small tusks rising from the lower jaw, a heavy brow, small eyes, massive arms and belly, scarred and tattooed with hunting marks, 8'5", huge and heavily muscled, mossy brown-grey skin, a wide face with small tusks and bright eyes, amber eyes, a coarse black mane, a notched ear, fully nude, no clothing, standing with one hand on the hip and the weight on one leg, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, playful, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), very large thick penis
+
+**swim**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Skulorn, 31-year-old ogre man, a huge brutish humanoid with thick green-grey or grey-brown skin and small tusks rising from the lower jaw, a heavy brow, small eyes, massive arms and belly, scarred and tattooed with hunting marks, 8'5", huge and heavily muscled, mossy brown-grey skin, a wide face with small tusks and bright eyes, amber eyes, a coarse black mane, a notched ear, wearing a short wrap-cloth, standing relaxed with one hand behind the head, the other arm loose, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, laughing smile, plain pale aqua-tinted cream background (#DDF3F1)
+
+## S10-38 Skulima (woman, 46) – S10 Thornmaw The Mating Copse
+_grove keeper of the Mating Copse_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Skulima, 46-year-old ogre woman who looks her age, a huge brutish humanoid with thick green-grey or grey-brown skin and small tusks rising from the lower jaw, a heavy brow, small eyes, massive arms and belly, scarred and tattooed with hunting marks, 7'10", massive, powerful and voluptuous, a G cup bust, mossy brown-grey skin, a wide face with small tusks and bright eyes, amber eyes, a dark mane tied with hide cord, clan scars across the chest, wearing a thin linen shift and stockings, standing with the hands clasped in front, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, narrowed, watchful look, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Skulima, 46-year-old ogre woman who looks her age, a huge brutish humanoid with thick green-grey or grey-brown skin and small tusks rising from the lower jaw, a heavy brow, small eyes, massive arms and belly, scarred and tattooed with hunting marks, 7'10", massive, powerful and voluptuous, a G cup bust, mossy brown-grey skin, a wide face with small tusks and bright eyes, amber eyes, a dark mane tied with hide cord, clan scars across the chest, fully nude, no clothing, standing with the arms behind the back, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, sly, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+## S10-39 Bogarg (man, 35) – S10 Thornmaw The Mating Copse
+_grove guide_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Bogarg, 35-year-old ogre man, a huge brutish humanoid with thick green-grey or grey-brown skin and small tusks rising from the lower jaw, a heavy brow, small eyes, massive arms and belly, scarred and tattooed with hunting marks, 8'5", towering and barrel-chested, grey-brown hide-like skin, a scarred, tusked face, amber eyes, a bone-beaded braid, painted clan stripes, wearing black silk drawers, standing upright with the arms at the sides, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, laughing smile, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Bogarg, 35-year-old ogre man, a huge brutish humanoid with thick green-grey or grey-brown skin and small tusks rising from the lower jaw, a heavy brow, small eyes, massive arms and belly, scarred and tattooed with hunting marks, 8'5", towering and barrel-chested, grey-brown hide-like skin, a scarred, tusked face, amber eyes, a bone-beaded braid, painted clan stripes, fully nude, no clothing, standing with the arms relaxed at the sides and the chin lifted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, playful, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), very large thick penis
+
+## S10-40 Drizha (woman, 42) – S10 Thornmaw The Colossal Girth Outfitters
+_owner of the Colossal Girth Outfitters, shrewd and oversized_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Drizha, 42-year-old ogre woman who looks her age, a huge brutish humanoid with thick green-grey or grey-brown skin and small tusks rising from the lower jaw, a heavy brow, small eyes, massive arms and belly, scarred and tattooed with hunting marks, 8'9", towering, broad and curvy, an E cup bust, mottled green skin, a face with a broad, flat nose and a jutting jaw with tusks, black eyes, long coarse black hair in thick braids, clan scars across the chest, wearing a laced hide corset-top and a long hide skirt, standing with a hand on the hip and the shoulders back, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, knowing smirk, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Drizha, 42-year-old ogre woman who looks her age, a huge brutish humanoid with thick green-grey or grey-brown skin and small tusks rising from the lower jaw, a heavy brow, small eyes, massive arms and belly, scarred and tattooed with hunting marks, 8'9", towering, broad and curvy, an E cup bust, mottled green skin, a face with a broad, flat nose and a jutting jaw with tusks, black eyes, long coarse black hair in thick braids, clan scars across the chest, fully nude, no clothing, standing with one hand resting on the hip, the head tilted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, sly, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+## S10-41 Wirt (man, 25) – S10 Thornmaw The Colossal Girth Outfitters
+_human assistant of the Colossal Girth Outfitters, wide-eyed_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Wirt, 25-year-old human man, 5'9", compact and tough, sun-browned skin, a shy, soft face, grey eyes, a shaved head, a scar on the shoulder, wearing a plain shirt and an apron, standing with the arms crossed over the chest, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, shy smile, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Wirt, 25-year-old human man, 5'9", compact and tough, sun-browned skin, a shy, soft face, grey eyes, a shaved head, a scar on the shoulder, fully nude, no clothing, standing with the arms folded across the chest and the weight on one leg, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, shy, eyes lowered, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
+## S10-42 Ugurga (woman, 32) – S10 Thornmaw The Canopy Fringe
+_scout of the Canopy Fringe_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Ugurga, 32-year-old ogre woman, a huge brutish humanoid with thick green-grey or grey-brown skin and small tusks rising from the lower jaw, a heavy brow, small eyes, massive arms and belly, scarred and tattooed with hunting marks, 8'7", towering, broad and curvy, a D cup bust, thick green-grey skin, a face with a broad, flat nose and a jutting jaw with tusks, pale green eyes, shaggy grey-brown hair, tusk-carved bracelets, wearing a hide wrap, standing with the hands clasped in front and the head tilted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, grim smirk, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Ugurga, 32-year-old ogre woman, a huge brutish humanoid with thick green-grey or grey-brown skin and small tusks rising from the lower jaw, a heavy brow, small eyes, massive arms and belly, scarred and tattooed with hunting marks, 8'7", towering, broad and curvy, a D cup bust, thick green-grey skin, a face with a broad, flat nose and a jutting jaw with tusks, pale green eyes, shaggy grey-brown hair, tusk-carved bracelets, fully nude, no clothing, standing with the hands clasped behind the back and the chest lifted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, blunt, plain, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+## S10-43 Vraz (man, 45) – S10 Thornmaw The Tendril Burrowtown
+_vine camp warden_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Vraz, 45-year-old ogre man who looks his age, a huge brutish humanoid with thick green-grey or grey-brown skin and small tusks rising from the lower jaw, a heavy brow, small eyes, massive arms and belly, scarred and tattooed with hunting marks, 8'6", huge and heavily muscled, grey-brown hide-like skin, a scarred, tusked face, yellow eyes, a coarse black mane, bone piercings in the ears, wearing a vine-wrapped hide kilt, a bare chest, standing relaxed with one hand behind the head, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, patient half-smile, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Vraz, 45-year-old ogre man who looks his age, a huge brutish humanoid with thick green-grey or grey-brown skin and small tusks rising from the lower jaw, a heavy brow, small eyes, massive arms and belly, scarred and tattooed with hunting marks, 8'6", huge and heavily muscled, grey-brown hide-like skin, a scarred, tusked face, yellow eyes, a coarse black mane, bone piercings in the ears, fully nude, no clothing, standing relaxed with one hand behind the head, the other arm loose, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, calm, steady, plain pale lavender-tinted cream background (#EEE6F7), very large thick penis
+
+## S10-44 Vrutha (woman, 59) – S10 Thornmaw The Fungus Lair
+_moss hut hermit_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Vrutha, 59-year-old ogre woman who looks her age, a huge brutish humanoid with thick green-grey or grey-brown skin and small tusks rising from the lower jaw, a heavy brow, small eyes, massive arms and belly, scarred and tattooed with hunting marks, an older woman, 8'10", huge, strong and full-figured, a G cup bust, mossy brown-grey skin, a heavy-browed face with two upward tusks, deep wrinkles, mossy warts on the cheek and a sagging jaw, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, unflattering rough-hewn features, black eyes, long coarse black hair in thick braids, a notched ear, wearing a mossy hide robe, standing with the hands lightly clasped in front and the shoulders back, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, tired smile, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Vrutha, 59-year-old ogre woman who looks her age, a huge brutish humanoid with thick green-grey or grey-brown skin and small tusks rising from the lower jaw, a heavy brow, small eyes, massive arms and belly, scarred and tattooed with hunting marks, an older woman, 8'10", huge, strong and full-figured, a G cup bust, mossy brown-grey skin, a heavy-browed face with two upward tusks, deep wrinkles, mossy warts on the cheek and a sagging jaw, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, unflattering rough-hewn features, black eyes, long coarse black hair in thick braids, a notched ear, fully nude, no clothing, standing with the arms behind the back, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, resigned, plain, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+## S10-45 Zephyr (man, 41) – S10 Thornmaw The Marauders Respite
+_raider's host at the Marauders Respite, human, scarred and sly_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Zephyr, 41-year-old human man who looks his age, 6'3", lean and wiry, skin that is tanned, weathered, a quick, watchful face, a greasy sly face, rotten teeth and a wart by the nose, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, unflattering rough-hewn features, hazel eyes, a tangled beard and long hair, insect bites, wearing a battered coat and a bandana, standing with one hand on the hip, the other arm loose, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, narrowed, watchful look, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Zephyr, 41-year-old human man who looks his age, 6'3", lean and wiry, skin that is tanned, weathered, a quick, watchful face, a greasy sly face, rotten teeth and a wart by the nose, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, unflattering rough-hewn features, hazel eyes, a tangled beard and long hair, insect bites, fully nude, no clothing, standing with a hand on the hip and the head tilted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, knowing, amused, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
+## S10-46 Ghorog (man, 63) – S10 Thornmaw The Offering Mound
+_keeper of the Offering Mound, old and sleepy_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Ghorog, 63-year-old ogre man who looks his age, a huge brutish humanoid with thick green-grey or grey-brown skin and small tusks rising from the lower jaw, a heavy brow, small eyes, massive arms and belly, scarred and tattooed with hunting marks, an older man, 8'7", huge and heavily muscled, mottled green skin, a wide face with small tusks and bright eyes, yellow eyes, a bone-beaded braid, bone piercings in the ears, wearing a ragged fur cloak, standing with the arms folded over the chest, the shoulders back, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, resigned look, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Ghorog, 63-year-old ogre man who looks his age, a huge brutish humanoid with thick green-grey or grey-brown skin and small tusks rising from the lower jaw, a heavy brow, small eyes, massive arms and belly, scarred and tattooed with hunting marks, an older man, 8'7", huge and heavily muscled, mottled green skin, a wide face with small tusks and bright eyes, yellow eyes, a bone-beaded braid, bone piercings in the ears, fully nude, no clothing, standing with the arms crossed over the chest, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, tired, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), very large thick penis
+
+## S10-W1 Tadgh (man, 34) – S10 Thornmaw The Creeper Trails and The Bough Swing (pop-up)
+_human wanderer on the creeper trails_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Tadgh, 34-year-old human man, 5'9", lean and wiry, pale and sunburnt skin, a warm, open face, hazel eyes, cropped dark hair, insect bites, wearing a sweat-stained shirt, a bag over the shoulder, standing with the arms crossed over the chest, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, warm smile, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Tadgh, 34-year-old human man, 5'9", lean and wiry, pale and sunburnt skin, a warm, open face, hazel eyes, cropped dark hair, insect bites, fully nude, no clothing, standing with the arms folded across the chest and the weight on one leg, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, amused, easy, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
+## S10-W2 Grurna (woman, 30) – S10 Thornmaw The Creeper Trails and The Bough Swing (pop-up)
+_ogress hunter on the liana span_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Grurna, 30-year-old ogre woman, a huge brutish humanoid with thick green-grey or grey-brown skin and small tusks rising from the lower jaw, a heavy brow, small eyes, massive arms and belly, scarred and tattooed with hunting marks, 8'7", massive, powerful and voluptuous, a G cup bust, mottled green skin, a face with a broad, flat nose and a jutting jaw with tusks, yellow eyes, shaggy grey-brown hair, a notched ear, wearing a hide wrap, bone charms, standing with one hand lifted to the collarbone and the other arm loose, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, blunt scowl, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Grurna, 30-year-old ogre woman, a huge brutish humanoid with thick green-grey or grey-brown skin and small tusks rising from the lower jaw, a heavy brow, small eyes, massive arms and belly, scarred and tattooed with hunting marks, 8'7", massive, powerful and voluptuous, a G cup bust, mottled green skin, a face with a broad, flat nose and a jutting jaw with tusks, yellow eyes, shaggy grey-brown hair, a notched ear, fully nude, no clothing, standing with the fingertips resting at the collarbone, the head tilted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, gruff, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+## S10-W3 Grakok (man, 37) – S10 Thornmaw The Sinew Cord Nethers and The Briar Cleft and The Gullet Chimney (pop-up)
+_ogre hunter slipping behind the drying racks_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Grakok, 37-year-old ogre man, a huge brutish humanoid with thick green-grey or grey-brown skin and small tusks rising from the lower jaw, a heavy brow, small eyes, massive arms and belly, scarred and tattooed with hunting marks, 8'5", massive and thick-limbed, thick green-grey skin, a wide face with small tusks and bright eyes, pale green eyes, a coarse black mane, a notched ear, wearing a hide kilt, bare chest, standing with the weight on one leg, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, cheeky grin, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Grakok, 37-year-old ogre man, a huge brutish humanoid with thick green-grey or grey-brown skin and small tusks rising from the lower jaw, a heavy brow, small eyes, massive arms and belly, scarred and tattooed with hunting marks, 8'5", massive and thick-limbed, thick green-grey skin, a wide face with small tusks and bright eyes, pale green eyes, a coarse black mane, a notched ear, fully nude, no clothing, standing easy with the weight on one leg, the head tilted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, playful, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), very large thick penis
+
+## S10-W4 Dilnoza (woman, 24) – S10 Thornmaw The Sinew Cord Nethers and The Briar Cleft and The Gullet Chimney (pop-up)
+_human girl meeting someone in the briar cleft_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Dilnoza, 24-year-old human woman, 5'7", sturdy, an F cup bust, skin that is tanned, weathered, a bold, striking face, green eyes, blonde hair, matted, wearing a red silk slip with stockings, standing with one hand sweeping the hair over one shoulder, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, bright, daring smile, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Dilnoza, 24-year-old human woman, 5'7", sturdy, an F cup bust, skin that is tanned, weathered, a bold, striking face, green eyes, blonde hair, matted, fully nude, no clothing, standing with the hair over one shoulder, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, confident, amused, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+## S10-W5 Zugorg (man, 43) – S10 Thornmaw The Spurting Vents (pop-up)
+_ogre man soaking in the geyser basins_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Zugorg, 43-year-old ogre man who looks his age, a huge brutish humanoid with thick green-grey or grey-brown skin and small tusks rising from the lower jaw, a heavy brow, small eyes, massive arms and belly, scarred and tattooed with hunting marks, 9'0", massive and thick-limbed, mottled green skin, a face with a broad, flat nose and a jutting jaw with tusks, pale green eyes, a shaved scalp with a topknot, tusk-carved bracelets, wearing a hide loincloth, standing relaxed with one hand behind the head, the other arm loose, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, sly smile, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Zugorg, 43-year-old ogre man who looks his age, a huge brutish humanoid with thick green-grey or grey-brown skin and small tusks rising from the lower jaw, a heavy brow, small eyes, massive arms and belly, scarred and tattooed with hunting marks, 9'0", massive and thick-limbed, mottled green skin, a face with a broad, flat nose and a jutting jaw with tusks, pale green eyes, a shaved scalp with a topknot, tusk-carved bracelets, fully nude, no clothing, standing with both hands behind the head, relaxed, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, sly, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), very large thick penis
+
+**swim**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Zugorg, 43-year-old ogre man who looks his age, a huge brutish humanoid with thick green-grey or grey-brown skin and small tusks rising from the lower jaw, a heavy brow, small eyes, massive arms and belly, scarred and tattooed with hunting marks, 9'0", massive and thick-limbed, mottled green skin, a face with a broad, flat nose and a jutting jaw with tusks, pale green eyes, a shaved scalp with a topknot, tusk-carved bracelets, wearing linen drawers, standing relaxed with one hand behind the head, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, sly smile, plain pale aqua-tinted cream background (#DDF3F1)
+
+## S10-W6 Morgima (woman, 36) – S10 Thornmaw The Spurting Vents (pop-up)
+_ogress soaking in the geyser basins_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Morgima, 36-year-old ogre woman, a huge brutish humanoid with thick green-grey or grey-brown skin and small tusks rising from the lower jaw, a heavy brow, small eyes, massive arms and belly, scarred and tattooed with hunting marks, 8'8", huge, strong and full-figured, a G cup bust, thick green-grey skin, a wide face with small tusks and bright eyes, amber eyes, matted brown hair with bone beads, bone piercings in the ears, wearing a hide wrap, standing with the weight on one hip and the arms loose, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, kind, easy smile, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Morgima, 36-year-old ogre woman, a huge brutish humanoid with thick green-grey or grey-brown skin and small tusks rising from the lower jaw, a heavy brow, small eyes, massive arms and belly, scarred and tattooed with hunting marks, 8'8", huge, strong and full-figured, a G cup bust, thick green-grey skin, a wide face with small tusks and bright eyes, amber eyes, matted brown hair with bone beads, bone piercings in the ears, fully nude, no clothing, standing with the weight on one leg, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, warm, unembarrassed, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+**swim**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Morgima, 36-year-old ogre woman, a huge brutish humanoid with thick green-grey or grey-brown skin and small tusks rising from the lower jaw, a heavy brow, small eyes, massive arms and belly, scarred and tattooed with hunting marks, 8'8", huge, strong and full-figured, a G cup bust, thick green-grey skin, a wide face with small tusks and bright eyes, amber eyes, matted brown hair with bone beads, bone piercings in the ears, wearing a lace chemise and stockings, standing with a relaxed hip tilt, the arms loose at the sides, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, kind, easy smile, plain pale aqua-tinted cream background (#DDF3F1)
+
+## S10-W7 Sefa (man, 26) – S10 Thornmaw The Rushy Dunk and The Torrent Dunkhole (pop-up)
+_human diver at the reedy plunge_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Sefa, 26-year-old human man, 5'10", tall and lean, sun-browned skin, a cheeky, freckled face, brown eyes, cropped dark hair, wearing shorts, bare chest, standing with one hand on the hip, the other arm loose, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, cheeky grin, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Sefa, 26-year-old human man, 5'10", tall and lean, sun-browned skin, a cheeky, freckled face, brown eyes, cropped dark hair, fully nude, no clothing, standing with a hand on the hip and the head tilted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, giggling, flushed, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+
+**swim**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Sefa, 26-year-old human man, 5'10", tall and lean, sun-browned skin, a cheeky, freckled face, brown eyes, cropped dark hair, wearing plain linen drawers, standing relaxed with one hand behind the head, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, cheeky grin, plain pale aqua-tinted cream background (#DDF3F1)
+
+## S10-W8 Oona (woman, 23) – S10 Thornmaw The Rushy Dunk and The Torrent Dunkhole (pop-up)
+_human girl swimming at the cascade pool_
+
+**clothed**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Oona, 23-year-old human woman, 5'0", tall and slim, a D cup bust, skin that is olive, sweat-sheened, a bold, striking face, grey eyes, tangled brown hair, insect bites, wearing a linen shift clinging to her, standing with the hands clasped in front and the head tilted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, bright, daring smile, plain cream background (#FFF8E7)
+
+**nude**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Oona, 23-year-old human woman, 5'0", tall and slim, a D cup bust, skin that is olive, sweat-sheened, a bold, striking face, grey eyes, tangled brown hair, insect bites, fully nude, no clothing, standing with the arms behind the back and the head tilted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, confident, amused, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+
+**swim**
+
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Oona, 23-year-old human woman, 5'0", tall and slim, a D cup bust, skin that is olive, sweat-sheened, a bold, striking face, grey eyes, tangled brown hair, insect bites, wearing a thin linen shift and stockings, standing with the weight on one hip and the arms loose, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, bright, daring smile, plain pale aqua-tinted cream background (#DDF3F1)

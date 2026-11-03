@@ -21,8 +21,8 @@ SPECIES = {
  "yeti": ("a huge furred humanoid with thick fur over the body and a bare pale face and hands, a heavy brow, a broad "
           "flat nose, small dark eyes and big hands and feet", "very large thick penis"),
  "ogre": ("a huge brutish humanoid with thick green-grey or grey-brown skin and small tusks rising from the lower "
-          "jaw, a heavy brow, small eyes, massive arms and belly, scarred and tattooed with hunting marks, wearing "
-          "hides", "very large thick penis"),
+          "jaw, a heavy brow, small eyes, massive arms and belly, scarred and tattooed with hunting marks"
+          "", "very large thick penis"),
  "amazon": ("a bigger-boned, strong and athletic human woman with broad shoulders, tanned skin, braided hair, scars "
             "and ritual tattoos", None),
 }

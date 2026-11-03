@@ -176,7 +176,7 @@ def core(r):
 SWIM_PLACE = re.compile(r"\bbath|\bspa\b|\bpools\b|\bbeach\b|\bcove\b|\bshore\b(?! leave)|\bshingle\b|\bstrand\b|\bspring|\bseep\b|"
                         r"\bbasins?\b|\bplunge\b|\bsauna|sweat hall|thaw house|scrub house|\bwash|\blido\b|tide cave|"
                         r"sunbath|pontoon|\bmere\b|cleansing|changing hut|massage|masseu|kneading|swimm|lifeguard|"
-                        r"surfer|steam kettle|hammam|rinse|scrubbing|rain butts|slack water|grotto|humid cavern|\bdips?\b|ablution|thermal|vapour tank|cistern|cauldron|sudatorium|strigil|soak|lagoon|jetty|wallow|oasis dip|brimstone fount|\bpond\b|\btubs?\b|mudflat|"
+                        r"surfer|steam kettle|hammam|rinse|scrubbing|rain butts|clinker steams|quenching lake|cenote|immersion trough|slack water|grotto|humid cavern|\bdips?\b|ablution|thermal|vapour tank|cistern|cauldron|sudatorium|strigil|soak|lagoon|jetty|wallow|oasis dip|brimstone fount|\bpond\b|\btubs?\b|mudflat|"
                         r"moorage|moorings|canal pier|seaward", re.I)
 
 
@@ -195,7 +195,7 @@ ADULT_VENUE = re.compile(r"crimson crypt|\bdomino\b|discreet suite|oubliette|\bu
                          r"sixpenny cots|poppy den|jasmine house|saffron house|cypress majlis|ember divan|unlicensed entrance|"
                          r"obligation dormitory|hidden arbour|mirrored hall|hourly cabins|pillars below|ninth bolt|companions' agency|"
                          r"hushed apartments|frosted cubicles|starlit cottages|lamplit sampan|oleander bower|doffing vestry|\bquadrille\b|"
-                         r"\bfelze\b|grille confessionals|dare peristyle|mermaids cradle|hammock tiers|moidore divans", re.I)
+                         r"\bfelze\b|grille confessionals|dare peristyle|mermaids cradle|hammock tiers|moidore divans|kindling closets|mating copse|honeyed amber ottoman|subjugation vault|soft voices recess", re.I)
 NOT_ADULT = {"E03-33", "E08-8", "E12-6", "E12-27", "E05-26", "S05-12", "S05-W3", "S06-25", "S05-16"}  # Dagmar: hostess of a social circle, not an adult worker
 
 
