@@ -53,6 +53,7 @@ def anat(r):
     base = parse_people(r["people"])[0]
     return SPECIES.get(base, ("", None))[1] or ANAT["M"]
 
+PROMPT_AGE = {}  # user asked for this one to be written as 18
 # wording fixes so no youthful words reach a prompt, and no weapon words
 SUB = [("blood-stained", "dark-stained"), ("petite", "small-framed"), ("boyish", "cheeky"), ("wide-eyed, trusting smile", "trusting smile"), ("wide-eyed, shy", "shy"),
        ("a wide-eyed trusting smile", "a bright trusting smile"), ("a thin cleaver scar", "a thin scar"),
@@ -132,7 +133,7 @@ def core(r):
     sex = r["sex"]
     woman = sex == "F"
     age = int(r["age"])
-    pa = max(age, 22)  # prompt age: the three youngest are written as 22
+    pa = PROMPT_AGE.get(r["id"], max(age, 22))  # prompt age: the three youngest are written as 22
     people, desc, extra = parse_people(r["people"])
     sw = "woman" if woman else "man"
     her = "her" if woman else "his"
@@ -289,7 +290,7 @@ for p in people:
         cores.append(s.split(", wearing ")[0].split(", fully nude")[0])
     assert len(set(cores)) == 1, p["id"]
     ages = re.findall(r"(\d+)-year-old", p["prompts"]["clothed"])
-    assert int(ages[0]) >= 22, p["id"]
+    assert int(ages[0]) >= 22 or p["id"] in PROMPT_AGE, p["id"]
 json.dump(people, open(OUT_JSON, "w"), indent=1)
 n = sum(len(p["prompts"]) for p in people)
 print(len(people), "people,", n, "prompts; words max", max(len(t.split()) for p in people for t in p["prompts"].values()))
