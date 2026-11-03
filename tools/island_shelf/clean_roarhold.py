@@ -1,0 +1,15 @@
+CLEAN = {
+"E10-2": dict(clothed_outfit="a red tunic with gold trim"),
+"E10-18": dict(clothed_outfit="a striped tunic"),
+"E10-22": dict(clothed_outfit="a short linen tunic with a leather belt"),
+"E10-23": dict(clothed_outfit="a short belted tunic, oiled arms"),
+"E10-24": dict(clothed_outfit="a short tunic, oiled shoulders"),
+"E10-26": dict(hair="a shaved head with a short grey beard"),
+"E10-30": dict(hair="a shaved head with a short beard"),
+"E10-4": dict(hair="greying dark curls"),
+"E10-6": dict(hair="greying black curls"),
+"E10-W5": dict(clothed_outfit="a plain tunic"),
+"E10-W6": dict(clothed_outfit="a linen tunic, hair up"),
+"E10-W7": dict(clothed_outfit="a plain tunic"),
+"E10-W8": dict(clothed_outfit="a plain linen shift"),
+}

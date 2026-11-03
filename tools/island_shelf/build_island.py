@@ -176,18 +176,23 @@ def core(r):
 SWIM_PLACE = re.compile(r"\bbath|\bspa\b|\bpools\b|\bbeach\b|\bcove\b|\bshore\b(?! leave)|\bshingle\b|\bstrand\b|\bspring|\bseep\b|"
                         r"\bbasins?\b|\bplunge\b|\bsauna|sweat hall|thaw house|scrub house|\bwash|\blido\b|tide cave|"
                         r"sunbath|pontoon|\bmere\b|cleansing|changing hut|massage|masseu|kneading|swimm|lifeguard|"
-                        r"surfer|steam kettle", re.I)
+                        r"surfer|steam kettle|thermal|vapour tank|cistern|cauldron|sudatorium|strigil|soak|lagoon|jetty|"
+                        r"moorage|moorings|canal pier|seaward", re.I)
 
 
 # Adult-venue workers and people who sell themselves (brothel, parlour, tent, salon and lodging-house staff, companions,
 # hustlers, alley and street folk, homeless) also get one: lingerie, drawers or ragged underwear is their normal state.
 ADULT_ROLE = re.compile(r"madam|madame|hostess|\bworker\b|companion|works the arch|works there|hustler|"
                         r"offers (himself|herself|company)|\bselling\b|sells (his|her) nights|chosen (man|woman)|"
-                        r"rent in kind|woman of the (back )?lane|available|host of the tent|rarer appetites|girl (from|who)|house's one man", re.I)
+                        r"rent in kind|woman of the (back )?lane|available|host of the tent|rarer appetites|girl (from|who)|house's one man|\bescort\b|sells (his|her) (nights|evenings)|sells hustles|woman of the (arena )?fringe", re.I)
 ADULT_PLACE = re.compile(r"lattice|late lanterns|shared rite|whisper salon|decanter|silk cellar|ruby parlour|red shutter|"
                          r"warm tent|windward bunk|brass latch|rented hour|chosen house|lodging house|floating party|pink pennant|mizzen lounge", re.I)
 ADULT_STAFF = re.compile(r"attendant|keeper|cellarman|\bhost\b|hostess|madam|\bgirl\b|house's one man", re.I)
 ALLEY_PLACE = re.compile(r"back alley", re.I)
+# venues where everyone listed is an adult worker
+ADULT_VENUE = re.compile(r"crimson crypt|\bdomino\b|discreet suite|oubliette|\bunmasked\b|murmur booths|twilight revel|\bsmoulder\b|"
+                         r"peephole|rouge vestibule|private stakes|redemption rail|laurel chambers", re.I)
+NOT_ADULT = {"E03-33", "E08-8"}  # Dagmar: hostess of a social circle, not an adult worker
 
 
 RAGGED = re.compile(r"selling|desperate|homeless|alley|street|sells (his|her) nights|lane|hustler|thief|drunk|pickpocket", re.I)
@@ -209,7 +214,9 @@ def adult_default(r):
 
 def is_adult_worker(r):
     """Adult-venue workers, people who sell themselves, alley and street folk."""
-    if ADULT_ROLE.search(r["role"]) or ALLEY_PLACE.search(r["where"]):
+    if r["id"] in NOT_ADULT:
+        return False
+    if ADULT_ROLE.search(r["role"]) or ALLEY_PLACE.search(r["where"]) or ADULT_VENUE.search(r["where"]):
         return True
     return bool(ADULT_PLACE.search(r["where"]) and ADULT_STAFF.search(r["role"]))
 
@@ -245,7 +252,8 @@ for r in rows:
     if is_adult_worker(r):
         # STANDING RULE: adult workers are never seen in normal clothes. Their one non-nude prompt is their normal attire
         # (lingerie, drawers, a slutty dress, ragged torn underwear), whatever the roster's clothed/third columns say.
-        clothed_out = fix(tidy_third(r["third_image_swim_or_underwear"])) if r["third_image_swim_or_underwear"] \
+        t3 = r["third_image_swim_or_underwear"]
+        clothed_out = fix(tidy_third(t3)) if t3 and not re.search(r"swimsuit|towel|wrap-cloth|trunks|bikini", t3, re.I) \
             else adult_default(r)
     cl_expr = fix(r["clothed_expression"])
     nu_expr = fix(r["nude_expression"])
