@@ -84,7 +84,7 @@ One Piece anime art style, adventure manga anime style, bold clean ink outlines,
 
 **nude**
 
-One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Ethelburga, 40-year-old human woman who looks her age, 5'9", compact and curvy, a C cup bust, dark brown skin, a hard, handsome face, blue eyes, chestnut waves, freckles, fully nude, no clothing, standing with the weight on one leg and the head tilted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, composed, cold, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Ethelburga, 40-year-old human woman who looks her age, 5'9", compact and curvy, a C cup bust, dark brown skin, a hard, handsome face, blue eyes, chestnut waves, freckles, fully nude, no clothing, standing with the weight on one leg and the head tilted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, composed, aloof, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
 
 ## EV-11 Cyneswith (woman, 24) – EV Random People Doting fans
 _the Scrapbook Fan, cries with joy_
@@ -256,7 +256,7 @@ One Piece anime art style, adventure manga anime style, bold clean ink outlines,
 
 **nude**
 
-One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Ankhesenamun, 30-year-old human woman, 5'1", slim and curvy, a D cup bust, dark brown skin, a hard, handsome face, dark brown eyes, red hair tied back, fully nude, no clothing, standing with the arms behind the back, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, composed, cold, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Ankhesenamun, 30-year-old human woman, 5'1", slim and curvy, a D cup bust, dark brown skin, a hard, handsome face, dark brown eyes, red hair tied back, fully nude, no clothing, standing with the arms behind the back, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, composed, aloof, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
 
 ## EV-23 Jochen (man, 52) – EV Random People Obsessives and oddities
 _the Autograph Collector, wants everything signed_

@@ -20,7 +20,7 @@ One Piece anime art style, adventure manga anime style, bold clean ink outlines,
 
 **nude**
 
-One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Melisende, 46-year-old human woman who looks her age, 5'5", soft and curvy, a D cup bust, fair and cool-toned skin, a hard, handsome face, hazel eyes, chestnut curls piled high, fully nude, no clothing, standing with the hand on the hip and the chin lifted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, composed, cold, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Melisende, 46-year-old human woman who looks her age, 5'5", soft and curvy, a D cup bust, fair and cool-toned skin, a hard, handsome face, hazel eyes, chestnut curls piled high, fully nude, no clothing, standing with the hand on the hip and the chin lifted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, composed, aloof, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
 
 ## W05-3 Jervis (man, 63) – W05 Oldgate The Liveried Fraternities
 _guild master of the mercers, old money_
@@ -53,7 +53,7 @@ One Piece anime art style, adventure manga anime style, bold clean ink outlines,
 
 **nude**
 
-One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Gundred, 57-year-old human woman who looks her age, an older woman, 5'9", tall and slim, a D cup bust, skin that is fair, almost translucent, a hard, handsome face, a severe sagging jaw, a hairy wart and thin colourless lips, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, unflattering rough-hewn features, dark brown eyes, hair streaked with grey, fully nude, no clothing, standing with one hand at the collarbone, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, composed, cold, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Gundred, 57-year-old human woman who looks her age, an older woman, 5'9", tall and slim, a D cup bust, skin that is fair, almost translucent, a hard, handsome face, a severe sagging jaw, a hairy wart and thin colourless lips, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, unflattering rough-hewn features, dark brown eyes, hair streaked with grey, fully nude, no clothing, standing with one hand at the collarbone, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, composed, aloof, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
 
 ## W05-6 Guy (man, 41) – W05 Oldgate The Assize Adjudicatory
 _advocate, silver-tongued_
@@ -97,7 +97,7 @@ One Piece anime art style, adventure manga anime style, bold clean ink outlines,
 
 **nude**
 
-One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Orabel, 58-year-old human woman who looks her age, an older woman, 5'9", tall, slim and graceful, a C cup bust, pale and fine-boned skin, a fine, composed face with a high brow, blue eyes, silver-gold hair in an elegant coiffure, a pearl choker, fully nude, no clothing, standing with the hand on the hip and the chin lifted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, composed, cold, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Orabel, 58-year-old human woman who looks her age, an older woman, 5'9", tall, slim and graceful, a C cup bust, pale and fine-boned skin, a fine, composed face with a high brow, blue eyes, silver-gold hair in an elegant coiffure, a pearl choker, fully nude, no clothing, standing with the hand on the hip and the chin lifted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, composed, aloof, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
 
 ## W05-10 Peverel (man, 55) – W05 Oldgate The Seneschal Manorial Pile
 _house steward of the noble row, correct_
@@ -207,7 +207,7 @@ One Piece anime art style, adventure manga anime style, bold clean ink outlines,
 
 **nude**
 
-One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Yves, 60-year-old human man who looks his age, an older man, 5'11", heavy and slow, pale and fine-boned skin, a hard, handsome face, dark brown eyes, thin silver hair, a signet ring, fully nude, no clothing, standing square with the hands on the hips, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, composed, cold, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Yves, 60-year-old human man who looks his age, an older man, 5'11", heavy and slow, pale and fine-boned skin, a hard, handsome face, dark brown eyes, thin silver hair, a signet ring, fully nude, no clothing, standing square with the hands on the hips, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, composed, aloof, plain pale lavender-tinted cream background (#EEE6F7), average size penis
 
 ## W05-20 Christiana (woman, 26) – W05 Oldgate The Hallowed Minster
 _chantress_

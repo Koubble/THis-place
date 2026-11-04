@@ -42,7 +42,7 @@ One Piece anime art style, adventure manga anime style, bold clean ink outlines,
 
 **nude**
 
-One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Leopold, 52-year-old human man who looks his age, 6'1", spare and upright, pale skin, a cold, courtly face, pale blue eyes, silver hair combed back and a neat silver moustache, fully nude, no clothing, standing very straight with the hands behind the back and the chin high, composed, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, cold, composed, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Leopold, 52-year-old human man who looks his age, 6'1", spare and upright, pale skin, a cold, courtly face, pale blue eyes, silver hair combed back and a neat silver moustache, fully nude, no clothing, standing very straight with the hands behind the back and the chin high, composed, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, aloof, composed, plain pale lavender-tinted cream background (#EEE6F7), average size penis
 
 ## N6-5 Marta (woman, 49) – N6 Coldwatch Iron Barracks
 _barracks matron and cook_

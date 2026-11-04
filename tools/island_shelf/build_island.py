@@ -277,7 +277,7 @@ for r in rows:
         clothed_out = fix(tidy_third(t3)) if t3 and not re.search(r"swimsuit|towel|wrap-cloth|trunks|bikini", t3, re.I) \
             else adult_default(r)
     cl_expr = fix(r["clothed_expression"])
-    nu_expr = fix(r["nude_expression"])
+    nu_expr = re.sub(r"\bcold\b", "aloof", fix(r["nude_expression"]))  # "cold" can pull winter clothing into a nude image
     ghost = parse_people(r["people"])[0] == "ghost folk"
     pr = {}
     ev_nude_only = pid.startswith("EV-") and r["prompts_needed"].strip()[:1] in ("0", "1")

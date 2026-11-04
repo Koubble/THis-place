@@ -119,7 +119,7 @@ One Piece anime art style, adventure manga anime style, bold clean ink outlines,
 
 **nude**
 
-One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Ilka, 44-year-old human woman who looks her age, 5'8", slim and curvy, an E cup bust, pale skin, a hard, handsome face, black eyes, long dark hair, wild, a tattoo of dice on the wrist, fully nude, no clothing, standing with the hands behind the back, leaning slightly forward, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, composed, cold, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Ilka, 44-year-old human woman who looks her age, 5'8", slim and curvy, an E cup bust, pale skin, a hard, handsome face, black eyes, long dark hair, wild, a tattoo of dice on the wrist, fully nude, no clothing, standing with the hands behind the back, leaning slightly forward, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, composed, aloof, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
 
 ## E09-12 Tumbler (man, 60) – E09 Dicehold The Pawn Window
 _pawnbroker, fair to a point_
@@ -306,7 +306,7 @@ One Piece anime art style, adventure manga anime style, bold clean ink outlines,
 
 **nude**
 
-One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Cili, 36-year-old human woman, 5'4", soft and curvy, a D cup bust, golden-tan skin, a stern, lined face, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, green eyes, dark hair in a scarf, fully nude, no clothing, standing with the hands clasped behind the back and the chest lifted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, composed, cold, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Cili, 36-year-old human woman, 5'4", soft and curvy, a D cup bust, golden-tan skin, a stern, lined face, plain ordinary unglamorous looks, bare face with no makeup, natural skin with pores, blemishes and uneven tone, green eyes, dark hair in a scarf, fully nude, no clothing, standing with the hands clasped behind the back and the chest lifted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, composed, aloof, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
 
 ## E09-29 Rouleau (woman, 30) – E09 Dicehold The Redemption Rail
 _debtor working off a loan at the Table, desperate_

@@ -6,7 +6,7 @@ SPECIES = {
               "a thick ruff of fur at the neck and down the spine, fine fur on the forearms and shins, sharp canine "
               "teeth and amber eyes; the ears, tail and ruff match the hair colour", "knotted penis"),
  "cat-kin": ("a slim, nimble human-like person with cat ears on top of the head and no human ears, a long slender cat "
-             "tail, large slit-pupilled eyes, small fangs, and a patched calico, tabby or tortoiseshell coat on the "
+             "tail, large slit-pupilled eyes, small fangs, and patched calico, tabby or tortoiseshell fur colouring on the "
              "tail and ears and as fine fur patches on the arms and shoulders, the hair following the same patches",
              "barbed penis"),
  "human ghost": ("a human ghost, pale and faintly translucent, with a soft pale glow and hollow pale eyes, like a poltergeist", None),

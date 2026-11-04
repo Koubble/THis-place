@@ -42,7 +42,7 @@ One Piece anime art style, adventure manga anime style, bold clean ink outlines,
 
 **nude**
 
-One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Burhgyth, 58-year-old human woman who looks her age, an older woman, 5'4", spare and upright, an F cup bust, skin that is fair, sun-ruddy, a severe, composed face, green eyes, grey hair, a small scar on the chin, fully nude, no clothing, standing with the head tilted and the hair falling over one shoulder, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, composed, cold, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Burhgyth, 58-year-old human woman who looks her age, an older woman, 5'4", spare and upright, an F cup bust, skin that is fair, sun-ruddy, a severe, composed face, green eyes, grey hair, a small scar on the chin, fully nude, no clothing, standing with the head tilted and the hair falling over one shoulder, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, composed, aloof, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
 
 ## W01-5 Folcwin (man, 34) – W01 Harrowfield The Reeves Folkhall
 _council clerk, ink-stained_

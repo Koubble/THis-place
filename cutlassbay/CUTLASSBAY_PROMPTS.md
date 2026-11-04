@@ -119,7 +119,7 @@ One Piece anime art style, adventure manga anime style, bold clean ink outlines,
 
 **nude**
 
-One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Sloe, 44-year-old human woman who looks her age, 5'0", compact and curvy, a D cup bust, bronzed skin, a hard, handsome face, grey eyes, blonde hair, sun-bleached and tangled, a scar through the eyebrow, fully nude, no clothing, standing with the weight on one leg and the head tilted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, composed, cold, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Sloe, 44-year-old human woman who looks her age, 5'0", compact and curvy, a D cup bust, bronzed skin, a hard, handsome face, grey eyes, blonde hair, sun-bleached and tangled, a scar through the eyebrow, fully nude, no clothing, standing with the weight on one leg and the head tilted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, composed, aloof, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
 
 ## S07-12 Tierney (woman, 31) – S07 Cutlass Bay The Weighted Cubes
 _gambler on a losing streak_
@@ -207,7 +207,7 @@ One Piece anime art style, adventure manga anime style, bold clean ink outlines,
 
 **nude**
 
-One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Dervla, 38-year-old human woman, 5'2", sturdy, an A cup bust, ruddy skin, a severe, composed face, blue eyes, long dark hair with beads, tattooed knuckles, fully nude, no clothing, standing with the hands clasped behind the back and the chest lifted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, composed, cold, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Dervla, 38-year-old human woman, 5'2", sturdy, an A cup bust, ruddy skin, a severe, composed face, blue eyes, long dark hair with beads, tattooed knuckles, fully nude, no clothing, standing with the hands clasped behind the back and the chest lifted, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, composed, aloof, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
 
 ## S07-20 Pelayo (man, 58) – S07 Cutlass Bay The Booty Broker
 _pawnbroker of the Booty Broker, weighs everything_
@@ -251,7 +251,7 @@ One Piece anime art style, adventure manga anime style, bold clean ink outlines,
 
 **nude**
 
-One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Remedios, 37-year-old human woman, 5'8", soft and curvy, a D cup bust, ruddy skin, a severe, composed face, hazel eyes, dark curls, tied back, a faded tattoo, fully nude, no clothing, standing with one hand at the collarbone, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, composed, cold, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Remedios, 37-year-old human woman, 5'8", soft and curvy, a D cup bust, ruddy skin, a severe, composed face, hazel eyes, dark curls, tied back, a faded tattoo, fully nude, no clothing, standing with one hand at the collarbone, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, composed, aloof, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
 
 ## S07-24 Kieran (man, 45) – S07 Cutlass Bay The Wreckers Lot
 _salvager of the Wreckers Lot, hauls up wrecks_

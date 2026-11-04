@@ -372,7 +372,7 @@ One Piece anime art style, adventure manga anime style, bold clean ink outlines,
 
 **nude**
 
-One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Mortimer, 48-year-old human man who looks his age, 5'11", thin and tidy, pale skin, a polite, cold face, pale eyes, combed silver hair, fully nude, no clothing, standing very straight with the hands clasped behind the back, cold, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, cold, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Mortimer, 48-year-old human man who looks his age, 5'11", thin and tidy, pale skin, a polite, cold face, pale eyes, combed silver hair, fully nude, no clothing, standing very straight with the hands clasped behind the back, cold, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, aloof, plain pale lavender-tinted cream background (#EEE6F7), average size penis
 
 ## N3-35 Prudence (woman, 41) – N3 Dunmarrow The Pale Ledger
 _lender and collector_

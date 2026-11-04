@@ -9,7 +9,7 @@ One Piece anime art style, adventure manga anime style, bold clean ink outlines,
 
 **nude**
 
-One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Shapur, 55-year-old human man who looks his age, an older man, 6'0", tall and lean, golden-brown skin, a severe, composed face, green-brown eyes, dark brown hair, curled, fully nude, no clothing, standing with the weight on one leg and the arms loose, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, composed, cold, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Shapur, 55-year-old human man who looks his age, an older man, 6'0", tall and lean, golden-brown skin, a severe, composed face, green-brown eyes, dark brown hair, curled, fully nude, no clothing, standing with the weight on one leg and the arms loose, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, composed, aloof, plain pale lavender-tinted cream background (#EEE6F7), average size penis
 
 ## E07-2 Giti (woman, 38) – E07 Rosewater The Licensing Bureau
 _registrar of contracts, stamps everything_

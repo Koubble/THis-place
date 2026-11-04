@@ -185,7 +185,7 @@ One Piece anime art style, adventure manga anime style, bold clean ink outlines,
 
 **nude**
 
-One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Rhun, 59-year-old human man who looks his age, an older man, 5'11", heavy and slow, fair skin with weathered cheeks, a hard, handsome face, green eyes, iron-grey hair, a small scar on the brow, fully nude, no clothing, standing with the arms folded over the chest, the shoulders back, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, composed, cold, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Rhun, 59-year-old human man who looks his age, an older man, 5'11", heavy and slow, fair skin with weathered cheeks, a hard, handsome face, green eyes, iron-grey hair, a small scar on the brow, fully nude, no clothing, standing with the arms folded over the chest, the shoulders back, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, composed, aloof, plain pale lavender-tinted cream background (#EEE6F7), average size penis
 
 ## W06-18 Illtyd (man, 40) – W06 Cairnmoor The Peat Hags Workings
 _peat cutter, strong and silent_

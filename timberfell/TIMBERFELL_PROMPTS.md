@@ -240,7 +240,7 @@ One Piece anime art style, adventure manga anime style, bold clean ink outlines,
 
 **nude**
 
-One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Valdemar, 60-year-old human man who looks his age, an older man, 5'10", lean and weathered, weathered fair skin, a hard, handsome face, brown eyes, grey hair, a missing fingertip, fully nude, no clothing, standing with one hand on the hip, the other arm loose, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, composed, cold, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Valdemar, 60-year-old human man who looks his age, an older man, 5'10", lean and weathered, weathered fair skin, a hard, handsome face, brown eyes, grey hair, a missing fingertip, fully nude, no clothing, standing with one hand on the hip, the other arm loose, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, composed, aloof, plain pale lavender-tinted cream background (#EEE6F7), average size penis
 
 ## W09-23 Viveka (woman, 47) – W09 Timberfell The Parantajan Mokki
 _camp healer, calm_
@@ -273,7 +273,7 @@ One Piece anime art style, adventure manga anime style, bold clean ink outlines,
 
 **nude**
 
-One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Sakari, 63-year-old human man who looks his age, an older man, 6'4", spare and upright, fair and ruddy skin, a severe, composed face, grey eyes, iron-grey hair, a trimmed beard, calloused hands, fully nude, no clothing, standing with the weight on one leg, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, composed, cold, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Sakari, 63-year-old human man who looks his age, an older man, 6'4", spare and upright, fair and ruddy skin, a severe, composed face, grey eyes, iron-grey hair, a trimmed beard, calloused hands, fully nude, no clothing, standing with the weight on one leg, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, composed, aloof, plain pale lavender-tinted cream background (#EEE6F7), average size penis
 
 ## W09-26 Sini (woman, 40) – W09 Timberfell The Luku Tupa
 _tally clerk, dry_

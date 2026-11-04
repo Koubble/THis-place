@@ -218,7 +218,7 @@ One Piece anime art style, adventure manga anime style, bold clean ink outlines,
 
 **nude**
 
-One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Rodrigo, 55-year-old human man who looks his age, an older man, 5'11", heavy and imposing, warm olive-brown skin, a courteous, menacing face, dark brown eyes, swept-back grey hair and a trimmed grey beard, a gold earring, fully nude, no clothing, standing at ease with the hands behind the back, cold and composed, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, cold, composed, plain pale lavender-tinted cream background (#EEE6F7), average size penis
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one man, Rodrigo, 55-year-old human man who looks his age, an older man, 5'11", heavy and imposing, warm olive-brown skin, a courteous, menacing face, dark brown eyes, swept-back grey hair and a trimmed grey beard, a gold earring, fully nude, no clothing, standing at ease with the hands behind the back, cold and composed, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, aloof, composed, plain pale lavender-tinted cream background (#EEE6F7), average size penis
 
 ## N12-21 Astrid (woman, 38) – N12 Gloamfjord The Cormorant House
 _lieutenant, cold_
@@ -229,7 +229,7 @@ One Piece anime art style, adventure manga anime style, bold clean ink outlines,
 
 **nude**
 
-One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Astrid, 38-year-old human woman, 5'9", tall and lean, a B cup bust, pale skin, a cold, still face, pale grey eyes, white-blonde hair pulled back hard, fully nude, no clothing, standing straight with the hands clasped behind the back and the chin level, cold, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, cold, composed, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
+One Piece anime art style, adventure manga anime style, bold clean ink outlines, vivid flat colours with cel shading, expressive exaggerated features, stylised adult proportions, mature adult character, dynamic composition, one woman, Astrid, 38-year-old human woman, 5'9", tall and lean, a B cup bust, pale skin, a cold, still face, pale grey eyes, white-blonde hair pulled back hard, fully nude, no clothing, standing straight with the hands clasped behind the back and the chin level, cold, three-quarter length shot framed from the head down to the knees, knees included, hips and thighs fully in view, soft even light, aloof, composed, plain pale lavender-tinted cream background (#EEE6F7), nipples and vagina visible
 
 ## N12-22 Torvald (man, 34) – N12 Gloamfjord The Cormorant House
 _enforcer_
